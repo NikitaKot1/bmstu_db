@@ -1,0 +1,1001 @@
+id,marks,volume,country,master
+0,"1516 Krombacher,",86.6,Brunei Darussalam,94
+1,"Unser Diebels,",55.7,Oman,45
+2,"Franziskaner Salvator,Schlenkerla Rauchbier Zoigl,Kloster Roggen,,",59.3,Timor-Leste,144
+3,"Weihenstephaner Paulaner Weizen-Eisbock,,",39.9,"Bonaire, Sint Eustatius and Saba",182
+4,"Alt-Bayerisch Urbock,Erdinger Maibock,Hacker Zoiglbauer,Franziskaner Dampfbierbrauerei Ottos,,",68.6,Benin,167
+5,"Brewing Rauchbier,Buttenheimer Brauerei Bräu,Huberts Warsteiner,Jahrhundert Ottos,,",73.6,Austria,11
+6,"Hacker-Pschorr Erdinger Dortmunder,",86.0,Norway,81
+7,"Alt-Bayerisch Brothers Erdinger,Zoigl Reissdorf,",62.5,Sweden,152
+8,"Erdinger Mönchshof,Mönchshof Brothers Aventinus,",92.9,Costa Rica,78
+9,"Schlenkerla Rauchbier Scurry,",50.0,Guinea-Bissau,77
+10,"Göller,",7.3,Heard Island and McDonald Islands,199
+11,"Schneider Reissdorf,Brewing Dampfbier,Köstritzer,Pschorr Oktoberfest Zoiglbauer,,",57.8,Tokelau,183
+12,"Huberts Salvator,Buttenheimer Doppelbock Krombacher,Hacker Zoiglbauer,,",73.0,Denmark,82
+13,"Brothers Dunkel,Mönchshof Frankenheim,",8.6,Singapore,159
+14,"Alt-Bayerisch Urbock,",55.3,Mongolia,189
+15,"Alt-Bayerisch Frankenheim,Hacker-Pschorr Pschorr Oktoberfest Salvator,Hofbräu Pschorr,",54.4,Solomon Islands,110
+16,"Hermannator Ice Brauerei Altenauer,Märzen,Pschorr Oktoberfest Altenauer,,",61.1,Côte d'Ivoire,25
+17,"Brewing Rauchbier,Buttenheimer Brauerei Bräu,Huberts Warsteiner,Jahrhundert Ottos,",90.5,Canada,11
+18,"Alt-Bayerisch Pschorr Oktoberfest Pikantus,,",78.7,Switzerland,116
+19,"Brauerei Märzen,Schneider Brothers Steam,House Krombacher,Schlenkerla Rauchbier Bier,",38.1,Burkina Faso,148
+20,"Alt-Bayerisch Bock,Schneider Doppelbock Spezial,",39.1,Algeria,71
+21,"Mitterteich Köllner,Hacker-Pschorr Aventinus Steam,Alt-Bayerisch Mitterteich Steam,,",29.8,Montenegro,103
+22,"Unser Diebels,Weihenstephaner Aventinus Maibock,Hacker-Pschorr Hefe-Weisse Dortmunder,",45.6,Chile,45
+23,"Ayinger Ritterguts,",70.2,Latvia,27
+24,"Ayinger Mitterteich Frankenheim,",49.1,Germany,69
+25,"Zoigl Hofbräu Frankenheim,Märzen,",44.8,"Tanzania, United Republic of",191
+26,"Zoigl Hofbräu Maisel,,",92.4,Myanmar,64
+27,"Ayinger Goslarer,",50.8,Senegal,129
+28,"Gaffel,Spaten Ur-Weisse,",81.9,Costa Rica,135
+29,"Hofbräu Scurry,Schlenkerla Rauchbier Bier,Aventinus Flensburger,",64.9,Congo,93
+30,"Franziskaner Frankenheim,Weihenstephaner Gänstaller Scurry,",76.1,Lesotho,72
+31,"Weihenstephaner Erdinger Flensburger,Mönchshof Oktoberfest,Bier,Weihenstephaner Pschorr Oktoberfest Ottos,,",87.5,North Macedonia,58
+32,"Weihenstephaner Erdinger Franziskaner,,",90.2,Cabo Verde,32
+33,"Andechser Hofbräu Schumacher,,",89.6,Réunion,125
+34,"Weihenstephaner Erdinger Flensburger,Mönchshof Oktoberfest,Bier,Weihenstephaner Pschorr Oktoberfest Ottos,",90.5,Cameroon,58
+35,"Franziskaner Salvator,Schlenkerla Rauchbier Zoigl,",13.3,Dominican Republic,144
+36,"Buttenheimer Maibock,",50.0,Afghanistan,126
+37,"Alt-Bayerisch Erdinger Pikantus,Schneider Spezial,",54.1,Togo,192
+38,"Mönchshof Paulaner Schumacher,Mönchshof Aventinus,Weihenstephaner Ayinger Franziskaner,Ayinger Bitburger,",72.2,Sudan,95
+39,"Franziskaner Unser Bräu,,",30.6,Niue,179
+40,"Ayinger Hefe-Weisse Franziskaner,Schneider Ayinger Weizen-Eisbock,Kloster Ayinger Ritterguts,",97.2,Mayotte,92
+41,"House Bitburger,House Drop,",91.4,"Bolivia, Plurinational State of",50
+42,"Weihenstephaner Gaffel,House Schlenkerla Rauchbier Krombacher,Ayinger Brothers Mönchshof,Hermannator Ice Altenauer,",66.4,Turkmenistan,155
+43,"Pschorr Oktoberfest Oktoberfest,",27.3,Kenya,120
+44,"Erdinger Korbinian,,",93.2,Jordan,20
+45,"Brothers Köllner,",1.4,France,96
+46,"Zoigl Hofbräu Frankenheim,Märzen,",68.2,Canada,191
+47,"Zoigl Hofbräu Maisel,,",57.0,Namibia,64
+48,"Ayinger Dortmunder,Weihenstephaner Warsteiner,",30.1,Papua New Guinea,113
+49,"House Huberts Bier,Spaten Pschorr Oktoberfest Oettingen,Hacker Erdinger,",27.0,Netherlands,194
+50,"Hacker Hefe-Weisse Köllner,,",4.6,Kuwait,86
+51,"Buttenheimer Urbock,Gänstaller Gaffel,,",93.6,Honduras,186
+52,"Mönchshof Göller,Franziskaner Optimator,Weihenstephaner Huberts Bräu,,",74.6,Grenada,115
+53,"Zoigl Hofbräu Frankenheim,",72.1,Faroe Islands,191
+54,"Mönchshof Brauerei Göller,Hermannator Ice Schumacher,,",19.0,Niue,91
+55,"House Bitburger,House Drop,,",60.0,Saint Lucia,50
+56,"Alt-Bayerisch Brothers Erdinger,Zoigl Reissdorf,",59.7,Bhutan,152
+57,"Ayinger Ritterguts,Ayinger Erdinger,",91.1,Anguilla,27
+58,"1516 Krombacher,",35.8,New Caledonia,94
+59,"Kloster Doppelbock Kellerbier,Ayinger Paulaner Kellerbier,Andechser Mitterteich Scurry,House Brauerei Schumacher,,",54.8,Tuvalu,0
+60,"Hefe-Weisse Kellerbier,Weihenstephaner Erdinger Flensburger,Huberts Steam,",33.3,Sao Tome and Principe,114
+61,"Franziskaner Erdinger Bräu,",17.2,El Salvador,138
+62,"Alt-Bayerisch Reissdorf,,",63.8,Israel,131
+63,"Pschorr Oktoberfest Oktoberfest,,",97.1,Malta,120
+64,"Doppelbock Salvator,Hefe-Weisse Dunkel,,",20.5,Libya,1
+65,"Weihenstephaner Erdinger Franziskaner,,",41.3,Kazakhstan,32
+66,"Hacker-Pschorr Pschorr Oktoberfest Salvator,Brauerei Krombacher,,",32.2,Malawi,39
+67,"Zoigl Brothers Früh,",43.0,Brazil,127
+68,"Hacker-Pschorr Pikantus,",67.4,United Arab Emirates,133
+69,"Schneider Roggen,Brauerei Pschorr,Alt-Bayerisch Brauerei Ottos,",70.5,Viet Nam,105
+70,"Doppelbock Salvator,",8.6,China,1
+71,"Brothers Dunkel,1516 Diebels,Schneider Dunkel,",28.7,Greenland,130
+72,"Brothers Augustinerbräu,,",29.1,Somalia,154
+73,"Buttenheimer Maibock,",11.3,Malaysia,126
+74,"Alt-Bayerisch Pfarrbräu,",43.8,Belgium,34
+75,"Schneider Hofbräu Maisel,,",68.3,Falkland Islands (Malvinas),47
+76,"Hacker-Pschorr Doppelbock Roggen,,",93.3,Angola,185
+77,"Alt-Bayerisch Paulaner Köstritzer,,",48.9,New Zealand,174
+78,"1516 Radeberger,Weihenstephaner Paulaner Köstritzer,,",87.5,Israel,63
+79,"Schlenkerla Rauchbier Scurry,,",4.8,Namibia,77
+80,"Gänstaller Spezial,Pschorr,Buttenheimer Brewing Frankenheim,,",39.4,Saint Pierre and Miquelon,56
+81,"Mönchshof Aventinus Ottos,Schneider Roggen,Weihenstephaner Spezial,,",6.9,"Korea, Republic of",176
+82,"Huberts Kellerbier,Weihenstephaner Becks,House Huberts Bier,,",85.8,Hong Kong,156
+83,"Spaten Zoigl,Franziskaner Hefe-Weisse Dunkel,",71.6,"Moldova, Republic of",66
+84,"Hofbräu Dunkel,,",21.5,Macao,9
+85,"House Dortmunder,Spaten Ritterguts,",88.4,Denmark,75
+86,"Korbinian,Hacker Jahrhundert Ayilinger,Spezial,Schneider 1516 Dunkel,",52.1,France,10
+87,"Ayinger Jahrhundert Urbock,Andechser Franziskaner,,",81.7,Albania,67
+88,"Alt-Bayerisch Paulaner Köstritzer,",23.7,"Congo, The Democratic Republic of the",170
+89,"Franziskaner Unser Rauchbier,Ayinger Zoiglbauer,",42.5,Sweden,121
+90,"Spaten,Aventinus Optimator,Dampfbierbrauerei Becks,,",75.2,Ireland,108
+91,"Ayinger Pschorr Oktoberfest Flensburger,",87.7,Greece,150
+92,"Mönchshof Pikantus,",44.8,Papua New Guinea,175
+93,"Unser Erdinger,Alt-Bayerisch Bock,",2.9,Canada,181
+94,"Brewing Rauchbier,",38.0,Aruba,11
+95,"Andechser Flensburger,",15.3,Lao People's Democratic Republic,177
+96,"Brauerei Diebels,Alt-Bayerisch Mitterteich Steam,",85.4,Chad,196
+97,"Alt-Bayerisch Brothers Zoiglbauer,",30.8,Lebanon,145
+98,"Mönchshof,",53.6,Hungary,153
+99,"Aventinus,Hermannator Ice Brothers Ottos,Alt-Bayerisch Brauerei Märzen,,",79.7,Hungary,168
+100,"Hacker-Pschorr Doppelbock Roggen,",2.9,Ireland,185
+101,"Paulaner Diebels,Franziskaner Frankenheim,Schneider Mitterteich Ottos,",41.6,Namibia,22
+102,"Zoigl Dampfbierbrauerei Drop,Kloster Doppelbock Roggen,,",19.5,Hungary,151
+103,"Ayinger Goslarer,Zoigl Becks,House Göller,,",45.3,Viet Nam,129
+104,"Weihenstephaner Pikantus,",28.1,Tunisia,100
+105,"Mönchshof,,",75.5,Benin,153
+106,"Weihenstephaner Pschorr Oktoberfest Rauchbier,",72.7,Bahrain,68
+107,"Hacker Schumacher,Schneider Ayinger Franziskaner,Schneider Ritterguts,Hacker Dunkel,",75.4,Equatorial Guinea,83
+108,"Hofbräu Dunkel,",9.6,Belize,9
+109,"Franziskaner 1516 Spaten,Zoigl Spaten,Gänstaller Erdinger,Ayinger Dortmunder,,",33.7,Bosnia and Herzegovina,29
+110,"1516 Ottos,Spaten Dampfbierbrauerei Franziskaner,Alt-Bayerisch Brothers Köstritzer,",24.4,Rwanda,184
+111,"Buttenheimer Ottos,",78.1,Indonesia,198
+112,"Hofbräu Dunkel,",50.6,Peru,9
+113,"Franziskaner Ottos,Schlenkerla Rauchbier Schumacher,Andechser Ayilinger,,",96.9,Jamaica,51
+114,"Pschorr Oktoberfest Ottos,,",57.8,Libya,30
+115,"Gänstaller Spezial,Weihenstephaner Huberts Bock,",65.3,Viet Nam,23
+116,"Weihenstephaner Brothers Ritterguts,",67.4,Pakistan,146
+117,"Pschorr Oktoberfest Oktoberfest,",87.0,Denmark,120
+118,"Weihenstephaner Becks,Scurry,Gänstaller Gaffel,",45.0,Cayman Islands,2
+119,"Schlenkerla Rauchbier Pschorr,,",7.4,Palau,24
+120,"Franziskaner Unser Bräu,,",22.8,British Indian Ocean Territory,179
+121,"1516 Radeberger,Weihenstephaner Paulaner Köstritzer,,",79.9,Curaçao,63
+122,"Hacker Hacker Ottos,Schlenkerla Rauchbier Pschorr,,",53.3,Egypt,15
+123,"Paulaner Diebels,Franziskaner Frankenheim,Schneider Mitterteich Ottos,,",46.4,Lithuania,22
+124,"Hacker Schumacher,Schneider Ayinger Franziskaner,Schneider Ritterguts,Hacker Dunkel,,",31.4,Mozambique,83
+125,"Alt-Bayerisch Bock,,",80.8,Afghanistan,18
+126,"Korbinian,",29.2,Monaco,10
+127,"Alt-Bayerisch Pfarrbräu,",67.4,Jamaica,34
+128,"Weihenstephaner Schumacher,Paulaner Diebels,,",93.3,Cyprus,19
+129,"Ayinger Hefe-Weisse Franziskaner,",1.1,Cuba,92
+130,"Hacker-Pschorr Hacker Bitburger,Korbinian,",23.5,Burundi,4
+131,"House Bier,",79.2,Morocco,157
+132,"Ayinger Pschorr Oktoberfest Flensburger,Hacker-Pschorr Hefe-Weisse Dortmunder,Ayinger Bitburger,Hofbräu Göller,,",29.0,"Saint Helena, Ascension and Tristan da Cunha",89
+133,"Mönchshof Weizen-Eisbock,Weihenstephaner Brauerei Schumacher,Andechser Ayinger Spaten,Mönchshof Unser Ritterguts,",61.1,Bangladesh,84
+134,"Andechser 1516 Köstritzer,Jahrhundert Altenauer,Kloster Doppelbock Kellerbier,House Brauerei Schumacher,,",88.7,Dominica,132
+135,"Jahrhundert Ayilinger,Göller,,",71.6,Poland,140
+136,"Göller,Alt-Bayerisch Dampfbierbrauerei Köllner,",12.9,Cayman Islands,199
+137,"Weihenstephaner Pikantus,",43.8,Barbados,100
+138,"Alt-Bayerisch Paulaner Köstritzer,",67.3,Greenland,174
+139,"Franziskaner Ottos,Schlenkerla Rauchbier Schumacher,Andechser Ayilinger,,",45.7,Eswatini,51
+140,"Alt-Bayerisch Hacker Maibock,,",38.0,Guinea-Bissau,48
+141,"Andechser Ur-Weisse,,",77.9,Germany,14
+142,"Hacker-Pschorr Zoiglbauer,,",17.5,Cambodia,16
+143,"Weihenstephaner Brauerei Maibock,Hofbräu Bräu,",33.2,Bhutan,5
+144,"Franziskaner Unser Bräu,",71.9,Nigeria,179
+145,"Hermannator Ice Brauerei Altenauer,Märzen,Pschorr Oktoberfest Altenauer,",49.3,Mauritius,25
+146,"Andechser Ottos,Hacker-Pschorr Gänstaller Oktoberfest,Unser Pfarrbräu,Hacker-Pschorr Hacker Altenauer,",72.9,Saint Pierre and Miquelon,74
+147,"Brothers Augustinerbräu,",40.6,Sao Tome and Principe,154
+148,"Hacker-Pschorr Hacker Bitburger,",90.1,Somalia,4
+149,"Alt-Bayerisch Erdinger Pikantus,",12.8,India,192
+150,"Buttenheimer Ayinger Krombacher,,",37.0,Albania,87
+151,"Doppelbock Flensburger,Mönchshof Mühlen,,",44.3,Azerbaijan,172
+152,"Brothers Dunkel,1516 Diebels,Schneider Dunkel,Zoigl Bitburger,,",22.6,United States,130
+153,"Hacker Pschorr Oktoberfest Zoiglbauer,Aventinus Urbock,Erdinger Schumacher,Kloster Bräu,",70.6,Saint Kitts and Nevis,42
+154,"Brothers Augustinerbräu,",33.2,Falkland Islands (Malvinas),154
+155,"Ayinger Pschorr Oktoberfest Flensburger,Huberts Salvator,Hacker Märzen,,",24.5,Iraq,150
+156,"Schlenkerla Rauchbier Scurry,,",42.6,Tunisia,77
+157,"Ayinger Goslarer,Zoigl Becks,House Göller,",46.3,Cyprus,129
+158,"Franziskaner Unser Rauchbier,Ayinger Zoiglbauer,",50.2,Jamaica,121
+159,"Ayinger Pschorr Oktoberfest Flensburger,Huberts Salvator,Hacker Märzen,,",85.8,Mexico,150
+160,"Andechser Hacker Mönchshof,,",37.2,Sri Lanka,12
+161,"Alt-Bayerisch Maisel,",39.8,Mozambique,112
+162,"Zoigl Ur-Weisse,",65.5,Finland,187
+163,"Zoigl Dampfbierbrauerei Drop,",31.6,Denmark,151
+164,"Gänstaller Ottos,",96.5,Montenegro,119
+165,"Hacker-Pschorr Gaffel,Alt-Bayerisch Hefe-Weisse Kellerbier,Weihenstephaner Gänstaller Pschorr,Hermannator Ice Gaffel,,",14.5,Viet Nam,102
+166,"Erdinger Bräu,Hermannator Ice Dortmunder,,",72.4,San Marino,149
+167,"Erdinger Korbinian,",6.1,Bahamas,20
+168,"Alt-Bayerisch Urbock,Erdinger Maibock,Hacker Zoiglbauer,Franziskaner Dampfbierbrauerei Ottos,,",88.9,Myanmar,167
+169,"Gaffel,Spaten Ur-Weisse,",55.2,Belgium,135
+170,"Franziskaner Ottos,Schlenkerla Rauchbier Schumacher,Andechser Ayilinger,",48.4,Dominica,51
+171,"Hacker Hacker Ottos,Schlenkerla Rauchbier Pschorr,",97.7,Guinea-Bissau,15
+172,"Franziskaner Unser Rauchbier,Ayinger Zoiglbauer,Köstritzer,,",25.3,"Iran, Islamic Republic of",121
+173,"Franziskaner Unser Bräu,",52.5,Belgium,179
+174,"Mönchshof Aventinus Ottos,Schneider Roggen,Weihenstephaner Spezial,",56.9,Sao Tome and Principe,176
+175,"Ur-Weisse,Brothers Scurry,",25.5,San Marino,178
+176,"Maisel,Weihenstephaner Dampfbierbrauerei Dunkel,Erdinger Ritterguts,",67.0,Grenada,188
+177,"Brothers Ritterguts,",73.4,Liberia,99
+178,"Erdinger Schumacher,",44.5,United States Minor Outlying Islands,190
+179,"Ayinger 1516 Köstritzer,,",87.1,"Tanzania, United Republic of",38
+180,"Ur-Weisse,Brothers Scurry,Spaten Hefe-Weisse Frankenheim,",64.5,India,178
+181,"Hermannator Ice Aventinus Ritterguts,",52.8,Northern Mariana Islands,21
+182,"Huberts Kellerbier,Weihenstephaner Becks,House Huberts Bier,,",18.5,Czechia,156
+183,"Gänstaller Spezial,Pschorr,Buttenheimer Brewing Frankenheim,,",82.5,Belize,56
+184,"Hofbräu Scurry,",64.5,Cook Islands,93
+185,"Schneider Reissdorf,",78.9,Antarctica,183
+186,"Weihenstephaner Pikantus,Pschorr Oktoberfest Pikantus,,",4.5,Luxembourg,100
+187,"Hacker Schumacher,Schneider Ayinger Franziskaner,Schneider Ritterguts,Hacker Dunkel,,",54.0,Mongolia,83
+188,"Korbinian,Hacker Jahrhundert Ayilinger,Spezial,Schneider 1516 Dunkel,,",41.6,Finland,10
+189,"Brothers Dortmunder,,",40.1,Guyana,128
+190,"Paulaner Diebels,",28.6,Anguilla,22
+191,"Mönchshof Weizen-Eisbock,Weihenstephaner Brauerei Schumacher,Andechser Ayinger Spaten,Mönchshof Unser Ritterguts,",47.5,Dominica,84
+192,"Jahrhundert Ayilinger,Göller,",28.5,Hong Kong,140
+193,"Andechser Hacker Mönchshof,",89.8,Denmark,12
+194,"Alt-Bayerisch Bock,",47.2,El Salvador,18
+195,"Alt-Bayerisch Gänstaller Urbock,Hefe-Weisse Franziskaner,Franziskaner Frankenheim,",79.5,Kazakhstan,137
+196,"Mitterteich Köllner,",37.1,Côte d'Ivoire,103
+197,"Alt-Bayerisch Paulaner Köstritzer,",79.3,Argentina,174
+198,"Brewing Rauchbier,Buttenheimer Brauerei Bräu,Huberts Warsteiner,Jahrhundert Ottos,,",82.0,Papua New Guinea,11
+199,"Alt-Bayerisch Pschorr,,",75.7,Portugal,139
+200,"Hacker-Pschorr Pikantus,",60.1,Holy See (Vatican City State),133
+201,"Erdinger Bräu,",4.7,Timor-Leste,149
+202,"Spaten Schlenkerla Rauchbier Aventinus,Mitterteich Mühlen,Gänstaller Oktoberfest,Hacker Pschorr Oktoberfest Maibock,,",7.1,Lithuania,143
+203,"Unser Pfarrbräu,Ayinger Erdinger,Franziskaner Unser Rauchbier,",20.7,Haiti,53
+204,"Hofbräu Bock,Ayinger Zoiglbauer,Buttenheimer Hofbräu Reissdorf,",51.0,Guernsey,124
+205,"Weihenstephaner Brauerei Maibock,Hofbräu Bräu,",92.2,North Macedonia,5
+206,"Mönchshof Aventinus Ottos,",56.2,Senegal,176
+207,"Spaten Zoigl,",40.4,French Polynesia,66
+208,"Kloster Doppelbock Kellerbier,Ayinger Paulaner Kellerbier,Andechser Mitterteich Scurry,House Brauerei Schumacher,",61.5,Ukraine,0
+209,"Hacker Bräu,Brauerei Korbinian,Aventinus Urbock,",1.0,Holy See (Vatican City State),106
+210,"Zoiglbauer,,",22.2,"Moldova, Republic of",41
+211,"Andechser Flensburger,,",70.3,Saint Barthélemy,177
+212,"Weihenstephaner Hefe-Weisse Dark,Hacker Ayinger Warsteiner,Hacker Erdinger München,",63.9,Colombia,136
+213,"Schlenkerla Rauchbier Scurry,",60.5,Somalia,77
+214,"Aventinus,Hermannator Ice Brothers Ottos,Alt-Bayerisch Brauerei Märzen,",42.2,Austria,168
+215,"Kloster Doppelbock Kellerbier,Alt-Bayerisch Ur-Weisse,,",18.2,Canada,171
+216,"Brothers Dunkel,1516 Diebels,Schneider Dunkel,",28.1,"Tanzania, United Republic of",130
+217,"Schneider Maisel,",63.4,Marshall Islands,90
+218,"Weihenstephaner Erdinger Flensburger,Mönchshof Oktoberfest,Bier,Weihenstephaner Pschorr Oktoberfest Ottos,",5.3,Myanmar,58
+219,"Weihenstephaner Erdinger Flensburger,Mönchshof Oktoberfest,",75.6,Czechia,58
+220,"Gänstaller Spezial,Pschorr,Buttenheimer Brewing Frankenheim,,",94.1,Nicaragua,56
+221,"Franziskaner Unser Bräu,,",35.9,Qatar,179
+222,"Schlenkerla Rauchbier Scurry,",67.5,French Polynesia,77
+223,"Erdinger Korbinian,",86.8,Ghana,20
+224,"Brewing Rauchbier,Buttenheimer Brauerei Bräu,Huberts Warsteiner,Jahrhundert Ottos,",69.8,Dominica,11
+225,"Alt-Bayerisch Pfarrbräu,",66.0,United Kingdom,34
+226,"House Drop,Hefe-Weisse Optimator,Dampfbierbrauerei Aventinus,Kloster Brauerei Rauchbier,,",93.9,Ireland,8
+227,"Alt-Bayerisch Maisel,,",25.9,Guyana,112
+228,"Schneider Reissdorf,Ayinger Scurry,Alt-Bayerisch Schumacher,,",86.5,United Arab Emirates,101
+229,"Buttenheimer Ottos,Warsteiner,,",92.2,Argentina,198
+230,"Erdinger Bräu,Hermannator Ice Dortmunder,,",2.8,Ecuador,149
+231,"Doppelbock Salvator,",15.0,Nauru,1
+232,"Alt-Bayerisch Bock,Schneider Doppelbock Spezial,",40.9,Dominica,71
+233,"1516 Krombacher,Hacker-Pschorr Flensburger,Mönchshof Kellerbier,",8.2,Australia,94
+234,"Alt-Bayerisch Pfarrbräu,",46.2,Monaco,34
+235,"Erdinger Schumacher,,",78.1,Albania,190
+236,"Unser Diebels,Weihenstephaner Aventinus Maibock,Hacker-Pschorr Hefe-Weisse Dortmunder,Alt-Bayerisch Hefe-Weisse Franziskaner,,",1.3,North Macedonia,45
+237,"Andechser 1516 Köstritzer,Jahrhundert Altenauer,Kloster Doppelbock Kellerbier,House Brauerei Schumacher,",100.0,Luxembourg,132
+238,"Brothers Augustinerbräu,,",12.6,Myanmar,154
+239,"Ur-Weisse,Brauerei Pschorr,Alt-Bayerisch Dunkel,Dampfbierbrauerei Dampfbier,",52.8,Sudan,158
+240,"Ayinger Ritterguts,Ayinger Erdinger,Weihenstephaner Drop,Ayinger Zoigl,,",86.3,Sri Lanka,27
+241,"Alt-Bayerisch Schlenkerla Rauchbier Salvator,Hacker-Pschorr Hacker Altenauer,Schlenkerla Rauchbier Bier,",42.0,Germany,65
+242,"Korbinian,Hacker Jahrhundert Ayilinger,Spezial,Schneider 1516 Dunkel,,",33.6,Trinidad and Tobago,10
+243,"Weihenstephaner Brothers Drop,,",13.1,Namibia,46
+244,"Doppelbock Augustinerbräu,",57.5,Serbia,147
+245,"1516 Radeberger,Weihenstephaner Paulaner Köstritzer,",65.5,Pakistan,63
+246,"Alt-Bayerisch Paulaner Köstritzer,,",87.6,Wallis and Futuna,174
+247,"Buttenheimer Ottos,Warsteiner,,",94.6,Bahrain,198
+248,"Brothers Dunkel,",40.8,Colombia,159
+249,"Hacker-Pschorr Pschorr Oktoberfest Salvator,",6.0,Slovakia,39
+250,"Brothers Göller,Alt-Bayerisch Schlenkerla Rauchbier Salvator,Weihenstephaner Ayinger Weizen-Eisbock,Franziskaner Unser Bräu,",72.0,Somalia,54
+251,"Unser Pfarrbräu,",18.5,Sweden,53
+252,"Alt-Bayerisch Hacker Pfarrbräu,,",74.2,Jersey,85
+253,"Weihenstephaner Erdinger Flensburger,Mönchshof Oktoberfest,",45.5,Western Sahara,58
+254,"Franziskaner Erdinger Bräu,Ur-Weisse,",89.2,United Arab Emirates,138
+255,"Pschorr Oktoberfest Steam,Kloster Brauerei Aventinus,Spaten Oettingen,Weihenstephaner Roggen,,",43.2,Lithuania,195
+256,"Ur-Weisse,",41.1,Tunisia,158
+257,"Ayinger Dortmunder,Weihenstephaner Warsteiner,",34.6,Iraq,113
+258,"Hofbräu Bock,Ayinger Zoiglbauer,",69.5,Estonia,124
+259,"Buttenheimer Brothers Warsteiner,,",35.6,Djibouti,36
+260,"House Huberts Bier,",71.6,Germany,194
+261,"Weihenstephaner Brothers Drop,",1.5,Italy,46
+262,"Zoigl Ur-Weisse,,",69.1,Ukraine,187
+263,"Gänstaller Spezial,Pschorr,Buttenheimer Brewing Frankenheim,",7.9,Ukraine,56
+264,"Pschorr Oktoberfest Oktoberfest,",42.8,Anguilla,120
+265,"Brothers Ritterguts,,",75.7,Algeria,99
+266,"Alt-Bayerisch Paulaner Köstritzer,,",15.5,Mauritius,174
+267,"Hacker-Pschorr Ayilinger,Alt-Bayerisch Hacker Maibock,",40.6,Portugal,88
+268,"Alt-Bayerisch Brothers Erdinger,Zoigl Reissdorf,,",28.5,"Venezuela, Bolivarian Republic of",152
+269,"Alt-Bayerisch Maisel,",22.6,"Tanzania, United Republic of",112
+270,"Hacker Maibock,Schneider Brothers Steam,",16.1,Saint Martin (French part),118
+271,"Doppelbock Flensburger,Mönchshof Mühlen,,",77.7,Yemen,172
+272,"Andechser Flensburger,",30.7,Ghana,177
+273,"Kloster Doppelbock Kellerbier,Ayinger Paulaner Kellerbier,",59.3,Comoros,0
+274,"Unser Diebels,Weihenstephaner Aventinus Maibock,Hacker-Pschorr Hefe-Weisse Dortmunder,Alt-Bayerisch Hefe-Weisse Franziskaner,",78.6,Cocos (Keeling) Islands,45
+275,"Mönchshof Pikantus,Mönchshof Jahrhundert Dampfbier,",75.8,Burundi,175
+276,"Hacker Hacker Ottos,Schlenkerla Rauchbier Pschorr,,",56.0,"Micronesia, Federated States of",15
+277,"Gänstaller Ottos,Brewing Maibock,",41.0,Chile,119
+278,"Korbinian,Hacker Jahrhundert Ayilinger,Spezial,",5.3,Svalbard and Jan Mayen,10
+279,"Spaten,,",72.1,United Arab Emirates,73
+280,"1516 München,",41.3,United Kingdom,180
+281,"Ayinger Pschorr Oktoberfest Flensburger,Huberts Salvator,",26.0,Dominican Republic,150
+282,"Hacker-Pschorr Gaffel,Alt-Bayerisch Hefe-Weisse Kellerbier,Weihenstephaner Gänstaller Pschorr,Hermannator Ice Gaffel,,",62.5,Mexico,102
+283,"Alt-Bayerisch Früh,",41.9,Western Sahara,52
+284,"Ayinger Jahrhundert Urbock,Andechser Franziskaner,,",14.0,China,67
+285,"Weihenstephaner Erdinger Franziskaner,",34.0,Turkmenistan,32
+286,"Hermannator Ice Aventinus Ritterguts,Andechser Mitterteich Altenauer,",6.2,"Venezuela, Bolivarian Republic of",61
+287,"Schneider Maisel,Schumacher,",83.0,Peru,90
+288,"Spaten Schlenkerla Rauchbier Aventinus,Mitterteich Mühlen,Gänstaller Oktoberfest,Hacker Pschorr Oktoberfest Maibock,",38.2,Réunion,143
+289,"Hacker Bräu,Brauerei Korbinian,Aventinus Urbock,",90.2,Christmas Island,106
+290,"Hermannator Ice Aventinus Ritterguts,Andechser Mitterteich Altenauer,",51.9,Saint Martin (French part),61
+291,"Franziskaner Ottos,Schlenkerla Rauchbier Schumacher,Andechser Ayilinger,",5.9,Martinique,51
+292,"Hacker-Pschorr Pikantus,",86.0,Egypt,133
+293,"Kloster Doppelbock Kellerbier,Alt-Bayerisch Ur-Weisse,",87.7,Cocos (Keeling) Islands,171
+294,"Pschorr Oktoberfest Schumacher,",74.4,Poland,166
+295,"Weihenstephaner Gaffel,",58.5,Brunei Darussalam,155
+296,"Spaten,",34.6,Tajikistan,73
+297,"Korbinian,Hacker Jahrhundert Ayilinger,Spezial,Schneider 1516 Dunkel,,",50.8,Uzbekistan,10
+298,"Weihenstephaner Schumacher,Paulaner Diebels,",9.6,San Marino,19
+299,"Weihenstephaner Schumacher,Paulaner Diebels,",34.1,United States,19
+300,"Alt-Bayerisch Steam,Zoigl Flensburger,,",90.3,Trinidad and Tobago,165
+301,"Alt-Bayerisch Maisel,",80.2,Saudi Arabia,112
+302,"Schneider Aventinus Oktoberfest,Hacker Unser Spaten,",26.8,Madagascar,62
+303,"Schneider Maisel,Schumacher,Erdinger Dampfbier,Franziskaner Reissdorf,,",73.3,Tajikistan,90
+304,"Mitterteich Köllner,",22.4,Netherlands,28
+305,"Franziskaner Frankenheim,Weihenstephaner Gänstaller Scurry,,",27.3,Peru,72
+306,"Mönchshof Köstritzer,Brauerei Krombacher,Doppelbock Schumacher,",57.6,Peru,43
+307,"Hacker Bräu,Brauerei Korbinian,Aventinus Urbock,Doppelbock Pfarrbräu,,",51.4,Australia,106
+308,"Paulaner Diebels,",77.5,Norfolk Island,22
+309,"Alt-Bayerisch Bock,Schneider Doppelbock Spezial,",1.4,French Polynesia,71
+310,"Weihenstephaner Hefe-Weisse Dark,Hacker Ayinger Warsteiner,Hacker Erdinger München,",57.1,Botswana,136
+311,"Alt-Bayerisch Paulaner Köstritzer,",99.7,Gibraltar,174
+312,"Korbinian,Hacker Jahrhundert Ayilinger,",86.1,Uzbekistan,10
+313,"Andechser 1516 Köstritzer,Jahrhundert Altenauer,",22.0,Liberia,132
+314,"House Drop,Hefe-Weisse Optimator,Dampfbierbrauerei Aventinus,Kloster Brauerei Rauchbier,",48.3,Curaçao,8
+315,"Gänstaller Ottos,Brewing Maibock,,",67.0,Slovenia,119
+316,"Schneider Roggen,Brauerei Pschorr,Alt-Bayerisch Brauerei Ottos,",5.1,Liechtenstein,105
+317,"Schneider Zoigl,",81.1,Bahrain,6
+318,"Doppelbock Augustinerbräu,",59.9,French Guiana,147
+319,"Brothers Augustinerbräu,,",89.1,Curaçao,154
+320,"Aventinus,",96.2,Bouvet Island,168
+321,"Erdinger Bräu,",64.9,Namibia,149
+322,"1516 Ritterguts,Ayinger Brothers Mönchshof,Buttenheimer Dark,,",6.2,Jordan,97
+323,"Hacker Zoiglbauer,Franziskaner Jahrhundert Augustinerbräu,",58.3,Portugal,31
+324,"Gänstaller Ottos,Brewing Maibock,,",48.6,Bangladesh,119
+325,"Kloster Doppelbock Kellerbier,Alt-Bayerisch Ur-Weisse,,",51.4,Libya,171
+326,"Brothers Ritterguts,",69.7,Zimbabwe,99
+327,"Alt-Bayerisch Pschorr Oktoberfest Pikantus,,",39.1,Estonia,116
+328,"Hacker Maibock,Schneider Brothers Steam,",38.6,Belgium,118
+329,"Hacker Brewing Pschorr,Zoigl Zoiglbauer,Steam,,",50.9,Cabo Verde,173
+330,"Hacker Schumacher,Schneider Ayinger Franziskaner,Schneider Ritterguts,",25.1,Cambodia,83
+331,"Alt-Bayerisch Pfarrbräu,",77.5,Wallis and Futuna,34
+332,"Alt-Bayerisch Erdinger Pikantus,Schneider Spezial,Weihenstephaner Jahrhundert Steam,,",33.7,Christmas Island,192
+333,"Kloster Doppelbock Kellerbier,Alt-Bayerisch Ur-Weisse,",58.6,Russian Federation,171
+334,"Spaten,",71.7,Nepal,108
+335,"Unser Erdinger,Alt-Bayerisch Bock,Alt-Bayerisch Ur-Weisse,Schneider Pschorr Oktoberfest Pfarrbräu,",89.7,Cabo Verde,181
+336,"Alt-Bayerisch Steam,",47.1,Portugal,165
+337,"Aventinus Kellerbier,Weihenstephaner 1516 Spaten,",89.4,Israel,134
+338,"House Drop,",75.8,Luxembourg,8
+339,"Hacker Hacker Bräu,Franziskaner Gänstaller Bitburger,,",12.0,Nepal,13
+340,"Alt-Bayerisch Erdinger Pikantus,Schneider Spezial,Weihenstephaner Jahrhundert Steam,,",50.4,Switzerland,192
+341,"Weihenstephaner Gaffel,House Schlenkerla Rauchbier Krombacher,Ayinger Brothers Mönchshof,",2.7,Lesotho,155
+342,"Huberts Salvator,Buttenheimer Doppelbock Krombacher,Hacker Zoiglbauer,,",27.0,Georgia,82
+343,"House Drop,Hefe-Weisse Optimator,Dampfbierbrauerei Aventinus,",54.2,Ireland,8
+344,"1516 Ottos,Spaten Dampfbierbrauerei Franziskaner,Alt-Bayerisch Brothers Köstritzer,,",16.6,Poland,184
+345,"Hermannator Ice Aventinus Ritterguts,",80.0,Greenland,61
+346,"Hacker-Pschorr Gaffel,Kloster Doppelbock Kellerbier,Mitterteich Bier,Weihenstephaner Scurry,,",16.4,United Kingdom,164
+347,"Ur-Weisse,",69.8,United Arab Emirates,158
+348,"Doppelbock Salvator,Hefe-Weisse Dunkel,",54.5,San Marino,1
+349,"Andechser Flensburger,",44.9,Costa Rica,177
+350,"Weihenstephaner Zoigl,Weihenstephaner Brauerei Göller,",13.1,Kyrgyzstan,44
+351,"Alt-Bayerisch Gänstaller Urbock,",66.8,Turks and Caicos Islands,137
+352,"Alt-Bayerisch Steam,",64.6,Seychelles,165
+353,"Hacker-Pschorr Pikantus,Korbinian,",61.6,Eritrea,133
+354,"Buttenheimer Ayinger Krombacher,",71.3,Antigua and Barbuda,87
+355,"Schlenkerla Rauchbier Scurry,,",12.0,Syrian Arab Republic,77
+356,"Mitterteich Köllner,",88.5,France,103
+357,"1516 Ottos,",83.0,Portugal,184
+358,"Gaffel,Spaten Ur-Weisse,Kloster Brauerei Pfarrbräu,Buttenheimer Brauerei Radeberger,,",33.3,France,135
+359,"Brothers Dortmunder,,",33.2,Heard Island and McDonald Islands,128
+360,"Gänstaller Ottos,Hermannator Ice Brewing Ur-Weisse,Huberts Drop,Hacker Aventinus,,",24.2,India,117
+361,"Brothers Dunkel,Mönchshof Frankenheim,",54.5,"Iran, Islamic Republic of",159
+362,"Unser Erdinger,",28.3,Falkland Islands (Malvinas),181
+363,"Franziskaner Ottos,Schlenkerla Rauchbier Schumacher,",54.2,Burkina Faso,51
+364,"Weihenstephaner Paulaner Weizen-Eisbock,",19.8,Eritrea,182
+365,"Hacker Maibock,",99.5,Australia,118
+366,"Ayinger Pschorr Oktoberfest Flensburger,Hacker-Pschorr Hefe-Weisse Dortmunder,Ayinger Bitburger,Hofbräu Göller,,",10.1,Comoros,89
+367,"Franziskaner Frankenheim,Weihenstephaner Gänstaller Scurry,,",91.5,Fiji,72
+368,"Kloster Unser Bitburger,,",9.6,Namibia,26
+369,"Gänstaller Mühlen,Spaten Bier,",99.2,Uzbekistan,161
+370,"Pschorr,Hacker Warsteiner,Buttenheimer Bitburger,",42.3,Zimbabwe,193
+371,"Brothers Dunkel,1516 Diebels,Schneider Dunkel,Zoigl Bitburger,",95.1,Mauritania,130
+372,"Alt-Bayerisch Hacker Maibock,",93.6,Belgium,48
+373,"Schneider Aventinus Oktoberfest,Hacker Unser Spaten,,",29.3,North Macedonia,62
+374,"Mitterteich Köllner,",49.6,"Iran, Islamic Republic of",103
+375,"Schneider Reissdorf,Brewing Dampfbier,Köstritzer,Pschorr Oktoberfest Zoiglbauer,,",68.4,United States Minor Outlying Islands,183
+376,"Weihenstephaner Brothers Ritterguts,,",9.1,Benin,146
+377,"Buttenheimer Ayinger Krombacher,,",73.6,South Georgia and the South Sandwich Islands,87
+378,"Hofbräu Bock,",88.0,Holy See (Vatican City State),124
+379,"Alt-Bayerisch Reissdorf,",93.1,Angola,131
+380,"Pschorr Oktoberfest Schumacher,",52.6,Iraq,166
+381,"Schneider Maisel,Schumacher,Erdinger Dampfbier,Franziskaner Reissdorf,",15.0,Burundi,90
+382,"Hacker Bräu,",17.0,Afghanistan,106
+383,"Hofbräu Bock,Ayinger Zoiglbauer,",26.6,Heard Island and McDonald Islands,124
+384,"Pschorr Oktoberfest Oktoberfest,,",74.7,China,120
+385,"1516 Radeberger,Weihenstephaner Paulaner Köstritzer,,",29.7,"Tanzania, United Republic of",63
+386,"Alt-Bayerisch Pschorr Oktoberfest Pikantus,,",70.3,Barbados,116
+387,"Weihenstephaner Pschorr Oktoberfest Rauchbier,Brauerei Pfarrbräu,Alt-Bayerisch Hacker Pfarrbräu,Brothers Göller,",3.8,French Southern Territories,68
+388,"Ayinger Goslarer,Zoigl Becks,",86.4,Timor-Leste,129
+389,"Weihenstephaner Brothers Drop,",37.5,Jamaica,46
+390,"Hefe-Weisse Altenauer,Jahrhundert Oettingen,,",50.5,"Korea, Democratic People's Republic of",79
+391,"Kloster Doppelbock Kellerbier,Alt-Bayerisch Ur-Weisse,,",15.3,Liberia,171
+392,"Brauerei Diebels,",15.2,Libya,196
+393,"Hacker-Pschorr Gaffel,Alt-Bayerisch Hefe-Weisse Kellerbier,",39.5,Guyana,102
+394,"Alt-Bayerisch Paulaner Köstritzer,",89.4,Faroe Islands,170
+395,"Schneider Roggen,Brauerei Pschorr,Alt-Bayerisch Brauerei Ottos,Pschorr Oktoberfest Augustinerbräu,,",91.1,"Korea, Republic of",105
+396,"Hacker-Pschorr Gaffel,Alt-Bayerisch Hefe-Weisse Kellerbier,Weihenstephaner Gänstaller Pschorr,Hermannator Ice Gaffel,",14.6,Germany,102
+397,"Andechser Augustinerbräu,Hofbräu Ayilinger,Hefe-Weisse Korbinian,",71.3,Tokelau,3
+398,"Hacker-Pschorr Zoiglbauer,",37.5,"Korea, Democratic People's Republic of",16
+399,"Zoiglbauer,",67.0,Panama,41
+400,"Andechser 1516 Köstritzer,",88.4,Cyprus,132
+401,"Unser Pfarrbräu,Ayinger Erdinger,",68.8,Netherlands,53
+402,"Weihenstephaner Zoigl,Weihenstephaner Brauerei Göller,Huberts Ritterguts,Zoigl Hofbräu Paulaner,",90.2,Serbia,44
+403,"Spaten Zoigl,Franziskaner Hefe-Weisse Dunkel,Ayinger Erdinger Dark,Mitterteich Schumacher,,",88.5,Puerto Rico,66
+404,"Buttenheimer Brothers Warsteiner,,",89.8,"Micronesia, Federated States of",36
+405,"Alt-Bayerisch Urbock,Ayinger Bräu,",19.7,Saint Vincent and the Grenadines,189
+406,"Andechser Hofbräu Schumacher,,",52.8,Marshall Islands,125
+407,"Brothers Dunkel,Mönchshof Frankenheim,,",97.0,Kyrgyzstan,159
+408,"Andechser 1516 Köstritzer,Jahrhundert Altenauer,Kloster Doppelbock Kellerbier,House Brauerei Schumacher,,",40.1,Lithuania,132
+409,"Alt-Bayerisch Maisel,",94.9,Belgium,112
+410,"Alt-Bayerisch Gänstaller Urbock,Hefe-Weisse Franziskaner,Franziskaner Frankenheim,",75.4,Samoa,137
+411,"Schneider Maisel,Schumacher,",90.2,Marshall Islands,90
+412,"Hacker-Pschorr Ayilinger,Alt-Bayerisch Hacker Maibock,",78.4,Nicaragua,88
+413,"Franziskaner Frankenheim,Weihenstephaner Gänstaller Scurry,",13.4,Seychelles,72
+414,"Ayinger Pschorr Oktoberfest Flensburger,Hacker-Pschorr Hefe-Weisse Dortmunder,Ayinger Bitburger,Hofbräu Göller,",56.2,Madagascar,89
+415,"Schneider Zoigl,Jahrhundert Köllner,",63.4,American Samoa,6
+416,"Ayinger Goslarer,Zoigl Becks,House Göller,",90.6,Tuvalu,129
+417,"Doppelbock Augustinerbräu,Hermannator Ice Brauerei Altenauer,",95.7,Peru,147
+418,"Hermannator Ice Aventinus Ritterguts,Andechser Mitterteich Altenauer,",18.9,Bangladesh,61
+419,"House Drop,",10.2,French Southern Territories,8
+420,"Weihenstephaner 1516 Spaten,Aventinus Früh,,",99.1,Thailand,37
+421,"Weihenstephaner Schumacher,",83.0,Niue,19
+422,"Gänstaller Ottos,Hermannator Ice Brewing Ur-Weisse,Huberts Drop,",70.5,Bulgaria,117
+423,"Mönchshof Weizen-Eisbock,Weihenstephaner Brauerei Schumacher,Andechser Ayinger Spaten,Mönchshof Unser Ritterguts,",17.5,Eritrea,84
+424,"Gänstaller Spezial,Pschorr,Buttenheimer Brewing Frankenheim,",47.8,Croatia,56
+425,"Schneider Doppelbock Spezial,",1.6,Australia,76
+426,"Mönchshof Göller,Franziskaner Optimator,",8.9,Aruba,115
+427,"Pschorr Oktoberfest Schumacher,Brauerei Pfarrbräu,",46.3,Australia,166
+428,"Buttenheimer Urbock,Gänstaller Gaffel,",28.8,South Africa,186
+429,"Hacker-Pschorr Erdinger Dortmunder,,",74.6,Iraq,81
+430,"Gänstaller Ottos,Brewing Maibock,",64.8,Liechtenstein,119
+431,"Alt-Bayerisch Maisel,,",94.5,Burundi,112
+432,"Zoigl Hofbräu Frankenheim,",89.6,Saudi Arabia,191
+433,"Brothers Köllner,Huberts Becks,,",98.4,Georgia,96
+434,"House Drop,Hefe-Weisse Optimator,Dampfbierbrauerei Aventinus,Kloster Brauerei Rauchbier,,",52.2,Burundi,8
+435,"Zoigl Ur-Weisse,,",57.0,Peru,187
+436,"1516 München,Andechser Ayinger Spaten,",46.3,Barbados,180
+437,"House Bier,Andechser Ottos,,",22.8,Norway,157
+438,"Weihenstephaner Brothers Drop,",25.8,Mongolia,46
+439,"Alt-Bayerisch Urbock,Erdinger Maibock,Hacker Zoiglbauer,Franziskaner Dampfbierbrauerei Ottos,",88.8,Nauru,167
+440,"Ayinger Brauerei Becks,Zoigl Ur-Weisse,",63.7,San Marino,17
+441,"Hacker Schumacher,Schneider Ayinger Franziskaner,Schneider Ritterguts,",83.0,Anguilla,83
+442,"Ur-Weisse,Brauerei Pschorr,Alt-Bayerisch Dunkel,Dampfbierbrauerei Dampfbier,,",32.3,China,158
+443,"Hermannator Ice Brauerei Altenauer,Märzen,Pschorr Oktoberfest Altenauer,,",83.0,San Marino,25
+444,"Gänstaller Mühlen,",35.9,Eswatini,161
+445,"Hacker-Pschorr Gaffel,Alt-Bayerisch Hefe-Weisse Kellerbier,Weihenstephaner Gänstaller Pschorr,Hermannator Ice Gaffel,,",61.3,Mayotte,102
+446,"Weihenstephaner Hefe-Weisse Dark,",28.3,Oman,136
+447,"Doppelbock Augustinerbräu,",89.1,El Salvador,147
+448,"Franziskaner Unser Rauchbier,",38.6,"Bonaire, Sint Eustatius and Saba",121
+449,"Brauerei Märzen,Schneider Brothers Steam,",1.6,Iceland,148
+450,"Zoigl Brothers Früh,,",99.4,Saint Vincent and the Grenadines,127
+451,"Andechser 1516 Köstritzer,Jahrhundert Altenauer,Kloster Doppelbock Kellerbier,",21.2,Puerto Rico,132
+452,"Alt-Bayerisch Hacker Pfarrbräu,",27.3,Brazil,85
+453,"Gaffel,Spaten Ur-Weisse,Kloster Brauerei Pfarrbräu,",87.5,"Bonaire, Sint Eustatius and Saba",135
+454,"Alt-Bayerisch Urbock,Erdinger Maibock,Hacker Zoiglbauer,",94.5,Hong Kong,167
+455,"Spaten Maibock,Ayilinger,",91.8,Japan,60
+456,"Mönchshof Göller,Franziskaner Optimator,",4.6,"Moldova, Republic of",115
+457,"Weihenstephaner Becks,Scurry,Gänstaller Gaffel,Weihenstephaner Rauchbier,,",21.7,Togo,2
+458,"Pschorr Oktoberfest Schumacher,Brauerei Pfarrbräu,Unser Erdinger,",89.6,"Korea, Republic of",166
+459,"Brauerei Diebels,Alt-Bayerisch Mitterteich Steam,,",73.1,Lao People's Democratic Republic,196
+460,"Weihenstephaner Becks,Scurry,Gänstaller Gaffel,Weihenstephaner Rauchbier,",37.8,French Polynesia,2
+461,"Weihenstephaner Gaffel,",76.3,Saudi Arabia,155
+462,"Hacker Maibock,",73.2,Mexico,118
+463,"Gaffel,Spaten Ur-Weisse,Kloster Brauerei Pfarrbräu,",4.4,Chile,135
+464,"Mönchshof Weizen-Eisbock,",68.4,Cyprus,84
+465,"Alt-Bayerisch Paulaner Köstritzer,",60.2,Malaysia,174
+466,"Schneider Hofbräu Maisel,,",7.9,Marshall Islands,47
+467,"Pschorr,",68.4,Angola,193
+468,"1516 Ottos,Spaten Dampfbierbrauerei Franziskaner,Alt-Bayerisch Brothers Köstritzer,",91.1,Lithuania,184
+469,"Alt-Bayerisch Brothers Zoiglbauer,",1.8,Bahrain,145
+470,"Zoigl Hofbräu Frankenheim,Märzen,Ayinger Bitburger,Aventinus Schumacher,",21.3,"Taiwan, Province of China",191
+471,"Zoigl Warsteiner,",78.6,Guatemala,98
+472,"Alt-Bayerisch Pschorr Oktoberfest Pikantus,",9.5,Western Sahara,116
+473,"Unser Erdinger,Alt-Bayerisch Bock,Alt-Bayerisch Ur-Weisse,",73.0,Pitcairn,181
+474,"1516 Ritterguts,",5.2,Seychelles,97
+475,"Alt-Bayerisch Frankenheim,Hacker-Pschorr Pschorr Oktoberfest Salvator,Hofbräu Pschorr,,",16.0,Åland Islands,110
+476,"Spaten,Aventinus Optimator,Dampfbierbrauerei Becks,",8.2,Egypt,108
+477,"Schlenkerla Rauchbier Scurry,",7.9,Ecuador,77
+478,"Weihenstephaner 1516 Spaten,Aventinus Früh,",78.6,Comoros,37
+479,"Zoigl Warsteiner,Erdinger Bräu,,",64.8,Rwanda,98
+480,"Erdinger Bräu,Hermannator Ice Dortmunder,,",20.8,New Caledonia,149
+481,"Hacker-Pschorr Ayilinger,Alt-Bayerisch Hacker Maibock,Gänstaller Köstritzer,",38.0,Greece,88
+482,"Maisel,Weihenstephaner Dampfbierbrauerei Dunkel,Erdinger Ritterguts,,",25.4,Croatia,188
+483,"Pschorr Oktoberfest Steam,Kloster Brauerei Aventinus,",24.3,Saint Lucia,195
+484,"Doppelbock Augustinerbräu,Hermannator Ice Brauerei Altenauer,Hacker-Pschorr München,",53.5,Malaysia,147
+485,"Ayinger Mönchshof,Hermannator Ice Gaffel,Dampfbierbrauerei Lager,",76.8,Anguilla,122
+486,"Spaten Zoigl,Franziskaner Hefe-Weisse Dunkel,",36.5,Suriname,66
+487,"Andechser Hofbräu Schumacher,",51.2,India,125
+488,"Jahrhundert Ayilinger,Göller,,",55.9,Mexico,140
+489,"Ayinger Jahrhundert Urbock,Andechser Franziskaner,",10.6,Fiji,67
+490,"Unser Pfarrbräu,",65.9,Mauritania,53
+491,"Schneider Reissdorf,Ayinger Scurry,Alt-Bayerisch Schumacher,,",34.8,Vanuatu,101
+492,"Schneider Hofbräu Maisel,",73.7,Ethiopia,47
+493,"Weihenstephaner Brothers Ritterguts,",79.9,Poland,146
+494,"Andechser 1516 Köstritzer,Jahrhundert Altenauer,Kloster Doppelbock Kellerbier,",58.0,Bangladesh,132
+495,"Zoigl Brothers Früh,,",93.1,Equatorial Guinea,127
+496,"Schneider Gaffel,",53.0,"Venezuela, Bolivarian Republic of",104
+497,"Alt-Bayerisch Steam,Zoigl Flensburger,,",23.6,Côte d'Ivoire,165
+498,"Buttenheimer Ottos,Warsteiner,,",81.7,Somalia,198
+499,"Gänstaller Mühlen,Spaten Bier,Doppelbock Diebels,Erdinger Ur-Weisse,",82.3,Estonia,161
+500,"Kloster Doppelbock Kellerbier,Alt-Bayerisch Ur-Weisse,",37.9,Wallis and Futuna,171
+501,"Brothers Augustinerbräu,,",54.8,Wallis and Futuna,154
+502,"Ayinger Ritterguts,Ayinger Erdinger,",18.2,Qatar,27
+503,"Weihenstephaner Paulaner Weizen-Eisbock,,",24.2,Uzbekistan,182
+504,"Alt-Bayerisch Brothers Zoiglbauer,",76.4,Barbados,145
+505,"Jahrhundert Ayilinger,",52.3,Timor-Leste,140
+506,"Ayinger Hefe-Weisse Franziskaner,Schneider Ayinger Weizen-Eisbock,",29.3,Saint Martin (French part),92
+507,"Mönchshof Maibock,",48.4,Albania,57
+508,"Schneider Roggen,Brauerei Pschorr,Alt-Bayerisch Brauerei Ottos,Pschorr Oktoberfest Augustinerbräu,",81.3,"Moldova, Republic of",105
+509,"House Dortmunder,Spaten Ritterguts,",89.3,Sint Maarten (Dutch part),75
+510,"Weihenstephaner Zoigl,Weihenstephaner Brauerei Göller,Huberts Ritterguts,Zoigl Hofbräu Paulaner,",47.1,Gambia,44
+511,"Hacker Schumacher,Schneider Ayinger Franziskaner,Schneider Ritterguts,Hacker Dunkel,,",39.2,Jamaica,83
+512,"Alt-Bayerisch Früh,Brothers Göller,Buttenheimer Pschorr Oktoberfest Rauchbier,",59.7,Nigeria,52
+513,"Brothers Dunkel,1516 Diebels,Schneider Dunkel,Zoigl Bitburger,,",66.1,United States,130
+514,"Hacker-Pschorr Gaffel,Kloster Doppelbock Kellerbier,Mitterteich Bier,",33.1,Finland,164
+515,"Zoigl Zoiglbauer,,",27.4,Myanmar,142
+516,"Brothers Dunkel,",25.6,"Tanzania, United Republic of",159
+517,"Weihenstephaner Paulaner Weizen-Eisbock,",59.3,Slovenia,182
+518,"Gänstaller Ottos,Hermannator Ice Brewing Ur-Weisse,",67.8,"Tanzania, United Republic of",117
+519,"Schneider Reissdorf,",57.0,China,101
+520,"Franziskaner 1516 Spaten,Zoigl Spaten,Gänstaller Erdinger,Ayinger Dortmunder,,",64.8,Pakistan,29
+521,"Schneider Maisel,Schumacher,Erdinger Dampfbier,Franziskaner Reissdorf,",69.8,Timor-Leste,90
+522,"Hacker Maisel,Weihenstephaner Erdinger Reissdorf,Buttenheimer Hacker Pschorr,Brothers Rauchbier,",32.6,Congo,55
+523,"Hermannator Ice Aventinus Ritterguts,Andechser Mitterteich Altenauer,",78.3,South Sudan,61
+524,"House Bier,",99.8,Côte d'Ivoire,157
+525,"Zoigl Hofbräu Maisel,,",55.4,Montenegro,64
+526,"Franziskaner Frankenheim,Weihenstephaner Gänstaller Scurry,",63.1,Lithuania,72
+527,"Brothers Köllner,Huberts Becks,,",59.0,French Southern Territories,96
+528,"Brothers Augustinerbräu,",60.2,Spain,154
+529,"Mönchshof Brauerei Göller,Hermannator Ice Schumacher,",4.1,Yemen,91
+530,"Hacker Zoiglbauer,Franziskaner Jahrhundert Augustinerbräu,,",77.7,Suriname,31
+531,"Kloster Doppelbock Kellerbier,",40.2,Ireland,0
+532,"Alt-Bayerisch Gänstaller Dark,",37.1,Canada,80
+533,"House Dortmunder,",66.7,Bhutan,75
+534,"Ur-Weisse,",97.3,Panama,178
+535,"Zoigl Hofbräu Maisel,,",11.8,San Marino,64
+536,"Franziskaner Erdinger Bräu,",96.1,El Salvador,138
+537,"Hacker Brewing Pschorr,Zoigl Zoiglbauer,Steam,,",58.6,Svalbard and Jan Mayen,173
+538,"House Bier,Andechser Ottos,,",74.9,Belarus,157
+539,"Hermannator Ice Aventinus,Brewing Dampfbier,Alt-Bayerisch Pfarrbräu,,",95.8,Wallis and Futuna,197
+540,"Hofbräu Bock,",2.8,Gabon,124
+541,"Doppelbock Salvator,",54.7,Oman,1
+542,"Ayinger Schumacher,",97.4,Israel,49
+543,"Mönchshof Paulaner Schumacher,Mönchshof Aventinus,Weihenstephaner Ayinger Franziskaner,Ayinger Bitburger,,",35.8,Congo,95
+544,"Zoigl Dampfbierbrauerei Drop,",29.0,Sri Lanka,151
+545,"Spaten Schlenkerla Rauchbier Aventinus,",7.5,Estonia,143
+546,"Hacker-Pschorr Zoiglbauer,,",33.5,New Caledonia,16
+547,"Ayinger Mönchshof,Hermannator Ice Gaffel,Dampfbierbrauerei Lager,",5.4,French Guiana,122
+548,"Alt-Bayerisch Frankenheim,Hacker-Pschorr Pschorr Oktoberfest Salvator,Hofbräu Pschorr,",94.5,Colombia,110
+549,"Doppelbock Flensburger,Mönchshof Mühlen,,",8.1,Poland,172
+550,"Spaten Ur-Weisse,,",17.8,"Virgin Islands, U.S.",59
+551,"Ur-Weisse,Brauerei Pschorr,Alt-Bayerisch Dunkel,Dampfbierbrauerei Dampfbier,",10.5,Canada,158
+552,"Schneider Roggen,Brauerei Pschorr,Alt-Bayerisch Brauerei Ottos,",46.4,Macao,105
+553,"Weihenstephaner Erdinger Flensburger,Mönchshof Oktoberfest,Bier,Weihenstephaner Pschorr Oktoberfest Ottos,,",83.1,Mali,58
+554,"Hofbräu Scurry,Schlenkerla Rauchbier Bier,Aventinus Flensburger,",22.7,Dominican Republic,93
+555,"Schneider Gaffel,Alt-Bayerisch Hefe-Weisse Kellerbier,",91.3,Sint Maarten (Dutch part),104
+556,"Aventinus,Hermannator Ice Brothers Ottos,",14.3,Réunion,168
+557,"1516 Radeberger,Weihenstephaner Paulaner Köstritzer,",31.0,Trinidad and Tobago,63
+558,"Brothers Göller,Alt-Bayerisch Schlenkerla Rauchbier Salvator,Weihenstephaner Ayinger Weizen-Eisbock,Franziskaner Unser Bräu,,",63.8,Hong Kong,54
+559,"Buttenheimer Ottos,Warsteiner,,",25.4,Åland Islands,198
+560,"Erdinger Bräu,Hermannator Ice Dortmunder,",91.5,Burkina Faso,149
+561,"Maisel,",25.2,Portugal,188
+562,"Hacker Hacker Ottos,",17.9,Panama,15
+563,"Weihenstephaner Erdinger Flensburger,",23.4,Wallis and Futuna,58
+564,"Mönchshof Paulaner Schumacher,Mönchshof Aventinus,Weihenstephaner Ayinger Franziskaner,Ayinger Bitburger,",3.9,Norway,95
+565,"Hacker Hacker Ottos,Schlenkerla Rauchbier Pschorr,",40.2,Myanmar,15
+566,"Brothers Köllner,Huberts Becks,",10.4,Cambodia,96
+567,"Hacker Zoiglbauer,Franziskaner Jahrhundert Augustinerbräu,,",22.0,Western Sahara,31
+568,"Hacker Hacker Bräu,Franziskaner Gänstaller Bitburger,",88.6,Saint Martin (French part),13
+569,"Hacker Maibock,",48.7,Barbados,118
+570,"Mönchshof Pikantus,Mönchshof Jahrhundert Dampfbier,Brothers Göller,,",55.3,Eritrea,175
+571,"Schlenkerla Rauchbier Pschorr,,",58.0,Eritrea,24
+572,"Mönchshof Göller,",81.3,United Kingdom,115
+573,"Mönchshof,",6.4,Madagascar,153
+574,"Kloster Unser Bitburger,,",94.6,Viet Nam,26
+575,"Doppelbock Augustinerbräu,Hermannator Ice Brauerei Altenauer,",77.2,Liberia,147
+576,"Andechser Hofbräu Schumacher,,",24.5,Bahamas,125
+577,"Schneider Aventinus Oktoberfest,Hacker Unser Spaten,",18.2,North Macedonia,62
+578,"Weihenstephaner Gänstaller Pschorr,",59.0,Papua New Guinea,109
+579,"House Bitburger,House Drop,",23.6,Belarus,50
+580,"Weihenstephaner Brothers Ritterguts,",42.0,Monaco,146
+581,"Alt-Bayerisch Paulaner Köstritzer,",51.7,"Micronesia, Federated States of",170
+582,"Weihenstephaner Erdinger Franziskaner,,",79.1,Ireland,32
+583,"Spaten Brewing Korbinian,Zoigl Altenauer,",34.1,Dominican Republic,70
+584,"Brewing Rauchbier,Buttenheimer Brauerei Bräu,Huberts Warsteiner,Jahrhundert Ottos,",59.4,"Korea, Republic of",11
+585,"Ayinger Goslarer,Zoigl Becks,House Göller,",93.0,Mozambique,129
+586,"Mönchshof Maibock,",76.4,Czechia,57
+587,"Mönchshof Brauerei Göller,Hermannator Ice Schumacher,",70.5,Ecuador,91
+588,"Gänstaller Mühlen,Spaten Bier,Doppelbock Diebels,Erdinger Ur-Weisse,",2.4,Jordan,161
+589,"Hacker Brewing Pschorr,Zoigl Zoiglbauer,Steam,,",74.0,Sweden,173
+590,"Göller,Alt-Bayerisch Dampfbierbrauerei Köllner,Alt-Bayerisch Roggen,,",56.3,Norfolk Island,199
+591,"Buttenheimer Brothers Warsteiner,,",55.9,Mali,36
+592,"Buttenheimer Ayinger Krombacher,,",75.8,Sierra Leone,87
+593,"Doppelbock Augustinerbräu,Hermannator Ice Brauerei Altenauer,Hacker-Pschorr München,",89.6,Georgia,147
+594,"Zoigl Ur-Weisse,,",58.0,Japan,187
+595,"Alt-Bayerisch Reissdorf,,",72.8,El Salvador,131
+596,"Franziskaner 1516 Spaten,Zoigl Spaten,Gänstaller Erdinger,Ayinger Dortmunder,",39.5,Malawi,29
+597,"Ayinger Mitterteich Frankenheim,",52.0,Malawi,69
+598,"Alt-Bayerisch Paulaner Köstritzer,,",29.5,Russian Federation,170
+599,"Hacker Bräu,",96.1,Niger,106
+600,"Gänstaller Mühlen,Spaten Bier,",20.7,Togo,161
+601,"Alt-Bayerisch Gänstaller Urbock,Hefe-Weisse Franziskaner,",71.2,Slovakia,137
+602,"Alt-Bayerisch Hacker Pfarrbräu,",16.8,Slovenia,85
+603,"Andechser Hofbräu Schumacher,,",81.9,Åland Islands,125
+604,"Weihenstephaner Gänstaller Pschorr,",38.3,Lao People's Democratic Republic,109
+605,"Hacker Maisel,Weihenstephaner Erdinger Reissdorf,Buttenheimer Hacker Pschorr,",96.7,Serbia,55
+606,"Zoigl Dampfbierbrauerei Drop,Kloster Doppelbock Roggen,",79.3,Saint Vincent and the Grenadines,151
+607,"Hacker Paulaner,Hermannator Ice Jahrhundert Reissdorf,",1.9,"Saint Helena, Ascension and Tristan da Cunha",33
+608,"Brothers Köllner,",84.1,Cocos (Keeling) Islands,96
+609,"Schneider Doppelbock Spezial,Hacker-Pschorr Brewing Ritterguts,Dampfbierbrauerei Frankenheim,,",80.4,Niger,76
+610,"Franziskaner Frankenheim,",97.9,Sierra Leone,72
+611,"Buttenheimer Ottos,",15.9,Grenada,198
+612,"Schneider Doppelbock Spezial,Hacker-Pschorr Brewing Ritterguts,",95.4,Rwanda,76
+613,"Zoigl Brothers Früh,,",85.4,Pakistan,127
+614,"Dampfbierbrauerei Urbock,Andechser Jahrhundert Roggen,House Unser Altenauer,,",97.8,Jordan,163
+615,"Weihenstephaner Brauerei Maibock,Hofbräu Bräu,Steam,",59.7,Botswana,5
+616,"Alt-Bayerisch Schlenkerla Rauchbier Salvator,",55.4,"Korea, Democratic People's Republic of",65
+617,"Brothers Dunkel,1516 Diebels,Schneider Dunkel,",15.2,Finland,130
+618,"Zoigl Hefe-Weisse Dunkel,,",61.0,Tonga,160
+619,"Alt-Bayerisch Gänstaller Urbock,Hefe-Weisse Franziskaner,",81.3,Dominica,137
+620,"Zoigl Hefe-Weisse Dunkel,,",62.5,Senegal,160
+621,"Zoigl Ur-Weisse,",75.1,Dominican Republic,187
+622,"Hermannator Ice Schumacher,",53.7,Réunion,169
+623,"Alt-Bayerisch Gänstaller Dark,",56.6,"Bolivia, Plurinational State of",80
+624,"Weihenstephaner Becks,Scurry,Gänstaller Gaffel,",37.9,Belarus,2
+625,"House Bitburger,",36.8,Belgium,50
+626,"Ayinger Brauerei Becks,Zoigl Ur-Weisse,",41.4,Cocos (Keeling) Islands,17
+627,"Alt-Bayerisch Gänstaller Dark,",74.1,Jamaica,80
+628,"House Bitburger,",46.1,Peru,50
+629,"Weihenstephaner Gänstaller Pschorr,",78.5,Gibraltar,109
+630,"Spaten Brewing Korbinian,",43.8,Albania,70
+631,"Spaten Zoigl,",69.9,Antigua and Barbuda,66
+632,"Mönchshof Paulaner Schumacher,Mönchshof Aventinus,",15.4,Canada,95
+633,"Alt-Bayerisch Urbock,Erdinger Maibock,Hacker Zoiglbauer,Franziskaner Dampfbierbrauerei Ottos,,",60.6,Bouvet Island,167
+634,"Weihenstephaner Erdinger Franziskaner,,",75.2,Wallis and Futuna,32
+635,"Buttenheimer Maibock,Andechser Krombacher,München,",38.5,Latvia,126
+636,"Buttenheimer Ottos,",82.6,Switzerland,162
+637,"Erdinger Schumacher,",44.4,Guyana,190
+638,"Ur-Weisse,Brauerei Pschorr,Alt-Bayerisch Dunkel,",75.7,Eritrea,158
+639,"Erdinger Schumacher,,",41.2,Singapore,190
+640,"Andechser Augustinerbräu,Hofbräu Ayilinger,Hefe-Weisse Korbinian,",15.8,Tokelau,3
+641,"Zoigl Dampfbierbrauerei Drop,Kloster Doppelbock Roggen,",33.4,Congo,151
+642,"Hacker Paulaner,",89.9,Monaco,33
+643,"Hacker Maibock,Schneider Brothers Steam,Mitterteich Mühlen,,",94.6,Western Sahara,118
+644,"Weihenstephaner 1516 Spaten,Aventinus Früh,,",82.6,Comoros,37
+645,"Andechser 1516 Köstritzer,Jahrhundert Altenauer,Kloster Doppelbock Kellerbier,House Brauerei Schumacher,",13.0,Equatorial Guinea,132
+646,"Alt-Bayerisch Urbock,",10.5,Greenland,167
+647,"Weihenstephaner Schumacher,",65.6,France,19
+648,"Weihenstephaner Brothers Drop,",19.1,Mauritius,46
+649,"Weihenstephaner Hefe-Weisse Dark,Hacker Ayinger Warsteiner,Hacker Erdinger München,Ayinger Mitterteich Göller,",93.4,Djibouti,136
+650,"Dampfbierbrauerei Urbock,Andechser Jahrhundert Roggen,House Unser Altenauer,",19.0,Syrian Arab Republic,163
+651,"Zoigl Brothers Früh,,",9.3,Comoros,127
+652,"Hacker Hacker Bräu,Franziskaner Gänstaller Bitburger,",32.8,Oman,13
+653,"Pschorr Oktoberfest Schumacher,Brauerei Pfarrbräu,Unser Erdinger,Huberts Becks,",73.3,Mozambique,166
+654,"Spaten,Aventinus Optimator,Dampfbierbrauerei Becks,,",11.3,Japan,108
+655,"Doppelbock Flensburger,Mönchshof Mühlen,",58.2,"Virgin Islands, British",172
+656,"Mönchshof Köstritzer,Brauerei Krombacher,Doppelbock Schumacher,Ayinger Urbock,,",8.4,Saint Lucia,43
+657,"Dampfbierbrauerei Urbock,Andechser Jahrhundert Roggen,",46.3,Seychelles,163
+658,"Mönchshof Köstritzer,Brauerei Krombacher,Doppelbock Schumacher,Ayinger Urbock,,",60.4,Guam,43
+659,"Kloster Unser Bitburger,,",50.4,Holy See (Vatican City State),26
+660,"Hofbräu Bock,Ayinger Zoiglbauer,Buttenheimer Hofbräu Reissdorf,",39.4,Kazakhstan,124
+661,"Alt-Bayerisch Steam,",82.3,Réunion,165
+662,"Franziskaner Spaten,Brothers Dunkel,Gänstaller Ayilinger,,",33.9,Myanmar,107
+663,"Mönchshof Brauerei Göller,",25.4,"Iran, Islamic Republic of",91
+664,"Schlenkerla Rauchbier Pschorr,,",55.4,French Southern Territories,24
+665,"Alt-Bayerisch Urbock,",59.7,Fiji,189
+666,"Andechser Hofbräu Schumacher,,",17.1,Suriname,125
+667,"Ur-Weisse,Brothers Scurry,",56.0,"Taiwan, Province of China",178
+668,"Hacker Bräu,Brauerei Korbinian,",3.0,Ecuador,106
+669,"Spaten Zoigl,",83.6,"Bonaire, Sint Eustatius and Saba",66
+670,"Schneider Doppelbock Spezial,",88.8,Denmark,76
+671,"Ayinger Goslarer,Zoigl Becks,House Göller,",31.5,Norway,129
+672,"Buttenheimer Ottos,,",44.2,Lesotho,162
+673,"Unser Pfarrbräu,Ayinger Erdinger,Franziskaner Unser Rauchbier,,",86.9,Eritrea,53
+674,"Unser Diebels,",13.4,Montserrat,45
+675,"Franziskaner Frankenheim,Weihenstephaner Gänstaller Scurry,",8.6,Georgia,72
+676,"Schneider Maisel,Schumacher,",44.4,Chad,90
+677,"Andechser Flensburger,,",79.8,Faroe Islands,177
+678,"Zoigl Hefe-Weisse Dunkel,",74.8,Sri Lanka,160
+679,"Brothers Dortmunder,,",89.1,Réunion,128
+680,"Andechser Hofbräu Schumacher,",90.3,Azerbaijan,125
+681,"House Dortmunder,Spaten Ritterguts,,",98.0,Cameroon,75
+682,"Schneider Doppelbock Spezial,",74.8,Zimbabwe,76
+683,"Schneider Maisel,Schumacher,Erdinger Dampfbier,Franziskaner Reissdorf,",8.2,Yemen,90
+684,"Schlenkerla Rauchbier Pschorr,",30.7,Mongolia,24
+685,"Zoigl Warsteiner,Erdinger Bräu,",94.6,Cambodia,98
+686,"Spaten,Aventinus Optimator,Dampfbierbrauerei Becks,",43.4,France,108
+687,"Andechser Augustinerbräu,Hofbräu Ayilinger,",35.5,China,3
+688,"Franziskaner 1516 Spaten,Zoigl Spaten,",22.2,South Africa,29
+689,"Brothers Köllner,",28.4,Cabo Verde,96
+690,"1516 Radeberger,Weihenstephaner Paulaner Köstritzer,",86.2,"Moldova, Republic of",63
+691,"Brothers Augustinerbräu,,",17.3,Liberia,154
+692,"Ur-Weisse,Brothers Scurry,",23.0,Seychelles,178
+693,"Pschorr Oktoberfest Ottos,,",66.3,Antigua and Barbuda,30
+694,"Paulaner Diebels,Franziskaner Frankenheim,Schneider Mitterteich Ottos,",66.4,Mauritius,22
+695,"Hefe-Weisse Altenauer,Jahrhundert Oettingen,,",9.5,Libya,79
+696,"Pschorr,Hacker Warsteiner,Buttenheimer Bitburger,House Göller,,",72.1,Cook Islands,193
+697,"House Bier,Andechser Ottos,,",4.8,American Samoa,157
+698,"Pschorr Oktoberfest Ottos,",2.3,Guam,30
+699,"Ayinger 1516 Köstritzer,",49.0,Peru,38
+700,"Hacker Hefe-Weisse Köllner,",89.3,French Polynesia,86
+701,"Weihenstephaner Jahrhundert Steam,",86.3,Mauritania,40
+702,"Brothers Köllner,Huberts Becks,,",67.6,Greenland,96
+703,"Franziskaner Ottos,Schlenkerla Rauchbier Schumacher,Andechser Ayilinger,",89.9,Curaçao,51
+704,"Andechser Hacker Mönchshof,,",81.1,Jordan,12
+705,"Franziskaner Spaten,Brothers Dunkel,",87.3,"Taiwan, Province of China",107
+706,"Weihenstephaner Brothers Ritterguts,,",88.0,Cayman Islands,146
+707,"Andechser Flensburger,",38.5,Malaysia,177
+708,"Spaten Brewing Korbinian,Zoigl Altenauer,Weihenstephaner Aventinus Maibock,Alt-Bayerisch Jahrhundert Spezial,",33.6,Niger,70
+709,"Franziskaner Unser Bräu,,",67.9,Sierra Leone,179
+710,"Alt-Bayerisch Reissdorf,,",11.5,Mauritania,131
+711,"Franziskaner Ottos,Schlenkerla Rauchbier Schumacher,",68.0,France,51
+712,"Alt-Bayerisch Pfarrbräu,",77.8,Malawi,34
+713,"Zoigl Hefe-Weisse Dunkel,",42.4,Bouvet Island,160
+714,"1516 Ottos,Spaten Dampfbierbrauerei Franziskaner,",84.6,Jordan,184
+715,"Kloster Doppelbock Kellerbier,",16.2,Puerto Rico,171
+716,"Ayinger Pschorr Oktoberfest Flensburger,Huberts Salvator,Hacker Märzen,",60.5,Saint Barthélemy,150
+717,"Hacker Schumacher,",18.5,Belgium,83
+718,"Alt-Bayerisch Steam,",57.5,Guinea-Bissau,165
+719,"1516 Ottos,Spaten Dampfbierbrauerei Franziskaner,Alt-Bayerisch Brothers Köstritzer,",99.2,Hungary,184
+720,"Spaten Zoigl,Franziskaner Hefe-Weisse Dunkel,",74.2,Martinique,66
+721,"Brauerei Diebels,Alt-Bayerisch Mitterteich Steam,,",1.5,Algeria,196
+722,"House Goslarer,Weihenstephaner Schlenkerla Rauchbier Korbinian,",16.8,Réunion,123
+723,"Schlenkerla Rauchbier Scurry,",90.2,Croatia,77
+724,"Kloster Doppelbock Kellerbier,Ayinger Paulaner Kellerbier,",52.1,Austria,0
+725,"Weihenstephaner Jahrhundert Steam,Brothers Dark,,",14.3,Mayotte,40
+726,"House Drop,Hefe-Weisse Optimator,Dampfbierbrauerei Aventinus,",54.6,Sweden,8
+727,"1516 Ottos,Spaten Dampfbierbrauerei Franziskaner,Alt-Bayerisch Brothers Köstritzer,,",62.2,Poland,184
+728,"Hermannator Ice Aventinus Ritterguts,Andechser Mitterteich Altenauer,,",46.1,South Georgia and the South Sandwich Islands,61
+729,"Huberts Kellerbier,Weihenstephaner Becks,",41.2,Hong Kong,156
+730,"Gänstaller Ottos,Hermannator Ice Brewing Ur-Weisse,",87.3,Ethiopia,117
+731,"Alt-Bayerisch Bock,Schneider Doppelbock Spezial,,",56.2,Fiji,71
+732,"Alt-Bayerisch Urbock,Erdinger Maibock,Hacker Zoiglbauer,",45.1,Antarctica,167
+733,"Alt-Bayerisch Schlenkerla Rauchbier Salvator,Hacker-Pschorr Hacker Altenauer,",62.8,Bahamas,65
+734,"Zoigl Dampfbierbrauerei Drop,",21.9,Guyana,151
+735,"Brauerei Diebels,",2.7,Saint Barthélemy,196
+736,"Mönchshof Maibock,",73.3,Réunion,57
+737,"Doppelbock Flensburger,",55.2,American Samoa,172
+738,"Mönchshof Kellerbier,Brewing Oettingen,",85.5,Hungary,141
+739,"Hefe-Weisse Altenauer,Jahrhundert Oettingen,",71.7,Guernsey,79
+740,"Mitterteich Köllner,Hermannator Ice Erdinger Köstritzer,,",30.4,Kenya,28
+741,"Hacker Brewing Pschorr,Zoigl Zoiglbauer,Steam,",89.9,New Zealand,173
+742,"Hacker Paulaner,Hermannator Ice Jahrhundert Reissdorf,",5.8,Uzbekistan,33
+743,"Pschorr Oktoberfest Oktoberfest,,",39.9,Cuba,120
+744,"Buttenheimer Maibock,",54.0,Tuvalu,126
+745,"Erdinger Schumacher,",6.3,France,190
+746,"Erdinger Schumacher,,",33.6,Samoa,190
+747,"Pschorr Oktoberfest Steam,Kloster Brauerei Aventinus,Spaten Oettingen,Weihenstephaner Roggen,,",19.2,Australia,195
+748,"Schneider Gaffel,Alt-Bayerisch Hefe-Weisse Kellerbier,,",46.9,Togo,104
+749,"Zoigl Zoiglbauer,",84.2,Luxembourg,142
+750,"Hacker-Pschorr Pschorr Oktoberfest Früh,Doppelbock Diebels,Brewing Paulaner,",9.7,Paraguay,35
+751,"Hacker-Pschorr Pikantus,Korbinian,",21.0,"Korea, Democratic People's Republic of",133
+752,"Alt-Bayerisch Hacker Maibock,,",91.5,Colombia,48
+753,"Alt-Bayerisch Brothers Zoiglbauer,",84.4,Paraguay,145
+754,"Gänstaller Spezial,",94.0,"Virgin Islands, U.S.",56
+755,"Alt-Bayerisch Reissdorf,",49.5,Thailand,131
+756,"Hacker Paulaner,Hermannator Ice Jahrhundert Reissdorf,",73.1,"Tanzania, United Republic of",33
+757,"Zoigl Zoiglbauer,,",61.6,South Georgia and the South Sandwich Islands,142
+758,"Weihenstephaner Jahrhundert Steam,Brothers Dark,",79.8,Pitcairn,40
+759,"Doppelbock Salvator,",82.0,Japan,1
+760,"Mitterteich Köllner,Hacker-Pschorr Aventinus Steam,Alt-Bayerisch Mitterteich Steam,,",98.0,Jordan,103
+761,"Hacker Paulaner,Hermannator Ice Jahrhundert Reissdorf,",65.9,New Caledonia,33
+762,"Brothers Göller,Alt-Bayerisch Schlenkerla Rauchbier Salvator,Weihenstephaner Ayinger Weizen-Eisbock,Franziskaner Unser Bräu,",51.8,Aruba,54
+763,"1516 Radeberger,Weihenstephaner Paulaner Köstritzer,",29.9,Tajikistan,63
+764,"Mönchshof Weizen-Eisbock,Weihenstephaner Brauerei Schumacher,Andechser Ayinger Spaten,Mönchshof Unser Ritterguts,,",90.2,Finland,84
+765,"Ayinger Ritterguts,Ayinger Erdinger,Weihenstephaner Drop,Ayinger Zoigl,",66.9,Mayotte,27
+766,"Hacker-Pschorr Doppelbock Roggen,",15.5,Djibouti,185
+767,"Gänstaller Spezial,Weihenstephaner Huberts Bock,Schneider Pschorr Oktoberfest Pfarrbräu,",76.9,Philippines,23
+768,"Hacker-Pschorr Gaffel,Kloster Doppelbock Kellerbier,Mitterteich Bier,",68.2,Bermuda,164
+769,"Maisel,Weihenstephaner Dampfbierbrauerei Dunkel,Erdinger Ritterguts,",84.1,Lao People's Democratic Republic,188
+770,"Andechser Flensburger,,",61.9,"Congo, The Democratic Republic of the",177
+771,"Brothers Dortmunder,,",52.4,"Bonaire, Sint Eustatius and Saba",128
+772,"Spaten,,",83.7,Equatorial Guinea,73
+773,"Hacker Hefe-Weisse Köllner,,",70.9,Georgia,86
+774,"1516 München,",53.9,Saint Kitts and Nevis,180
+775,"Schneider Aventinus Oktoberfest,Hacker Unser Spaten,",69.5,Togo,62
+776,"Hacker-Pschorr Pschorr Oktoberfest Salvator,",68.3,Georgia,39
+777,"Mönchshof Kellerbier,",67.1,Jamaica,141
+778,"Hacker-Pschorr Ayilinger,Alt-Bayerisch Hacker Maibock,Gänstaller Köstritzer,Zoigl Urbock,",80.1,Haiti,88
+779,"Aventinus,Hermannator Ice Brothers Ottos,Alt-Bayerisch Brauerei Märzen,,",90.2,Seychelles,168
+780,"Schneider Aventinus Oktoberfest,Hacker Unser Spaten,,",36.3,Saudi Arabia,62
+781,"Hacker-Pschorr Pschorr Oktoberfest Früh,",11.7,Saint Lucia,35
+782,"Schneider Reissdorf,Brewing Dampfbier,",1.7,Monaco,183
+783,"Schneider Hofbräu Maisel,,",20.3,Namibia,47
+784,"Franziskaner Frankenheim,Weihenstephaner Gänstaller Scurry,",90.3,Holy See (Vatican City State),72
+785,"Schneider Maisel,Schumacher,Erdinger Dampfbier,Franziskaner Reissdorf,,",45.7,"Korea, Democratic People's Republic of",90
+786,"Aventinus,Hermannator Ice Brothers Ottos,Alt-Bayerisch Brauerei Märzen,,",47.5,Georgia,168
+787,"Weihenstephaner Gaffel,House Schlenkerla Rauchbier Krombacher,Ayinger Brothers Mönchshof,Hermannator Ice Altenauer,,",61.5,Martinique,155
+788,"Weihenstephaner Hefe-Weisse Dark,Hacker Ayinger Warsteiner,Hacker Erdinger München,Ayinger Mitterteich Göller,,",57.9,Japan,136
+789,"Spaten,Aventinus Optimator,Dampfbierbrauerei Becks,",83.3,Oman,108
+790,"Ayinger Pschorr Oktoberfest Flensburger,Hacker-Pschorr Hefe-Weisse Dortmunder,Ayinger Bitburger,Hofbräu Göller,",41.1,Malawi,89
+791,"Hofbräu Scurry,Schlenkerla Rauchbier Bier,",2.1,Turks and Caicos Islands,93
+792,"Buttenheimer Ottos,",96.3,Aruba,162
+793,"Franziskaner Frankenheim,Weihenstephaner Gänstaller Scurry,,",71.8,Sudan,72
+794,"Zoigl Brothers Früh,",39.1,Guinea-Bissau,127
+795,"1516 München,Andechser Ayinger Spaten,,",43.9,Turkey,180
+796,"Spaten Brewing Korbinian,Zoigl Altenauer,",60.1,Hong Kong,70
+797,"Ayinger Ritterguts,Ayinger Erdinger,",78.1,Sao Tome and Principe,27
+798,"Göller,Alt-Bayerisch Dampfbierbrauerei Köllner,",63.5,Belgium,199
+799,"Alt-Bayerisch Urbock,Ayinger Bräu,",12.6,Saint Barthélemy,189
+800,"Zoigl Hofbräu Maisel,,",69.2,Chad,64
+801,"Ayinger Jahrhundert Urbock,Andechser Franziskaner,",42.5,Mongolia,67
+802,"Brauerei Märzen,Schneider Brothers Steam,House Krombacher,Schlenkerla Rauchbier Bier,",44.7,Burkina Faso,148
+803,"Spaten Brewing Korbinian,Zoigl Altenauer,",69.4,Denmark,70
+804,"Hacker-Pschorr Zoiglbauer,",77.5,Samoa,16
+805,"Hacker-Pschorr Doppelbock Roggen,,",59.5,Algeria,185
+806,"Hermannator Ice Aventinus Ritterguts,Andechser Mitterteich Altenauer,",4.2,Solomon Islands,61
+807,"Franziskaner Erdinger Bräu,Ur-Weisse,,",48.5,"Moldova, Republic of",138
+808,"Weihenstephaner Paulaner Weizen-Eisbock,,",99.1,Turkmenistan,182
+809,"Franziskaner Spaten,Brothers Dunkel,",11.2,Eswatini,107
+810,"Ayinger Mitterteich Frankenheim,Hermannator Ice Märzen,,",24.1,Nigeria,111
+811,"Franziskaner Salvator,Schlenkerla Rauchbier Zoigl,Kloster Roggen,",56.5,Jordan,144
+812,"Weihenstephaner Hefe-Weisse Dark,Hacker Ayinger Warsteiner,Hacker Erdinger München,Ayinger Mitterteich Göller,",28.9,Anguilla,136
+813,"Alt-Bayerisch Reissdorf,,",28.4,Andorra,131
+814,"Buttenheimer Brothers Warsteiner,",86.0,Saint Kitts and Nevis,36
+815,"Maisel,Weihenstephaner Dampfbierbrauerei Dunkel,",91.4,French Polynesia,188
+816,"Hacker Zoiglbauer,Franziskaner Jahrhundert Augustinerbräu,",76.5,Peru,31
+817,"Doppelbock Flensburger,Mönchshof Mühlen,",78.3,Sweden,172
+818,"Unser Pfarrbräu,",94.9,Greece,53
+819,"Weihenstephaner Hefe-Weisse Dark,Hacker Ayinger Warsteiner,Hacker Erdinger München,Ayinger Mitterteich Göller,,",15.7,Cyprus,136
+820,"Alt-Bayerisch Brothers Zoiglbauer,Hacker Kellerbier,",96.2,Kenya,145
+821,"Kloster Doppelbock Kellerbier,Ayinger Paulaner Kellerbier,",23.5,Palau,0
+822,"Ayinger Mitterteich Frankenheim,,",76.7,Saint Pierre and Miquelon,69
+823,"Pschorr Oktoberfest Ottos,,",86.8,Seychelles,30
+824,"Weihenstephaner Erdinger Franziskaner,,",52.0,Eritrea,32
+825,"Ur-Weisse,Brothers Scurry,Spaten Hefe-Weisse Frankenheim,Brothers Augustinerbräu,,",26.8,China,178
+826,"Brothers Augustinerbräu,,",65.3,Cocos (Keeling) Islands,154
+827,"Aventinus Kellerbier,Weihenstephaner 1516 Spaten,Andechser Ur-Weisse,,",22.4,Tonga,134
+828,"Zoigl Warsteiner,Erdinger Bräu,,",97.9,Montenegro,98
+829,"Brothers Ritterguts,,",57.5,Guyana,99
+830,"Ayinger Brauerei Becks,Zoigl Ur-Weisse,Hermannator Ice Brewing Aventinus,",57.7,Nigeria,17
+831,"Alt-Bayerisch Frankenheim,Hacker-Pschorr Pschorr Oktoberfest Salvator,Hofbräu Pschorr,",98.0,Saint Barthélemy,110
+832,"Buttenheimer Brothers Warsteiner,",59.6,Dominica,36
+833,"Mönchshof Paulaner Schumacher,Mönchshof Aventinus,Weihenstephaner Ayinger Franziskaner,",92.5,Congo,95
+834,"Brothers Augustinerbräu,",20.1,Ireland,154
+835,"Maisel,Weihenstephaner Dampfbierbrauerei Dunkel,Erdinger Ritterguts,,",83.7,South Georgia and the South Sandwich Islands,188
+836,"Alt-Bayerisch Hacker Pfarrbräu,,",32.6,Nigeria,85
+837,"Göller,",14.0,Russian Federation,199
+838,"Mönchshof Paulaner Schumacher,Mönchshof Aventinus,Weihenstephaner Ayinger Franziskaner,",34.6,Sao Tome and Principe,95
+839,"Schneider Reissdorf,Ayinger Scurry,",37.6,Niger,101
+840,"Erdinger Mönchshof,",99.9,Botswana,78
+841,"Ayinger Goslarer,Zoigl Becks,",79.5,Saint Martin (French part),129
+842,"Mönchshof Brothers Aventinus,Brewing Weizen-Eisbock,Huberts Steam,Mönchshof Dampfbier,",52.3,Zimbabwe,7
+843,"Alt-Bayerisch Gänstaller Urbock,Hefe-Weisse Franziskaner,Franziskaner Frankenheim,",9.8,Paraguay,137
+844,"Kloster Doppelbock Kellerbier,Ayinger Paulaner Kellerbier,Andechser Mitterteich Scurry,",34.5,Colombia,0
+845,"Erdinger Korbinian,",38.9,French Polynesia,20
+846,"Hefe-Weisse Kellerbier,Weihenstephaner Erdinger Flensburger,Huberts Steam,",50.7,Saint Lucia,114
+847,"Brewing Rauchbier,Buttenheimer Brauerei Bräu,Huberts Warsteiner,Jahrhundert Ottos,",25.9,Costa Rica,11
+848,"Brothers Göller,Alt-Bayerisch Schlenkerla Rauchbier Salvator,Weihenstephaner Ayinger Weizen-Eisbock,Franziskaner Unser Bräu,,",49.0,Papua New Guinea,54
+849,"Mönchshof Kellerbier,",16.7,Cabo Verde,141
+850,"Weihenstephaner Erdinger Franziskaner,",53.2,Svalbard and Jan Mayen,32
+851,"Zoigl Zoiglbauer,",2.7,Montserrat,142
+852,"Gaffel,",47.7,United States,135
+853,"Unser Diebels,Weihenstephaner Aventinus Maibock,Hacker-Pschorr Hefe-Weisse Dortmunder,",34.3,Guatemala,45
+854,"Mönchshof Paulaner Schumacher,",6.3,Croatia,95
+855,"Alt-Bayerisch Maisel,,",32.9,French Guiana,112
+856,"Unser Diebels,",70.5,Niue,45
+857,"Hacker Paulaner,",24.5,Bahamas,33
+858,"Ayinger Goslarer,Zoigl Becks,House Göller,,",16.2,Sweden,129
+859,"Alt-Bayerisch Schlenkerla Rauchbier Salvator,Hacker-Pschorr Hacker Altenauer,",11.1,Kenya,65
+860,"Weihenstephaner Paulaner Weizen-Eisbock,",99.8,Belgium,182
+861,"Brothers Dunkel,",61.7,Mauritania,130
+862,"Buttenheimer Ottos,Warsteiner,,",3.6,Mongolia,198
+863,"Franziskaner Unser Bräu,",60.4,Central African Republic,179
+864,"Spaten Maibock,Ayilinger,Unser Ur-Weisse,Brothers Rauchbier,,",42.8,Norfolk Island,60
+865,"Weihenstephaner Zoigl,",81.5,Paraguay,44
+866,"Hacker Schumacher,Schneider Ayinger Franziskaner,Schneider Ritterguts,Hacker Dunkel,,",96.9,"Korea, Republic of",83
+867,"Brothers Dunkel,",42.8,Malta,159
+868,"Ayinger 1516 Köstritzer,,",86.0,Belarus,38
+869,"Hacker Schumacher,Schneider Ayinger Franziskaner,Schneider Ritterguts,",11.9,Hungary,83
+870,"Zoigl Dampfbierbrauerei Drop,Kloster Doppelbock Roggen,,",44.4,Barbados,151
+871,"Brothers Köllner,Huberts Becks,,",21.7,Denmark,96
+872,"Alt-Bayerisch Bock,",70.2,Barbados,71
+873,"Franziskaner Salvator,Schlenkerla Rauchbier Zoigl,Kloster Roggen,",76.3,Nauru,144
+874,"Andechser Hofbräu Schumacher,",72.8,Saudi Arabia,125
+875,"Hacker Maibock,",11.3,Tunisia,118
+876,"Hofbräu Dunkel,,",4.3,Colombia,9
+877,"Weihenstephaner Erdinger Flensburger,Mönchshof Oktoberfest,Bier,Weihenstephaner Pschorr Oktoberfest Ottos,",31.8,Sao Tome and Principe,58
+878,"House Goslarer,Weihenstephaner Schlenkerla Rauchbier Korbinian,",37.6,French Guiana,123
+879,"Alt-Bayerisch Schlenkerla Rauchbier Salvator,Hacker-Pschorr Hacker Altenauer,",75.9,Albania,65
+880,"Ayinger Goslarer,Zoigl Becks,",61.7,Netherlands,129
+881,"Buttenheimer Ayinger Krombacher,,",65.4,Uruguay,87
+882,"Weihenstephaner Pschorr Oktoberfest Rauchbier,Brauerei Pfarrbräu,",68.8,Libya,68
+883,"Mitterteich Köllner,Hermannator Ice Erdinger Köstritzer,",43.3,India,28
+884,"Hacker-Pschorr Erdinger Dortmunder,",64.3,Eswatini,81
+885,"Weihenstephaner 1516 Spaten,",17.9,Palau,37
+886,"Andechser Hofbräu Schumacher,,",9.0,Ukraine,125
+887,"Weihenstephaner Paulaner Weizen-Eisbock,",39.6,Belarus,182
+888,"Spaten Brewing Korbinian,Zoigl Altenauer,Weihenstephaner Aventinus Maibock,",5.1,Brunei Darussalam,70
+889,"Ayinger Hefe-Weisse Franziskaner,",49.4,Madagascar,92
+890,"Zoigl Ur-Weisse,",9.1,Azerbaijan,187
+891,"Spaten Ur-Weisse,,",64.3,Eswatini,59
+892,"Ayinger Pschorr Oktoberfest Flensburger,Hacker-Pschorr Hefe-Weisse Dortmunder,Ayinger Bitburger,Hofbräu Göller,",64.2,"Bolivia, Plurinational State of",89
+893,"Gänstaller Spezial,Weihenstephaner Huberts Bock,Schneider Pschorr Oktoberfest Pfarrbräu,",10.8,Turkey,23
+894,"Ayinger Goslarer,",5.6,"Tanzania, United Republic of",129
+895,"Aventinus Kellerbier,Weihenstephaner 1516 Spaten,Andechser Ur-Weisse,",90.0,Malawi,134
+896,"Buttenheimer Urbock,Gänstaller Gaffel,",99.2,South Georgia and the South Sandwich Islands,186
+897,"Franziskaner Unser Rauchbier,Ayinger Zoiglbauer,",90.1,Curaçao,121
+898,"Weihenstephaner Hefe-Weisse Dark,Hacker Ayinger Warsteiner,Hacker Erdinger München,Ayinger Mitterteich Göller,",30.4,Malta,136
+899,"Hacker-Pschorr Gaffel,Alt-Bayerisch Hefe-Weisse Kellerbier,Weihenstephaner Gänstaller Pschorr,Hermannator Ice Gaffel,,",80.4,Tajikistan,102
+900,"Hacker Pschorr Oktoberfest Zoiglbauer,Aventinus Urbock,",64.4,France,42
+901,"Alt-Bayerisch Erdinger Pikantus,Schneider Spezial,",46.0,Ireland,192
+902,"Schneider Zoigl,",17.6,Cambodia,6
+903,"Weihenstephaner Gaffel,House Schlenkerla Rauchbier Krombacher,Ayinger Brothers Mönchshof,Hermannator Ice Altenauer,",94.0,French Guiana,155
+904,"Schneider Maisel,",93.5,Lesotho,90
+905,"Andechser Hofbräu Schumacher,",82.9,Barbados,125
+906,"Andechser Ur-Weisse,,",56.9,Iraq,14
+907,"Unser Erdinger,Alt-Bayerisch Bock,Alt-Bayerisch Ur-Weisse,Schneider Pschorr Oktoberfest Pfarrbräu,,",53.1,Benin,181
+908,"Kloster Doppelbock Kellerbier,",58.2,Netherlands,0
+909,"Weihenstephaner Zoigl,Weihenstephaner Brauerei Göller,Huberts Ritterguts,",69.4,Western Sahara,44
+910,"Brewing Rauchbier,Buttenheimer Brauerei Bräu,Huberts Warsteiner,Jahrhundert Ottos,,",3.5,Turks and Caicos Islands,11
+911,"1516 Ottos,Spaten Dampfbierbrauerei Franziskaner,",95.9,India,184
+912,"Alt-Bayerisch Urbock,Erdinger Maibock,",34.0,Portugal,167
+913,"Mönchshof Kellerbier,Brewing Oettingen,,",50.2,Rwanda,141
+914,"Weihenstephaner Becks,Scurry,Gänstaller Gaffel,",22.8,Georgia,2
+915,"Buttenheimer Ayinger Krombacher,",8.4,Senegal,87
+916,"Alt-Bayerisch Bock,Schneider Doppelbock Spezial,",1.5,South Georgia and the South Sandwich Islands,71
+917,"Unser Pfarrbräu,Ayinger Erdinger,Franziskaner Unser Rauchbier,,",76.5,Hungary,53
+918,"Franziskaner Erdinger Bräu,",59.5,Saint Pierre and Miquelon,138
+919,"Spaten,",79.0,Réunion,73
+920,"Kloster Unser Bitburger,,",64.3,Nicaragua,26
+921,"Alt-Bayerisch Pfarrbräu,Spaten Doppelbock Gaffel,",95.7,Iraq,34
+922,"Erdinger Mönchshof,",35.4,Heard Island and McDonald Islands,78
+923,"Alt-Bayerisch Bock,,",35.2,Christmas Island,18
+924,"Mitterteich Köllner,",65.6,France,103
+925,"Pschorr Oktoberfest Oktoberfest,,",89.9,Saint Vincent and the Grenadines,120
+926,"Schlenkerla Rauchbier Pschorr,",23.7,Bahamas,24
+927,"House Huberts Bier,Spaten Pschorr Oktoberfest Oettingen,",73.6,Canada,194
+928,"Weihenstephaner Erdinger Franziskaner,",38.5,Grenada,32
+929,"Ayinger Ritterguts,Ayinger Erdinger,",71.7,Armenia,27
+930,"Gänstaller Ottos,Brewing Maibock,",90.4,Eswatini,119
+931,"Göller,Alt-Bayerisch Dampfbierbrauerei Köllner,",66.6,Japan,199
+932,"Pschorr Oktoberfest Ottos,,",14.6,Niger,30
+933,"Hacker Zoiglbauer,",42.5,San Marino,31
+934,"Schneider Zoigl,Jahrhundert Köllner,,",56.2,Cambodia,6
+935,"Schneider Reissdorf,Ayinger Scurry,Alt-Bayerisch Schumacher,",44.5,Mongolia,101
+936,"Buttenheimer Ottos,",22.2,Vanuatu,198
+937,"1516 Ottos,Spaten Dampfbierbrauerei Franziskaner,",57.4,Samoa,184
+938,"Alt-Bayerisch Maisel,",9.6,Greece,112
+939,"Brauerei Märzen,Schneider Brothers Steam,House Krombacher,Schlenkerla Rauchbier Bier,,",14.3,San Marino,148
+940,"Alt-Bayerisch Erdinger Pikantus,",51.8,Slovakia,192
+941,"Mönchshof Göller,Franziskaner Optimator,Weihenstephaner Huberts Bräu,",98.9,Martinique,115
+942,"Weihenstephaner 1516 Spaten,Aventinus Früh,,",51.7,Ecuador,37
+943,"Andechser Ur-Weisse,",1.7,Kenya,14
+944,"Gänstaller Spezial,Weihenstephaner Huberts Bock,Schneider Pschorr Oktoberfest Pfarrbräu,,",27.5,French Polynesia,23
+945,"Weihenstephaner Pikantus,Pschorr Oktoberfest Pikantus,",23.9,Madagascar,100
+946,"Ayinger 1516 Köstritzer,",67.4,Japan,38
+947,"Hacker Bräu,Brauerei Korbinian,Aventinus Urbock,Doppelbock Pfarrbräu,,",81.2,Mongolia,106
+948,"Zoigl Hofbräu Maisel,",97.7,New Zealand,64
+949,"Gänstaller Spezial,Pschorr,Buttenheimer Brewing Frankenheim,",76.9,Denmark,56
+950,"Andechser 1516 Köstritzer,Jahrhundert Altenauer,Kloster Doppelbock Kellerbier,House Brauerei Schumacher,",77.2,Azerbaijan,132
+951,"Weihenstephaner Gaffel,House Schlenkerla Rauchbier Krombacher,Ayinger Brothers Mönchshof,Hermannator Ice Altenauer,",32.8,Niue,155
+952,"Zoigl Dampfbierbrauerei Drop,Kloster Doppelbock Roggen,,",30.6,El Salvador,151
+953,"Mönchshof Pikantus,Mönchshof Jahrhundert Dampfbier,Brothers Göller,",43.8,Malta,175
+954,"Ur-Weisse,Brauerei Pschorr,Alt-Bayerisch Dunkel,Dampfbierbrauerei Dampfbier,,",94.9,Burkina Faso,158
+955,"Andechser Flensburger,,",13.4,Myanmar,177
+956,"Hacker Hacker Bräu,Franziskaner Gänstaller Bitburger,,",2.5,Cameroon,13
+957,"House Drop,Hefe-Weisse Optimator,Dampfbierbrauerei Aventinus,",5.0,"Venezuela, Bolivarian Republic of",8
+958,"Spaten Brewing Korbinian,",81.1,Libya,70
+959,"Franziskaner Ottos,Schlenkerla Rauchbier Schumacher,Andechser Ayilinger,,",68.2,Guinea-Bissau,51
+960,"Mönchshof Göller,",97.8,Mongolia,115
+961,"Mönchshof Kellerbier,Brewing Oettingen,,",78.3,Barbados,141
+962,"House Bitburger,",59.4,Guam,50
+963,"Spaten Ur-Weisse,",73.0,Finland,59
+964,"Alt-Bayerisch Brothers Erdinger,Zoigl Reissdorf,",1.6,Palau,152
+965,"Schneider Aventinus Oktoberfest,Hacker Unser Spaten,",74.2,French Guiana,62
+966,"Gänstaller Spezial,Weihenstephaner Huberts Bock,Schneider Pschorr Oktoberfest Pfarrbräu,",7.8,Kyrgyzstan,23
+967,"Alt-Bayerisch Pschorr Oktoberfest Pikantus,,",96.4,Guadeloupe,116
+968,"Ayinger Mönchshof,Hermannator Ice Gaffel,Dampfbierbrauerei Lager,",86.1,Chad,122
+969,"House Drop,Hefe-Weisse Optimator,Dampfbierbrauerei Aventinus,Kloster Brauerei Rauchbier,,",91.0,Puerto Rico,8
+970,"House Huberts Bier,Spaten Pschorr Oktoberfest Oettingen,Hacker Erdinger,",4.9,Sudan,194
+971,"Andechser Flensburger,,",39.0,Zimbabwe,177
+972,"Mönchshof Aventinus Ottos,Schneider Roggen,Weihenstephaner Spezial,,",43.9,Suriname,176
+973,"Schneider Aventinus Oktoberfest,Hacker Unser Spaten,,",65.5,"Virgin Islands, British",62
+974,"Ayinger Mönchshof,Hermannator Ice Gaffel,Dampfbierbrauerei Lager,Brothers Ritterguts,",53.9,Luxembourg,122
+975,"Schneider Maisel,Schumacher,Erdinger Dampfbier,Franziskaner Reissdorf,,",42.1,Andorra,90
+976,"Brothers Ritterguts,",52.5,Cabo Verde,99
+977,"Kloster Doppelbock Kellerbier,",55.3,Guyana,171
+978,"Unser Diebels,Weihenstephaner Aventinus Maibock,Hacker-Pschorr Hefe-Weisse Dortmunder,Alt-Bayerisch Hefe-Weisse Franziskaner,",80.9,Timor-Leste,45
+979,"Alt-Bayerisch Bock,",95.9,Sierra Leone,18
+980,"House Huberts Bier,Spaten Pschorr Oktoberfest Oettingen,Hacker Erdinger,",2.0,Monaco,194
+981,"House Bier,Andechser Ottos,,",86.1,Réunion,157
+982,"Mönchshof Pikantus,",14.4,Oman,175
+983,"Alt-Bayerisch Pschorr Oktoberfest Pikantus,",3.7,Guyana,116
+984,"Aventinus Kellerbier,Weihenstephaner 1516 Spaten,Andechser Ur-Weisse,",48.2,Indonesia,134
+985,"Hacker-Pschorr Pschorr Oktoberfest Salvator,Brauerei Krombacher,,",72.7,Bahamas,39
+986,"Schneider Aventinus Oktoberfest,Hacker Unser Spaten,,",91.8,Cuba,62
+987,"Pschorr Oktoberfest Oktoberfest,,",4.5,Burkina Faso,120
+988,"Alt-Bayerisch Hacker Maibock,",6.7,"Saint Helena, Ascension and Tristan da Cunha",48
+989,"Weihenstephaner Jahrhundert Steam,Brothers Dark,,",6.9,Ecuador,40
+990,"Göller,Alt-Bayerisch Dampfbierbrauerei Köllner,Alt-Bayerisch Roggen,,",61.9,Brazil,199
+991,"Spaten Maibock,Ayilinger,Unser Ur-Weisse,",93.8,Solomon Islands,60
+992,"Ur-Weisse,Brauerei Pschorr,Alt-Bayerisch Dunkel,Dampfbierbrauerei Dampfbier,,",83.3,"Korea, Democratic People's Republic of",158
+993,"Buttenheimer Ottos,,",99.2,Wallis and Futuna,162
+994,"Mönchshof Maibock,House Altenauer,",82.5,Viet Nam,57
+995,"Gänstaller Spezial,",79.9,Eritrea,23
+996,"Ayinger Pschorr Oktoberfest Flensburger,Hacker-Pschorr Hefe-Weisse Dortmunder,Ayinger Bitburger,Hofbräu Göller,,",49.5,Panama,89
+997,"Unser Erdinger,Alt-Bayerisch Bock,",2.4,Åland Islands,181
+998,"Weihenstephaner Paulaner Weizen-Eisbock,,",89.1,Albania,182
+999,"Spaten Maibock,Ayilinger,Unser Ur-Weisse,",91.3,"Micronesia, Federated States of",60

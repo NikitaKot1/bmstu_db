@@ -22,7 +22,7 @@ mark = []
 manuf = []
 
 def generate_beer():
-    header = ['mark', 'alko', 'volume', 'manufacturer', 'factory', 'price']
+    header = ['mark', 'alko', 'volume', 'price']
     with open('./tables/beer.csv', 'w', encoding='UTF8') as f:
         writer = csv.writer(f)
         writer.writerow(header)
@@ -43,14 +43,12 @@ def generate_beer():
             alko = random.randint(1, 100) / 10
             volume = random.randint(33, 50) / 100
             price = random.randint(29, 285)
-            manufac = random.randint(0, params['number_manufacturer'] - 1)
-            factory = random.randint(0, params['number_of_factories'] - 1)
-            data = [marki, alko, volume, manufac, factory, price]
+            data = [marki, alko, volume, price]
             writer.writerow(data)
     print('beer was generated')
 
 def generate_manufac():
-    header = ['id', 'marks', 'annual_turnover', 'net_profit', 'year_of_foundatrion']
+    header = ['id', 'annual_turnover', 'net_profit', 'year_of_foundatrion']
     with open('./tables/manufacturers.csv', 'w', encoding='UTF8') as f:
         writer = csv.writer(f)
         writer.writerow(header)
@@ -71,38 +69,43 @@ def generate_manufac():
                 marks += mark[j] + ','
             manuf.append(marks)
 
-            data = [id, marks, annual, net_prof, year]
+            data = [id, annual, net_prof, year]
             writer.writerow(data)
     print('manufacturers was generated')
 
 def generate_factories():
-    header = ['id', 'marks', 'volume', 'country', 'master']
-    with open('./tables/factories.csv', 'w', encoding='UTF8') as f:
-        writer = csv.writer(f)
-        writer.writerow(header)
+    header2 = ['factory', 'beer']
+    with open('./tables/beer_factories.csv', 'w', encoding='UTF8') as g:
+        writer2 = csv.writer(g)
+        writer2.writerow(header2)
+        header = ['id', 'volume', 'country', 'master']
+        with open('./tables/factories.csv', 'w', encoding='UTF8') as f:
+            writer = csv.writer(f)
+            writer.writerow(header)
 
-        countries = {}
-        for country in pycountry.countries:
-            countries[country.name] = country.name
-        co = []
-        for c in countries:
-            co.append(c)
+            countries = {}
+            for country in pycountry.countries:
+                countries[country.name] = country.name
+            co = []
+            for c in countries:
+                co.append(c)
 
-        for i in range(params['number_of_factories']):
-            id = i 
-            country = random.choice(co)
-            volume = random.randint(10, 1000) / 10
-            manufac = random.randint(0, params['number_manufacturer'] - 1)
+            for i in range(params['number_of_factories']):
+                id = i 
+                country = random.choice(co)
+                volume = random.randint(10, 1000) / 10
+                manufac = random.randint(0, params['number_manufacturer'] - 1)
 
-            marks = manuf[manufac]
-            marki = marks.split(',')
-            markii = ''
-            j = random.randint(1, len(marki))
-            for k in range(j):
-                markii += marki[k] + ','
+                marks = manuf[manufac]
+                marki = marks.split(',')
+                markii = ''
+                j = random.randint(1, len(marki))
+                for k in range(j):
+                    data2 = [id, marki[k]]
+                    writer2.writerow(data2)
 
-            data = [id, markii, volume, country, manufac]
-            writer.writerow(data)
+                data = [id, volume, country, manufac]
+                writer.writerow(data)
     print('factories was generated')
 
 def generate_restoran():
@@ -173,6 +176,22 @@ def generate_distributors():
 
     print('distributors was generated')
 
+def generate_beer_manufac():
+    header = ['manufacturer', 'beer']
+    with open('./tables/beer_manufacturers.csv', 'w', encoding='UTF8') as f:
+        writer = csv.writer(f)
+        writer.writerow(header) 
+        for i in range(params["number_manufacturer"]):
+            marki = []
+            col = random.randint(1, 5)
+            for j in range(col):
+                k = random.randint(0, len(mark)-1)
+                if k not in marki:
+                    marki.append(k)
+                    data = [i, mark[k]]
+                    writer.writerow(data)
+            
+
 def main():
     generate_beer()
     generate_manufac()
@@ -181,6 +200,7 @@ def main():
     generate_restoran()
     generate_buyings()
     generate_distributors()
+    generate_beer_manufac()
 
 
 if __name__ == "__main__":

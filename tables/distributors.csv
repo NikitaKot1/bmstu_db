@@ -1,101 +1,101 @@
 id,marks,manufacturers,markup
-0,"Gänstaller Ottos,Hermannator Ice Brewing Ur-Weisse,Huberts Drop,Hacker Aventinus,",117,1
-1,"Brothers Köllner,",96,36
-2,"Pschorr Oktoberfest Oktoberfest,,",120,28
-3,"Ayinger 1516 Köstritzer,",38,74
-4,"Spaten Maibock,Ayilinger,Unser Ur-Weisse,Brothers Rauchbier,",60,21
-5,"Doppelbock Salvator,Hefe-Weisse Dunkel,",1,34
-6,"Hacker Hacker Bräu,Franziskaner Gänstaller Bitburger,",13,99
-7,"Hacker Hacker Bräu,Franziskaner Gänstaller Bitburger,",13,75
-8,"Schneider Hofbräu Maisel,",47,24
-9,"House Bitburger,House Drop,,",50,25
-10,"Erdinger Bräu,",149,15
-11,"Korbinian,Hacker Jahrhundert Ayilinger,Spezial,",10,88
-12,"Buttenheimer Brothers Warsteiner,,",36,66
-13,"Buttenheimer Brothers Warsteiner,,",36,75
-14,"Hacker Pschorr Oktoberfest Zoiglbauer,Aventinus Urbock,Erdinger Schumacher,Kloster Bräu,",42,8
-15,"Ur-Weisse,",158,42
-16,"Brewing Rauchbier,Buttenheimer Brauerei Bräu,",11,41
-17,"Hefe-Weisse Altenauer,Jahrhundert Oettingen,",79,82
-18,"Andechser Ur-Weisse,,",14,13
-19,"Ayinger Jahrhundert Urbock,",67,97
-20,"Mönchshof Brothers Aventinus,Brewing Weizen-Eisbock,Huberts Steam,Mönchshof Dampfbier,,",7,80
-21,"Hacker Hacker Bräu,",13,99
-22,"Ur-Weisse,",158,95
-23,"Spaten Ur-Weisse,,",59,41
-24,"Zoigl Hofbräu Frankenheim,Märzen,Ayinger Bitburger,",191,55
-25,"Hacker Hefe-Weisse Köllner,,",86,79
-26,"Weihenstephaner Gaffel,House Schlenkerla Rauchbier Krombacher,Ayinger Brothers Mönchshof,Hermannator Ice Altenauer,,",155,70
-27,"Brauerei Diebels,",196,51
-28,"Spaten Maibock,Ayilinger,Unser Ur-Weisse,",60,18
-29,"Schneider Reissdorf,Brewing Dampfbier,Köstritzer,",183,67
-30,"Alt-Bayerisch Maisel,,",112,17
-31,"Franziskaner 1516 Spaten,",29,44
-32,"Gänstaller Ottos,Hermannator Ice Brewing Ur-Weisse,Huberts Drop,Hacker Aventinus,,",117,32
-33,"Mönchshof Weizen-Eisbock,Weihenstephaner Brauerei Schumacher,Andechser Ayinger Spaten,Mönchshof Unser Ritterguts,,",84,24
-34,"Alt-Bayerisch Urbock,",167,30
-35,"House Bitburger,House Drop,,",50,22
-36,"Weihenstephaner Schumacher,",19,4
-37,"Ayinger Schumacher,Hacker-Pschorr Maisel,,",49,41
-38,"Ayinger Dortmunder,Weihenstephaner Warsteiner,",113,37
-39,"Andechser Ottos,Hacker-Pschorr Gänstaller Oktoberfest,Unser Pfarrbräu,Hacker-Pschorr Hacker Altenauer,",74,22
-40,"Ur-Weisse,Brauerei Pschorr,",158,8
-41,"Alt-Bayerisch Maisel,,",112,74
-42,"Spaten Ur-Weisse,",59,45
-43,"Spaten Ur-Weisse,,",59,6
-44,"Maisel,Weihenstephaner Dampfbierbrauerei Dunkel,Erdinger Ritterguts,",188,71
-45,"Spaten Zoigl,Franziskaner Hefe-Weisse Dunkel,",66,3
-46,"Weihenstephaner Jahrhundert Steam,",40,94
-47,"Göller,",199,73
-48,"1516 München,Andechser Ayinger Spaten,,",180,60
-49,"Hacker-Pschorr Pschorr Oktoberfest Salvator,Brauerei Krombacher,",39,73
-50,"Franziskaner Unser Bräu,",179,38
-51,"Alt-Bayerisch Hacker Maibock,,",48,90
-52,"Kloster Unser Bitburger,,",26,68
-53,"Hacker Pschorr Oktoberfest Zoiglbauer,Aventinus Urbock,Erdinger Schumacher,",42,38
-54,"Schlenkerla Rauchbier Pschorr,,",24,59
-55,"Andechser Hofbräu Schumacher,,",125,79
-56,"Gänstaller Mühlen,Spaten Bier,Doppelbock Diebels,Erdinger Ur-Weisse,,",161,33
-57,"Ayinger Pschorr Oktoberfest Flensburger,Huberts Salvator,Hacker Märzen,,",150,100
-58,"Spaten Brewing Korbinian,Zoigl Altenauer,Weihenstephaner Aventinus Maibock,Alt-Bayerisch Jahrhundert Spezial,,",70,95
-59,"House Goslarer,",123,58
-60,"Schlenkerla Rauchbier Pschorr,",24,39
-61,"House Huberts Bier,",194,23
-62,"Aventinus Kellerbier,",134,66
-63,"Spaten Zoigl,Franziskaner Hefe-Weisse Dunkel,Ayinger Erdinger Dark,Mitterteich Schumacher,",66,45
-64,"Alt-Bayerisch Gänstaller Dark,,",80,60
-65,"Zoigl Hofbräu Maisel,,",64,75
-66,"Schneider Reissdorf,",183,12
-67,"Schneider Maisel,Schumacher,",90,75
-68,"Ayinger Brauerei Becks,Zoigl Ur-Weisse,Hermannator Ice Brewing Aventinus,,",17,77
-69,"Weihenstephaner Paulaner Weizen-Eisbock,",182,19
-70,"Aventinus Kellerbier,Weihenstephaner 1516 Spaten,Andechser Ur-Weisse,,",134,37
-71,"Alt-Bayerisch Gänstaller Urbock,",137,55
-72,"Alt-Bayerisch Pschorr Oktoberfest Pikantus,",116,1
-73,"Hacker Maisel,Weihenstephaner Erdinger Reissdorf,Buttenheimer Hacker Pschorr,",55,61
-74,"Brothers Göller,",54,19
-75,"Mönchshof Pikantus,Mönchshof Jahrhundert Dampfbier,Brothers Göller,,",175,93
-76,"Buttenheimer Maibock,Andechser Krombacher,München,",126,30
-77,"Ayinger Ritterguts,",27,17
-78,"Weihenstephaner 1516 Spaten,",37,13
-79,"Andechser Hofbräu Schumacher,",125,83
-80,"Buttenheimer Ayinger Krombacher,,",87,87
-81,"Alt-Bayerisch Gänstaller Urbock,Hefe-Weisse Franziskaner,",137,78
-82,"1516 Ottos,Spaten Dampfbierbrauerei Franziskaner,",184,20
-83,"Zoigl Zoiglbauer,",142,58
-84,"Buttenheimer Ottos,",198,42
-85,"Ur-Weisse,Brauerei Pschorr,Alt-Bayerisch Dunkel,Dampfbierbrauerei Dampfbier,,",158,34
-86,"Unser Pfarrbräu,Ayinger Erdinger,Franziskaner Unser Rauchbier,,",53,97
-87,"Unser Erdinger,Alt-Bayerisch Bock,Alt-Bayerisch Ur-Weisse,",181,23
-88,"Buttenheimer Ottos,",162,49
-89,"Unser Diebels,Weihenstephaner Aventinus Maibock,Hacker-Pschorr Hefe-Weisse Dortmunder,Alt-Bayerisch Hefe-Weisse Franziskaner,,",45,2
-90,"Hacker-Pschorr Gaffel,Kloster Doppelbock Kellerbier,Mitterteich Bier,",164,62
-91,"Pschorr Oktoberfest Schumacher,Brauerei Pfarrbräu,Unser Erdinger,",166,87
-92,"Paulaner Diebels,Franziskaner Frankenheim,",22,50
-93,"Erdinger Korbinian,,",20,21
-94,"Brothers Dortmunder,,",128,14
-95,"Alt-Bayerisch Bock,",71,6
-96,"Hermannator Ice Aventinus,Brewing Dampfbier,Alt-Bayerisch Pfarrbräu,,",197,52
-97,"Hacker-Pschorr Pschorr Oktoberfest Früh,Doppelbock Diebels,Brewing Paulaner,,",35,96
-98,"Hermannator Ice Aventinus,Brewing Dampfbier,Alt-Bayerisch Pfarrbräu,,",197,78
-99,"Spaten Schlenkerla Rauchbier Aventinus,Mitterteich Mühlen,Gänstaller Oktoberfest,Hacker Pschorr Oktoberfest Maibock,",143,87
+0,"Weihenstephaner Mitterteich Pschorr,Franziskaner 1516 Mönchshof,Ayinger Bräu,Weihenstephaner Maibock,",114,90
+1,"Franziskaner Urbock,,",169,65
+2,"Alt-Bayerisch Becks,",178,59
+3,"Mühlen,",20,28
+4,"Zoigl Huberts Radeberger,,",105,100
+5,"Pschorr Oktoberfest Urbock,Erdinger Ur-Weisse,Hacker Pschorr Oktoberfest Gaffel,",41,34
+6,"Mönchshof,Andechser Flensburger,,",80,35
+7,"Spaten 1516 Erdinger,Alt-Bayerisch Dampfbierbrauerei Urbock,Paulaner,",57,62
+8,"Märzen,Weihenstephaner Brauerei Optimator,,",188,21
+9,"Maibock,Weihenstephaner Pfarrbräu,",56,34
+10,"Brauerei Krombacher,Hacker Scurry,",83,90
+11,"Schneider Brewing Lager,Jahrhundert Gaffel,",195,4
+12,"Spaten Krombacher,Spaten Flensburger,",163,8
+13,"Mitterteich Scurry,Weihenstephaner Dark,",127,39
+14,"Alt-Bayerisch Schlenkerla Rauchbier Ritterguts,Schneider Bier,",139,50
+15,"Hermannator Ice Brothers Kellerbier,Hermannator Ice Aventinus Altenauer,Weihenstephaner Radeberger,,",154,12
+16,"Ayinger Bitburger,",87,22
+17,"Jahrhundert Ritterguts,,",92,42
+18,"Brewing Roggen,",76,96
+19,"Hofbräu Bier,",79,45
+20,"Zoigl Paulaner Mühlen,Aventinus Oettingen,House Hefe-Weisse Pikantus,,",70,11
+21,"Märzen,",188,96
+22,"Mitterteich Scurry,Weihenstephaner Dark,Huberts Pfarrbräu,",127,66
+23,"Pschorr Oktoberfest Aventinus,Ayinger Unser Oettingen,",165,61
+24,"Franziskaner Zoiglbauer,Gänstaller Köstritzer,,",49,26
+25,"Kloster Huberts Aventinus,",48,24
+26,"Pschorr Oktoberfest Urbock,",41,94
+27,"Erdinger Ritterguts,Buttenheimer Zoiglbauer,Brauerei Lager,",85,12
+28,"Franziskaner Hefe-Weisse Optimator,Franziskaner Reissdorf,",171,47
+29,"Spaten Krombacher,Spaten Flensburger,,",163,9
+30,"Pschorr Oktoberfest Scurry,Schlenkerla Rauchbier Märzen,",45,32
+31,"Zoigl Dampfbier,Buttenheimer Köllner,Hermannator Ice Dampfbier,,",25,49
+32,"Brauerei Mönchshof,Alt-Bayerisch 1516 Flensburger,Weihenstephaner Jahrhundert Roggen,",146,97
+33,"Weihenstephaner Radeberger,Hefe-Weisse Ur-Weisse,Hacker 1516 Ritterguts,Buttenheimer Flensburger,",89,95
+34,"Alt-Bayerisch 1516 Ur-Weisse,",23,33
+35,"Andechser Huberts Optimator,Mitterteich Ottos,",161,15
+36,"Hermannator Ice Steam,",47,9
+37,"Weihenstephaner Pfarrbräu,Brewing Ottos,",125,33
+38,"Zoigl Doppelbock Mühlen,Andechser Hofbräu Erdinger,,",53,35
+39,"Spaten 1516 Erdinger,",57,69
+40,"Weihenstephaner Mühlen,Unser Zoigl,Huberts Spezial,",118,29
+41,"Paulaner Bitburger,Hefe-Weisse Dortmunder,",103,25
+42,"Paulaner Bitburger,Hefe-Weisse Dortmunder,",103,9
+43,"Alt-Bayerisch Doppelbock Drop,Alt-Bayerisch Roggen,",99,87
+44,"Andechser Oettingen,,",5,2
+45,"Kloster Huberts Aventinus,Roggen,Alt-Bayerisch Aventinus Mönchshof,,",48,52
+46,"Hacker München,",0,76
+47,"Unser Becks,Unser Radeberger,Hacker Köllner,Mitterteich Pschorr,,",190,68
+48,"Kellerbier,Kloster Schumacher,House Hefe-Weisse Früh,,",71,44
+49,"Mitterteich Radeberger,Spaten Huberts Becks,,",121,36
+50,"Weihenstephaner Ritterguts,Andechser Doppelbock Goslarer,,",91,5
+51,"Hacker-Pschorr Gaffel,,",180,71
+52,"Weihenstephaner Ritterguts,Andechser Doppelbock Goslarer,",91,19
+53,"Brothers Bräu,Zoigl Drop,Alt-Bayerisch Mitterteich Dunkel,Ayinger Bitburger,,",144,45
+54,"Pschorr Oktoberfest Bitburger,Bock,Spaten Brothers Bitburger,Spaten Gänstaller Diebels,,",112,63
+55,"Alt-Bayerisch Hofbräu Göller,Scurry,,",62,40
+56,"Weihenstephaner Dark,",78,37
+57,"Mönchshof,Andechser Flensburger,,",80,63
+58,"Weihenstephaner Ritterguts,Andechser Doppelbock Goslarer,",91,80
+59,"Buttenheimer Unser Augustinerbräu,Weihenstephaner Jahrhundert Zoigl,,",153,93
+60,"Schneider Goslarer,Korbinian,,",124,86
+61,"Schlenkerla Rauchbier Erdinger,Ayinger Pschorr,Aventinus Ottos,Hofbräu Optimator,",60,28
+62,"Hermannator Ice Aventinus Altenauer,",64,35
+63,"Schlenkerla Rauchbier Warsteiner,Mitterteich Reissdorf,",148,91
+64,"Schneider Jahrhundert Goslarer,Zoigl Korbinian,",73,58
+65,"Paulaner,",168,61
+66,"Hermannator Ice Goslarer,Alt-Bayerisch Brewing Pikantus,Hacker Erdinger Dunkel,Hacker-Pschorr Ayinger Lager,",39,12
+67,"Hacker Pikantus,Ayinger Dampfbier,,",90,71
+68,"Pschorr Oktoberfest Dortmunder,Hermannator Ice Ayinger Becks,Weihenstephaner Mitterteich Ottos,Spaten,,",40,69
+69,"House Doppelbock Urbock,Zoigl 1516 Warsteiner,Alt-Bayerisch Optimator,",183,45
+70,"Hacker-Pschorr Hofbräu Augustinerbräu,,",142,25
+71,"Hacker-Pschorr Salvator,Weihenstephaner Paulaner,Zoigl Paulaner Reissdorf,",138,58
+72,"Unser Reissdorf,Ayinger Zoiglbauer,Jahrhundert Korbinian,",191,81
+73,"Franziskaner Zoiglbauer,Gänstaller Köstritzer,",49,85
+74,"Schneider Köstritzer,Dampfbierbrauerei Diebels,Hofbräu Bier,",130,89
+75,"Schlenkerla Rauchbier Erdinger,Ayinger Pschorr,Aventinus Ottos,Hofbräu Optimator,",60,35
+76,"Hacker-Pschorr Hofbräu Augustinerbräu,",142,100
+77,"Unser Mönchshof,",162,6
+78,"Hacker-Pschorr Salvator,Weihenstephaner Paulaner,Zoigl Paulaner Reissdorf,Franziskaner 1516 Mönchshof,,",138,36
+79,"Weihenstephaner Mitterteich Pschorr,",114,14
+80,"Weihenstephaner Doppelbock Köstritzer,Hacker-Pschorr Hofbräu Augustinerbräu,Dampfbierbrauerei Märzen,",52,58
+81,"Erdinger Ritterguts,Buttenheimer Zoiglbauer,Brauerei Lager,,",85,95
+82,"Alt-Bayerisch Schumacher,Jahrhundert Ritterguts,,",77,16
+83,"Schneider Aventinus,Alt-Bayerisch Hefe-Weisse Märzen,Buttenheimer Aventinus Schumacher,Unser Erdinger,",96,7
+84,"Brauerei Krombacher,Hacker Scurry,Spaten Diebels,Buttenheimer Paulaner,,",83,66
+85,"Franziskaner 1516 Mönchshof,",69,95
+86,"Brewing Roggen,Pschorr Oktoberfest Aventinus,",76,84
+87,"Hofbräu Bier,,",79,76
+88,"Hacker-Pschorr Altenauer,Mönchshof Huberts Warsteiner,Alt-Bayerisch Huberts Paulaner,,",84,14
+89,"Zoigl Hofbräu Scurry,Zoigl Jahrhundert Dunkel,",8,76
+90,"Schlenkerla Rauchbier Krombacher,",152,71
+91,"Schneider Brewing Lager,Jahrhundert Gaffel,Salvator,",195,59
+92,"Mitterteich Oettingen,Andechser Paulaner Spezial,",193,59
+93,"1516 Oktoberfest,",179,91
+94,"Hofbräu Maibock,1516 Früh,",147,97
+95,"Alt-Bayerisch Pschorr Oktoberfest Ayilinger,,",155,90
+96,"Schlenkerla Rauchbier Ur-Weisse,Franziskaner Schlenkerla Rauchbier Korbinian,Schneider Rauchbier,",160,72
+97,"Zoigl Dampfbier,Buttenheimer Köllner,",25,52
+98,"Unser Erdinger,,",50,94
+99,"Unser Reissdorf,",191,97

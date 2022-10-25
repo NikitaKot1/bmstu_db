@@ -2,7 +2,6 @@ DROP TABLE IF EXISTS manufacturer_table CASCADE;
 CREATE TABLE IF NOT EXISTS manufacturer_table
 (
     id INT NOT NULL PRIMARY KEY,
-    marks VARCHAR(1024),
     turnover FLOAT CHECK (turnover > 0),
     profit FLOAT CHECK (profit > 0),
     foundation INT CHECK (foundation >= 1000)
@@ -12,7 +11,6 @@ DROP TABLE IF EXISTS factory_table CASCADE;
 CREATE TABLE IF NOT EXISTS factory_table
 (
     id INT NOT NULL PRIMARY KEY,
-    marks VARCHAR(1024),
     volume FLOAT CHECK (volume >= 1),
     country VARCHAR(64),
     masterr INT,
@@ -24,12 +22,25 @@ CREATE TABLE IF NOT EXISTS beer_table
 (
     mark VARCHAR(256) NOT NULL PRIMARY KEY,
     alko FLOAT CHECK (alko > 0 AND alko < 96), 
-    volume FLOAT CHECK (volume > 0), 
-    manufacturer INT,
-    factory INT, 
-    price INT CHECK (price > 0),
+    volume FLOAT CHECK (volume > 0),
+    price INT CHECK (price > 0)
+);
 
-    FOREIGN KEY (manufacturer) REFERENCES manufacturer_table(id),
+DROP TABLE IF EXISTS beer_manuf_table CASCADE;
+CREATE TABLE IF NOT EXISTS beer_manuf_table
+(
+    mark VARCHAR(256),
+    manufacturer INT,
+
+    FOREIGN KEY (manufacturer) REFERENCES manufacturer_table(id)
+);
+
+DROP TABLE IF EXISTS beer_factory_table CASCADE;
+CREATE TABLE IF NOT EXISTS beer_factory_table
+(
+    mark VARCHAR(256),
+    factory INT,
+
     FOREIGN KEY (factory) REFERENCES factory_table(id)
 );
 

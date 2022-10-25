@@ -1,1001 +1,1001 @@
 id,name,gender,lovely_beer,date_of_birth
-0,Роман Аркадиевич Ражковский,M,Spaten Doppelbock Gaffel,1957-11-08 00:00:00
-1,Павел Антонович Пулков,F,Ayinger Ritterguts,1943-01-21 00:00:00
-2,Карина Егоровна Шлыгина,F,Kloster Bitburger,1970-03-02 00:00:00
-3,Инна Максимовна Голубашина,F,Buttenheimer Schlenkerla Rauchbier Gaffel,1938-01-24 00:00:00
-4,Станислав Денисович Збровский,F,Kloster Unser Bitburger,1986-05-16 00:00:00
-5,Аркадий Юрьевич Антилофьев,M,Hefe-Weisse Korbinian,1952-05-11 00:00:00
-6,Ольга Аркадьевна Ворохина,F,Ayinger Warsteiner,1930-12-09 00:00:00
-7,Геннадий Алексеевич Шпелев,M,Alt-Bayerisch Steam,1965-04-03 00:00:00
-8,Александра Федоровна Ульяхина,M,Weihenstephaner Brothers Dampfbier,2003-07-28 00:00:00
-9,Вадим Данилович Иншев,F,Weihenstephaner Diebels,1925-08-10 00:00:00
-10,Руслан Денисович Уюдин,M,Mönchshof Hacker Roggen,1958-12-05 00:00:00
-11,Кристина Викторовна Уксусова,M,Spaten Mitterteich Früh,1944-09-22 00:00:00
-12,Михаил Антонович Щебалин,F,Mitterteich Warsteiner,1930-04-29 00:00:00
-13,Игорь Николаевич Ваучинский,F,Ayinger Bräu,1966-02-20 00:00:00
-14,Борис Виталиевич Талибов,F,Doppelbock Pikantus,1924-11-09 00:00:00
-15,Павел Игоревич Гольтяпин,F,Drop,1970-01-28 00:00:00
-16,Василий Викторович Светцов,F,Buttenheimer Zoigl,1962-06-20 00:00:00
-17,Андрей Петрович Кабочкин,M,Franziskaner,1986-01-16 00:00:00
-18,Иван Антонович Ревушкин,M,Zoigl Schlenkerla Rauchbier Maisel,1946-08-03 00:00:00
-19,Василий Викторович Геретаев,M,Dampfbierbrauerei Ottos,1967-12-18 00:00:00
-20,Артём Иванович Пустотин,F,Jahrhundert Maibock,1981-10-01 00:00:00
-21,Артём Василиевич Глодин,F,Hacker-Pschorr Ottos,1959-01-15 00:00:00
-22,Виктор Георгиевич Вулих,M,Erdinger Reissdorf,1928-09-13 00:00:00
-23,Федор Виталиевич Литвяков,F,Franziskaner Gänstaller Dunkel,1956-06-18 00:00:00
-24,Евгений Георгиевич Андропов,F,Kloster Ayinger Ritterguts,1943-10-10 00:00:00
-25,Виктор Викторович Балабуткин,M,Alt-Bayerisch Dampfbierbrauerei Köllner,1986-11-01 00:00:00
-26,Эдуард Павлович Серединцев,F,Hacker-Pschorr Franziskaner,1951-10-11 00:00:00
-27,Руслан Антонович Каплин,M,House Huberts Bier,1971-12-30 00:00:00
-28,Аркадий Аркадиевич Черменин,F,Hefe-Weisse Kellerbier,1967-11-27 00:00:00
-29,Игорь Алексеевич Кагушкин,M,Alt-Bayerisch Brothers Köstritzer,1990-01-28 00:00:00
-30,Катерина Валерьевна Кирьязова,M,Zoigl Ayinger Reissdorf,1972-04-23 00:00:00
-31,Аркадий Алексеевич Дрожжин,M,Pschorr Oktoberfest Dampfbier,1989-06-24 00:00:00
-32,Алексей Леонидович Арбенин,F,Brauerei Korbinian,1923-11-06 00:00:00
-33,Ольга Кирилловна Полисонова,F,Schneider Spezial,1950-03-11 00:00:00
-34,Александра Богдановна Большукина,F,Andechser Urbock,1954-01-10 00:00:00
-35,Евгений Виталиевич Коряпин,F,Doppelbock Ayilinger,1925-10-21 00:00:00
-36,Владимир Борисович Евгранин,F,Erdinger,1922-08-23 00:00:00
-37,Антон Иванович Хелимский,F,Weihenstephaner Gänstaller Dark,1963-07-28 00:00:00
-38,Николай Олегович Семизоров,F,Zoigl Flensburger,1928-06-29 00:00:00
-39,Ярослав Юриевич Альвухин,M,Pschorr Oktoberfest Rauchbier,1970-05-23 00:00:00
-40,Станислав Леонидович Русейкин,F,Andechser Salvator,1986-05-14 00:00:00
-41,Светлана Сергеевна Обезьянина,M,Spaten Bier,1998-01-19 00:00:00
-42,Руслан Антонович Назарин,F,Hermannator Ice Dunkel,1996-02-09 00:00:00
-43,Клара Эдуардовна Фифилина,M,Paulaner Scurry,1937-12-01 00:00:00
-44,Владимир Романович Гаязов,F,Hacker-Pschorr Hacker Altenauer,1927-11-19 00:00:00
-45,Николай Андреевич Эйдинов,M,Hermannator Ice Hefe-Weisse Roggen,1941-11-25 00:00:00
-46,Зинаида Андреевна Маршанова,M,Spaten Dampfbierbrauerei Franziskaner,1972-06-28 00:00:00
-47,Владимир Викторович Лапотков,M,Brewing Radeberger,1955-09-08 00:00:00
-48,Виктор Виталиевич Марикин,M,Unser Flensburger,1968-07-04 00:00:00
-49,Марина Валерьевна Жепезина,F,Pikantus,1941-02-17 00:00:00
-50,Александр Тимофеевич Пославский,F,Weihenstephaner Dampfbierbrauerei Korbinian,1983-02-18 00:00:00
-51,Илья Олегович Атражев,M,Mönchshof Hofbräu Bock,1943-09-21 00:00:00
-52,Никита Игоревич Еврасов,F,Ayinger Hefe-Weisse Spaten,1956-12-02 00:00:00
-53,Алина Богдановна Анушова,F,Schneider Jahrhundert Dunkel,1953-02-17 00:00:00
-54,Галина Кирилловна Сурнева,M,Buttenheimer Brauerei Radeberger,1981-08-22 00:00:00
-55,Алексей Алексеевич Дубовников,F,Brothers Rauchbier,2003-06-01 00:00:00
-56,Вадим Андреевич Ремезков,F,Hermannator Ice Aventinus,1994-05-22 00:00:00
-57,София Дмитриевна Демагина,F,Alt-Bayerisch Brauerei Märzen,1938-11-15 00:00:00
-58,Денис Антонович Гонзалев,F,Hermannator Ice Paulaner Göller,1992-12-27 00:00:00
-59,Степан Евгеньевич Ольховкин,F,Andechser Hofbräu Schumacher,1981-07-30 00:00:00
-60,Ксения Борисовна Сиськова,M,Weihenstephaner Aventinus,1935-11-10 00:00:00
-61,Иван Адамович Шубарин,M,Ayinger München,1948-12-10 00:00:00
-62,Валерия Михайловна Коротокова,F,Weihenstephaner Brothers Dampfbier,1977-05-25 00:00:00
-63,Валерия Богдановна Строгалова,F,House Hacker Ayilinger,1932-04-02 00:00:00
-64,Юрий Кириллович Тюрясов,M,Ayinger Erdinger Dark,1925-01-23 00:00:00
-65,Станислав Юрьевич Гаюнькин,M,Alt-Bayerisch Hofbräu Dunkel,1924-07-29 00:00:00
-66,Аркадий Антонович Дробнов,M,Huberts Warsteiner,1980-04-06 00:00:00
-67,Алексей Фёдорович Абидинов,M,Bier,1995-06-19 00:00:00
-68,Леонид Антонович Енилин,F,Ayinger Gänstaller Bitburger,1987-05-05 00:00:00
-69,Жанна Егоровна Рабцева,M,Weihenstephaner Gänstaller Reissdorf,1951-03-15 00:00:00
-70,Алексей Денисович Задуров,F,Alt-Bayerisch Hofbräu Dunkel,1952-01-02 00:00:00
-71,Екатерина Дмитриевна Наварнова,M,Hacker-Pschorr Doppelbock Roggen,1958-03-13 00:00:00
-72,Карина Яковлевна Барамзина,M,Pschorr,1943-01-14 00:00:00
-73,Василий Павлович Брилев,F,Schneider Hefe-Weisse Dunkel,1988-10-11 00:00:00
-74,Виктор Сергеевич Воротнин,M,Ayinger Jahrhundert Urbock,1996-07-27 00:00:00
-75,Тарас Кириллович Пиршин,F,House Dampfbierbrauerei Köstritzer,1937-05-11 00:00:00
-76,Надежда Егоровна Улумбекова,F,Alt-Bayerisch 1516 Zoiglbauer,1999-05-22 00:00:00
-77,Николай Аркадиевич Гасымов,F,Mitterteich Köllner,1969-05-25 00:00:00
-78,Клара Кирилловна Тюрчева,F,Pfarrbräu,1983-01-05 00:00:00
-79,Дарья Олеговна Саутиева,F,Hacker-Pschorr Brewing Ritterguts,1931-10-14 00:00:00
-80,Григорий Валериевич Хлистунов,F,Hacker-Pschorr Hacker Altenauer,1987-01-11 00:00:00
-81,Елизавета Игоревна Союстова,F,Hacker Radeberger,1930-01-18 00:00:00
-82,Виктор Адамович Зусин,F,Ayinger Paulaner Kellerbier,1964-11-22 00:00:00
-83,Станислав Адамович Нажмудинов,F,Spaten Huberts Maisel,1961-09-20 00:00:00
-84,Катерина Вадимовна Агушова,F,Ayinger Brothers Dortmunder,2003-08-29 00:00:00
-85,Вячеслав Юрьевич Рахновский,M,Spaten München,1977-08-16 00:00:00
-86,Виталий Аркадиевич Буральчев,F,Doppelbock Dunkel,1923-07-19 00:00:00
-87,Ева Романовна Бутонина,M,Ayinger Erdinger,1963-03-03 00:00:00
-88,Иван Иванович Хвалин,M,Mönchshof Unser Ritterguts,1976-04-22 00:00:00
-89,Екатерина Романовна Аленичкина,F,Schneider Gänstaller Oettingen,1936-10-26 00:00:00
-90,Дмитрий Денисович Кытьков,F,Alt-Bayerisch Maisel,1950-08-20 00:00:00
-91,Дарья Яковлевна Нахова,M,Buttenheimer Schlenkerla Rauchbier Gaffel,1952-02-23 00:00:00
-92,Валентин Алексеевич Пестряев,F,Unser Pfarrbräu,1984-03-04 00:00:00
-93,Мария Андреевна Лушнова,M,Alt-Bayerisch Erdinger Oktoberfest,1986-09-24 00:00:00
-94,Тарас Викторович Учанин,M,Hacker-Pschorr Oettingen,1942-09-02 00:00:00
-95,Кира Борисовна Окуличева,M,Andechser Huberts Diebels,1934-02-26 00:00:00
-96,Клара Михайловна Михальская,F,Weihenstephaner Becks,1978-04-06 00:00:00
-97,Аркадий Максимович Белокрылин,F,Spaten Becks,1990-05-27 00:00:00
-98,Алиса Борисовна Столякова,M,Schneider Hefe-Weisse Bitburger,1996-01-03 00:00:00
-99,Лиза Алексеевна Коринфская,M,Schneider Unser Mönchshof,1935-05-25 00:00:00
-100,Александр Михаилович Галчинский,F,Dampfbierbrauerei Mühlen,2001-01-12 00:00:00
-101,Юрий Яковлевич Малхов,F,Schneider Märzen,1942-07-16 00:00:00
-102,Алена Богдановна Евтонова,M,Kloster Doppelbock Roggen,1944-11-17 00:00:00
-103,Ольга Эдуардовна Синапенова,M,Gänstaller Lager,1952-05-11 00:00:00
-104,Василий Игоревич Талицкий,M,Ayinger Hefe-Weisse Spaten,1983-09-13 00:00:00
-105,Павел Алексиевич Ланцов,M,Franziskaner Pschorr Oktoberfest Ur-Weisse,2002-10-10 00:00:00
-106,Яна Егоровна Грустнева,F,Buttenheimer Brothers Pschorr,1945-09-10 00:00:00
-107,Валентин Василиевич Иметдинов,M,Pschorr Oktoberfest Augustinerbräu,2002-02-10 00:00:00
-108,София Вадимовна Махолова,F,Hacker Mitterteich Scurry,1948-02-04 00:00:00
-109,Герасим Викторович Черноротов,F,Weihenstephaner Becks,1996-11-08 00:00:00
-110,Евгений Данилович Уразаев,M,Huberts München,1990-05-17 00:00:00
-111,Константин Денисович Хритошин,M,Jahrhundert Krombacher,1950-05-02 00:00:00
-112,Евгений Игоревич Сафрин,M,Andechser Flensburger,1969-09-25 00:00:00
-113,София Вадимовна Костромова,M,Zoigl Hofbräu Frankenheim,1937-01-20 00:00:00
-114,Софья Яковлевна Галяткина,F,Kloster Früh,1947-05-14 00:00:00
-115,Алексей Юрьевич Лабжинов,F,Schneider Aventinus Spezial,1935-05-09 00:00:00
-116,Клара Аркадьевна Машакина,F,Optimator,1951-05-13 00:00:00
-117,Наталья Валерьевна Прянникова,M,Alt-Bayerisch Brauerei Ottos,1942-02-14 00:00:00
-118,Александра Егоровна Унгина,F,Huberts Ritterguts,1971-07-24 00:00:00
-119,Любовь Борисовна Минчайкина,F,Alt-Bayerisch Schlenkerla Rauchbier Salvator,1926-06-18 00:00:00
-120,Александра Леонидовна Гриничева,F,Zoigl Drop,1937-07-01 00:00:00
-121,Никита Адамович Белялин,F,Weihenstephaner Schumacher,1995-11-16 00:00:00
-122,Клавдия Романовна Шибелева,M,Goslarer,1976-08-09 00:00:00
-123,Леонид Петрович Апросин,F,House Doppelbock Bräu,1985-10-31 00:00:00
-124,Кирилл Тимофеевич Саврин,F,Franziskaner Gänstaller Bitburger,1951-05-19 00:00:00
-125,Полина Петровна Байцерова,M,Hofbräu Ur-Weisse,1928-04-19 00:00:00
-126,Юлия Сергеевна Коновигина,M,Zoigl Schlenkerla Rauchbier Bräu,1939-10-31 00:00:00
-127,Александра Федоровна Шабская,F,Pschorr Oktoberfest Oktoberfest,2001-10-15 00:00:00
-128,Елена Эдуардовна Шолгина,F,Doppelbock Pfarrbräu,1960-07-09 00:00:00
-129,Кирилл Павлович Кабардов,M,Franziskaner Krombacher,1964-01-07 00:00:00
-130,Вероника Алексеевна Локтаева,F,Hacker Bräu,1984-07-31 00:00:00
-131,Михаил Виталиевич Чухров,M,Schneider 1516 Dunkel,1995-02-17 00:00:00
-132,Жанна Федоровна Берсукова,M,Jahrhundert Altenauer,1943-10-22 00:00:00
-133,Семён Алексеевич Жеванов,M,Aventinus Warsteiner,1959-02-18 00:00:00
-134,Герасим Данилович Делицын,M,Hermannator Ice Brauerei Altenauer,1928-05-04 00:00:00
-135,Жанна Федоровна Чусовикина,M,Gänstaller Köstritzer,1972-01-03 00:00:00
-136,Анна Борисовна Армина,F,Weihenstephaner Spezial,1987-10-22 00:00:00
-137,Карина Борисовна Компанчева,F,Zoigl Aventinus Frankenheim,1952-06-07 00:00:00
-138,Алена Андреевна Шубалова,F,Weihenstephaner Dampfbierbrauerei Pikantus,1975-12-15 00:00:00
-139,Виктория Егоровна Сучажова,F,Zoigl Hofbräu Zoigl,1982-11-15 00:00:00
-140,Виталий Олегович Чуплыгин,M,Brauerei Krombacher,1969-12-03 00:00:00
-141,Станислав Михаилович Лейченков,F,1516 Ritterguts,1992-10-18 00:00:00
-142,Руслан Аркадиевич Жужиков,M,Spaten Doppelbock Gaffel,1990-09-03 00:00:00
-143,Алексей Данилович Лузков,F,Unser Pfarrbräu,1954-10-10 00:00:00
-144,Юлия Леонидовна Дохова,M,Buttenheimer Hacker Pschorr,1943-06-17 00:00:00
-145,Степан Павлович Хлопинов,F,Hacker Hofbräu Aventinus,1973-12-17 00:00:00
-146,Дарья Эдуардовна Чепинева,M,Weihenstephaner Pschorr Oktoberfest Dunkel,1986-05-01 00:00:00
-147,Артём Антонович Коротлев,M,Ayinger München,1943-01-20 00:00:00
-148,Руслан Тимофеевич Стребулаев,F,Buttenheimer Doppelbock Dunkel,1967-07-04 00:00:00
-149,Наталия Валерьевна Унишевская,M,Dampfbierbrauerei Lager,1993-09-24 00:00:00
-150,Пётр Аркадиевич Падмазов,M,Aventinus Goslarer,1994-03-27 00:00:00
-151,Никита Георгиевич Алдашин,F,Franziskaner Reissdorf,1982-11-17 00:00:00
-152,Ева Олеговна Иомтева,F,Mönchshof Brauerei Ottos,1962-07-06 00:00:00
-153,Зинаида Олеговна Гордилова,M,Hacker-Pschorr Erdinger Goslarer,1978-10-13 00:00:00
-154,Светлана Максимовна Шебукина,M,Mönchshof Dampfbier,1933-06-08 00:00:00
-155,Антон Фёдорович Базунов,F,Schneider Pschorr Oktoberfest Märzen,1928-08-30 00:00:00
-156,Лариса Валерьевна Заломаева,M,Hacker-Pschorr Pschorr Oktoberfest Früh,1940-01-01 00:00:00
-157,Денис Николаевич Скитаев,M,Ayinger Paulaner Märzen,1923-09-02 00:00:00
-158,Владимир Романович Лукапров,F,House Goslarer,1998-09-10 00:00:00
-159,Николай Леонидович Катеров,M,Alt-Bayerisch Schumacher,1990-07-27 00:00:00
-160,Наталия Борисовна Курицына,F,Kloster Pikantus,1933-11-22 00:00:00
-161,Валерия Алексеевна Дюнова,F,Mönchshof Brothers Aventinus,1982-03-02 00:00:00
-162,Ирина Леонидовна Якубжанова,M,Dampfbierbrauerei Ottos,1924-10-24 00:00:00
-163,Борис Вадимович Мириханов,M,Oktoberfest,1934-05-09 00:00:00
-164,Вероника Дмитриевна Лещева,F,Unser Pikantus,1949-08-14 00:00:00
-165,Никита Тимофеевич Бучумов,M,Spaten Krombacher,1956-05-02 00:00:00
-166,Наталья Вадимовна Турповская,F,Mönchshof Ritterguts,1961-06-30 00:00:00
-167,Андрей Олегович Ламанов,F,Weihenstephaner Rauchbier,1973-02-10 00:00:00
-168,Клара Федоровна Ключкова,M,Spaten Bier,1994-08-25 00:00:00
-169,Наталия Яковлевна Агафьева,M,Schneider Pschorr Oktoberfest Märzen,1962-10-27 00:00:00
-170,Степан Вадимович Кужекин,F,Göller,1941-07-04 00:00:00
-171,Герасим Павлович Ивницкий,M,Hofbräu Bräu,1968-08-23 00:00:00
-172,Катерина Викторовна Малетина,F,Andechser Maibock,1983-04-27 00:00:00
-173,Виолетта Алексеевна Кувалкина,M,Aventinus Warsteiner,1959-09-28 00:00:00
-174,Ксения Ивановна Колобецкая,F,Buttenheimer Paulaner Zoiglbauer,1961-07-15 00:00:00
-175,Виктор Романович Бодрилин,M,Zoigl Brothers Dampfbier,1945-01-26 00:00:00
-176,Оксана Борисовна Хизева,M,House Mitterteich Dunkel,1965-09-08 00:00:00
-177,Ярослав Кириллович Топильских,F,Buttenheimer Gänstaller Erdinger,1942-06-16 00:00:00
-178,Владимир Петрович Нарцов,M,Zoigl 1516 Steam,1992-06-20 00:00:00
-179,Анатолий Петрович Худжаеров,M,Weihenstephaner Doppelbock Ur-Weisse,1970-05-10 00:00:00
-180,София Эдуардовна Жилтухина,M,Franziskaner Zoigl,1980-05-10 00:00:00
-181,Герасим Юриевич Ильишкин,M,Spaten Ritterguts,1926-10-03 00:00:00
-182,Артём Георгиевич Абоев,M,Hofbräu Scurry,1984-06-06 00:00:00
-183,Альберт Адамович Троскин,M,Hacker-Pschorr Diebels,1979-12-26 00:00:00
-184,Евгений Яковлевич Шандриков,F,Alt-Bayerisch Hofbräu Oettingen,1984-12-04 00:00:00
-185,Станислав Юрьевич Шаферов,M,Zoigl Gänstaller Spezial,1978-04-05 00:00:00
-186,Максим Романович Чекулдаев,F,Hacker-Pschorr Brothers Ottos,1937-11-19 00:00:00
-187,Наталия Вадимовна Эзбина,F,Hermannator Ice Maibock,2002-08-28 00:00:00
-188,Яна Романовна Загарина,F,Mitterteich Bier,1955-11-29 00:00:00
-189,Ева Василевна Коробкова,M,Brothers Dortmunder,1954-01-27 00:00:00
-190,Александра Борисовна Вербина,F,Hacker-Pschorr München,1986-10-15 00:00:00
-191,Илья Данилович Бучев,F,Alt-Bayerisch 1516 Zoiglbauer,1989-03-25 00:00:00
-192,Борис Михаилович Буманков,M,Spaten Steam,1965-10-16 00:00:00
-193,Леонид Борисович Колобин,F,Schlenkerla Rauchbier Scurry,1929-07-04 00:00:00
-194,Клавдия Богдановна Пачина,M,Hermannator Ice Altenauer,1928-09-29 00:00:00
-195,Евгений Данилович Сахрынин,M,Spaten Steam,1965-10-20 00:00:00
-196,Мария Валерьевна Цибакова,M,Mönchshof Brauerei Göller,1962-03-20 00:00:00
-197,Руслан Сергеевич Капитайкин,F,Buttenheimer Jahrhundert Paulaner,1928-11-28 00:00:00
-198,Елена Никитична Авдеева,F,Mönchshof Schlenkerla Rauchbier Dark,1979-08-16 00:00:00
-199,Дарья Викторовна Карапозова,M,Ayinger Flensburger,1996-09-14 00:00:00
-200,София Дмитриевна Топская,M,Zoigl Urbock,1998-05-21 00:00:00
-201,Леонид Сергеевич Бакатин,F,1516 Ritterguts,1969-08-21 00:00:00
-202,Екатерина Ивановна Сутчева,F,Buttenheimer Brauerei Bräu,1926-12-17 00:00:00
-203,Виктор Романович Агарзаев,M,Franziskaner Roggen,1987-07-18 00:00:00
-204,Анатолий Тимофеевич Маршанов,M,Hacker-Pschorr Erdinger Dortmunder,1970-10-19 00:00:00
-205,Ольга Михайловна Политыкина,M,Ayinger Gaffel,1939-06-20 00:00:00
-206,Илья Олегович Новокрещин,M,Andechser Brewing Roggen,1994-03-07 00:00:00
-207,Андрей Аркадиевич Ауходеев,F,Schneider Ayinger Franziskaner,1969-05-20 00:00:00
-208,Артём Тимофеевич Лыщев,M,House Hacker Ayilinger,1977-10-26 00:00:00
-209,Виолетта Федоровна Гелубкова,F,Alt-Bayerisch Brothers Pschorr,1931-03-31 00:00:00
-210,Георгий Денисович Кастин,M,Pschorr,1990-07-13 00:00:00
-211,Олег Борисович Чечевицин,M,Augustinerbräu,1958-10-02 00:00:00
-212,Анастасия Кирилловна Сокомская,M,Schneider Gaffel,1924-07-18 00:00:00
-213,Константин Юриевич Носяков,F,Jahrhundert Gaffel,1998-04-10 00:00:00
-214,Марина Леонидовна Фивоварова,M,Hacker-Pschorr Hacker Bitburger,1943-11-05 00:00:00
-215,Клавдия Михайловна Торбинская,F,Hermannator Ice Dortmunder,1969-06-26 00:00:00
-216,Наталия Богдановна Гутцева,F,Hacker Urbock,1992-02-19 00:00:00
-217,Игорь Фёдорович Моляков,F,Zoigl Urbock,1946-09-16 00:00:00
-218,Зинаида Валерьевна Сахарикова,F,Dampfbierbrauerei Märzen,1936-02-18 00:00:00
-219,Станислав Виталиевич Ягневков,M,Huberts Diebels,1990-05-18 00:00:00
-220,Оксана Николаевна Мавина,M,Weihenstephaner Pschorr Oktoberfest Rauchbier,1949-12-18 00:00:00
-221,Вера Романовна Шередина,F,Spezial,1941-03-05 00:00:00
-222,Владимир Тимофеевич Берлогов,M,Weihenstephaner Brauerei Spezial,1933-12-25 00:00:00
-223,Юлия Андреевна Ляпилина,M,Schneider Paulaner Dunkel,1987-11-11 00:00:00
-224,Григорий Борисович Башаров,M,Schlenkerla Rauchbier Zoigl,1929-10-18 00:00:00
-225,Инна Игоревна Валдохина,F,Ayinger Brothers Urbock,1935-09-26 00:00:00
-226,Жанна Леонидовна Адалимова,F,Hacker-Pschorr Flensburger,1975-05-28 00:00:00
-227,Алена Вадимовна Нитавская,F,Buttenheimer München,1985-10-26 00:00:00
-228,Александр Василиевич Рунасов,F,Weihenstephaner Lager,1927-03-11 00:00:00
-229,Софья Романовна Семутина,F,Franziskaner Ayinger Warsteiner,1989-08-20 00:00:00
-230,Георгий Кириллович Замыцкий,F,Alt-Bayerisch Bitburger,1985-06-20 00:00:00
-231,Станислав Михаилович Хаботин,F,Gänstaller Erdinger,1966-06-11 00:00:00
-232,Виталий Василиевич Колабаев,M,Paulaner Zoigl,1986-02-23 00:00:00
-233,Николай Олегович Помыкин,F,Warsteiner,2003-03-18 00:00:00
-234,Евгения Дмитриевна Левихина,F,Huberts Mönchshof,1967-07-27 00:00:00
-235,Альберт Яковлевич Орлянский,F,Zoigl Dampfbierbrauerei Mühlen,1940-01-04 00:00:00
-236,Лариса Алексеевна Паламонова,M,Spaten Bier,1948-12-25 00:00:00
-237,Виктория Валерьевна Сложенкина,F,Weihenstephaner Dunkel,1954-04-30 00:00:00
-238,Пётр Адамович Шичкин,M,Jahrhundert Köllner,1939-12-31 00:00:00
-239,Лариса Алексеевна Стремлина,F,Alt-Bayerisch Brothers Erdinger,1957-03-14 00:00:00
-240,Пётр Павлович Никончев,M,Andechser Dark,1971-12-24 00:00:00
-241,Алина Вадимовна Худова,F,Dampfbierbrauerei Ottos,2003-05-04 00:00:00
-242,Вероника Борисовна Горьчева,F,Hermannator Ice Aventinus,1922-03-13 00:00:00
-243,Ярослав Георгиевич Завитухин,M,Ayinger Dortmunder,1963-05-20 00:00:00
-244,Надежда Федоровна Косапова,M,Bräu,1978-11-27 00:00:00
-245,Виолетта Михайловна Ведьманова,M,Hefe-Weisse Altenauer,1978-02-16 00:00:00
-246,Карина Андреевна Дремемина,F,Brothers Köllner,1960-05-15 00:00:00
-247,Вадим Леонидович Тардасов,M,Schneider Pschorr Oktoberfest Märzen,1970-01-03 00:00:00
-248,Александра Михайловна Пальщикова,F,Hofbräu Roggen,1974-02-01 00:00:00
-249,Николай Василиевич Левшинский,M,Alt-Bayerisch Hacker Pfarrbräu,1951-03-29 00:00:00
-250,Катерина Дмитриевна Сваина,M,1516 Radeberger,1961-01-29 00:00:00
-251,Алексей Сергеевич Асецкий,F,Weihenstephaner Hacker Urbock,1973-04-27 00:00:00
-252,Алёна Николаевна Пантишкина,F,Alt-Bayerisch Brothers Erdinger,2003-10-19 00:00:00
-253,Максим Евгеньевич Гуркалов,F,Buttenheimer Frankenheim,1992-09-11 00:00:00
-254,Алексей Юриевич Езерский,F,Brothers Scurry,1942-04-05 00:00:00
-255,Алексей Аркадиевич Миловский,F,Jahrhundert Franziskaner,1955-06-27 00:00:00
-256,Ксения Михайловна Сергейчева,F,Ayinger Jahrhundert Köstritzer,1930-03-21 00:00:00
-257,Борис Виталиевич Фаркин,F,Schlenkerla Rauchbier Dunkel,1933-06-12 00:00:00
-258,Катерина Максимовна Комелева,M,Andechser Franziskaner,1999-06-29 00:00:00
-259,Геннадий Юрьевич Здешнев,M,Dampfbierbrauerei Märzen,1946-12-04 00:00:00
-260,Вера Михайловна Куманькова,M,Zoigl Bitburger,1931-08-15 00:00:00
-261,Анастасия Петровна Драчева,F,Gänstaller Mühlen,1992-02-01 00:00:00
-262,Ярослав Алексеевич Абыкин,F,Zoiglbauer,1964-04-06 00:00:00
-263,Степан Данилович Доможиров,F,Kloster Pfarrbräu,1974-10-12 00:00:00
-264,Наталья Романовна Трутаева,F,Erdinger Bräu,1946-12-11 00:00:00
-265,Артур Алексеевич Наволоцкий,F,Schneider Aventinus Oktoberfest,1997-12-30 00:00:00
-266,Лиза Кирилловна Горьнова,M,Franziskaner Schumacher,1942-03-14 00:00:00
-267,Наталья Алексеевна Кулякова,M,Hermannator Ice Göller,1946-07-09 00:00:00
-268,Мария Богдановна Синянкина,F,Alt-Bayerisch Schumacher,1988-05-13 00:00:00
-269,Аркадий Алексиевич Падишин,F,Zoigl Dunkel,1966-08-02 00:00:00
-270,Валерий Олегович Вереницын,F,Alt-Bayerisch Hacker Pfarrbräu,1950-03-09 00:00:00
-271,Константин Данилович Яблочкин,M,Spaten Dortmunder,1991-03-19 00:00:00
-272,Игорь Андреевич Стульский,F,Weihenstephaner Ayinger Weizen-Eisbock,2003-07-21 00:00:00
-273,Вячеслав Юрьевич Чеборов,M,Weihenstephaner Dampfbierbrauerei Bock,1922-02-28 00:00:00
-274,Наталия Леонидовна Щепеткина,M,Hacker-Pschorr Salvator,1986-08-09 00:00:00
-275,Михаил Яковлевич Ковылин,F,Mönchshof Weizen-Eisbock,1946-12-04 00:00:00
-276,Иван Валериевич Лисичкин,M,Buttenheimer Pschorr Oktoberfest Rauchbier,1976-04-05 00:00:00
-277,Елена Алексеевна Фешина,F,Buttenheimer Hofbräu Ottos,1976-06-24 00:00:00
-278,Максим Юрьевич Розовин,F,Ayinger Scurry,1969-04-10 00:00:00
-279,Валерий Василиевич Суковаткин,M,Mönchshof Jahrhundert Dampfbier,1988-08-19 00:00:00
-280,Клавдия Андреевна Петилова,M,Weihenstephaner Ayilinger,1970-02-25 00:00:00
-281,Роман Георгиевич Татаров,F,Pschorr Oktoberfest Steam,1954-09-26 00:00:00
-282,Лариса Олеговна Юнглина,M,Ayinger Maisel,1927-12-03 00:00:00
-283,Валерия Валерьевна Зеленцова,M,Ayinger Oettingen,1966-03-25 00:00:00
-284,Александр Георгиевич Агабабов,M,Zoigl Rauchbier,1960-04-19 00:00:00
-285,Елизавета Борисовна Шаколова,M,Pschorr Oktoberfest Schumacher,1928-09-20 00:00:00
-286,Галина Федоровна Паномарева,F,Schneider Erdinger Scurry,1998-08-20 00:00:00
-287,Борис Аркадиевич Цыникин,M,Andechser Augustinerbräu,1975-12-22 00:00:00
-288,Дмитрий Павлович Лафитский,F,Alt-Bayerisch Brothers Ottos,1956-08-16 00:00:00
-289,Ксения Леонидовна Дворкина,M,Schneider Krombacher,1983-09-28 00:00:00
-290,Елена Леонидовна Аряшева,M,Hermannator Ice Erdinger Früh,1986-01-17 00:00:00
-291,Виталий Валериевич Курносиков,M,Schlenkerla Rauchbier Spezial,1923-03-06 00:00:00
-292,Ольга Максимовна Целобанова,M,Weihenstephaner Paulaner Köstritzer,1967-04-29 00:00:00
-293,Тарас Валериевич Картинкин,F,Brewing Oettingen,1934-05-23 00:00:00
-294,Павел Леонидович Колядов,M,Ayinger 1516 Mönchshof,1991-06-10 00:00:00
-295,Евгения Эдуардовна Картына,F,Kloster Goslarer,1954-11-08 00:00:00
-296,Лариса Вадимовна Вертухина,F,Unser Pfarrbräu,1956-09-09 00:00:00
-297,Валентин Сергеевич Мойров,M,Doppelbock Diebels,1925-02-15 00:00:00
-298,Надежда Игоревна Баконова,M,Andechser Hefe-Weisse Ayilinger,1929-12-02 00:00:00
-299,Зинаида Ивановна Тараскова,M,Doppelbock Optimator,1954-05-14 00:00:00
-300,Надежда Эдуардовна Ведищева,F,Franziskaner Korbinian,1983-11-30 00:00:00
-301,Екатерина Егоровна Болтинская,M,Schneider Brothers Steam,1969-03-10 00:00:00
-302,Валерия Игоревна Шнякова,M,Buttenheimer Brewing Frankenheim,1940-09-10 00:00:00
-303,Наталия Ивановна Сметеева,F,Kellerbier,1933-02-16 00:00:00
-304,Владимир Виталиевич Аниськов,F,Spaten Oktoberfest,1940-11-10 00:00:00
-305,Василий Олегович Аривошкин,M,Hacker Maisel,1944-06-15 00:00:00
-306,Юрий Адамович Кадисов,F,Ayinger Hefe-Weisse Spaten,1966-09-26 00:00:00
-307,Денис Евгеньевич Монаенков,M,Hacker Jahrhundert Bier,1974-05-01 00:00:00
-308,Тамара Романовна Зобанова,F,Ayinger Urbock,1994-10-16 00:00:00
-309,София Андреевна Бобикова,F,Doppelbock Optimator,1963-02-08 00:00:00
-310,Иван Адамович Тулыгин,F,Weihenstephaner Huberts Bräu,1968-09-04 00:00:00
-311,София Викторовна Агурейкина,F,Alt-Bayerisch Dortmunder,1958-10-08 00:00:00
-312,Николай Олегович Медуков,M,Alt-Bayerisch Reissdorf,1964-05-16 00:00:00
-313,Клара Богдановна Мурсякова,M,Brewing Korbinian,1988-03-28 00:00:00
-314,Любовь Егоровна Димитрова,M,Hermannator Ice Ayinger Warsteiner,1950-04-16 00:00:00
-315,Алексей Иванович Аршанский,F,Andechser Aventinus Oktoberfest,1971-08-23 00:00:00
-316,Ирина Егоровна Смаркина,F,Kloster Franziskaner,1944-10-24 00:00:00
-317,Анатолий Вадимович Карячкин,F,Mitterteich Optimator,1949-02-28 00:00:00
-318,Светлана Сергеевна Ельева,F,Hacker-Pschorr Roggen,1959-03-09 00:00:00
-319,Светлана Эдуардовна Уянаева,F,Hermannator Ice Pschorr Oktoberfest Aventinus,1961-05-04 00:00:00
-320,Андрей Антонович Чериканов,F,Paulaner Zoigl,2000-01-30 00:00:00
-321,Кирилл Денисович Кусеткин,M,Kloster Göller,1987-03-12 00:00:00
-322,Михаил Викторович Елюшкин,M,Erdinger Bitburger,1946-09-24 00:00:00
-323,Жанна Игоревна Колюкаева,M,Unser Diebels,1975-11-20 00:00:00
-324,Инна Романовна Дворовнина,M,Brauerei Krombacher,1931-11-30 00:00:00
-325,Лариса Максимовна Озорнина,M,Kloster Brauerei Göller,1932-10-11 00:00:00
-326,Федор Виталиевич Жадецкий,M,Doppelbock Göller,1947-05-22 00:00:00
-327,Ольга Максимовна Колесова,F,Weihenstephaner Erdinger Reissdorf,1993-02-27 00:00:00
-328,Альберт Денисович Зейкалов,M,Spaten Oettingen,1964-10-17 00:00:00
-329,Ева Андреевна Амарова,M,Ayinger 1516 Köstritzer,1941-03-01 00:00:00
-330,Георгий Василиевич Янузаков,F,Spaten Aventinus Erdinger,1950-09-10 00:00:00
-331,Александра Максимовна Кейзерова,F,Weihenstephaner Dampfbierbrauerei Bock,1955-02-05 00:00:00
-332,Анна Евгеньевна Скозырева,M,Hermannator Ice Dortmunder,1967-11-27 00:00:00
-333,Софья Андреевна Узинцева,M,Mitterteich Bock,1943-09-02 00:00:00
-334,Ольга Яковлевна Меметова,F,Brothers Ritterguts,1981-12-25 00:00:00
-335,Борис Игоревич Ланцетов,M,Mitterteich Bier,1967-09-25 00:00:00
-336,Анна Алексеевна Катикова,M,Zoigl Ur-Weisse,1994-07-10 00:00:00
-337,Леонид Михаилович Бояранцев,F,Aventinus Kellerbier,1996-02-16 00:00:00
-338,Анастасия Кирилловна Прижимова,F,Hacker-Pschorr Hofbräu Rauchbier,1980-04-13 00:00:00
-339,Любовь Романовна Курноскина,M,Hacker Schumacher,1973-06-02 00:00:00
-340,Елизавета Аркадьевна Епанчина,M,Mitterteich München,1998-11-23 00:00:00
-341,Анна Федоровна Ладогина,F,Bitburger,1964-03-26 00:00:00
-342,Софья Аркадьевна Панцерева,M,Aventinus Früh,1938-09-26 00:00:00
-343,Александра Алексеевна Чанилова,M,Jahrhundert Maibock,1940-07-12 00:00:00
-344,Евгения Кирилловна Топунова,M,Warsteiner,1997-07-05 00:00:00
-345,Виолетта Максимовна Резайкина,F,Hacker-Pschorr Ayinger Augustinerbräu,1970-01-06 00:00:00
-346,Наталия Ивановна Асгинина,F,Alt-Bayerisch Jahrhundert Pfarrbräu,1931-04-25 00:00:00
-347,Антон Петрович Авдюшенков,F,Mitterteich Schumacher,1953-06-16 00:00:00
-348,Семён Евгеньевич Финягин,M,Hofbräu Dunkel,1988-01-12 00:00:00
-349,Альберт Василиевич Габитов,F,Maisel,1952-09-20 00:00:00
-350,Алёна Андреевна Курданова,M,Erdinger Ur-Weisse,1996-01-18 00:00:00
-351,Любовь Леонидовна Натурскина,F,Andechser Schumacher,1967-05-13 00:00:00
-352,Антон Фёдорович Бабурсков,F,Ritterguts,1968-07-04 00:00:00
-353,Тамара Евгеньевна Ольшицкая,F,Bier,1949-05-16 00:00:00
-354,Роман Георгиевич Братевский,M,Mitterteich Bock,1971-11-12 00:00:00
-355,Оксана Олеговна Судовикова,F,Pschorr Oktoberfest Rauchbier,1964-05-28 00:00:00
-356,Игорь Михаилович Куанганов,M,Buttenheimer Hefe-Weisse Dunkel,1924-01-22 00:00:00
-357,Мария Викторовна Елизарьева,M,Kloster Bräu,1952-06-28 00:00:00
-358,Илья Валериевич Азоровский,M,Hacker-Pschorr Gaffel,1938-09-15 00:00:00
-359,Марина Эдуардовна Бешнина,F,Mitterteich Zoigl,1988-11-19 00:00:00
-360,Дарья Сергеевна Симдямкина,M,Mönchshof Aventinus,1969-07-22 00:00:00
-361,Виталий Викторович Лезнев,M,Hermannator Ice Optimator,1937-05-22 00:00:00
-362,Карина Евгеньевна Шишиморова,F,Ayinger Ayinger Scurry,1945-01-25 00:00:00
-363,Николай Романович Бурзяев,M,Schumacher,1971-01-15 00:00:00
-364,Клара Игоревна Афонюшина,F,Pschorr Oktoberfest Spaten,1930-11-17 00:00:00
-365,Алла Яковлевна Кынева,F,Hacker Pschorr Oktoberfest Maibock,1943-08-15 00:00:00
-366,Семён Тимофеевич Головин,F,Spaten Schlenkerla Rauchbier Aventinus,1984-07-16 00:00:00
-367,Клавдия Андреевна Коныгина,M,Weihenstephaner Aventinus,1938-01-08 00:00:00
-368,Владислав Алексеевич Галайдов,M,Kloster Ottos,1952-06-04 00:00:00
-369,Мария Ивановна Писова,F,Ayinger Hefe-Weisse Spaten,1976-06-10 00:00:00
-370,Иван Сергеевич Поюровский,M,Mitterteich Frankenheim,1967-07-12 00:00:00
-371,Антон Олегович Абарепов,F,Buttenheimer Bitburger,1943-01-09 00:00:00
-372,Валерия Вадимовна Жемчужина,M,Unser Ur-Weisse,1997-06-10 00:00:00
-373,Тамара Игоревна Сошинская,M,Weihenstephaner Hacker Urbock,1929-05-12 00:00:00
-374,Александра Василевна Рудичева,F,Schneider Doppelbock Spezial,1927-03-13 00:00:00
-375,Артём Тимофеевич Чурюмов,M,Kloster Schumacher,1985-11-26 00:00:00
-376,Алла Олеговна Скрыгина,F,Spaten Mitterteich Früh,1945-05-29 00:00:00
-377,Вероника Викторовна Поклонская,F,Ayinger Optimator,1936-05-10 00:00:00
-378,Кира Петровна Гусейнова,M,Hacker München,1949-06-11 00:00:00
-379,Раиса Алексеевна Санунова,F,Hofbräu Ayilinger,1928-06-25 00:00:00
-380,Юлия Евгеньевна Калекова,M,Andechser Schumacher,1929-05-06 00:00:00
-381,Клара Василевна Меняшина,M,Ayinger Ottos,1988-06-21 00:00:00
-382,Клавдия Романовна Язловская,M,1516 Dortmunder,1988-06-01 00:00:00
-383,Вера Михайловна Фурдина,M,Spaten Bitburger,1950-03-23 00:00:00
-384,Николай Павлович Лезин,M,Schumacher,1989-05-24 00:00:00
-385,Пётр Леонидович Хадьков,M,Dampfbierbrauerei Märzen,1932-10-16 00:00:00
-386,Лиза Богдановна Лубневская,F,Spaten,1922-04-06 00:00:00
-387,Виталий Романович Садаков,F,Doppelbock Kellerbier,1966-08-15 00:00:00
-388,Яна Сергеевна Черницина,F,Hermannator Ice Schlenkerla Rauchbier Dampfbier,1923-09-25 00:00:00
-389,Семён Данилович Самоцветов,M,Brothers Spezial,1928-04-01 00:00:00
-390,Жанна Никитична Гафитулина,M,Mitterteich Warsteiner,1975-05-16 00:00:00
-391,Виктор Денисович Беринский,F,Dampfbierbrauerei Pfarrbräu,1973-10-26 00:00:00
-392,Артём Игоревич Чебкасов,F,Schneider Jahrhundert Dunkel,1982-08-18 00:00:00
-393,Наталия Дмитриевна Ногайбаева,F,Jahrhundert Maibock,1923-07-14 00:00:00
-394,Денис Яковлевич Пузряков,F,Köstritzer,1967-01-03 00:00:00
-395,Виолетта Аркадьевна Помогалова,M,Hefe-Weisse Roggen,1945-01-07 00:00:00
-396,Илья Викторович Стуканин,M,Alt-Bayerisch Bitburger,1955-01-01 00:00:00
-397,Валерия Михайловна Калибекова,F,Schneider Aventinus Oktoberfest,1947-11-24 00:00:00
-398,Константин Юриевич Зименский,F,Mitterteich Maisel,1970-12-05 00:00:00
-399,Ксения Михайловна Бортнина,M,Weihenstephaner Brauerei Maibock,1978-03-17 00:00:00
-400,Валентина Сергеевна Кленчищева,F,House Altenauer,1952-07-20 00:00:00
-401,Василий Михаилович Ложин,F,House Göller,1946-10-27 00:00:00
-402,Дмитрий Антонович Голозов,M,Hofbräu Köstritzer,1948-10-09 00:00:00
-403,Степан Викторович Скугаров,F,Dunkel,1966-05-28 00:00:00
-404,Алексей Василиевич Мельянцов,M,Alt-Bayerisch Weizen-Eisbock,1967-11-25 00:00:00
-405,Константин Викторович Ханютин,M,Hacker-Pschorr Hefe-Weisse Dortmunder,1970-12-18 00:00:00
-406,Алексей Яковлевич Семейнов,M,Franziskaner Spaten,1922-06-10 00:00:00
-407,Тамара Борисовна Ревдова,M,Huberts Kellerbier,1979-05-30 00:00:00
-408,Наталия Эдуардовна Рыбинкова,F,Dampfbier,1932-06-27 00:00:00
-409,Ксения Богдановна Конашкова,F,Andechser Salvator,1930-11-11 00:00:00
-410,Ольга Викторовна Ренксина,M,Urbock,1998-03-27 00:00:00
-411,Ярослав Леонидович Стебеньков,M,Hacker-Pschorr Ottos,1938-02-18 00:00:00
-412,Полина Валерьевна Скокшина,M,Alt-Bayerisch Brothers Ottos,2003-10-18 00:00:00
-413,Валентина Максимовна Карионова,M,Unser Spezial,1955-12-30 00:00:00
-414,Яков Андреевич Тогузов,M,Mitterteich Zoigl,1961-07-10 00:00:00
-415,Кира Яковлевна Девишева,M,Dampfbierbrauerei Mühlen,1991-09-15 00:00:00
-416,Катерина Вадимовна Хасмова,M,Mönchshof Hofbräu Bock,1974-07-04 00:00:00
-417,Ева Андреевна Кастева,F,Schlenkerla Rauchbier Pschorr,1994-11-18 00:00:00
-418,Семён Романович Клянчин,M,Alt-Bayerisch Doppelbock Dunkel,1934-07-17 00:00:00
-419,Степан Романович Амусьев,F,Hermannator Ice Flensburger,1985-03-31 00:00:00
-420,Евгения Валерьевна Палванова,M,Brewing Radeberger,1946-02-04 00:00:00
-421,Владислав Андреевич Голодяев,M,House Paulaner Mönchshof,1946-03-03 00:00:00
-422,Ольга Сергеевна Самышина,F,Franziskaner Köstritzer,1929-07-13 00:00:00
-423,Николай Антонович Стерлигов,M,Franziskaner Zoigl,1988-02-24 00:00:00
-424,Леонид Петрович Дудецкий,M,Gänstaller Erdinger,1975-01-02 00:00:00
-425,Галина Яковлевна Гедымина,F,Schneider Ritterguts,1946-01-01 00:00:00
-426,Ольга Алексеевна Тлеубаева,F,House Brothers Kellerbier,1992-10-03 00:00:00
-427,Пётр Иванович Звозсков,F,Alt-Bayerisch Jahrhundert Spezial,1945-02-03 00:00:00
-428,Софья Максимовна Рузлева,F,Hofbräu Pschorr,1935-12-07 00:00:00
-429,Константин Алексеевич Асаилов,M,Buttenheimer Pschorr Oktoberfest Weizen-Eisbock,1988-06-23 00:00:00
-430,Михаил Борисович Хрычнин,M,Brauerei Ottos,1934-02-25 00:00:00
-431,Дарья Сергеевна Горбикова,M,Buttenheimer Frankenheim,1963-05-08 00:00:00
-432,Юлия Игоревна Штурцева,M,Franziskaner Gänstaller Dunkel,1975-04-15 00:00:00
-433,Юлия Федоровна Контыцкая,F,Kloster Brauerei Pfarrbräu,1953-07-11 00:00:00
-434,Леонид Аркадиевич Транторов,M,Weihenstephaner Dampfbierbrauerei Dunkel,1968-09-23 00:00:00
-435,Ярослав Вадимович Шеловский,M,Ayinger Aventinus,1951-03-05 00:00:00
-436,Галина Егоровна Неброева,F,Gänstaller Erdinger,1962-11-15 00:00:00
-437,Оксана Олеговна Колынина,M,Buttenheimer Paulaner Pikantus,1974-06-23 00:00:00
-438,Геннадий Сергеевич Паников,F,Andechser Brauerei Frankenheim,1923-12-18 00:00:00
-439,Михаил Яковлевич Шестерков,M,Mönchshof Dark,1963-10-20 00:00:00
-440,Кира Романовна Елеева,M,Weihenstephaner Warsteiner,1954-01-27 00:00:00
-441,Алла Аркадьевна Агатова,M,Alt-Bayerisch Ayinger Erdinger,1997-08-10 00:00:00
-442,Кирилл Евгеньевич Резиков,F,Dampfbierbrauerei Märzen,1924-06-24 00:00:00
-443,Игорь Павлович Ставцев,F,Hacker Maibock,1944-07-15 00:00:00
-444,Игорь Павлович Зубровский,F,Unser Maibock,1943-09-02 00:00:00
-445,Ярослав Игоревич Сергазин,M,Alt-Bayerisch Gänstaller Urbock,1972-01-14 00:00:00
-446,Анна Максимовна Названова,M,Gänstaller Ottos,1991-02-25 00:00:00
-447,Софья Федоровна Заварыкина,F,Franziskaner Unser Ottos,1927-10-26 00:00:00
-448,Василий Аркадиевич Частушкин,M,Hermannator Ice 1516 Dunkel,1951-06-15 00:00:00
-449,Полина Никитична Тюльшина,M,Krombacher,1987-04-06 00:00:00
-450,Леонид Юриевич Мойоров,M,Jahrhundert Erdinger,1965-10-29 00:00:00
-451,Станислав Юрьевич Двуглов,F,Buttenheimer Ur-Weisse,1979-01-05 00:00:00
-452,Оксана Михайловна Матиросова,M,Kloster Goslarer,1941-10-16 00:00:00
-453,Карина Петровна Дамоцева,M,Hacker-Pschorr Aventinus Steam,1958-08-02 00:00:00
-454,Виктор Кириллович Кекнев,F,Doppelbock Bock,1941-05-01 00:00:00
-455,Александра Леонидовна Мотягина,F,Weihenstephaner Franziskaner,1965-08-01 00:00:00
-456,Степан Адамович Ваванин,M,Hofbräu Köstritzer,1922-10-03 00:00:00
-457,Любовь Аркадьевна Тагохина,F,Spaten Doppelbock Gaffel,1948-08-11 00:00:00
-458,Руслан Петрович Зирин,M,Ayinger Urbock,1922-03-14 00:00:00
-459,Софья Михайловна Трубчанина,M,Huberts Roggen,1931-06-09 00:00:00
-460,Елизавета Романовна Ангелкова,F,Franziskaner 1516 Zoiglbauer,1962-01-26 00:00:00
-461,Михаил Антонович Уварин,M,Weihenstephaner Paulaner Köstritzer,1925-01-30 00:00:00
-462,Алена Эдуардовна Узанова,M,Schneider Reissdorf,1949-10-03 00:00:00
-463,Виталий Максимович Титаев,M,Rauchbier,1994-01-11 00:00:00
-464,Вадим Леонидович Талогаев,F,Weihenstephaner Hacker Urbock,1956-09-14 00:00:00
-465,Евгения Аркадьевна Шеркова,M,Buttenheimer Schlenkerla Rauchbier Ottos,1972-03-04 00:00:00
-466,Алина Яковлевна Халапсина,M,Ayinger Dampfbierbrauerei Becks,1940-10-20 00:00:00
-467,Клара Николаевна Самурина,M,Pschorr Oktoberfest Dampfbier,1987-02-23 00:00:00
-468,Ева Андреевна Абузярова,F,Pschorr Oktoberfest Oettingen,1950-10-01 00:00:00
-469,Денис Леонидович Талевнин,F,Mitterteich Mühlen,1947-10-04 00:00:00
-470,Катерина Михайловна Логашина,F,Spaten Steam,1966-08-22 00:00:00
-471,Константин Максимович Лазырев,M,Zoigl Oktoberfest,1924-01-10 00:00:00
-472,Ярослав Евгеньевич Калядин,M,Erdinger Mönchshof,1986-07-10 00:00:00
-473,Юрий Борисович Штыренков,F,Schneider Jahrhundert Dunkel,1929-09-10 00:00:00
-474,Денис Яковлевич Тармилов,M,Hefe-Weisse Ottos,1944-12-13 00:00:00
-475,Николай Игоревич Малюстов,F,Ayinger Pschorr Oktoberfest Flensburger,1946-08-15 00:00:00
-476,Семён Олегович Амелютин,M,Weihenstephaner Dortmunder,1990-08-16 00:00:00
-477,Андрей Олегович Бузенков,F,Hacker-Pschorr Doppelbock Roggen,1998-05-04 00:00:00
-478,Карина Эдуардовна Стужакова,M,Doppelbock Augustinerbräu,1941-03-13 00:00:00
-479,Вадим Павлович Овчиев,F,Aventinus Frankenheim,1960-02-18 00:00:00
-480,Ольга Эдуардовна Улетова,F,Buttenheimer Augustinerbräu,1922-02-02 00:00:00
-481,Елена Сергеевна Чокпарова,F,Weihenstephaner Gaffel,1926-03-30 00:00:00
-482,Виолетта Сергеевна Фуражкина,M,Kloster Dortmunder,1932-07-19 00:00:00
-483,Альберт Антонович Салакаев,F,Erdinger Schumacher,1948-06-01 00:00:00
-484,Валентина Ивановна Канадина,F,Alt-Bayerisch Dunkel,1923-05-18 00:00:00
-485,Руслан Юрьевич Тюфеев,F,Franziskaner Flensburger,1987-12-06 00:00:00
-486,Евгения Богдановна Дрогайкина,F,Hacker-Pschorr Ayinger Augustinerbräu,1974-10-10 00:00:00
-487,Анастасия Викторовна Флешина,F,Hacker Schlenkerla Rauchbier Becks,1991-11-10 00:00:00
-488,Альберт Михаилович Семутников,F,Buttenheimer Brothers Mönchshof,1950-07-23 00:00:00
-489,Руслан Валериевич Болташов,M,Hefe-Weisse Kellerbier,1931-06-14 00:00:00
-490,Никита Романович Коренюгин,M,Dampfbierbrauerei Bock,1999-01-08 00:00:00
-491,Василий Михаилович Джофаров,M,Hacker Reissdorf,1956-06-06 00:00:00
-492,Яна Василевна Здронова,F,Dampfbierbrauerei Maibock,1968-01-28 00:00:00
-493,Максим Викторович Бирякин,F,Ayinger Jahrhundert Schumacher,1952-10-18 00:00:00
-494,Григорий Виталиевич Нахмедов,F,Paulaner Korbinian,1981-10-31 00:00:00
-495,Вероника Борисовна Ивасишина,M,Mitterteich Optimator,1999-06-24 00:00:00
-496,Алиса Максимовна Цикалова,F,Hacker-Pschorr Oettingen,1991-11-07 00:00:00
-497,Ева Алексеевна Вепрянцева,M,Hacker-Pschorr Mitterteich Göller,1927-09-24 00:00:00
-498,София Дмитриевна Потрикова,M,Weihenstephaner Aventinus Maibock,1982-06-29 00:00:00
-499,Катерина Максимовна Духинова,F,Ayinger Brothers Dortmunder,1952-09-05 00:00:00
-500,Валерия Кирилловна Шарашева,F,Hacker-Pschorr Ayilinger,1987-11-25 00:00:00
-501,Борис Романович Дежуров,M,Hermannator Ice Maibock,1939-06-11 00:00:00
-502,Инна Олеговна Плисина,M,Mönchshof Frankenheim,1958-06-26 00:00:00
-503,Клавдия Сергеевна Янчуркина,F,Brothers Optimator,1942-09-27 00:00:00
-504,Григорий Олегович Агнеткин,M,Schneider Bitburger,1954-12-25 00:00:00
-505,Надежда Яковлевна Глебкова,F,Doppelbock Göller,1933-12-30 00:00:00
-506,Виктор Евгеньевич Резиньков,F,Mönchshof Köllner,1963-06-15 00:00:00
-507,Маргарита Леонидовна Горовцова,F,Spaten Steam,1940-10-27 00:00:00
-508,Клара Леонидовна Артонкина,M,Weihenstephaner Gänstaller Reissdorf,1932-04-27 00:00:00
-509,Елизавета Викторовна Мухова,F,Aventinus Früh,1967-07-04 00:00:00
-510,Николай Алексиевич Кумыренков,F,Buttenheimer Maisel,1966-08-09 00:00:00
-511,Дмитрий Максимович Самойлин,F,Weihenstephaner Doppelbock Ur-Weisse,1981-11-12 00:00:00
-512,Станислав Валериевич Атабаев,F,Mitterteich Warsteiner,1946-03-25 00:00:00
-513,София Никитична Тутушева,M,Franziskaner Frankenheim,1922-08-08 00:00:00
-514,Виктория Ивановна Родяшина,M,Spaten Steam,1981-06-05 00:00:00
-515,Евгения Максимовна Михенкова,M,Gänstaller Lager,1968-09-20 00:00:00
-516,Алла Борисовна Калиитина,M,Alt-Bayerisch Dunkel,1960-04-24 00:00:00
-517,Виталий Сергеевич Вылежнин,F,Mitterteich Warsteiner,1989-10-19 00:00:00
-518,Зинаида Борисовна Посконкина,M,Pschorr Oktoberfest Ottos,1967-03-12 00:00:00
-519,Софья Алексеевна Маняева,F,Ayinger Dampfbierbrauerei Becks,1974-09-04 00:00:00
-520,Семён Алексиевич Денисин,F,Weihenstephaner Korbinian,1958-10-22 00:00:00
-521,Наталья Михайловна Адзиевская,M,Alt-Bayerisch Brauerei Maibock,1976-07-19 00:00:00
-522,Олег Юрьевич Юдковский,F,Hacker-Pschorr Pschorr Oktoberfest Zoiglbauer,1947-03-30 00:00:00
-523,Кира Леонидовна Дрогайцева,F,Brauerei Ayilinger,2001-08-08 00:00:00
-524,Светлана Егоровна Швецова,M,Weihenstephaner Paulaner Weizen-Eisbock,1952-09-02 00:00:00
-525,Игорь Алексиевич Шабышкин,M,House Unser Altenauer,1961-10-30 00:00:00
-526,Юлия Кирилловна Яхотова,M,Huberts Roggen,1940-09-23 00:00:00
-527,Игорь Валериевич Пастников,M,Mitterteich Rauchbier,1939-06-19 00:00:00
-528,Виктория Василевна Шелкалина,M,Hermannator Ice Hefe-Weisse Früh,1985-09-18 00:00:00
-529,Анна Романовна Лыкина,F,Huberts Salvator,1965-06-12 00:00:00
-530,Артур Иванович Ибныев,M,Ayinger Dampfbierbrauerei Becks,1934-11-18 00:00:00
-531,Любовь Федоровна Сусуева,M,Brewing Krombacher,1976-08-23 00:00:00
-532,Альберт Романович Званнский,F,Huberts Mönchshof,1936-04-02 00:00:00
-533,Александра Олеговна Гарницкая,F,Alt-Bayerisch Pschorr,1936-09-07 00:00:00
-534,Вадим Олегович Ивентьев,M,Schneider Spezial,1998-10-14 00:00:00
-535,Марина Олеговна Матякубова,F,Brauerei Zoiglbauer,1996-09-09 00:00:00
-536,Виктория Игоревна Кувычкина,M,Weihenstephaner Paulaner Köstritzer,1964-11-23 00:00:00
-537,Елена Вадимовна Сачевская,M,Kloster Dampfbierbrauerei Dunkel,1968-07-17 00:00:00
-538,Руслан Фёдорович Гонибаев,F,Andechser Doppelbock Pschorr,1942-03-23 00:00:00
-539,Вероника Викторовна Пихлакова,F,Unser Pikantus,1950-12-12 00:00:00
-540,Карина Николаевна Недойнова,M,Hacker Paulaner,1972-07-09 00:00:00
-541,Полина Максимовна Севницкая,F,Hefe-Weisse Radeberger,1938-08-28 00:00:00
-542,Лариса Ивановна Гордина,F,Spezial,1924-06-08 00:00:00
-543,Федор Викторович Терушкин,F,Ayinger Hefe-Weisse Spaten,1963-06-24 00:00:00
-544,Наталья Яковлевна Анфалова,F,Brauerei Pschorr,1965-06-01 00:00:00
-545,Антон Викторович Боцеров,F,Hofbräu Warsteiner,1944-09-12 00:00:00
-546,Раиса Эдуардовна Опацкая,M,Franziskaner Unser Ottos,1935-10-10 00:00:00
-547,Виктор Иванович Лущихин,F,Erdinger Ritterguts,1946-12-18 00:00:00
-548,Карина Борисовна Борисякова,F,Andechser Maibock,1932-05-07 00:00:00
-549,Николай Леонидович Важеевский,F,Aventinus Urbock,1995-08-21 00:00:00
-550,София Яковлевна Ланшина,F,Schlenkerla Rauchbier Oktoberfest,1949-08-13 00:00:00
-551,Алексей Борисович Канчев,M,Weihenstephaner Kellerbier,1945-10-23 00:00:00
-552,Яков Борисович Кучиев,F,Urbock,1956-09-28 00:00:00
-553,Роман Михаилович Ливасов,F,Alt-Bayerisch Brothers Zoiglbauer,1946-02-13 00:00:00
-554,Ева Игоревна Верзилова,F,Zoigl 1516 Steam,1989-08-17 00:00:00
-555,Юрий Андреевич Мулев,M,Zoigl Pikantus,1999-12-07 00:00:00
-556,Аркадий Георгиевич Дудуркаев,M,Alt-Bayerisch Brothers Zoiglbauer,1959-07-26 00:00:00
-557,Евгения Валерьевна Жупанова,F,Hacker-Pschorr Brewing Ritterguts,1949-02-06 00:00:00
-558,Софья Евгеньевна Почетаева,M,Pschorr Oktoberfest Rauchbier,1970-08-07 00:00:00
-559,Алиса Олеговна Свечникова,F,Weihenstephaner Doppelbock Ur-Weisse,1933-10-11 00:00:00
-560,Наталья Кирилловна Фергасова,M,Pikantus,1937-03-13 00:00:00
-561,Пётр Сергеевич Брянов,M,Hacker Kellerbier,1965-02-15 00:00:00
-562,Оксана Петровна Емяшева,M,Weihenstephaner Becks,1960-03-27 00:00:00
-563,Яков Сергеевич Жатиков,M,Hacker Hacker Bräu,1930-04-13 00:00:00
-564,Александр Андреевич Шурынин,F,1516 München,1978-11-15 00:00:00
-565,Артём Юрьевич Жиленев,M,Mitterteich Bitburger,1954-10-25 00:00:00
-566,Кристина Дмитриевна Шепарнева,F,Alt-Bayerisch Hacker Maibock,1995-07-06 00:00:00
-567,Денис Борисович Разинчев,F,Dampfbierbrauerei Ottos,1988-03-01 00:00:00
-568,Геннадий Викторович Котонаев,M,Weihenstephaner Jahrhundert Pikantus,1973-11-26 00:00:00
-569,Алла Вадимовна Милашкина,M,Pschorr Oktoberfest Pikantus,1933-04-27 00:00:00
-570,Марина Эдуардовна Крыжевская,M,Spaten Doppelbock Göller,1963-12-24 00:00:00
-571,Дарья Ивановна Пигалова,F,Brauerei Krombacher,1948-07-17 00:00:00
-572,Александр Данилович Иртучанов,F,Schneider Lager,1949-11-04 00:00:00
-573,Алла Валерьевна Музыкова,F,Kloster Pfarrbräu,1992-09-03 00:00:00
-574,Анатолий Данилович Акатушев,F,Hermannator Ice Brauerei Ayilinger,1980-11-28 00:00:00
-575,Марина Василевна Монусова,M,Hacker-Pschorr Salvator,1970-02-28 00:00:00
-576,Кристина Валерьевна Айзателина,F,Hacker-Pschorr Schlenkerla Rauchbier Dunkel,1938-03-24 00:00:00
-577,Тамара Никитична Подольских,M,Kloster Zoiglbauer,1931-12-21 00:00:00
-578,Артур Сергеевич Казусев,M,Unser Goslarer,1949-12-09 00:00:00
-579,Ярослав Вадимович Проводин,M,Alt-Bayerisch Mitterteich Früh,1938-08-20 00:00:00
-580,Илья Адамович Решетняков,F,Kloster Franziskaner,1933-05-31 00:00:00
-581,Анатолий Георгиевич Кофтенкин,M,Mönchshof Huberts Maibock,1959-10-30 00:00:00
-582,Тамара Аркадьевна Гаймонова,M,Andechser Dampfbier,1964-08-21 00:00:00
-583,Яков Аркадиевич Клетанин,M,Doppelbock Dunkel,1969-06-15 00:00:00
-584,Мария Аркадьевна Помякова,M,Zoigl Altenauer,1996-11-24 00:00:00
-585,Валентина Кирилловна Белышева,M,Andechser Urbock,1964-07-28 00:00:00
-586,Дмитрий Юрьевич Горсинский,F,Buttenheimer Aventinus Bitburger,1923-11-24 00:00:00
-587,Юрий Евгеньевич Видуэцкий,F,Buttenheimer Ur-Weisse,1986-05-18 00:00:00
-588,Тарас Василиевич Грицин,F,Flensburger,1960-05-07 00:00:00
-589,Виктор Павлович Припричев,F,House Aventinus Frankenheim,1982-08-18 00:00:00
-590,Герасим Георгиевич Ендельцев,M,Andechser Ayinger Altenauer,1924-11-26 00:00:00
-591,Вадим Василиевич Хадеев,F,Hermannator Ice Hofbräu Scurry,1942-04-25 00:00:00
-592,Клавдия Сергеевна Дедерева,F,Weihenstephaner Paulaner,1958-08-04 00:00:00
-593,Олег Фёдорович Болдуганов,M,Weihenstephaner Ayilinger,1938-10-05 00:00:00
-594,Раиса Викторовна Моцарева,F,Weihenstephaner Gänstaller Reissdorf,1992-05-26 00:00:00
-595,Полина Богдановна Виталева,M,Weihenstephaner Jahrhundert Pikantus,1971-07-22 00:00:00
-596,Артур Михаилович Трейлих,F,Brauerei Korbinian,1990-04-12 00:00:00
-597,Александр Максимович Гивиргизов,F,Mönchshof Dark,1988-05-03 00:00:00
-598,Елизавета Алексеевна Бохвалова,F,Alt-Bayerisch Jahrhundert Pfarrbräu,1949-03-07 00:00:00
-599,Игорь Игоревич Зинатуллин,M,Becks,1939-01-07 00:00:00
-600,Антон Леонидович Алеутдинов,F,Andechser Dampfbier,1968-07-06 00:00:00
-601,Олег Игоревич Жегин,F,Ayinger Dortmunder,1946-09-18 00:00:00
-602,Мария Борисовна Нагишева,F,Ayinger Augustinerbräu,2000-08-09 00:00:00
-603,Никита Андреевич Пигхулов,M,Hefe-Weisse Gaffel,1980-05-02 00:00:00
-604,Иван Олегович Флеровский,M,Alt-Bayerisch Maisel,1922-08-07 00:00:00
-605,Игорь Андреевич Вильдянов,F,Schneider Pschorr Oktoberfest Pfarrbräu,1954-10-16 00:00:00
-606,Константин Иванович Хромцев,M,Aventinus Bitburger,1978-03-21 00:00:00
-607,Виктория Михайловна Харебина,M,Franziskaner Frankenheim,1986-12-18 00:00:00
-608,Мария Борисовна Першенкова,F,House Paulaner Mönchshof,1985-02-25 00:00:00
-609,Ярослав Фёдорович Струлецкий,F,Mönchshof Hacker Drop,1939-01-06 00:00:00
-610,Инна Петровна Курагина,F,Mönchshof Maisel,1937-03-17 00:00:00
-611,Иван Викторович Шуряхин,M,Hacker Aventinus,1960-10-28 00:00:00
-612,Дарья Борисовна Усальцева,F,Kloster Schumacher,1962-04-09 00:00:00
-613,Кирилл Юрьевич Мусатков,F,Alt-Bayerisch Gänstaller Urbock,1939-05-29 00:00:00
-614,Светлана Эдуардовна Незбайлова,F,Weihenstephaner Schumacher,1944-07-28 00:00:00
-615,Кира Яковлевна Будищева,M,House Dortmunder,1939-06-20 00:00:00
-616,Николай Аркадиевич Трошенский,M,Kloster Doppelbock Kellerbier,1945-09-02 00:00:00
-617,Алина Михайловна Пажитнева,F,Brothers Spaten,2001-06-16 00:00:00
-618,Елена Ивановна Камбалина,M,Schneider Doppelbock Ur-Weisse,1945-03-31 00:00:00
-619,Маргарита Максимовна Белоброва,F,Franziskaner Goslarer,1987-10-14 00:00:00
-620,Олег Алексиевич Воин,M,Hacker Zoiglbauer,1972-05-18 00:00:00
-621,Наталья Эдуардовна Нолуманова,F,Ayinger Köstritzer,1973-02-26 00:00:00
-622,Валентина Игоревна Жирнакова,F,Hacker Jahrhundert Bier,1975-10-23 00:00:00
-623,Яков Борисович Фиаткин,M,Hermannator Ice Flensburger,1941-01-11 00:00:00
-624,Тарас Денисович Полюляев,F,Franziskaner Zoigl,1932-11-03 00:00:00
-625,Ярослав Антонович Бойцов,F,Ayinger Erdinger Dark,1995-09-12 00:00:00
-626,Борис Яковлевич Светашев,M,Ayinger Paulaner Märzen,1987-06-03 00:00:00
-627,Марина Кирилловна Сухтинова,M,Mönchshof Köstritzer,1992-12-19 00:00:00
-628,Кира Максимовна Тихтурова,M,Hefe-Weisse Roggen,1976-11-20 00:00:00
-629,Валерий Данилович Повасин,F,Hermannator Ice München,1966-05-04 00:00:00
-630,Раиса Кирилловна Приводнова,F,Andechser Mitterteich Scurry,1984-08-26 00:00:00
-631,Антон Олегович Сулацкий,F,Hacker-Pschorr Hacker Altenauer,1929-10-21 00:00:00
-632,Лиза Ивановна Картоева,F,Ayinger München,1934-01-19 00:00:00
-633,Андрей Павлович Девичев,M,Alt-Bayerisch Hefe-Weisse Kellerbier,1950-03-06 00:00:00
-634,Станислав Виталиевич Ягорцев,M,Mühlen,1970-12-20 00:00:00
-635,Вера Олеговна Баренева,M,1516 Steam,1992-09-11 00:00:00
-636,Борис Юрьевич Шубенкин,F,Kloster Ottos,1960-05-20 00:00:00
-637,Виталий Виталиевич Агафонин,F,Kloster Ayinger Ritterguts,1987-05-08 00:00:00
-638,Полина Леонидовна Каукутина,M,Alt-Bayerisch Hefe-Weisse Franziskaner,1998-04-15 00:00:00
-639,Яков Викторович Сулицин,F,Erdinger Ritterguts,1931-11-19 00:00:00
-640,Катерина Никитична Тяшина,F,Hacker Flensburger,1994-04-16 00:00:00
-641,Катерина Романовна Аленушкина,M,House Mitterteich Paulaner,1984-04-26 00:00:00
-642,Маргарита Борисовна Пискалова,M,Brauerei Märzen,1942-01-20 00:00:00
-643,Владислав Олегович Мокосеев,M,Alt-Bayerisch Dampfbierbrauerei Früh,1972-06-09 00:00:00
-644,Анатолий Виталиевич Петрунев,M,Buttenheimer Dunkel,1942-11-02 00:00:00
-645,Роман Романович Иовин,F,Zoigl Hofbräu Frankenheim,1946-12-19 00:00:00
-646,Мария Яковлевна Тишунина,M,Mönchshof Maisel,1944-07-05 00:00:00
-647,Валерий Аркадиевич Рыстин,M,Schneider Hefe-Weisse Bitburger,2001-11-18 00:00:00
-648,Степан Николаевич Ходзицкий,F,Andechser Jahrhundert Roggen,1940-06-30 00:00:00
-649,Евгения Вадимовна Забарина,F,Andechser Hofbräu Schumacher,1953-10-11 00:00:00
-650,Альберт Евгеньевич Дрохин,F,Mitterteich Warsteiner,2001-10-01 00:00:00
-651,Наталия Василевна Корыстова,M,Hofbräu Rauchbier,1937-08-07 00:00:00
-652,Аркадий Романович Мардухаев,F,Alt-Bayerisch Spaten,1943-06-18 00:00:00
-653,Альберт Яковлевич Караськов,M,Hacker Jahrhundert Bier,1969-07-21 00:00:00
-654,Галина Егоровна Озарнова,M,Alt-Bayerisch Pschorr Oktoberfest Pikantus,1963-04-11 00:00:00
-655,Эдуард Евгеньевич Воинский,M,Spaten Dampfbierbrauerei Franziskaner,1947-09-13 00:00:00
-656,Аркадий Тимофеевич Белоконев,M,Buttenheimer Brewing Frankenheim,1957-09-10 00:00:00
-657,Эдуард Вадимович Кептин,M,Weihenstephaner Gänstaller Dark,2002-07-23 00:00:00
-658,Владимир Вадимович Хандин,F,Kloster Ayilinger,1988-09-02 00:00:00
-659,Яков Антонович Юдалов,F,Huberts Kellerbier,1938-04-21 00:00:00
-660,Николай Борисович Шайхудинов,F,Ayinger Brewing Aventinus,1928-12-01 00:00:00
-661,Яков Евгеньевич Кумиков,M,Andechser Dampfbier,1924-02-12 00:00:00
-662,Полина Николаевна Званнская,M,Alt-Bayerisch 1516 München,1947-01-12 00:00:00
-663,Валентин Яковлевич Арестов,F,Hacker-Pschorr 1516 Dunkel,2002-12-23 00:00:00
-664,Юлия Леонидовна Вителева,F,Ayinger Ottos,2001-05-14 00:00:00
-665,Кристина Валерьевна Курпяева,F,Ayinger Pikantus,1979-10-05 00:00:00
-666,Тарас Фёдорович Звольский,F,Ayinger Erdinger,1953-05-04 00:00:00
-667,Лиза Яковлевна Сидорьина,M,Andechser Dunkel,1987-12-21 00:00:00
-668,Евгений Вадимович Плитов,F,Alt-Bayerisch Bier,1990-03-09 00:00:00
-669,Яков Фёдорович Алушпов,F,Andechser Krombacher,1942-10-27 00:00:00
-670,Елена Михайловна Парваткина,M,Andechser Pschorr Oktoberfest Oettingen,1936-12-11 00:00:00
-671,Алиса Максимовна Алова,M,Weihenstephaner Brauerei Schumacher,1981-07-23 00:00:00
-672,Наталия Сергеевна Нахшина,M,Huberts Pfarrbräu,1997-04-04 00:00:00
-673,Виктор Кириллович Катуркин,M,Spaten Brewing Erdinger,1995-07-25 00:00:00
-674,Тамара Николаевна Алескарова,M,Mönchshof Huberts Maibock,1981-12-23 00:00:00
-675,Елена Борисовна Бабинская,M,Brothers Dortmunder,2001-03-19 00:00:00
-676,Пётр Данилович Мужиков,F,Mitterteich München,1977-08-02 00:00:00
-677,Виктория Ивановна Спунгина,M,Alt-Bayerisch Steam,1993-05-07 00:00:00
-678,Жанна Эдуардовна Штыцкая,M,Zoigl Ur-Weisse,1995-12-27 00:00:00
-679,Вероника Андреевна Махиева,F,Brewing Korbinian,1936-03-07 00:00:00
-680,Дарья Андреевна Пылткова,F,Hacker-Pschorr Doppelbock Roggen,1949-04-10 00:00:00
-681,Наталия Никитична Докова,F,Weihenstephaner Unser Kellerbier,1983-11-07 00:00:00
-682,Кристина Евгеньевна Савотикова,F,Franziskaner Weizen-Eisbock,1935-11-18 00:00:00
-683,Вадим Алексиевич Дылдин,F,Unser Spezial,1949-05-15 00:00:00
-684,Степан Георгиевич Сафрошкин,M,Ayinger Dampfbierbrauerei Becks,1952-03-27 00:00:00
-685,Маргарита Вадимовна Федцова,M,Weihenstephaner Schlenkerla Rauchbier Korbinian,1939-05-01 00:00:00
-686,Андрей Романович Удалкин,F,Dampfbierbrauerei Mühlen,1984-07-26 00:00:00
-687,Владислав Алексиевич Бичевин,F,Ayinger Ottos,1993-10-06 00:00:00
-688,Мария Алексеевна Добжинская,M,Hefe-Weisse Weizen-Eisbock,1939-11-25 00:00:00
-689,Виталий Василиевич Мишнов,F,Hacker Hacker Ottos,1992-08-29 00:00:00
-690,Александр Алексеевич Цимляков,F,Andechser 1516 Spezial,1963-07-04 00:00:00
-691,Артём Георгиевич Прелков,F,Hermannator Ice Märzen,2000-07-03 00:00:00
-692,Катерина Валерьевна Федотчева,F,Schneider Dunkel,1961-03-16 00:00:00
-693,Маргарита Федоровна Жорчева,F,Weihenstephaner Kellerbier,1936-11-11 00:00:00
-694,Кира Евгеньевна Обломова,F,Spaten Schlenkerla Rauchbier Aventinus,2002-02-04 00:00:00
-695,Светлана Федоровна Крысякова,M,Hermannator Ice Hofbräu Scurry,1940-11-16 00:00:00
-696,Катерина Викторовна Евлина,M,Zoigl Hacker Weizen-Eisbock,1952-09-22 00:00:00
-697,Екатерина Михайловна Чулдина,F,House Goslarer,1964-07-08 00:00:00
-698,Дмитрий Данилович Макеичев,F,Huberts Diebels,1948-03-15 00:00:00
-699,Яков Юриевич Шайтанов,M,Alt-Bayerisch Aventinus Oettingen,1961-09-15 00:00:00
-700,Ольга Николаевна Сухручкина,F,Ottos,1983-06-16 00:00:00
-701,Катерина Петровна Спичекова,M,Weihenstephaner Pfarrbräu,1947-11-04 00:00:00
-702,Вера Кирилловна Радзская,F,Ayinger Hacker Maibock,1965-10-31 00:00:00
-703,Анатолий Евгеньевич Ряковский,M,Mönchshof Erdinger Dark,2001-12-23 00:00:00
-704,Елизавета Вадимовна Вальшикова,M,Hacker-Pschorr Roggen,1929-09-17 00:00:00
-705,Надежда Василевна Замарова,F,Radeberger,1947-10-27 00:00:00
-706,Игорь Яковлевич Жисмин,F,Ayinger 1516 Mönchshof,1922-08-21 00:00:00
-707,Дарья Алексеевна Овручская,M,Buttenheimer Hofbräu Ottos,1932-03-10 00:00:00
-708,Евгений Алексеевич Юмаев,M,Brewing Radeberger,1996-02-27 00:00:00
-709,Анатолий Денисович Горогев,F,Kloster Kellerbier,1961-10-02 00:00:00
-710,Валентина Алексеевна Захидова,F,Gänstaller Gaffel,1959-04-27 00:00:00
-711,Валерия Эдуардовна Кочеева,F,House Altenauer,1932-06-07 00:00:00
-712,Раиса Евгеньевна Теринова,M,Weihenstephaner Hacker Urbock,1991-08-21 00:00:00
-713,Константин Николаевич Ловягин,F,Ayinger Aventinus,1944-01-10 00:00:00
-714,Вера Игоревна Алырщикова,F,Hofbräu Göller,2000-11-10 00:00:00
-715,Лариса Вадимовна Чопорова,F,Alt-Bayerisch Jahrhundert Mönchshof,1989-08-25 00:00:00
-716,Наталья Николаевна Янчарова,M,Brothers Rauchbier,1935-01-20 00:00:00
-717,Юлия Богдановна Евдонина,M,House Urbock,1935-12-27 00:00:00
-718,Катерина Богдановна Мулякаева,M,Brothers Ritterguts,1940-08-05 00:00:00
-719,Алёна Кирилловна Ролдухина,M,House Krombacher,1925-05-03 00:00:00
-720,Виталий Фёдорович Присягин,M,Hacker Erdinger München,1956-11-01 00:00:00
-721,Ярослав Фёдорович Шаврацкий,F,Hermannator Ice Brothers Ottos,1992-12-29 00:00:00
-722,Яна Максимовна Одаева,M,Doppelbock Augustinerbräu,1950-01-25 00:00:00
-723,Степан Максимович Жаншин,F,Brothers Spezial,1981-09-03 00:00:00
-724,Эдуард Борисович Лихушин,F,Ayinger Zoiglbauer,1934-04-18 00:00:00
-725,Дарья Дмитриевна Сукроева,F,Schumacher,1953-11-17 00:00:00
-726,Семён Алексиевич Похоруков,F,Kloster Pschorr,1959-07-03 00:00:00
-727,Ксения Никитична Атоева,F,Schneider Brewing Korbinian,1981-08-27 00:00:00
-728,Алёна Никитична Пинтилина,M,Doppelbock Kellerbier,1930-10-11 00:00:00
-729,Кирилл Денисович Сазончев,F,Ayinger Schlenkerla Rauchbier Pschorr,1983-09-20 00:00:00
-730,Тарас Антонович Тарбов,M,Schneider Oettingen,1945-10-04 00:00:00
-731,Эдуард Георгиевич Акучин,F,Hacker Schumacher,1928-07-17 00:00:00
-732,Кристина Эдуардовна Тычилина,M,Schneider Paulaner Dunkel,1968-08-21 00:00:00
-733,Борис Петрович Кордовский,M,Schneider Hefe-Weisse Dunkel,1925-09-03 00:00:00
-734,Аркадий Викторович Зулкарниев,M,Mönchshof Radeberger,1976-01-19 00:00:00
-735,Алексей Петрович Агатеев,F,Brewing Urbock,1946-08-07 00:00:00
-736,Алла Валерьевна Чурьякова,M,Weihenstephaner Gaffel,1969-11-02 00:00:00
-737,Константин Николаевич Дуйнов,M,Franziskaner Salvator,1939-08-14 00:00:00
-738,Пётр Андреевич Буркутский,M,Gänstaller Spezial,1991-10-05 00:00:00
-739,Владимир Андреевич Хаммов,F,Schumacher,1996-02-08 00:00:00
-740,Михаил Фёдорович Фомакин,M,Spaten Urbock,1935-03-07 00:00:00
-741,Вячеслав Петрович Андианов,M,Franziskaner 1516 Zoiglbauer,1997-05-30 00:00:00
-742,Валерий Фёдорович Зориков,M,Hofbräu Scurry,1964-12-31 00:00:00
-743,Федор Михаилович Чукалов,M,Mitterteich Rauchbier,1993-01-06 00:00:00
-744,Тамара Максимовна Данлова,M,Hofbräu Pschorr,1948-08-26 00:00:00
-745,Галина Егоровна Унковская,F,Mitterteich München,1977-04-24 00:00:00
-746,Марина Федоровна Жаботина,M,Zoigl Oktoberfest,1990-07-28 00:00:00
-747,Тамара Игоревна Коргушова,F,Jahrhundert Scurry,1993-11-28 00:00:00
-748,Оксана Яковлевна Брыскова,M,Hefe-Weisse Roggen,1990-08-02 00:00:00
-749,Ольга Викторовна Вальнева,M,Alt-Bayerisch Dunkel,1986-05-01 00:00:00
-750,Антон Павлович Закимов,M,House Brauerei Schumacher,1965-11-02 00:00:00
-751,Елизавета Петровна Натягина,M,Mönchshof Paulaner Schumacher,1939-02-11 00:00:00
-752,Клара Василевна Заболотина,M,Alt-Bayerisch Optimator,1991-09-23 00:00:00
-753,Герасим Кириллович Носиков,F,Hacker-Pschorr Ottos,1932-05-29 00:00:00
-754,Анастасия Василевна Шарикова,F,Franziskaner Jahrhundert Rauchbier,1973-10-08 00:00:00
-755,Никита Яковлевич Хетагуров,F,Weihenstephaner Korbinian,1943-10-17 00:00:00
-756,Галина Михайловна Фидловская,F,Roggen,1994-02-28 00:00:00
-757,Тарас Сергеевич Елчев,F,Buttenheimer Hofbräu Maibock,1943-01-08 00:00:00
-758,Семён Олегович Насосников,M,Jahrhundert Maibock,1980-12-09 00:00:00
-759,Ирина Олеговна Адина,F,Alt-Bayerisch Huberts Bier,1984-10-11 00:00:00
-760,Семён Викторович Конверов,F,Frankenheim,1941-06-10 00:00:00
-761,Карина Егоровна Хусаиншина,F,Mönchshof Radeberger,1969-12-17 00:00:00
-762,Антон Валериевич Закиров,F,Alt-Bayerisch Brothers Ottos,1939-07-19 00:00:00
-763,Вадим Борисович Гаймаков,M,Weihenstephaner Gänstaller Pschorr,1958-10-05 00:00:00
-764,Георгий Фёдорович Суходимцев,M,Dortmunder,1987-02-11 00:00:00
-765,Пётр Олегович Попадьин,M,Dampfbierbrauerei Maibock,1981-10-25 00:00:00
-766,Анна Кирилловна Денякина,F,Franziskaner Gänstaller Dunkel,1977-11-18 00:00:00
-767,Софья Эдуардовна Апандеева,F,Buttenheimer Doppelbock Dunkel,1928-10-19 00:00:00
-768,Кира Борисовна Галузкина,F,Franziskaner Köstritzer,1942-08-23 00:00:00
-769,Дмитрий Романович Шиловских,M,Brewing Dampfbier,1993-02-06 00:00:00
-770,Екатерина Егоровна Чародеева,F,Pschorr Oktoberfest Aventinus,1939-04-13 00:00:00
-771,Пётр Вадимович Покрышкин,F,Franziskaner Hefe-Weisse Dunkel,1935-07-13 00:00:00
-772,Алиса Сергеевна Шиевская,F,Zoigl Oktoberfest,1992-06-22 00:00:00
-773,Алла Егоровна Филозова,F,Franziskaner Weizen-Eisbock,1965-03-14 00:00:00
-774,Никита Адамович Повереннов,M,Brothers Spaten,1983-05-07 00:00:00
-775,Раиса Романовна Матюнова,F,Brewing Radeberger,1959-10-08 00:00:00
-776,Валерия Ивановна Арецкина,F,Hofbräu Köstritzer,1927-04-05 00:00:00
-777,Пётр Юрьевич Вязовцев,M,House Brauerei Schumacher,1969-10-05 00:00:00
-778,Григорий Аркадиевич Черножуков,M,Franziskaner Brothers Spaten,1996-07-30 00:00:00
-779,Маргарита Викторовна Касикова,M,Aventinus Bitburger,1982-09-05 00:00:00
-780,Иван Петрович Никулищин,F,Dampfbierbrauerei Maibock,1954-01-06 00:00:00
-781,Виктор Данилович Замалин,M,Weihenstephaner Gänstaller Reissdorf,1927-02-01 00:00:00
-782,Софья Андреевна Мазонова,M,Ayinger Pschorr Oktoberfest Flensburger,1972-05-07 00:00:00
-783,Наталия Федоровна Ветродуева,F,Hefe-Weisse Franziskaner,1994-05-22 00:00:00
-784,Алена Леонидовна Спинева,F,Weihenstephaner Jahrhundert Steam,1993-11-20 00:00:00
-785,Валентина Романовна Залящина,M,Spaten Ayilinger,2001-03-17 00:00:00
-786,Степан Виталиевич Ханенков,F,Hacker-Pschorr Hefe-Weisse Ritterguts,1945-04-25 00:00:00
-787,Яна Аркадьевна Нискина,M,House Hacker Ayilinger,1943-09-13 00:00:00
-788,Вера Романовна Дмитреева,F,Hacker-Pschorr Köstritzer,1958-05-24 00:00:00
-789,Софья Федоровна Земблинова,F,Alt-Bayerisch Hacker Pfarrbräu,1950-11-17 00:00:00
-790,Евгений Юриевич Бабулин,M,Zoigl Dampfbierbrauerei Mühlen,1938-03-30 00:00:00
-791,Денис Юрьевич Жавинский,F,1516 Spaten,1938-12-30 00:00:00
-792,Любовь Валерьевна Подтяжкина,M,Dampfbierbrauerei Dampfbier,1993-08-11 00:00:00
-793,Надежда Борисовна Сабильева,F,Hacker Urbock,2001-07-27 00:00:00
-794,Игорь Юрьевич Коломыйцев,M,Buttenheimer München,1947-03-09 00:00:00
-795,Денис Адамович Чичиринцев,M,Andechser Flensburger,1994-07-09 00:00:00
-796,Григорий Петрович Церерин,F,Erdinger Drop,1974-04-19 00:00:00
-797,Семён Андреевич Сластилов,M,Schneider 1516 Gaffel,1974-08-16 00:00:00
-798,Яна Борисовна Шабарчина,F,Hacker Ayinger Warsteiner,1987-07-02 00:00:00
-799,Владислав Алексеевич Абатов,M,House Unser Altenauer,1979-04-10 00:00:00
-800,Константин Борисович Чередов,F,Weihenstephaner Brauerei Göller,1935-10-24 00:00:00
-801,Софья Кирилловна Скучилина,F,Huberts Kellerbier,1954-10-20 00:00:00
-802,Виктория Викторовна Иваничкина,M,Alt-Bayerisch Brothers Köstritzer,1995-08-05 00:00:00
-803,Марина Алексеевна Вагаева,F,Schneider Brauerei Diebels,1988-10-28 00:00:00
-804,Леонид Юрьевич Увсатин,F,Schlenkerla Rauchbier Maisel,1958-05-05 00:00:00
-805,Яна Кирилловна Нетленова,F,House Göller,1980-10-22 00:00:00
-806,Виталий Романович Ландов,M,Weihenstephaner Roggen,2001-06-30 00:00:00
-807,Вера Кирилловна Аточкина,M,Schlenkerla Rauchbier Warsteiner,1950-08-29 00:00:00
-808,Семён Антонович Камсков,F,Schneider Unser Mönchshof,1976-11-09 00:00:00
-809,Борис Кириллович Шарофеев,F,Zoigl Pikantus,1936-12-25 00:00:00
-810,Олег Николаевич Стегайлов,F,Pschorr Oktoberfest Augustinerbräu,1979-08-16 00:00:00
-811,Алина Олеговна Шелковых,F,Alt-Bayerisch Erdinger Pikantus,2001-12-19 00:00:00
-812,Елена Леонидовна Корнашова,M,Erdinger Zoiglbauer,1969-02-16 00:00:00
-813,Алёна Петровна Тихамирова,F,Weihenstephaner Reissdorf,1984-03-05 00:00:00
-814,Александра Кирилловна Ясицкая,M,München,2001-07-11 00:00:00
-815,Андрей Михаилович Юрищев,F,Hermannator Ice Brothers Ottos,1970-10-02 00:00:00
-816,Яков Леонидович Краснобаев,M,Spaten Mitterteich Früh,1977-06-16 00:00:00
-817,Вячеслав Фёдорович Искаев,F,Franziskaner Salvator,1985-08-23 00:00:00
-818,Никита Леонидович Кавкаев,M,Brewing Radeberger,1952-07-15 00:00:00
-819,Ольга Максимовна Родоманова,M,Brothers Spezial,1926-05-23 00:00:00
-820,Евгений Валериевич Дусиков,F,Ayinger Augustinerbräu,1977-03-08 00:00:00
-821,Виталий Фёдорович Бабуричев,M,Alt-Bayerisch Hofbräu Dark,1941-04-22 00:00:00
-822,Яков Вадимович Сымов,F,Gänstaller Erdinger,1946-07-05 00:00:00
-823,Екатерина Валерьевна Пальванова,M,Hacker Schlenkerla Rauchbier Becks,1994-03-15 00:00:00
-824,Валентина Николаевна Кормишина,M,Alt-Bayerisch Bitburger,1976-03-29 00:00:00
-825,Виктор Евгеньевич Велишанин,M,Buttenheimer Ur-Weisse,1985-06-25 00:00:00
-826,Дмитрий Георгиевич Томнаков,F,Ayinger Ayinger Scurry,1944-08-20 00:00:00
-827,Аркадий Адамович Минилбаев,F,Spaten Ur-Weisse,1985-10-04 00:00:00
-828,Любовь Яковлевна Ардарова,F,House Dortmunder,1997-04-05 00:00:00
-829,Вячеслав Яковлевич Молодкин,F,Hacker-Pschorr Hacker Bitburger,1986-09-14 00:00:00
-830,Геннадий Андреевич Теселкин,F,Hacker Schumacher,1951-06-06 00:00:00
-831,Вера Богдановна Шелофанова,M,Ayinger Dortmunder,1940-01-12 00:00:00
-832,Степан Олегович Ильвуткин,F,Kellerbier,1984-06-07 00:00:00
-833,Виолетта Вадимовна Канунцева,M,Brewing Köllner,1978-07-10 00:00:00
-834,Илья Сергеевич Почепаев,M,Alt-Bayerisch Doppelbock Dunkel,1938-11-06 00:00:00
-835,Вероника Яковлевна Алимжанова,M,Gänstaller Spezial,1965-12-03 00:00:00
-836,Полина Яковлевна Серажева,M,Kloster Dortmunder,1935-12-13 00:00:00
-837,Семён Алексеевич Теннов,M,Hacker Pschorr Oktoberfest Zoiglbauer,1940-10-22 00:00:00
-838,Герасим Олегович Абушев,M,House Krombacher,1986-10-16 00:00:00
-839,Михаил Николаевич Зиченков,F,Kloster Unser Ayilinger,1966-10-31 00:00:00
-840,Валерия Валерьевна Адрова,F,Hacker Paulaner Scurry,1985-10-12 00:00:00
-841,Тарас Романович Култаев,M,Hermannator Ice Pschorr Oktoberfest Aventinus,1987-07-07 00:00:00
-842,Алексей Иванович Тужилькин,F,Brothers Scurry,1926-11-14 00:00:00
-843,Игорь Данилович Колчанов,F,Zoigl Hofbräu Frankenheim,2001-02-27 00:00:00
-844,Раиса Николаевна Молдалиева,M,Weihenstephaner Brauerei Urbock,1935-03-11 00:00:00
-845,Герасим Игоревич Новашин,M,Schneider Ottos,1941-06-22 00:00:00
-846,Юлия Сергеевна Каляпкина,F,Pschorr Oktoberfest Schumacher,1941-02-25 00:00:00
-847,Раиса Максимовна Дахаева,F,Huberts Warsteiner,1960-08-18 00:00:00
-848,Анатолий Виталиевич Канафьев,F,Buttenheimer Hofbräu Ottos,1985-02-08 00:00:00
-849,Григорий Кириллович Арженов,M,Hermannator Ice Zoiglbauer,2002-11-15 00:00:00
-850,Алина Андреевна Вознякова,F,Pschorr Oktoberfest Korbinian,1971-02-02 00:00:00
-851,Ева Никитична Худадатова,M,Dampfbierbrauerei Scurry,1969-10-07 00:00:00
-852,Валентина Дмитриевна Стаценина,M,Spaten Dortmunder,1971-11-21 00:00:00
-853,Артур Игоревич Куличков,F,Franziskaner Jahrhundert Augustinerbräu,1979-05-29 00:00:00
-854,Анастасия Яковлевна Сыроежина,F,Hacker Zoiglbauer,1945-10-25 00:00:00
-855,Станислав Алексеевич Душкин,F,Brothers Köllner,1991-11-19 00:00:00
-856,Кристина Вадимовна Суковатова,M,Ayinger Ottos,1955-09-12 00:00:00
-857,Лиза Евгеньевна Мышенцева,F,Schneider Hefe-Weisse Bitburger,1928-04-14 00:00:00
-858,Яна Николаевна Бангерская,F,Zoigl Schlenkerla Rauchbier Bräu,1964-10-01 00:00:00
-859,Дмитрий Борисович Финакин,F,Huberts Ritterguts,1988-03-25 00:00:00
-860,Аркадий Евгеньевич Кубриков,F,Ayinger Brewing Aventinus,1999-11-07 00:00:00
-861,Ева Эдуардовна Бундунина,M,Buttenheimer Aventinus Radeberger,1976-03-17 00:00:00
-862,Людмила Валерьевна Игнатикова,F,Andechser Huberts Optimator,2003-09-11 00:00:00
-863,Иван Тимофеевич Копкин,M,Alt-Bayerisch Hofbräu Oettingen,1958-06-15 00:00:00
-864,Виталий Андреевич Рудев,F,Hefe-Weisse Lager,1960-10-30 00:00:00
-865,Пётр Валериевич Ханичев,F,Becks,1970-09-29 00:00:00
-866,Клара Романовна Епарина,F,Hacker-Pschorr Maisel,1966-07-22 00:00:00
-867,Эдуард Леонидович Ясиновский,M,Mönchshof Radeberger,1960-03-13 00:00:00
-868,Анатолий Яковлевич Мазавин,M,Mönchshof Dark,1992-01-03 00:00:00
-869,Елизавета Федоровна Шевелилова,F,Jahrhundert Lager,1978-02-21 00:00:00
-870,Кристина Никитична Трефилкина,F,Mönchshof Maibock,1977-11-19 00:00:00
-871,Лариса Леонидовна Папукина,F,Weihenstephaner Mühlen,1963-06-14 00:00:00
-872,Александр Василиевич Кедровских,F,Ayinger Ayinger Scurry,1942-07-23 00:00:00
-873,Алла Романовна Григурина,M,Mitterteich Köllner,1998-12-14 00:00:00
-874,Григорий Тимофеевич Теткин,F,Schneider Brewing Dortmunder,1957-07-14 00:00:00
-875,Виталий Яковлевич Савунов,F,Hacker-Pschorr Diebels,1987-11-04 00:00:00
-876,Георгий Виталиевич Гребенев,M,Buttenheimer Hefe-Weisse Dunkel,1994-06-29 00:00:00
-877,Дарья Михайловна Аганкина,M,Hermannator Ice Paulaner Göller,1978-02-24 00:00:00
-878,Яков Аркадиевич Колабанов,M,Andechser Hefe-Weisse Ayilinger,1969-08-11 00:00:00
-879,Марина Леонидовна Мамычкина,F,Mönchshof Brauerei Göller,2001-07-02 00:00:00
-880,Кирилл Антонович Кутыгин,F,Weihenstephaner Erdinger Flensburger,1943-07-28 00:00:00
-881,Ольга Егоровна Осьмина,M,Jahrhundert Warsteiner,1954-10-19 00:00:00
-882,Пётр Игоревич Измаилов,F,Schneider Jahrhundert Dunkel,2001-08-18 00:00:00
-883,Денис Валериевич Копоров,M,Spaten Oktoberfest,1967-11-17 00:00:00
-884,Лариса Алексеевна Минкина,M,Buttenheimer Brauerei Bräu,1965-02-18 00:00:00
-885,Никита Яковлевич Куккунин,F,Alt-Bayerisch Hacker Maibock,1955-08-18 00:00:00
-886,Карина Федоровна Таратихина,M,Alt-Bayerisch Roggen,1998-05-09 00:00:00
-887,Юрий Максимович Подтихов,M,Ayinger Weizen-Eisbock,1957-11-17 00:00:00
-888,Наталия Борисовна Китовкина,M,Andechser Ayinger Altenauer,1993-01-17 00:00:00
-889,Ирина Валерьевна Горбушева,F,Franziskaner Oktoberfest,1966-08-06 00:00:00
-890,Оксана Яковлевна Красных,M,Mönchshof Dampfbier,1942-06-05 00:00:00
-891,Виктория Викторовна Канарулина,F,Zoigl Zoiglbauer,1986-01-23 00:00:00
-892,Андрей Адамович Богулев,M,Optimator,1965-07-02 00:00:00
-893,Анна Николаевна Гендлина,M,Hacker Pschorr Oktoberfest Maibock,1973-10-06 00:00:00
-894,Зинаида Ивановна Нуреева,F,Dampfbierbrauerei Scurry,1923-05-10 00:00:00
-895,Вероника Дмитриевна Васюшкина,F,Pfarrbräu,1929-12-04 00:00:00
-896,Геннадий Адамович Зарянов,M,Zoigl Bier,1932-07-19 00:00:00
-897,Наталия Леонидовна Петлейкина,F,Mitterteich Ritterguts,1977-01-13 00:00:00
-898,Вадим Олегович Лебедушкин,M,Mönchshof Hacker Roggen,1929-01-08 00:00:00
-899,Виталий Валериевич Ловенецкий,F,Pschorr Oktoberfest Schumacher,1925-03-17 00:00:00
-900,Юрий Петрович Ходецкий,F,Andechser Ayinger Altenauer,1991-10-02 00:00:00
-901,Людмила Кирилловна Чихалина,M,Schneider Oettingen,1980-07-02 00:00:00
-902,Илья Романович Феронов,F,House Altenauer,1992-03-23 00:00:00
-903,Георгий Петрович Халамов,M,Alt-Bayerisch Hofbräu Oettingen,2003-01-31 00:00:00
-904,Алла Кирилловна Гушкова,M,Schneider Paulaner Dunkel,1942-12-24 00:00:00
-905,Клавдия Ивановна Обыденнова,M,Huberts Ritterguts,1988-12-22 00:00:00
-906,Валентин Георгиевич Евстифеев,M,Alt-Bayerisch Hofbräu Dark,1993-04-28 00:00:00
-907,Яков Юриевич Кожемянин,M,Hacker-Pschorr Gänstaller Oktoberfest,1978-05-06 00:00:00
-908,Мария Федоровна Китасова,F,Unser Flensburger,1928-08-07 00:00:00
-909,Жанна Дмитриевна Чекалева,F,Ayinger Ayinger Scurry,1985-09-20 00:00:00
-910,Владимир Валериевич Глазырин,M,Gänstaller Gaffel,1986-01-21 00:00:00
-911,Зинаида Василевна Дамская,F,Pschorr Oktoberfest Schumacher,1933-09-15 00:00:00
-912,Игорь Олегович Калошин,F,Weihenstephaner Franziskaner,1949-11-01 00:00:00
-913,Альберт Юриевич Янчинский,F,Ayinger Jahrhundert Ottos,1939-07-10 00:00:00
-914,Любовь Андреевна Клоковская,F,Brothers Dark,1984-12-23 00:00:00
-915,Виталий Валериевич Наумченков,M,Pschorr Oktoberfest Altenauer,1983-08-07 00:00:00
-916,Пётр Романович Бурывков,M,Weihenstephaner Jahrhundert Steam,1982-08-23 00:00:00
-917,Зинаида Алексеевна Кабочкина,F,Kloster Ayilinger,1996-03-03 00:00:00
-918,Софья Андреевна Смачнева,F,Reissdorf,2003-08-05 00:00:00
-919,Михаил Олегович Кодянов,M,Kloster Unser Ayilinger,1980-12-25 00:00:00
-920,Мария Борисовна Петюнина,F,Unser Krombacher,1989-04-26 00:00:00
-921,Герасим Андреевич Минзумин,M,Buttenheimer Frankenheim,1930-08-17 00:00:00
-922,Денис Николаевич Рыкунов,F,Alt-Bayerisch Dunkel,1966-02-19 00:00:00
-923,Александра Максимовна Белогина,M,Hefe-Weisse Radeberger,1966-10-08 00:00:00
-924,Яков Евгеньевич Чекалев,M,Kloster Erdinger Dark,1983-09-07 00:00:00
-925,Олег Тимофеевич Колбаев,M,Dampfbier,1947-11-19 00:00:00
-926,Григорий Леонидович Сытнин,F,Ayinger Brauerei Becks,1997-08-18 00:00:00
-927,Никита Максимович Жилушкин,F,Mitterteich München,1928-07-20 00:00:00
-928,Катерина Евгеньевна Лоджевская,F,Hermannator Ice Hefe-Weisse Früh,1976-07-15 00:00:00
-929,Юлия Леонидовна Тапильцева,M,Mönchshof Aventinus,1950-02-07 00:00:00
-930,Ярослав Антонович Гельперин,F,Hofbräu Rauchbier,1970-06-22 00:00:00
-931,Алена Яковлевна Черпецкая,M,Buttenheimer Hofbräu Ottos,1975-03-16 00:00:00
-932,Раиса Ивановна Савостьева,F,1516 Steam,1964-06-06 00:00:00
-933,Светлана Игоревна Ласовская,F,Buttenheimer Gänstaller Erdinger,1931-07-27 00:00:00
-934,Геннадий Данилович Мамыков,F,House Hefe-Weisse Optimator,1962-07-17 00:00:00
-935,Иван Тимофеевич Сасунов,M,Paulaner Frankenheim,1942-10-17 00:00:00
-936,Раиса Евгеньевна Якутина,M,Ayinger Hacker Dortmunder,1939-07-16 00:00:00
-937,Яна Ивановна Немецкова,M,Buttenheimer Schlenkerla Rauchbier Gaffel,1998-09-13 00:00:00
-938,Роман Олегович Сытов,M,Schneider Pikantus,1937-11-02 00:00:00
-939,Владислав Алексеевич Ковальков,F,Weihenstephaner Reissdorf,1924-05-20 00:00:00
-940,Раиса Валерьевна Чупшева,M,Schneider Reissdorf,1957-08-04 00:00:00
-941,Герасим Михаилович Чоркин,M,Spaten Ottos,1926-07-28 00:00:00
-942,Евгений Георгиевич Виловский,F,Pschorr Oktoberfest Korbinian,1939-10-25 00:00:00
-943,Артём Николаевич Евтифанов,M,1516 Drop,1962-01-07 00:00:00
-944,Виолетта Романовна Подхвалина,F,Alt-Bayerisch Bier,1970-11-05 00:00:00
-945,Вера Федоровна Майсеева,F,Buttenheimer Aventinus Radeberger,1988-04-20 00:00:00
-946,Алена Николаевна Казмишева,M,Spaten Huberts Zoiglbauer,1923-08-13 00:00:00
-947,Ксения Евгеньевна Шикерина,F,Andechser Ayinger Altenauer,1946-06-02 00:00:00
-948,Руслан Тимофеевич Жирицкий,F,Buttenheimer Dunkel,1978-05-06 00:00:00
-949,Вероника Максимовна Псюшкина,M,Ayinger Frankenheim,1934-02-12 00:00:00
-950,Олег Яковлевич Пентельков,M,1516 München,1980-12-20 00:00:00
-951,Мария Михайловна Шибуняева,M,Alt-Bayerisch Erdinger Oktoberfest,1972-12-12 00:00:00
-952,Марина Сергеевна Повздорина,M,Mönchshof Jahrhundert Dampfbier,1939-03-03 00:00:00
-953,Семён Игоревич Парусин,M,Mönchshof Unser Ur-Weisse,1947-09-16 00:00:00
-954,Яна Валерьевна Радышева,F,Schlenkerla Rauchbier Warsteiner,1962-04-11 00:00:00
-955,Артур Фёдорович Фондымакин,F,1516 Scurry,1949-12-10 00:00:00
-956,Геннадий Романович Шашарин,M,Franziskaner Brothers Spaten,1950-11-16 00:00:00
-957,Тамара Яковлевна Евзорова,M,Schneider Paulaner Dunkel,1964-01-28 00:00:00
-958,Николай Евгеньевич Коныгин,M,Franziskaner Weizen-Eisbock,1942-01-01 00:00:00
-959,Степан Фёдорович Латовкин,M,Hacker Paulaner Scurry,1939-11-07 00:00:00
-960,Инна Кирилловна Симченкова,M,Weihenstephaner Dampfbierbrauerei Pikantus,1968-07-01 00:00:00
-961,Наталья Дмитриевна Ванина,M,Zoigl Pikantus,1985-07-11 00:00:00
-962,Никита Валериевич Фимушкин,F,Huberts Diebels,1980-02-17 00:00:00
-963,Степан Вадимович Варинский,F,Urbock,1997-10-11 00:00:00
-964,Мария Никитична Куртяева,F,Spaten Optimator,1994-03-07 00:00:00
-965,Константин Денисович Гмырин,M,Ayinger Köstritzer,2000-11-25 00:00:00
-966,Виктор Павлович Графуткин,M,Unser Maibock,1933-08-06 00:00:00
-967,Леонид Юрьевич Голеншин,F,Spaten Krombacher,1981-04-08 00:00:00
-968,Валентин Олегович Батыров,F,Ayinger München,1979-02-17 00:00:00
-969,Никита Алексеевич Каплинский,M,Kloster Brauerei Göller,1938-11-25 00:00:00
-970,Екатерина Никитична Куковерова,M,Mitterteich Köllner,2001-04-07 00:00:00
-971,Юлия Яковлевна Игнатичева,M,Zoigl Hofbräu Maisel,1959-03-30 00:00:00
-972,Ольга Леонидовна Ивенина,F,Mönchshof Huberts Franziskaner,1970-10-29 00:00:00
-973,Валентина Алексеевна Помякова,F,Alt-Bayerisch Flensburger,1995-11-25 00:00:00
-974,Григорий Романович Бацунов,M,Brothers Radeberger,1943-01-11 00:00:00
-975,Алена Кирилловна Марецкова,F,Kloster Ayinger Ritterguts,1948-03-21 00:00:00
-976,Лиза Михайловна Косьмина,M,Buttenheimer Ottos,1939-11-04 00:00:00
-977,Степан Максимович Карачаков,M,Weihenstephaner Becks,1983-02-17 00:00:00
-978,Наталья Игоревна Займовская,M,Brauerei Ottos,1983-11-07 00:00:00
-979,Елена Василевна Антонова,F,House Urbock,1948-04-26 00:00:00
-980,Пётр Николаевич Добрыднев,M,Franziskaner Schumacher,1990-12-26 00:00:00
-981,Ольга Василевна Самаркова,F,Weihenstephaner Erdinger Ur-Weisse,2002-12-16 00:00:00
-982,Леонид Евгеньевич Пруденский,F,Hermannator Ice Hacker Goslarer,1926-06-02 00:00:00
-983,Олег Михаилович Мукинин,M,Weihenstephaner Dampfbierbrauerei Pikantus,1960-10-18 00:00:00
-984,Яна Викторовна Холюсева,M,Hermannator Ice Doppelbock Maibock,1994-10-16 00:00:00
-985,Леонид Аркадиевич Домнин,M,Hefe-Weisse Dunkel,1952-08-24 00:00:00
-986,Дарья Николаевна Глебовская,M,Ayinger Rauchbier,1992-01-25 00:00:00
-987,Оксана Дмитриевна Сизенева,M,Hofbräu Pschorr,1956-08-05 00:00:00
-988,Никита Антонович Пазин,M,Spaten Brewing Korbinian,1983-03-15 00:00:00
-989,Антон Виталиевич Дрыгин,F,Hacker Aventinus,1927-09-05 00:00:00
-990,Кирилл Юриевич Жигарин,M,Dampfbierbrauerei Frankenheim,1951-10-18 00:00:00
-991,Алиса Олеговна Каденнова,M,Schlenkerla Rauchbier Pschorr,1938-06-22 00:00:00
-992,Ярослав Денисович Сапецкий,F,Mönchshof Ayilinger,1926-08-17 00:00:00
-993,Юрий Сергеевич Котякин,M,Zoigl Radeberger,1973-05-12 00:00:00
-994,Семён Виталиевич Мончев,M,Dampfbierbrauerei Ayilinger,1929-05-08 00:00:00
-995,Алексей Кириллович Неврединов,M,Hacker Ritterguts,1982-11-25 00:00:00
-996,Степан Борисович Болташов,M,Alt-Bayerisch Huberts Bier,1936-03-05 00:00:00
-997,Вера Ивановна Церулева,F,Weihenstephaner Unser Kellerbier,1953-02-28 00:00:00
-998,Максим Антонович Бестугин,F,Weihenstephaner Zoigl,1980-06-12 00:00:00
-999,Зинаида Федоровна Габинская,M,Andechser Huberts Optimator,1936-08-02 00:00:00
+0,Елена Кирилловна Курменева,M,Andechser Spezial,1986-03-03 00:00:00
+1,Владимир Георгиевич Бембинов,M,Alt-Bayerisch Ur-Weisse,1953-06-28 00:00:00
+2,Катерина Леонидовна Гореткина,F,Aventinus Oettingen,1986-11-25 00:00:00
+3,Герасим Михаилович Немцын,M,Hefe-Weisse Spezial,1950-02-21 00:00:00
+4,Никита Николаевич Потудин,F,Schneider Erdinger Mühlen,1981-09-17 00:00:00
+5,Ольга Леонидовна Марулина,F,Weihenstephaner Hofbräu Warsteiner,1927-04-15 00:00:00
+6,Павел Андреевич Калеников,M,Spaten Jahrhundert Kellerbier,1990-09-18 00:00:00
+7,Андрей Кириллович Камедчиков,F,Franziskaner Franziskaner,1932-11-12 00:00:00
+8,Юлия Федоровна Семихина,F,Paulaner Spaten,1969-11-27 00:00:00
+9,Наталья Евгеньевна Вальдина,F,Franziskaner Paulaner Märzen,1956-12-04 00:00:00
+10,Герасим Кириллович Казин,M,Hacker Scurry,1961-05-21 00:00:00
+11,Виолетта Кирилловна Толмасова,F,Buttenheimer Korbinian,1994-04-13 00:00:00
+12,Игорь Георгиевич Блажков,F,Jahrhundert Lager,1997-09-07 00:00:00
+13,Никита Павлович Суринов,M,Schneider Oettingen,2000-03-05 00:00:00
+14,Светлана Петровна Цориева,M,Hofbräu Optimator,1936-12-24 00:00:00
+15,Ярослав Алексеевич Шестопалов,F,Zoigl Augustinerbräu,1944-08-08 00:00:00
+16,Антон Юриевич Потылев,M,Buttenheimer Hofbräu Göller,1996-03-02 00:00:00
+17,Георгий Валериевич Минеков,F,Mitterteich Reissdorf,1986-08-27 00:00:00
+18,Наталия Василевна Бадушева,F,Alt-Bayerisch Unser Bitburger,1922-03-02 00:00:00
+19,Степан Юрьевич Осадчиков,F,Dampfbierbrauerei Franziskaner,1992-07-26 00:00:00
+20,Любовь Петровна Белавцева,M,Hacker Altenauer,1938-02-10 00:00:00
+21,Лиза Петровна Джуплина,F,Ayinger Drop,1977-12-30 00:00:00
+22,Анатолий Виталиевич Крашников,M,Doppelbock Diebels,1951-07-19 00:00:00
+23,Ольга Эдуардовна Шкирманова,F,Brewing Goslarer,1990-08-27 00:00:00
+24,Степан Валериевич Сухбатов,M,Kloster Dampfbierbrauerei Köstritzer,1929-07-20 00:00:00
+25,Виолетта Сергеевна Семушева,M,1516 Drop,1975-04-22 00:00:00
+26,Алиса Егоровна Афалова,F,Franziskaner Scurry,1978-03-26 00:00:00
+27,Леонид Евгеньевич Поганцев,M,Hacker-Pschorr Gaffel,1998-10-22 00:00:00
+28,Раиса Викторовна Тютюева,M,Ottos,1927-12-20 00:00:00
+29,Владимир Георгиевич Албитов,F,Hacker-Pschorr Pschorr Oktoberfest Altenauer,1986-06-24 00:00:00
+30,Галина Викторовна Апелесова,M,Hefe-Weisse Dampfbier,1933-04-04 00:00:00
+31,Наталья Сергеевна Чмутова,M,Andechser Jahrhundert Maisel,1944-04-15 00:00:00
+32,Светлана Василевна Татьянина,M,Weihenstephaner Pfarrbräu,1993-04-10 00:00:00
+33,Тамара Егоровна Железных,F,Hofbräu Paulaner,2001-11-27 00:00:00
+34,Александр Фёдорович Троянский,M,Franziskaner Oktoberfest,1968-12-09 00:00:00
+35,Ярослав Леонидович Курсасов,M,Andechser Pfarrbräu,1930-02-23 00:00:00
+36,Павел Сергеевич Бышов,F,Brothers Göller,1957-07-27 00:00:00
+37,Раиса Дмитриевна Панадцева,F,Paulaner Erdinger,1980-01-24 00:00:00
+38,Ирина Кирилловна Туболева,M,Brauerei Reissdorf,1961-04-01 00:00:00
+39,Виталий Петрович Серенин,M,Hermannator Ice Urbock,1964-03-14 00:00:00
+40,Маргарита Максимовна Кубренкова,M,Weihenstephaner Spezial,1990-03-27 00:00:00
+41,Федор Олегович Жедяевский,F,Mönchshof Paulaner Paulaner,1926-08-31 00:00:00
+42,Антон Аркадиевич Сократов,M,Brewing Paulaner,1992-03-07 00:00:00
+43,Юрий Леонидович Сереченков,F,Schneider Köstritzer,1935-10-14 00:00:00
+44,Юрий Максимович Мирончев,F,Franziskaner Aventinus,1943-03-24 00:00:00
+45,Валентин Максимович Калилов,M,Franziskaner Aventinus Dunkel,1951-10-05 00:00:00
+46,Геннадий Леонидович Соленников,M,Unser Ottos,1953-12-09 00:00:00
+47,Геннадий Борисович Плотицкий,M,Zoigl Korbinian,1951-01-17 00:00:00
+48,Федор Алексиевич Голдунов,M,Salvator,1949-01-07 00:00:00
+49,София Вадимовна Петрокина,M,Hacker 1516 Paulaner,1967-02-18 00:00:00
+50,Артур Олегович Абушахмин,F,Mönchshof Spezial,1954-08-04 00:00:00
+51,Дарья Борисовна Потлашова,F,Schneider Schlenkerla Rauchbier Steam,1960-09-18 00:00:00
+52,Зинаида Аркадьевна Жимодорова,F,Schneider Ayinger Ottos,1961-03-09 00:00:00
+53,Кристина Егоровна Перепухова,F,Jahrhundert Ur-Weisse,1997-03-06 00:00:00
+54,Герасим Максимович Джарасов,F,Gänstaller Dark,1996-02-22 00:00:00
+55,Юлия Евгеньевна Андрецова,M,Hacker Hacker Mühlen,1927-06-13 00:00:00
+56,Ирина Богдановна Дроидина,M,Ayinger Pschorr,1956-03-05 00:00:00
+57,Евгений Евгеньевич Мацаев,F,Mitterteich Ottos,1988-12-03 00:00:00
+58,Иван Фёдорович Месилин,M,Andechser Hofbräu Göller,1931-03-01 00:00:00
+59,Максим Алексеевич Барисенков,M,Gänstaller Ottos,1978-10-27 00:00:00
+60,Клавдия Максимовна Виданова,M,Hofbräu Roggen,1958-10-31 00:00:00
+61,Оксана Ивановна Шпитонцева,M,Hacker-Pschorr Mitterteich Köstritzer,1922-03-02 00:00:00
+62,Аркадий Адамович Молоствов,M,Hermannator Ice Hacker Spezial,1940-08-08 00:00:00
+63,Григорий Максимович Настин,M,Schneider München,1962-08-26 00:00:00
+64,Илья Антонович Черябкин,M,Andechser Huberts Radeberger,1990-05-25 00:00:00
+65,Яна Игоревна Курдикова,F,Spaten Ayilinger,1962-02-05 00:00:00
+66,Виталий Алексиевич Проников,F,Dampfbierbrauerei Bier,1946-12-08 00:00:00
+67,Степан Юрьевич Щекоткин,M,Kloster Dampfbierbrauerei Bier,1966-03-30 00:00:00
+68,Илья Евгеньевич Каин,F,House 1516 Dortmunder,1979-05-23 00:00:00
+69,Катерина Валерьевна Пуйлова,F,Alt-Bayerisch Optimator,1928-04-27 00:00:00
+70,Наталия Михайловна Елынина,F,Alt-Bayerisch Hofbräu Lager,1986-02-18 00:00:00
+71,Евгений Сергеевич Галасимов,M,Ayinger Bock,1989-06-29 00:00:00
+72,Тамара Валерьевна Пустонина,M,Hacker Zoigl,1949-05-28 00:00:00
+73,Альберт Николаевич Беклемишев,F,Erdinger Rauchbier,1972-04-19 00:00:00
+74,Светлана Петровна Шенинина,M,Brauerei Aventinus,1931-12-04 00:00:00
+75,Елена Василевна Станева,F,Pschorr Oktoberfest Köstritzer,1937-09-23 00:00:00
+76,Аркадий Кириллович Хабахпашев,F,Unser Reissdorf,1959-08-17 00:00:00
+77,Степан Денисович Якушенков,F,Jahrhundert Ritterguts,1943-01-21 00:00:00
+78,Виталий Вадимович Фоломейкин,M,Erdinger Goslarer,1972-10-21 00:00:00
+79,Олег Алексеевич Патаев,M,House Mühlen,2001-06-23 00:00:00
+80,Виолетта Игоревна Ревугина,F,Erdinger Rauchbier,1963-10-05 00:00:00
+81,Михаил Яковлевич Пайзанский,F,Andechser Hacker Märzen,1951-12-02 00:00:00
+82,Наталия Леонидовна Айсувакова,M,Erdinger Bock,1994-06-16 00:00:00
+83,Тамара Кирилловна Сарекова,F,Pfarrbräu,1989-03-19 00:00:00
+84,Инна Евгеньевна Красавкина,F,Köstritzer,1926-04-01 00:00:00
+85,Антон Данилович Россказов,F,Doppelbock Ottos,2000-05-12 00:00:00
+86,Борис Аркадиевич Тобратов,M,Gänstaller Goslarer,1996-11-01 00:00:00
+87,Дарья Михайловна Давронова,F,Spaten Brothers Dortmunder,1988-01-09 00:00:00
+88,Оксана Богдановна Шехарева,F,Hofbräu Maibock,1989-05-19 00:00:00
+89,Яна Петровна Брижинева,M,Pschorr Oktoberfest Rauchbier,1986-11-16 00:00:00
+90,Юрий Олегович Айгистов,M,Hacker-Pschorr Hacker Drop,1963-10-03 00:00:00
+91,Яна Леонидовна Синолицына,M,Dampfbierbrauerei Urbock,1959-01-01 00:00:00
+92,Юлия Петровна Олерская,F,Brothers Schumacher,1990-08-10 00:00:00
+93,Анатолий Игоревич Дисский,F,Aventinus Krombacher,1960-03-13 00:00:00
+94,Виктория Ивановна Чепинская,M,Hacker Aventinus Krombacher,1974-09-01 00:00:00
+95,Валерий Адамович Андреков,F,Ayilinger,1945-12-23 00:00:00
+96,Софья Никитична Дикаева,M,Alt-Bayerisch Hofbräu Weizen-Eisbock,1928-09-18 00:00:00
+97,Константин Георгиевич Жаченков,F,Brauerei Goslarer,1968-06-15 00:00:00
+98,Елена Андреевна Страмцова,M,Franziskaner Gänstaller Maibock,1931-11-09 00:00:00
+99,Андрей Сергеевич Вальский,F,Urbock,1984-05-27 00:00:00
+100,Аркадий Андреевич Горешников,F,Franziskaner Mönchshof,1934-02-15 00:00:00
+101,Анастасия Яковлевна Ельнинова,F,Pschorr Oktoberfest Warsteiner,2000-09-01 00:00:00
+102,Артём Михаилович Тотолин,F,Pikantus,1951-02-06 00:00:00
+103,Вероника Олеговна Гришуткина,F,Spaten,1985-10-17 00:00:00
+104,Виктория Николаевна Ориничева,M,Hacker Pschorr Oktoberfest Optimator,1951-07-31 00:00:00
+105,Катерина Евгеньевна Скитина,M,Alt-Bayerisch Dampfbierbrauerei Flensburger,1986-03-19 00:00:00
+106,Геннадий Алексиевич Збойков,M,Schlenkerla Rauchbier Korbinian,1984-09-17 00:00:00
+107,Яна Вадимовна Буднова,F,Zoigl Maibock,1998-04-18 00:00:00
+108,Софья Дмитриевна Нагалина,M,Schlenkerla Rauchbier Optimator,1928-08-26 00:00:00
+109,Валерий Максимович Закромин,F,Franziskaner 1516 Mönchshof,1980-10-07 00:00:00
+110,Кирилл Евгеньевич Сатдинов,F,Alt-Bayerisch Pschorr Oktoberfest Kellerbier,1951-09-02 00:00:00
+111,Максим Виталиевич Годовиков,F,Schneider Dampfbier,1981-12-29 00:00:00
+112,Катерина Сергеевна Агеечева,M,Kloster Hacker Oktoberfest,1928-12-24 00:00:00
+113,София Валерьевна Кохова,M,Schneider Maibock,1934-10-15 00:00:00
+114,Юрий Кириллович Хапларов,M,Weihenstephaner Pfarrbräu,1975-12-10 00:00:00
+115,Анатолий Данилович Иродовский,M,Andechser Huberts Optimator,1929-10-03 00:00:00
+116,Григорий Павлович Мизюкин,M,Alt-Bayerisch Pschorr Oktoberfest Zoigl,1983-02-13 00:00:00
+117,Пётр Игоревич Кикавский,F,Franziskaner Oktoberfest,1931-09-09 00:00:00
+118,Геннадий Данилович Беркаусов,M,Schlenkerla Rauchbier Bräu,1961-09-24 00:00:00
+119,Альберт Алексиевич Пызин,F,Zoigl Augustinerbräu,1984-08-07 00:00:00
+120,Альберт Борисович Алифиров,M,Alt-Bayerisch Roggen,1944-01-04 00:00:00
+121,Елена Федоровна Чебуханова,M,Hermannator Ice Brewing Weizen-Eisbock,1994-10-14 00:00:00
+122,Борис Тимофеевич Андрюшкин,F,Mönchshof Brauerei Krombacher,1972-07-16 00:00:00
+123,Андрей Борисович Бишеев,F,Mönchshof Brauerei Oettingen,1945-01-27 00:00:00
+124,Константин Павлович Адушев,F,Hacker Diebels,1991-12-06 00:00:00
+125,София Романовна Хныкова,M,Weihenstephaner Dark,1952-06-25 00:00:00
+126,Вера Игоревна Чевилева,F,Alt-Bayerisch Pschorr Oktoberfest Ayilinger,1994-10-06 00:00:00
+127,Ксения Андреевна Сизенева,F,Mönchshof Pschorr Oktoberfest Paulaner,1938-09-15 00:00:00
+128,Мария Кирилловна Ускореева,M,Ayilinger,1930-01-12 00:00:00
+129,Андрей Петрович Опочинский,F,House 1516 Dortmunder,1976-03-28 00:00:00
+130,Алиса Аркадьевна Дяблина,F,Pschorr Oktoberfest Köstritzer,1930-09-08 00:00:00
+131,Валерий Максимович Целин,M,Dampfbierbrauerei Urbock,1969-07-15 00:00:00
+132,Дарья Дмитриевна Пахомова,M,Alt-Bayerisch Scurry,1961-04-29 00:00:00
+133,Альберт Павлович Бондюгин,M,Weihenstephaner Bitburger,2003-11-06 00:00:00
+134,Виктория Эдуардовна Ивашинцева,M,Andechser Brauerei Frankenheim,1971-08-31 00:00:00
+135,Лариса Эдуардовна Изонова,F,Brewing Kellerbier,1948-07-22 00:00:00
+136,Герасим Иванович Шемашнев,M,Ayinger Goslarer,1984-10-14 00:00:00
+137,Аркадий Сергеевич Тормасов,M,Weihenstephaner Oettingen,1973-08-23 00:00:00
+138,Ева Аркадьевна Черницкова,M,Buttenheimer Unser Augustinerbräu,1933-12-24 00:00:00
+139,Елена Вадимовна Хабитулина,F,Hofbräu Erdinger,1938-11-14 00:00:00
+140,Александра Борисовна Ходжиязова,F,Spaten Huberts Becks,1955-10-24 00:00:00
+141,Кирилл Георгиевич Дербухов,M,Erdinger Ayilinger,1996-06-26 00:00:00
+142,Марина Петровна Губкина,M,Hacker-Pschorr Kellerbier,1961-10-07 00:00:00
+143,Евгений Виталиевич Зобанов,M,Brothers Flensburger,1943-12-31 00:00:00
+144,Семён Романович Пожидаев,F,Hacker 1516 Ritterguts,1958-10-24 00:00:00
+145,Роман Олегович Трушнин,F,Spaten Pschorr Oktoberfest Ur-Weisse,1996-07-07 00:00:00
+146,Клавдия Эдуардовна Дикова,M,Alt-Bayerisch Brewing Pikantus,1983-06-18 00:00:00
+147,Леонид Валериевич Важнин,M,Alt-Bayerisch Hefe-Weisse Märzen,2001-10-12 00:00:00
+148,Ольга Олеговна Туляева,F,Zoigl Paulaner Mühlen,1929-03-13 00:00:00
+149,Инна Николаевна Арбузярова,M,Weihenstephaner Pfarrbräu,1951-11-21 00:00:00
+150,Пётр Алексеевич Бурденев,F,Brothers Bier,1998-01-08 00:00:00
+151,Жанна Леонидовна Макушева,M,Mönchshof Brothers Bräu,1949-08-31 00:00:00
+152,Никита Алексиевич Павлушев,M,Franziskaner Hefe-Weisse Optimator,1947-06-16 00:00:00
+153,Ярослав Павлович Меньщиков,M,Buttenheimer Unser Augustinerbräu,1984-05-26 00:00:00
+154,Лиза Олеговна Щепцова,M,Diebels,1958-02-01 00:00:00
+155,Валерий Игоревич Яковский,F,Andechser Doppelbock Goslarer,1973-06-16 00:00:00
+156,Елена Яковлевна Драченина,F,Mitterteich Ur-Weisse,1987-03-14 00:00:00
+157,Ярослав Иванович Бессалаев,F,Weihenstephaner Dampfbier,1929-04-23 00:00:00
+158,Любовь Викторовна Толузакова,M,Mönchshof Aventinus Mönchshof,1992-05-27 00:00:00
+159,Вера Олеговна Накишова,F,Buttenheimer Gaffel,1936-03-17 00:00:00
+160,Вячеслав Кириллович Яреев,M,Huberts Reissdorf,1988-07-01 00:00:00
+161,Тамара Валерьевна Жерарова,F,Unser Warsteiner,1963-11-16 00:00:00
+162,Игорь Викторович Карадин,M,Brauerei Rauchbier,1958-03-12 00:00:00
+163,Валентина Федоровна Мирченкова,M,Hofbräu Roggen,1982-07-18 00:00:00
+164,Герасим Сергеевич Истошин,M,Kloster 1516 Ottos,1946-03-03 00:00:00
+165,Андрей Иванович Шарунов,F,Ayinger Dampfbierbrauerei Märzen,1981-05-23 00:00:00
+166,Герасим Сергеевич Голдунов,F,Alt-Bayerisch 1516 Optimator,1946-03-09 00:00:00
+167,Максим Петрович Лобушев,M,Ayinger Doppelbock Flensburger,1954-01-28 00:00:00
+168,Ярослав Павлович Шайдуров,M,Schneider Ayinger Maibock,1994-09-01 00:00:00
+169,Александр Яковлевич Акинвшин,F,Buttenheimer Ayilinger,1994-09-30 00:00:00
+170,Дарья Егоровна Слуева,M,Unser Erdinger,1965-12-19 00:00:00
+171,Мария Эдуардовна Фатякова,M,House Weizen-Eisbock,1965-12-14 00:00:00
+172,Евгений Олегович Горячкин,F,Zoigl Aventinus Maisel,1960-04-01 00:00:00
+173,Валерия Богдановна Финагина,M,Erdinger Rauchbier,1979-09-18 00:00:00
+174,Раиса Никитична Целибеева,F,Buttenheimer Bräu,1971-11-24 00:00:00
+175,Софья Петровна Шелоханова,F,Franziskaner Brewing Oettingen,1966-02-27 00:00:00
+176,Ярослав Олегович Верденский,M,Mitterteich Krombacher,1934-06-30 00:00:00
+177,Роман Алексиевич Цапков,F,Hacker-Pschorr Dampfbier,1994-08-03 00:00:00
+178,Роман Денисович Узьявин,F,Unser Warsteiner,1943-07-17 00:00:00
+179,Вячеслав Леонидович Митянин,F,Hofbräu Goslarer,1966-11-24 00:00:00
+180,Алина Кирилловна Шаршавых,M,Zoigl 1516 Warsteiner,1978-09-28 00:00:00
+181,Иван Вадимович Рахмаев,M,Hefe-Weisse Scurry,1943-05-15 00:00:00
+182,Константин Данилович Широв,M,Hermannator Ice Unser Bock,1961-10-06 00:00:00
+183,Василий Игоревич Тюлюзин,M,Andechser Hofbräu Erdinger,1998-12-17 00:00:00
+184,Альберт Василиевич Клипин,F,Hacker Hefe-Weisse Dark,1943-02-20 00:00:00
+185,Анастасия Яковлевна Мракаева,M,Hermannator Ice Ayinger Becks,1976-05-08 00:00:00
+186,Вадим Юриевич Желбокаев,M,Alt-Bayerisch 1516 Optimator,1982-01-03 00:00:00
+187,Роман Георгиевич Карачалов,M,House Becks,1997-05-24 00:00:00
+188,Клавдия Петровна Донькина,M,Weihenstephaner Bitburger,1949-06-13 00:00:00
+189,Виолетта Андреевна Ладочкина,M,Schneider 1516 Bräu,1954-04-01 00:00:00
+190,Александр Антонович Ковальцев,F,Andechser Mönchshof,1982-03-31 00:00:00
+191,Анна Борисовна Балгурина,F,Weihenstephaner Jahrhundert München,1989-03-28 00:00:00
+192,Евгения Никитична Удовкина,M,Paulaner Zoiglbauer,1974-10-12 00:00:00
+193,Александр Адамович Трайнин,M,Hacker-Pschorr Brewing Frankenheim,1980-07-18 00:00:00
+194,Галина Яковлевна Колягина,M,Franziskaner Maibock,1998-12-21 00:00:00
+195,Наталья Валерьевна Угорская,F,Zoigl Aventinus Maisel,1971-12-25 00:00:00
+196,Кристина Федоровна Шилькова,M,Franziskaner Brauerei Ottos,1956-12-07 00:00:00
+197,Владимир Борисович Альтин,F,Andechser Mitterteich Korbinian,1927-04-19 00:00:00
+198,Виталий Романович Тарнаков,F,House Pschorr,1995-09-26 00:00:00
+199,Григорий Евгеньевич Гавычев,F,Brewing Goslarer,1953-04-26 00:00:00
+200,Анатолий Борисович Хмырин,F,Bräu,1994-12-01 00:00:00
+201,Алиса Михайловна Фруштатова,M,Spaten Flensburger,1934-02-09 00:00:00
+202,Инна Аркадьевна Кондрахова,M,Aventinus Korbinian,1932-06-13 00:00:00
+203,Валентина Игоревна Шпинева,F,Franziskaner Becks,1924-11-30 00:00:00
+204,Степан Антонович Аляшин,M,Erdinger Becks,1932-09-18 00:00:00
+205,Юлия Дмитриевна Апетова,F,Schlenkerla Rauchbier Märzen,1942-07-20 00:00:00
+206,Семён Кириллович Трошагин,F,Doppelbock Bier,1990-09-05 00:00:00
+207,Ольга Василевна Янченкова,M,Ayinger Bock,1970-11-05 00:00:00
+208,Карина Эдуардовна Зимарина,F,1516 Radeberger,1947-09-20 00:00:00
+209,Андрей Антонович Гапеенков,F,House Köstritzer,1952-02-20 00:00:00
+210,Вера Яковлевна Варакушева,F,Köstritzer,1953-02-06 00:00:00
+211,Леонид Адамович Бржесский,M,Gänstaller Dark,1961-06-10 00:00:00
+212,Константин Николаевич Детенышев,F,Jahrhundert Scurry,2002-07-24 00:00:00
+213,Дмитрий Денисович Лалаев,F,Spaten Hofbräu Ottos,1982-05-22 00:00:00
+214,Клара Алексеевна Мандрина,F,Zoigl Hofbräu Zoigl,1929-03-15 00:00:00
+215,Александра Алексеевна Качабина,M,Spaten 1516 Maisel,1992-12-01 00:00:00
+216,Дарья Сергеевна Финалова,M,Hacker-Pschorr Brothers Göller,1923-05-05 00:00:00
+217,Евгения Никитична Штапенкова,F,Hofbräu Ottos,1971-07-10 00:00:00
+218,Яна Романовна Петрокина,M,Brauerei Ayilinger,1962-09-11 00:00:00
+219,Клара Михайловна Буштыркова,F,Mönchshof Brewing Steam,1933-03-20 00:00:00
+220,Валентина Максимовна Размыслова,M,Alt-Bayerisch Mühlen,1965-01-12 00:00:00
+221,Роман Андреевич Пестряев,M,Hacker Köllner,1968-02-11 00:00:00
+222,Алёна Ивановна Лебецкая,M,Ayinger Dunkel,1944-11-16 00:00:00
+223,Оксана Вадимовна Быканина,F,Weihenstephaner Aventinus Gaffel,1944-06-02 00:00:00
+224,Наталья Валерьевна Тюмнякова,F,Hermannator Ice Hefe-Weisse Zoigl,1938-01-01 00:00:00
+225,Вадим Андреевич Уварнин,F,Hacker Erdinger Dunkel,1924-10-19 00:00:00
+226,Федор Иванович Тягалов,M,Hacker-Pschorr Ritterguts,1961-02-28 00:00:00
+227,Валерий Михаилович Кадеркаев,F,Brewing Bier,1925-03-03 00:00:00
+228,Аркадий Георгиевич Потовин,M,Doppelbock Ayilinger,1941-07-17 00:00:00
+229,Роман Викторович Лацапнев,M,Franziskaner 1516 Gaffel,1996-12-11 00:00:00
+230,Виолетта Алексеевна Кулебичева,M,Hermannator Ice Dampfbierbrauerei Warsteiner,1932-09-01 00:00:00
+231,Андрей Евгеньевич Шеметенков,M,Alt-Bayerisch Aventinus Pikantus,1943-07-29 00:00:00
+232,Ольга Василевна Токмашева,M,Brewing Dunkel,1971-08-31 00:00:00
+233,Леонид Викторович Кутюрин,F,Brothers Franziskaner,1978-07-13 00:00:00
+234,Маргарита Борисовна Безгачина,F,Erdinger Mönchshof,1989-08-28 00:00:00
+235,Альберт Романович Масленкин,M,Andechser Optimator,1976-04-18 00:00:00
+236,Виктор Юрьевич Просвирнин,M,Buttenheimer Ur-Weisse,1938-06-05 00:00:00
+237,Александра Богдановна Фанеева,F,Buttenheimer Korbinian,2000-05-25 00:00:00
+238,Ксения Викторовна Симанова,F,Hofbräu Ayilinger,1989-05-08 00:00:00
+239,Артур Викторович Котов,M,Mönchshof Aventinus Früh,1950-06-26 00:00:00
+240,Виктор Юриевич Томров,F,Kloster Scurry,1947-05-08 00:00:00
+241,Лиза Эдуардовна Купуева,M,Zoigl Jahrhundert Dunkel,1924-04-24 00:00:00
+242,Надежда Дмитриевна Ошемкова,F,Weihenstephaner Brauerei Bier,1937-08-04 00:00:00
+243,Кирилл Тимофеевич Талогаев,F,House Weizen-Eisbock,1982-12-02 00:00:00
+244,Василий Николаевич Бариков,F,Weihenstephaner Kellerbier,1998-07-11 00:00:00
+245,Григорий Викторович Ченыкаев,M,Hefe-Weisse Frankenheim,1997-05-05 00:00:00
+246,Георгий Антонович Гарнизов,F,Andechser Hofbräu Ritterguts,1972-09-02 00:00:00
+247,Антон Тимофеевич Кривицкий,F,Buttenheimer Hofbräu Göller,1952-02-19 00:00:00
+248,Вера Василевна Тарева,F,Andechser Erdinger Ur-Weisse,1935-12-27 00:00:00
+249,Василий Василиевич Торский,M,Schneider Schlenkerla Rauchbier Steam,1973-06-10 00:00:00
+250,Илья Борисович Ганьжин,M,Weihenstephaner Hacker Zoigl,1960-05-29 00:00:00
+251,Денис Денисович Растоптаев,F,1516 Altenauer,1949-11-01 00:00:00
+252,Клавдия Дмитриевна Галиямова,F,Brothers Pikantus,1983-08-18 00:00:00
+253,Яна Вадимовна Гирская,M,Hacker-Pschorr Ritterguts,1943-03-15 00:00:00
+254,Ярослав Леонидович Мамасуев,M,Paulaner Kellerbier,1956-08-10 00:00:00
+255,Александра Алексеевна Лаханова,F,Franziskaner Brauerei Paulaner,2002-02-20 00:00:00
+256,Ирина Ивановна Бородецкая,M,Mönchshof Hefe-Weisse Ottos,1992-01-11 00:00:00
+257,Алёна Вадимовна Евтифеева,F,Unser Dortmunder,1968-08-14 00:00:00
+258,Аркадий Юриевич Танунин,M,Schneider Jahrhundert Köllner,1946-07-31 00:00:00
+259,Елизавета Игоревна Мапошкина,M,Kloster Dortmunder,1979-02-05 00:00:00
+260,Ярослав Андреевич Зиканов,F,Mühlen,1985-11-05 00:00:00
+261,Леонид Юрьевич Кущинский,F,Hacker Maisel,1950-08-16 00:00:00
+262,Герасим Леонидович Бакумкин,M,Dampfbierbrauerei Diebels,1957-07-12 00:00:00
+263,Ксения Петровна Белорицкая,M,Brothers Göller,1971-10-09 00:00:00
+264,Марина Леонидовна Марсиянова,M,Weihenstephaner Bräu,1956-12-24 00:00:00
+265,Ксения Викторовна Синушкина,M,Hacker Drop,1981-12-21 00:00:00
+266,Яков Тимофеевич Тинчурин,M,Brewing Rauchbier,1962-01-23 00:00:00
+267,Георгий Игоревич Расказихин,M,Weihenstephaner Dark,1988-03-15 00:00:00
+268,Алена Михайловна Колотина,F,Hofbräu Mönchshof,1934-02-22 00:00:00
+269,Светлана Алексеевна Стишкова,M,Mitterteich Optimator,1945-11-13 00:00:00
+270,Андрей Петрович Паузин,M,Kloster Brewing Paulaner,1955-01-14 00:00:00
+271,Эдуард Евгеньевич Петьков,M,Andechser Goslarer,1947-09-05 00:00:00
+272,Евгения Николаевна Карпецкая,M,Alt-Bayerisch Hofbräu Salvator,1932-09-17 00:00:00
+273,Валерий Денисович Чарский,F,Weihenstephaner Pikantus,1987-10-27 00:00:00
+274,Никита Алексеевич Гредаев,F,Hefe-Weisse Reissdorf,1963-04-15 00:00:00
+275,Екатерина Дмитриевна Лунькова,F,Hacker Ur-Weisse,1987-09-21 00:00:00
+276,Наталия Яковлевна Евпсихеева,M,House Köstritzer,1973-08-22 00:00:00
+277,Семён Аркадиевич Цымлев,F,Brothers Dark,1953-07-29 00:00:00
+278,Елена Михайловна Берзговых,M,Andechser Dampfbierbrauerei Schumacher,1942-05-28 00:00:00
+279,Анатолий Михаилович Лукеев,M,Hacker Erdinger Dunkel,1971-12-29 00:00:00
+280,Зинаида Яковлевна Силачева,F,Schneider Ayinger Maibock,1969-10-27 00:00:00
+281,Николай Кириллович Итикин,M,Aventinus Gaffel,1981-12-11 00:00:00
+282,Альберт Юрьевич Анашечев,F,Hermannator Ice Brewing Dark,1982-10-04 00:00:00
+283,Анатолий Алексиевич Чадовский,M,Hefe-Weisse Radeberger,1988-09-10 00:00:00
+284,Вадим Юрьевич Храминихин,F,Hacker Urbock,1996-05-21 00:00:00
+285,Ксения Федоровна Хемичева,M,Schlenkerla Rauchbier Korbinian,1928-11-04 00:00:00
+286,Софья Леонидовна Богреева,M,House Hefe-Weisse Diebels,1946-03-02 00:00:00
+287,Маргарита Богдановна Вощикова,M,Andechser Diebels,1951-12-11 00:00:00
+288,Яна Евгеньевна Худзинская,F,Schneider Pschorr,1927-08-24 00:00:00
+289,Вероника Богдановна Каленова,M,Hacker-Pschorr Paulaner Bier,1984-07-22 00:00:00
+290,Герасим Валериевич Пантин,M,Schlenkerla Rauchbier Optimator,1978-10-28 00:00:00
+291,Ольга Валерьевна Портецкая,M,Franziskaner Mönchshof,1951-05-11 00:00:00
+292,Катерина Яковлевна Каленикова,F,Schlenkerla Rauchbier Diebels,1950-11-19 00:00:00
+293,Жанна Василевна Хорхордина,F,Brauerei Maisel,1992-11-24 00:00:00
+294,Николай Андреевич Балахнев,F,Schneider Köllner,1979-06-11 00:00:00
+295,Михаил Вадимович Рязанскин,M,Zoigl Optimator,1966-02-01 00:00:00
+296,Наталья Сергеевна Кренова,F,Spaten Huberts Becks,1944-10-21 00:00:00
+297,Вера Василевна Дутнова,M,Mönchshof Huberts Warsteiner,1953-06-08 00:00:00
+298,Семён Максимович Анцишкин,F,Hacker 1516 Flensburger,1990-05-20 00:00:00
+299,Альберт Адамович Беглиев,F,Andechser Becks,1992-07-04 00:00:00
+300,Альберт Данилович Звонецкий,F,Andechser Hacker Märzen,1928-08-30 00:00:00
+301,Алла Федоровна Фискалова,F,Alt-Bayerisch Reissdorf,1952-01-21 00:00:00
+302,Вероника Викторовна Паспехова,F,Hacker-Pschorr Kellerbier,1922-12-15 00:00:00
+303,Тамара Борисовна Габудатова,F,Franziskaner Aventinus,2003-03-20 00:00:00
+304,Анастасия Аркадьевна Хмостова,M,Kloster Schumacher,1982-03-22 00:00:00
+305,Юрий Алексеевич Щетинский,M,Hacker Dampfbierbrauerei Warsteiner,1933-07-04 00:00:00
+306,Алла Яковлевна Трепьева,F,Hacker-Pschorr Pschorr,1997-03-26 00:00:00
+307,Клавдия Романовна Сказинова,M,Buttenheimer Ur-Weisse,1932-04-04 00:00:00
+308,Алина Кирилловна Дугинова,M,Hacker-Pschorr Pikantus,1994-01-25 00:00:00
+309,Роман Андреевич Осинягов,M,Paulaner Zoiglbauer,1942-06-01 00:00:00
+310,Виолетта Андреевна Даилова,M,Andechser Paulaner Spezial,1990-09-28 00:00:00
+311,Виктория Дмитриевна Киризлеева,M,Spaten Ayinger Bräu,1968-01-01 00:00:00
+312,Федор Борисович Боттин,M,Mitterteich Augustinerbräu,1969-06-23 00:00:00
+313,Вера Николаевна Гамбаеева,M,Goslarer,1980-04-29 00:00:00
+314,Жанна Петровна Козенкова,F,House Jahrhundert Bock,1952-10-22 00:00:00
+315,Павел Леонидович Аблакулов,F,Schneider Pschorr,1955-09-13 00:00:00
+316,Николай Петрович Сияльский,M,1516 Ayilinger,1980-01-18 00:00:00
+317,Семён Алексиевич Дородницин,M,Hacker Pschorr,1938-04-13 00:00:00
+318,Мария Богдановна Погребнова,M,Huberts Pikantus,1941-08-05 00:00:00
+319,Клара Федоровна Ямщинина,M,Huberts Pikantus,1983-06-20 00:00:00
+320,Тамара Вадимовна Кочулаева,F,Gänstaller Köllner,1986-10-24 00:00:00
+321,Алёна Евгеньевна Халманова,M,Weihenstephaner Huberts München,1971-03-13 00:00:00
+322,Раиса Федоровна Горкина,M,Alt-Bayerisch Gänstaller Köstritzer,1935-04-02 00:00:00
+323,Оксана Викторовна Бугрина,F,Reissdorf,1999-09-23 00:00:00
+324,Маргарита Михайловна Погудалова,M,Mönchshof 1516 Erdinger,1951-05-25 00:00:00
+325,Алёна Олеговна Анисомова,F,Gänstaller Dark,1944-11-23 00:00:00
+326,Александр Вадимович Чесалкин,F,Jahrhundert Dunkel,1966-06-15 00:00:00
+327,Андрей Алексиевич Сиукаев,M,Andechser Salvator,1992-12-05 00:00:00
+328,Ксения Ивановна Манарамова,M,Huberts Spezial,2001-04-28 00:00:00
+329,Вячеслав Евгеньевич Ковыков,M,Schneider Köstritzer,1930-06-07 00:00:00
+330,Семён Юрьевич Кунгавин,F,Brewing Becks,1927-01-23 00:00:00
+331,Ксения Борисовна Деянова,F,Hefe-Weisse Dampfbier,2000-11-14 00:00:00
+332,Раиса Кирилловна Грозева,M,Hefe-Weisse Zoigl,1994-06-20 00:00:00
+333,Виктор Леонидович Путров,M,Hacker-Pschorr Huberts Früh,1963-02-10 00:00:00
+334,Юлия Эдуардовна Язвинская,M,Schlenkerla Rauchbier Ur-Weisse,1927-01-28 00:00:00
+335,Яна Федоровна Мынарева,M,Weihenstephaner Hofbräu Warsteiner,1973-10-01 00:00:00
+336,Валентина Евгеньевна Луточева,F,Dampfbierbrauerei Märzen,1924-08-18 00:00:00
+337,Тамара Василевна Прагина,M,Schneider Köllner,1966-09-27 00:00:00
+338,Наталия Максимовна Бижонова,F,Andechser Huberts Diebels,1984-06-20 00:00:00
+339,Галина Борисовна Соклакова,M,Alt-Bayerisch Hofbräu Göller,1968-10-07 00:00:00
+340,Кирилл Алексиевич Умницин,M,Huberts Pschorr,1953-04-14 00:00:00
+341,Роман Андреевич Бурзаев,F,Weihenstephaner 1516 Altenauer,1971-11-11 00:00:00
+342,Алиса Дмитриевна Варуздина,F,Franziskaner Brothers Mühlen,1989-06-13 00:00:00
+343,Раиса Максимовна Кузовскина,F,Weihenstephaner Dark,1993-02-18 00:00:00
+344,Михаил Фёдорович Мурдасов,F,Spaten Erdinger Früh,1946-09-30 00:00:00
+345,Артур Борисович Столбушкин,M,Frankenheim,1990-05-09 00:00:00
+346,Евгений Юриевич Крыженков,M,Doppelbock Lager,2003-10-16 00:00:00
+347,Валентина Сергеевна Коныжева,F,Zoigl Schlenkerla Rauchbier Göller,1947-09-03 00:00:00
+348,Наталья Ивановна Гомоюнова,M,Alt-Bayerisch Jahrhundert Mühlen,1943-01-25 00:00:00
+349,Валентина Евгеньевна Деревова,M,Schneider Rauchbier,1963-07-18 00:00:00
+350,Клара Кирилловна Берстенева,F,Weihenstephaner Paulaner,1950-05-27 00:00:00
+351,Клара Алексеевна Дудковская,M,Brewing Goslarer,1955-01-06 00:00:00
+352,Алиса Яковлевна Созонова,M,Hermannator Ice Drop,1950-02-26 00:00:00
+353,Артур Тимофеевич Пиралиев,M,Hefe-Weisse Ur-Weisse,1987-05-31 00:00:00
+354,Геннадий Денисович Шолов,M,Jahrhundert Roggen,1973-04-30 00:00:00
+355,Олег Яковлевич Лечецкий,F,Jahrhundert Rauchbier,1930-07-01 00:00:00
+356,Вероника Андреевна Ульенкова,M,Alt-Bayerisch Goslarer,1993-02-18 00:00:00
+357,Наталия Борисовна Бурбенцова,M,House Goslarer,1987-11-20 00:00:00
+358,Борис Михаилович Шелястин,M,Zoigl Dunkel,1969-08-29 00:00:00
+359,Борис Сергеевич Голишников,M,Ayinger Huberts Frankenheim,1965-09-01 00:00:00
+360,Елена Алексеевна Тальнова,M,Lager,1984-05-22 00:00:00
+361,Аркадий Николаевич Шандарев,F,Hermannator Ice Aventinus Altenauer,1933-07-11 00:00:00
+362,Алена Яковлевна Паремина,F,Ayinger Doppelbock Flensburger,2000-01-28 00:00:00
+363,Александра Богдановна Акинышина,F,Alt-Bayerisch Mitterteich Bräu,1946-08-31 00:00:00
+364,Ирина Игоревна Чакурина,F,Ayinger Pschorr,1928-11-17 00:00:00
+365,Тамара Аркадьевна Копырулина,F,Hacker-Pschorr Ayilinger,1946-03-25 00:00:00
+366,Яна Вадимовна Нышонкова,M,House Weizen-Eisbock,1938-09-21 00:00:00
+367,Раиса Василевна Тундубина,M,Ayinger Bitburger,2002-08-15 00:00:00
+368,Яна Богдановна Судапева,M,Doppelbock Bier,1923-04-04 00:00:00
+369,Лиза Сергеевна Заселяева,M,Mitterteich Reissdorf,1922-11-19 00:00:00
+370,Клавдия Андреевна Паталахина,M,Hacker Aventinus Dunkel,1997-01-02 00:00:00
+371,Дарья Богдановна Кочеева,F,Hacker Hefe-Weisse Dark,1978-10-30 00:00:00
+372,Яна Сергеевна Юлешкина,M,Hacker-Pschorr Huberts Altenauer,1965-03-28 00:00:00
+373,Виктория Петровна Калонина,M,Mönchshof Erdinger,1950-06-16 00:00:00
+374,Григорий Георгиевич Баварский,F,Alt-Bayerisch Doppelbock Drop,1978-08-16 00:00:00
+375,Аркадий Романович Шиверенков,F,Schlenkerla Rauchbier Zoigl,1992-02-03 00:00:00
+376,Вячеслав Аркадиевич Толдыкин,F,Hacker-Pschorr Brewing Roggen,1974-06-06 00:00:00
+377,Валерия Ивановна Гриунина,F,Zoigl Maisel,1995-02-09 00:00:00
+378,Денис Романович Ранитский,F,Hacker Köllner,1952-09-30 00:00:00
+379,Людмила Никитична Набигаева,F,Buttenheimer Ottos,1948-09-26 00:00:00
+380,Геннадий Андреевич Кудюков,M,Mönchshof München,1982-08-12 00:00:00
+381,Яков Алексеевич Батуров,M,Alt-Bayerisch Mitterteich Bräu,1927-07-26 00:00:00
+382,Вадим Павлович Шебордаев,M,Franziskaner Aventinus Dunkel,1971-05-30 00:00:00
+383,Тарас Георгиевич Карчурин,F,Spaten Ayinger Bräu,1946-06-24 00:00:00
+384,Олег Василиевич Дулидов,M,Weihenstephaner Lager,1936-11-22 00:00:00
+385,Наталья Кирилловна Фалелюхина,M,Kloster Dampfbierbrauerei Köstritzer,1932-07-30 00:00:00
+386,Пётр Борисович Брагинский,F,Alt-Bayerisch Unser Märzen,1983-06-04 00:00:00
+387,Любовь Сергеевна Занделова,M,Mönchshof Bier,1963-05-06 00:00:00
+388,Александра Вадимовна Файрузова,M,Zoigl Pschorr Oktoberfest Köllner,1979-02-26 00:00:00
+389,Григорий Василиевич Слуцкин,F,Hacker Aventinus Warsteiner,1999-02-09 00:00:00
+390,Мария Кирилловна Хохова,M,Doppelbock Bräu,1973-12-17 00:00:00
+391,Ольга Богдановна Сморукова,M,Ayinger Optimator,1958-08-09 00:00:00
+392,Зинаида Викторовна Гловацкая,F,Spaten Krombacher,1979-11-08 00:00:00
+393,Кирилл Николаевич Шильнев,F,Unser Radeberger,1958-04-06 00:00:00
+394,Ева Валерьевна Ростоцкая,F,Buttenheimer Salvator,1993-11-05 00:00:00
+395,Михаил Аркадиевич Колончев,M,House Jahrhundert Bock,1941-05-12 00:00:00
+396,Валентин Леонидович Осташков,F,Drop,1953-03-16 00:00:00
+397,Анастасия Егоровна Демчева,M,Brauerei Gaffel,1932-02-13 00:00:00
+398,Геннадий Леонидович Педиков,F,Buttenheimer Erdinger Altenauer,1951-03-09 00:00:00
+399,Алиса Борисовна Кедровская,M,Hacker Mühlen,1928-04-06 00:00:00
+400,Николай Фёдорович Сошин,M,Alt-Bayerisch Jahrhundert Aventinus,1995-01-12 00:00:00
+401,Вячеслав Фёдорович Недвигин,M,Weihenstephaner Salvator,1962-08-31 00:00:00
+402,Ксения Сергеевна Гамылева,M,Märzen,1938-11-13 00:00:00
+403,Карина Петровна Леатюшина,F,Alt-Bayerisch Gänstaller Köstritzer,1964-06-08 00:00:00
+404,Алла Ивановна Пеева,F,Alt-Bayerisch Warsteiner,1947-02-12 00:00:00
+405,Инна Михайловна Фирюмина,M,Pschorr Oktoberfest Urbock,1994-09-19 00:00:00
+406,Юлия Борисовна Кацева,F,Zoigl Kellerbier,1925-09-06 00:00:00
+407,Федор Максимович Гозданов,F,Franziskaner Brothers Pfarrbräu,1956-08-02 00:00:00
+408,Илья Иванович Шныкин,M,Hacker-Pschorr Kellerbier,1998-05-02 00:00:00
+409,Иван Юрьевич Расказов,M,Mitterteich Oettingen,1971-07-15 00:00:00
+410,Алексей Данилович Ручнов,F,Schlenkerla Rauchbier Roggen,1933-09-24 00:00:00
+411,Инна Андреевна Алдашова,F,Franziskaner Bräu,2000-02-26 00:00:00
+412,Зинаида Викторовна Тараборина,M,Hacker-Pschorr Brothers Bock,1942-05-23 00:00:00
+413,Клара Леонидовна Корижина,M,Mitterteich Augustinerbräu,2003-03-01 00:00:00
+414,Валентин Михаилович Корунков,F,Brewing Rauchbier,1990-03-09 00:00:00
+415,Марина Романовна Голунова,M,Doppelbock Maibock,1930-03-17 00:00:00
+416,Полина Василевна Хубежева,F,Aventinus Pikantus,1966-04-14 00:00:00
+417,Светлана Михайловна Ведянина,M,Schneider Aventinus,1965-07-05 00:00:00
+418,Игорь Антонович Сорокоумов,M,Mönchshof Erdinger,1973-04-12 00:00:00
+419,Максим Аркадиевич Мирковский,M,Spaten Krombacher,1961-01-03 00:00:00
+420,Лариса Богдановна Асколова,F,Mönchshof Ritterguts,1970-08-02 00:00:00
+421,Валентин Максимович Перемотин,F,Salvator,1935-02-07 00:00:00
+422,Михаил Николаевич Томнаков,M,Hacker-Pschorr Hofbräu Augustinerbräu,2000-09-19 00:00:00
+423,Альберт Юриевич Пуленков,F,Hacker-Pschorr Kellerbier,1970-08-02 00:00:00
+424,Семён Фёдорович Жерихов,M,Gänstaller Krombacher,1922-12-19 00:00:00
+425,Григорий Василиевич Захаров,F,Hefe-Weisse Zoigl,1964-11-19 00:00:00
+426,Роман Валериевич Аряшев,F,Schlenkerla Rauchbier Krombacher,1933-01-06 00:00:00
+427,Клара Викторовна Зиадинова,F,Weihenstephaner Dunkel,1971-03-06 00:00:00
+428,Герасим Адамович Смахтинов,M,House Optimator,1975-11-26 00:00:00
+429,Тарас Алексиевич Куфтинов,F,Hermannator Ice Ayinger Becks,1946-10-13 00:00:00
+430,Роман Викторович Буленков,M,Buttenheimer Paulaner Dunkel,1945-10-26 00:00:00
+431,Андрей Иванович Плескачев,F,Hacker-Pschorr Hofbräu Augustinerbräu,1982-06-04 00:00:00
+432,Иван Денисович Потяпкин,M,Paulaner Mühlen,1961-11-12 00:00:00
+433,Ксения Алексеевна Левашева,M,Mönchshof Brewing Scurry,1939-02-28 00:00:00
+434,Тамара Алексеевна Гатилина,F,Ayinger Doppelbock Flensburger,1939-01-17 00:00:00
+435,Никита Адамович Сабреков,M,Mönchshof Dunkel,1966-01-07 00:00:00
+436,Софья Сергеевна Пушканова,M,Aventinus Bock,1987-04-26 00:00:00
+437,Инна Игоревна Прудовская,M,Mitterteich Oettingen,1957-07-14 00:00:00
+438,Дмитрий Максимович Пасмерцев,M,House Huberts Erdinger,1938-03-24 00:00:00
+439,Клавдия Эдуардовна Летовина,F,Franziskaner Brewing Maisel,1946-03-20 00:00:00
+440,Клара Петровна Минекова,M,Reissdorf,1965-07-16 00:00:00
+441,Ксения Сергеевна Держакова,F,Schneider Pschorr,2001-04-06 00:00:00
+442,Артём Кириллович Нюньков,F,Oettingen,1956-09-17 00:00:00
+443,Галина Эдуардовна Казиева,M,Franziskaner Brothers Mühlen,1945-02-11 00:00:00
+444,Константин Вадимович Логашев,M,Hefe-Weisse Frankenheim,1973-01-09 00:00:00
+445,Марина Борисовна Подрядова,F,Hermannator Ice Drop,1989-05-28 00:00:00
+446,Юрий Алексиевич Бисиркин,M,Ottos,1973-08-07 00:00:00
+447,Герасим Фёдорович Мышляев,F,Frankenheim,1943-12-15 00:00:00
+448,Герасим Леонидович Федосов,F,Zoigl Schlenkerla Rauchbier Göller,1994-02-17 00:00:00
+449,Раиса Валерьевна Зятева,M,Mönchshof Brauerei Oettingen,1996-01-12 00:00:00
+450,Маргарита Алексеевна Добисова,F,Ayinger Brauerei Ottos,1966-04-07 00:00:00
+451,Руслан Иванович Норбеков,F,Hacker-Pschorr Brothers Bock,1962-05-06 00:00:00
+452,Федор Денисович Антосенков,F,Hacker Brewing Mühlen,1981-02-02 00:00:00
+453,Галина Вадимовна Минязова,F,Hacker-Pschorr Brewing Roggen,1954-03-09 00:00:00
+454,Григорий Михаилович Фуфалев,M,Hermannator Ice Huberts Weizen-Eisbock,1970-08-30 00:00:00
+455,Антон Олегович Юрушкин,F,Franziskaner Maisel,1951-05-22 00:00:00
+456,Ева Михайловна Дружинкина,M,Schumacher,1994-07-09 00:00:00
+457,Борис Тимофеевич Куцаев,F,Buttenheimer Urbock,1938-09-04 00:00:00
+458,Юрий Евгеньевич Безданский,F,Brauerei Märzen,1936-04-22 00:00:00
+459,Юрий Тимофеевич Красков,F,Spaten Becks,1988-02-11 00:00:00
+460,Алиса Вадимовна Фомская,M,Zoigl Doppelbock Mühlen,1970-01-18 00:00:00
+461,Вероника Леонидовна Кавыршина,F,Optimator,1998-03-10 00:00:00
+462,Кирилл Аркадиевич Ченин,M,Roggen,1983-03-06 00:00:00
+463,Артур Антонович Снегирев,F,Spaten Goslarer,1943-07-12 00:00:00
+464,Эдуард Алексиевич Строгалин,M,Ayinger Paulaner Oktoberfest,1978-12-17 00:00:00
+465,Станислав Андреевич Маковеев,M,Buttenheimer Ottos,1944-09-09 00:00:00
+466,Мария Валерьевна Аторина,F,Aventinus Dampfbier,1953-05-24 00:00:00
+467,Аркадий Юриевич Фоломешкин,F,Andechser Schlenkerla Rauchbier Urbock,1975-09-16 00:00:00
+468,Тарас Данилович Решидов,F,Schneider Dark,1965-07-16 00:00:00
+469,Лиза Вадимовна Джакбарова,M,Paulaner Bitburger,1951-08-03 00:00:00
+470,Лариса Аркадьевна Кутихина,M,Hefe-Weisse Scurry,1979-03-25 00:00:00
+471,Людмила Максимовна Ренжиглова,F,Mönchshof Aventinus Krombacher,1963-03-14 00:00:00
+472,Валентина Никитична Шумелкина,M,Franziskaner Brewing Dampfbier,1932-09-18 00:00:00
+473,Клавдия Евгеньевна Шеблыкина,M,Alt-Bayerisch Scurry,2002-03-07 00:00:00
+474,Виктор Яковлевич Мищеров,M,Jahrhundert Altenauer,2003-03-31 00:00:00
+475,Артём Данилович Базаркин,M,Brewing Kellerbier,1968-11-29 00:00:00
+476,Семён Павлович Вититин,F,Buttenheimer Flensburger,1959-07-05 00:00:00
+477,Аркадий Денисович Халкионов,F,House Hacker Diebels,1969-09-01 00:00:00
+478,Катерина Кирилловна Алахова,F,House Hacker Diebels,1980-05-04 00:00:00
+479,Иван Адамович Уколин,M,Weihenstephaner Aventinus Gaffel,1932-09-12 00:00:00
+480,Константин Данилович Куныгин,F,Hefe-Weisse Drop,1992-08-09 00:00:00
+481,Виктор Сергеевич Тесанов,M,Mönchshof Steam,1949-03-24 00:00:00
+482,Иван Вадимович Китухин,F,Hacker-Pschorr Bitburger,1993-06-14 00:00:00
+483,Алина Кирилловна Ступилина,F,Spaten Brothers Bitburger,1927-07-12 00:00:00
+484,Артур Кириллович Наездников,M,Hacker Maibock,1934-04-08 00:00:00
+485,Лариса Николаевна Иржевская,F,Kellerbier,1940-02-29 00:00:00
+486,Юлия Петровна Сетдикова,F,Hacker Scurry,1953-05-15 00:00:00
+487,Александр Олегович Чирухин,M,Zoigl Korbinian,1973-01-03 00:00:00
+488,Лиза Борисовна Жиглинская,M,Kloster Unser Dampfbier,1947-08-02 00:00:00
+489,Наталья Василевна Мощицкая,M,Brauerei Spaten,1972-04-25 00:00:00
+490,Дарья Вадимовна Соколаева,M,Unser Korbinian,1936-07-06 00:00:00
+491,Оксана Яковлевна Никошкова,M,Bock,1957-08-01 00:00:00
+492,Светлана Андреевна Илющихина,M,Hacker Lager,1957-07-15 00:00:00
+493,Катерина Дмитриевна Смятских,F,Ayinger Reissdorf,1957-04-21 00:00:00
+494,Ева Егоровна Румякина,M,Diebels,1959-07-04 00:00:00
+495,Екатерина Валерьевна Асаянова,F,Schneider Mühlen,1954-09-02 00:00:00
+496,Кирилл Денисович Космосов,M,Erdinger Gaffel,1934-03-22 00:00:00
+497,Денис Павлович Шкалев,M,Hefe-Weisse Dampfbier,1928-03-18 00:00:00
+498,Алена Кирилловна Омсинова,M,Alt-Bayerisch Hefe-Weisse Krombacher,1987-11-08 00:00:00
+499,Клавдия Василевна Инамова,F,Weihenstephaner Ottos,1929-09-07 00:00:00
+500,Денис Максимович Кисилишин,M,Hacker Zoiglbauer,1986-09-30 00:00:00
+501,Пётр Николаевич Щулепников,F,Roggen,1959-02-05 00:00:00
+502,Юлия Валерьевна Мантюхина,F,Dampfbierbrauerei Märzen,1980-10-25 00:00:00
+503,Илья Виталиевич Бенселин,F,Kloster Dampfbierbrauerei Köstritzer,1966-07-07 00:00:00
+504,Вячеслав Тимофеевич Чулохин,M,Ayinger Huberts Frankenheim,1972-08-24 00:00:00
+505,Любовь Алексеевна Кафиева,M,1516 Korbinian,1974-08-12 00:00:00
+506,Пётр Николаевич Афимин,M,Jahrhundert Maibock,1991-10-26 00:00:00
+507,Марина Василевна Черкалова,M,Andechser Brauerei Ur-Weisse,1966-06-27 00:00:00
+508,Антон Аркадиевич Манеуров,M,Weihenstephaner Hofbräu Köstritzer,1941-05-23 00:00:00
+509,Лиза Вадимовна Швыкова,M,House Optimator,1981-10-13 00:00:00
+510,Виталий Сергеевич Лобышов,M,Dunkel,1947-04-20 00:00:00
+511,Кристина Леонидовна Лабузова,M,Alt-Bayerisch 1516 Optimator,1978-02-08 00:00:00
+512,Кирилл Фёдорович Тогобицкий,M,Weihenstephaner Doppelbock Köstritzer,1980-10-11 00:00:00
+513,Георгий Алексеевич Возницын,F,House Pschorr Oktoberfest Bock,1924-10-03 00:00:00
+514,Дмитрий Борисович Барсучихин,F,Jahrhundert Gaffel,1996-12-18 00:00:00
+515,Ярослав Борисович Волоков,F,Unser Lager,1962-07-18 00:00:00
+516,Артём Иванович Боронников,F,Paulaner Spaten,1991-10-25 00:00:00
+517,Елизавета Игоревна Акиваева,M,Huberts Erdinger,1947-08-27 00:00:00
+518,Галина Дмитриевна Евзинова,M,Weihenstephaner Brewing Flensburger,1939-04-21 00:00:00
+519,Катерина Борисовна Махманова,M,Zoigl Weizen-Eisbock,2001-09-08 00:00:00
+520,Лиза Николаевна Таловина,M,1516 Goslarer,1978-04-12 00:00:00
+521,София Андреевна Коцегубова,M,Zoigl 1516 Warsteiner,1991-02-22 00:00:00
+522,Владимир Валериевич Дунов,M,Hefe-Weisse Urbock,1929-05-09 00:00:00
+523,Николай Алексеевич Руманов,M,Ayinger Brauerei Ottos,1929-06-02 00:00:00
+524,Геннадий Викторович Мельянцов,M,Brauerei Aventinus,1946-02-25 00:00:00
+525,Инна Алексеевна Егураева,M,Andechser Mitterteich Korbinian,1952-10-04 00:00:00
+526,Софья Ивановна Адиатулина,M,Franziskaner Bräu,1948-03-18 00:00:00
+527,Юрий Петрович Свинчуков,F,Weihenstephaner Optimator,1972-05-04 00:00:00
+528,Кира Алексеевна Долватова,F,Hacker-Pschorr Paulaner Drop,1938-01-15 00:00:00
+529,Наталия Михайловна Любокаева,M,Kloster Dampfbierbrauerei Bier,1964-01-13 00:00:00
+530,Герасим Фёдорович Тюнькин,M,Weihenstephaner Jahrhundert München,1972-10-11 00:00:00
+531,Пётр Игоревич Беченов,F,Brewing Paulaner,1965-02-07 00:00:00
+532,Алексей Алексиевич Огулов,F,Dampfbierbrauerei Urbock,1976-09-02 00:00:00
+533,Григорий Виталиевич Пищурков,F,Mitterteich Scurry,1962-03-28 00:00:00
+534,Владимир Евгеньевич Шкиренков,M,Unser Erdinger,1934-04-28 00:00:00
+535,Константин Антонович Ферберов,M,Hermannator Ice Hefe-Weisse Zoigl,1969-06-27 00:00:00
+536,Людмила Валерьевна Анякушина,F,Unser Zoiglbauer,1934-07-23 00:00:00
+537,Альберт Фёдорович Баруцков,M,Weihenstephaner Kellerbier,1956-12-03 00:00:00
+538,Андрей Андреевич Кусин,F,Brauerei Maibock,1989-11-09 00:00:00
+539,Анатолий Аркадиевич Гаршин,F,Hefe-Weisse Zoigl,1931-04-27 00:00:00
+540,Вадим Евгеньевич Шевянов,F,Weihenstephaner Brauerei Bier,1955-07-08 00:00:00
+541,Елена Ивановна Солнышкова,F,Alt-Bayerisch Pschorr Oktoberfest Kellerbier,1948-10-03 00:00:00
+542,Клара Ивановна Талькова,F,Franziskaner Franziskaner,1945-06-03 00:00:00
+543,Григорий Георгиевич Симулин,F,Schneider Augustinerbräu,2003-10-09 00:00:00
+544,Герасим Адамович Кокоулин,F,Franziskaner Paulaner Goslarer,1996-08-15 00:00:00
+545,Валентина Михайловна Смаровская,M,Hacker Pikantus,1963-03-17 00:00:00
+546,Надежда Вадимовна Шершенова,M,Spaten Brothers Bitburger,2000-09-14 00:00:00
+547,Герасим Юрьевич Квачев,F,Hermannator Ice Dampfbier,1963-02-13 00:00:00
+548,Антон Леонидович Кишканов,M,Buttenheimer Pfarrbräu,1984-01-17 00:00:00
+549,Федор Аркадиевич Слышенков,F,Hofbräu Augustinerbräu,1994-09-07 00:00:00
+550,Вероника Евгеньевна Шапунова,M,Huberts Spezial,1970-01-28 00:00:00
+551,Яков Иванович Толохов,M,Aventinus Dampfbier,2003-11-21 00:00:00
+552,Кира Валерьевна Ломакина,F,Hacker Zoiglbauer,1930-04-11 00:00:00
+553,Борис Виталиевич Колобин,F,Märzen,1961-05-12 00:00:00
+554,Никита Михаилович Ажгибков,F,Hacker Pikantus,1969-08-20 00:00:00
+555,Николай Евгеньевич Головцов,F,Gänstaller Märzen,2001-07-09 00:00:00
+556,Маргарита Аркадьевна Росова,M,Franziskaner Dunkel,1999-07-01 00:00:00
+557,Оксана Игоревна Щелочинина,M,Kloster Hacker Oktoberfest,1935-06-19 00:00:00
+558,Маргарита Алексеевна Ухлова,M,Aventinus Pikantus,1941-12-16 00:00:00
+559,Алёна Андреевна Мясалимова,M,Hacker-Pschorr 1516 Flensburger,1980-03-16 00:00:00
+560,Евгения Михайловна Паляева,M,Weihenstephaner Doppelbock Köstritzer,1978-06-29 00:00:00
+561,Валерий Денисович Магерамов,M,Alt-Bayerisch Ayinger Maibock,1947-05-10 00:00:00
+562,Эдуард Яковлевич Тунгусов,F,Hermannator Ice Goslarer,1945-08-29 00:00:00
+563,Наталья Никитична Ававакина,F,Dampfbierbrauerei Schumacher,1982-05-09 00:00:00
+564,София Василевна Хакаширина,F,Zoigl Doppelbock Göller,1980-05-08 00:00:00
+565,Ярослав Михаилович Сургин,M,Hacker-Pschorr Brewing Frankenheim,1953-04-25 00:00:00
+566,Эдуард Валериевич Паршиков,M,Hofbräu Goslarer,1928-10-17 00:00:00
+567,Аркадий Максимович Нулаев,M,Spaten Huberts Becks,1958-03-07 00:00:00
+568,Артём Данилович Баженичев,M,Spaten Erdinger Früh,1962-06-11 00:00:00
+569,София Максимовна Откина,F,Alt-Bayerisch Mitterteich Warsteiner,1997-06-22 00:00:00
+570,Илья Борисович Козминский,F,Ayinger Dunkel,1957-07-11 00:00:00
+571,Алина Игоревна Шамьюнова,M,Alt-Bayerisch Optimator,1990-01-09 00:00:00
+572,Кирилл Олегович Стомахин,M,Franziskaner Zoigl,1981-02-02 00:00:00
+573,Андрей Николаевич Чагорский,F,Mönchshof Aventinus Krombacher,1988-02-16 00:00:00
+574,Светлана Егоровна Красочкина,M,Mönchshof Pschorr Oktoberfest Paulaner,1949-09-10 00:00:00
+575,Семён Леонидович Щекольцов,M,Pschorr Oktoberfest Schumacher,1999-10-26 00:00:00
+576,Ксения Василевна Катанскова,F,Kloster Dampfbierbrauerei Köstritzer,1972-02-03 00:00:00
+577,Анастасия Евгеньевна Щичатова,F,Spaten Diebels,1944-03-02 00:00:00
+578,Алена Вадимовна Димакова,M,Ayinger Schlenkerla Rauchbier Goslarer,1968-05-30 00:00:00
+579,Клара Игоревна Басенская,M,Hefe-Weisse Mühlen,1966-06-05 00:00:00
+580,Григорий Георгиевич Самров,F,Alt-Bayerisch Zoigl,1924-09-16 00:00:00
+581,Михаил Викторович Дудаладов,M,Schneider Brewing Lager,1964-10-15 00:00:00
+582,Никита Яковлевич Войковский,M,Alt-Bayerisch Aventinus,1952-05-28 00:00:00
+583,Тамара Василевна Сартокова,F,Göller,1956-09-22 00:00:00
+584,Альберт Иванович Вереникин,M,Zoigl Dunkel,1993-04-18 00:00:00
+585,Надежда Петровна Закромина,F,Mönchshof Brothers Bräu,1984-09-11 00:00:00
+586,Кирилл Аркадиевич Шебуков,M,Hefe-Weisse Ritterguts,2001-03-15 00:00:00
+587,Анна Ивановна Акантова,M,Kloster Unser Bitburger,1947-08-24 00:00:00
+588,Николай Андреевич Хромычкин,M,Weihenstephaner Jahrhundert Zoigl,2002-04-05 00:00:00
+589,Антон Аркадиевич Порхаев,M,Alt-Bayerisch Dampfbierbrauerei Diebels,1941-04-07 00:00:00
+590,Ольга Эдуардовна Незадорина,M,Hefe-Weisse Dortmunder,1922-05-26 00:00:00
+591,Кристина Алексеевна Жербина,M,Andechser Doppelbock Goslarer,1990-04-15 00:00:00
+592,Кристина Аркадьевна Калунсская,F,Franziskaner Gänstaller Maibock,1954-11-15 00:00:00
+593,Раиса Евгеньевна Агурева,F,Schlenkerla Rauchbier Spaten,1946-06-09 00:00:00
+594,Артур Андреевич Засовин,M,Franziskaner Doppelbock Zoiglbauer,1926-10-18 00:00:00
+595,Борис Евгеньевич Стархов,F,Schneider Hacker Mönchshof,1943-09-18 00:00:00
+596,Пётр Петрович Олимов,F,1516 Mönchshof,1973-10-13 00:00:00
+597,Алина Андреевна Жаденова,M,Hefe-Weisse Lager,1939-06-09 00:00:00
+598,Алла Ивановна Гамирова,F,Mitterteich Zoigl,1995-12-19 00:00:00
+599,Софья Максимовна Дмитриева,F,Brewing Dunkel,1949-05-16 00:00:00
+600,Елена Вадимовна Храпина,F,München,1922-04-28 00:00:00
+601,Артём Леонидович Пиорин,M,Schneider Ayinger Maisel,1959-02-27 00:00:00
+602,Эдуард Михаилович Чунаков,M,Ayilinger,1927-01-03 00:00:00
+603,Дмитрий Алексеевич Водин,M,Hacker Dampfbierbrauerei Dortmunder,1961-12-08 00:00:00
+604,Кирилл Юриевич Абрашев,M,Zoigl Scurry,1987-02-06 00:00:00
+605,Лиза Алексеевна Шумина,M,Hacker-Pschorr Maibock,1992-06-25 00:00:00
+606,Любовь Евгеньевна Слатнова,M,Hacker-Pschorr Brewing Ottos,1922-02-17 00:00:00
+607,Алиса Максимовна Беркоусова,F,Andechser Hofbräu Göller,1956-05-23 00:00:00
+608,София Максимовна Дуболазова,F,Andechser Salvator,1935-02-06 00:00:00
+609,Геннадий Денисович Колитуркин,F,Aventinus Krombacher,1926-02-14 00:00:00
+610,Анастасия Петровна Аглицкова,M,Franziskaner 1516 Kellerbier,1956-05-05 00:00:00
+611,Оксана Валерьевна Колинкина,F,Ayinger Dampfbierbrauerei Märzen,1987-03-23 00:00:00
+612,Федор Юрьевич Семятицкий,F,Pschorr,1934-10-15 00:00:00
+613,Мария Максимовна Ситникова,F,Kloster Reissdorf,1964-02-18 00:00:00
+614,Светлана Кирилловна Зезеткина,F,Andechser Erdinger Optimator,1985-06-13 00:00:00
+615,Денис Петрович Разов,F,Hacker Ayinger Spezial,1993-05-18 00:00:00
+616,Александр Иванович Мачехин,M,Unser Ottos,1931-02-10 00:00:00
+617,Пётр Петрович Сузаков,M,Weihenstephaner Ritterguts,1996-10-24 00:00:00
+618,Вадим Николаевич Стучилов,F,Kloster Dampfbierbrauerei Bier,1926-06-21 00:00:00
+619,Федор Леонидович Лесковский,M,Alt-Bayerisch Aventinus,1978-10-01 00:00:00
+620,Елизавета Викторовна Хекимова,F,Mönchshof Doppelbock Kellerbier,1970-05-09 00:00:00
+621,Анастасия Богдановна Чичарова,F,Mitterteich Lager,1997-02-02 00:00:00
+622,Оксана Викторовна Богринова,F,Brewing Becks,1927-12-25 00:00:00
+623,Тарас Сергеевич Себатаров,M,Spaten Reissdorf,1966-05-21 00:00:00
+624,Катерина Михайловна Фрасова,M,Buttenheimer Hacker Bräu,1974-11-04 00:00:00
+625,Иван Валериевич Латунин,F,Franziskaner Hacker Becks,1925-05-19 00:00:00
+626,Александра Эдуардовна Ялина,M,Hacker Pschorr,1979-04-25 00:00:00
+627,Михаил Яковлевич Гранников,M,Pfarrbräu,1985-06-11 00:00:00
+628,Дарья Евгеньевна Чеберова,F,Göller,1958-12-04 00:00:00
+629,Маргарита Игоревна Миркушева,F,Mitterteich Optimator,1957-08-11 00:00:00
+630,Клавдия Андреевна Канаткина,F,Mönchshof Flensburger,1991-05-24 00:00:00
+631,Клара Евгеньевна Мажогина,F,Kloster Schumacher,1922-07-20 00:00:00
+632,Артур Георгиевич Шведовский,F,Hacker Doppelbock Pikantus,1962-10-08 00:00:00
+633,Эдуард Яковлевич Шучков,F,Weihenstephaner Brothers Urbock,1974-05-28 00:00:00
+634,Михаил Валериевич Трапенов,F,Weihenstephaner Ritterguts,1982-05-08 00:00:00
+635,Алина Викторовна Фрадкова,M,Buttenheimer Korbinian,1943-04-01 00:00:00
+636,Елизавета Андреевна Долбищева,M,Weihenstephaner Oktoberfest,1928-11-04 00:00:00
+637,Валентин Николаевич Балтышов,M,Unser Spezial,1989-08-05 00:00:00
+638,Виталий Яковлевич Басханов,M,Hacker Ur-Weisse,1989-01-26 00:00:00
+639,Евгений Николаевич Малошенков,F,Weihenstephaner Bock,1963-03-16 00:00:00
+640,Людмила Валерьевна Монтюкова,M,Buttenheimer Zoiglbauer,1953-11-15 00:00:00
+641,Ярослав Павлович Тряхов,M,Spaten Schlenkerla Rauchbier Oktoberfest,1999-11-12 00:00:00
+642,Аркадий Юрьевич Шеланков,F,Brauerei Maisel,1922-03-25 00:00:00
+643,Владимир Николаевич Сватеев,F,Brauerei Reissdorf,1990-04-21 00:00:00
+644,Галина Валерьевна Чурашова,M,Doppelbock Mühlen,1997-02-19 00:00:00
+645,Алёна Николаевна Резоухова,F,Erdinger Bier,1949-08-10 00:00:00
+646,Клавдия Яковлевна Драникова,F,Andechser Doppelbock Goslarer,1949-03-02 00:00:00
+647,Дмитрий Борисович Стулин,M,Mitterteich Optimator,1981-10-07 00:00:00
+648,Надежда Евгеньевна Путаникова,F,Zoigl Hofbräu Scurry,1923-03-19 00:00:00
+649,Марина Борисовна Голявова,M,Pschorr Oktoberfest Scurry,1952-12-11 00:00:00
+650,Александр Валериевич Ревокатов,M,Mitterteich Mühlen,1987-04-12 00:00:00
+651,Артур Денисович Драчин,F,Göller,1934-11-09 00:00:00
+652,Оксана Олеговна Несветаева,F,Spaten Flensburger,1996-05-23 00:00:00
+653,Валерий Вадимович Лупов,F,Hacker-Pschorr Gaffel,1997-08-19 00:00:00
+654,Виолетта Эдуардовна Саосина,M,Hofbräu Märzen,1964-06-13 00:00:00
+655,Владимир Борисович Шкрунин,F,Frankenheim,1982-08-01 00:00:00
+656,Игорь Тимофеевич Думов,F,Hacker Augustinerbräu,1990-02-17 00:00:00
+657,Артур Андреевич Родунов,M,Doppelbock Diebels,1970-09-19 00:00:00
+658,Кира Яковлевна Немнонова,M,Weihenstephaner Bock,1954-10-12 00:00:00
+659,Степан Вадимович Ободеев,M,Andechser Spezial,1990-11-13 00:00:00
+660,Вадим Леонидович Инвалидов,M,Hefe-Weisse Zoigl,1932-02-05 00:00:00
+661,Лариса Олеговна Облапохина,F,Hacker-Pschorr Pschorr,1959-05-02 00:00:00
+662,Василий Юрьевич Томаков,F,Mönchshof Aventinus Früh,1968-08-24 00:00:00
+663,Юрий Андреевич Аржаткин,F,Gänstaller Oktoberfest,1992-01-26 00:00:00
+664,Кристина Игоревна Ахламова,F,Hacker Mühlen,1954-02-03 00:00:00
+665,Вера Леонидовна Центерова,M,House Ayinger Paulaner,1965-10-05 00:00:00
+666,Олег Павлович Анчевский,M,Hefe-Weisse Lager,1948-05-30 00:00:00
+667,Анастасия Эдуардовна Жлудова,F,Andechser Salvator,1944-09-03 00:00:00
+668,Пётр Иванович Чечеров,M,Pschorr Oktoberfest Köstritzer,1955-02-20 00:00:00
+669,Алёна Николаевна Подрубаева,F,Hermannator Ice Unser Ayilinger,1938-04-11 00:00:00
+670,Олег Антонович Скомовский,M,Weihenstephaner Bock,1935-04-09 00:00:00
+671,Анна Максимовна Пешкилева,F,Hacker Lager,1963-04-08 00:00:00
+672,Илья Иванович Волычкин,M,Hacker Lager,1922-08-15 00:00:00
+673,Илья Валериевич Бормонтов,M,Alt-Bayerisch Dampfbierbrauerei Flensburger,1966-10-10 00:00:00
+674,Антон Денисович Залящин,M,1516 Drop,1999-11-14 00:00:00
+675,Клара Олеговна Католикова,M,Hefe-Weisse Flensburger,1946-01-11 00:00:00
+676,Руслан Максимович Семидушнов,M,Augustinerbräu,1990-07-04 00:00:00
+677,Виктория Валерьевна Мизютина,M,Brothers Dark,1931-03-05 00:00:00
+678,Вадим Олегович Очков,M,Alt-Bayerisch 1516 Optimator,1968-04-18 00:00:00
+679,Ева Сергеевна Лопанина,F,Ayinger Paulaner Oktoberfest,2002-04-12 00:00:00
+680,Лиза Евгеньевна Гилядова,M,Zoigl Kellerbier,1948-09-07 00:00:00
+681,Марина Василевна Лиерстова,M,Weihenstephaner Dampfbierbrauerei Rauchbier,1963-08-30 00:00:00
+682,Вадим Сергеевич Архипкин,F,Weihenstephaner Korbinian,1944-01-01 00:00:00
+683,Илья Алексиевич Станьков,M,House Dark,1939-03-16 00:00:00
+684,Леонид Сергеевич Марлин,F,Urbock,2003-12-25 00:00:00
+685,Александра Михайловна Трипутина,M,Andechser Hefe-Weisse Pschorr,1935-12-11 00:00:00
+686,Алексей Евгеньевич Рыбчин,F,Aventinus Optimator,1957-12-17 00:00:00
+687,Валерий Сергеевич Ельчев,F,Paulaner Rauchbier,1969-10-11 00:00:00
+688,Никита Леонидович Дембиков,M,Flensburger,1946-01-21 00:00:00
+689,Надежда Максимовна Масгутова,M,Hefe-Weisse Mühlen,1929-05-23 00:00:00
+690,Катерина Федоровна Моталева,F,Weihenstephaner Hofbräu Köstritzer,1959-04-08 00:00:00
+691,Михаил Сергеевич Шканакин,M,Kloster Erdinger Früh,1986-10-01 00:00:00
+692,Елизавета Евгеньевна Нисковских,M,Weihenstephaner Brothers Urbock,1930-05-06 00:00:00
+693,Игорь Борисович Гараев,M,House Pschorr,1997-01-12 00:00:00
+694,Константин Олегович Липашов,M,Alt-Bayerisch Scurry,1925-05-07 00:00:00
+695,Виктор Денисович Пробкин,M,Weihenstephaner Brewing Dortmunder,1985-07-11 00:00:00
+696,Виталий Олегович Кулевацкий,M,Hefe-Weisse Lager,1992-12-04 00:00:00
+697,Семён Романович Гайнов,M,Paulaner Maibock,1950-10-29 00:00:00
+698,Илья Петрович Дервянов,M,Unser Reissdorf,1932-07-15 00:00:00
+699,Маргарита Романовна Волхонина,F,Jahrhundert Oktoberfest,2003-05-12 00:00:00
+700,Алёна Вадимовна Мазьянова,M,Franziskaner Gänstaller Maibock,1940-05-24 00:00:00
+701,Надежда Валерьевна Шлямнева,M,Alt-Bayerisch Paulaner Steam,1934-01-11 00:00:00
+702,Василий Денисович Ульянчев,F,Unser Korbinian,1936-05-29 00:00:00
+703,Елизавета Аркадьевна Волуева,F,Gänstaller Ottos,1972-04-26 00:00:00
+704,Наталья Дмитриевна Гребенева,M,Unser Korbinian,1949-05-17 00:00:00
+705,Артём Яковлевич Калыгин,M,Doppelbock Bräu,1960-11-13 00:00:00
+706,Аркадий Алексиевич Гнилкин,F,Franziskaner Schlenkerla Rauchbier Korbinian,1950-04-19 00:00:00
+707,Борис Юрьевич Сомсиков,M,Huberts Pfarrbräu,1961-09-19 00:00:00
+708,Вячеслав Алексиевич Сашинков,F,Hacker Augustinerbräu,1963-12-13 00:00:00
+709,Леонид Игоревич Игожин,M,Hofbräu Ayilinger,1969-05-22 00:00:00
+710,Станислав Виталиевич Народецкий,M,Ayinger Reissdorf,1949-07-26 00:00:00
+711,Максим Алексеевич Варющенков,F,Buttenheimer Ur-Weisse,1960-01-29 00:00:00
+712,Алиса Богдановна Эчкалова,M,Kloster Ottos,1955-01-11 00:00:00
+713,Евгения Вадимовна Рунушкина,F,Weihenstephaner Ritterguts,1938-10-01 00:00:00
+714,Наталья Олеговна Мойкина,F,Franziskaner Brothers Mühlen,2003-04-07 00:00:00
+715,Кира Василевна Башкурова,F,Andechser Diebels,1996-11-18 00:00:00
+716,Яков Адамович Жибоедов,F,Mönchshof Aventinus Krombacher,1994-02-17 00:00:00
+717,Герасим Кириллович Хомский,F,Andechser Spezial,1987-09-20 00:00:00
+718,Валентина Дмитриевна Тяжлова,F,Schneider Dark,1944-01-29 00:00:00
+719,Клавдия Викторовна Цаллагова,M,Urbock,1963-01-07 00:00:00
+720,Артём Юриевич Кириаков,M,Franziskaner Hefe-Weisse Warsteiner,1999-09-05 00:00:00
+721,Вера Максимовна Тихомолова,M,Spaten Jahrhundert Goslarer,1938-02-25 00:00:00
+722,Владимир Максимович Лазинников,M,Hacker Urbock,1972-12-06 00:00:00
+723,Олег Евгеньевич Тайлаков,M,Kloster Altenauer,1983-05-07 00:00:00
+724,Лиза Валерьевна Бордова,M,Aventinus Dortmunder,2001-12-02 00:00:00
+725,Георгий Валериевич Дворянков,M,Erdinger Bier,1995-06-11 00:00:00
+726,Елена Игоревна Алюхина,M,Hermannator Ice Unser Ayilinger,1967-08-18 00:00:00
+727,Валентина Романовна Онаева,M,Unser Zoigl,1959-09-09 00:00:00
+728,Илья Петрович Артохов,M,Jahrhundert Altenauer,1983-09-13 00:00:00
+729,Виктория Егоровна Тупицина,F,Schneider Dark,1969-12-01 00:00:00
+730,Людмила Сергеевна Газарова,F,Hacker-Pschorr Brothers Bock,1985-09-15 00:00:00
+731,Илья Игоревич Петлицкий,M,House Köstritzer,1942-03-16 00:00:00
+732,Клавдия Валерьевна Абсаликова,M,Unser Reissdorf,1987-12-05 00:00:00
+733,Денис Михаилович Ошмаров,F,Unser Reissdorf,1994-01-15 00:00:00
+734,Ольга Валерьевна Молеханова,M,Paulaner Spaten,1951-04-19 00:00:00
+735,Карина Яковлевна Горюнова,M,Hacker 1516 Paulaner,1944-12-22 00:00:00
+736,Евгений Яковлевич Носинский,F,House Optimator,1957-09-11 00:00:00
+737,Федор Алексиевич Близнаков,M,Hofbräu Salvator,1991-04-05 00:00:00
+738,Виолетта Михайловна Зангиева,M,Alt-Bayerisch Hefe-Weisse Märzen,1971-09-22 00:00:00
+739,Валентина Василевна Карманова,M,Franziskaner Bräu,1994-11-27 00:00:00
+740,Никита Фёдорович Додонов,F,Spaten Schlenkerla Rauchbier Köstritzer,1961-05-14 00:00:00
+741,Алла Василевна Гизулина,F,Ayinger Krombacher,1981-06-21 00:00:00
+742,Алена Игоревна Папилова,M,Weihenstephaner Altenauer,1928-07-31 00:00:00
+743,Яков Денисович Лохнин,M,Weihenstephaner Dampfbierbrauerei Rauchbier,1988-05-31 00:00:00
+744,Степан Михаилович Янаков,M,Spezial,1963-10-03 00:00:00
+745,Ксения Кирилловна Приемская,M,Mitterteich Reissdorf,1966-04-15 00:00:00
+746,Григорий Викторович Антицев,M,Hefe-Weisse Scurry,1931-05-11 00:00:00
+747,Леонид Юрьевич Нистраткин,F,Mitterteich Optimator,1986-02-20 00:00:00
+748,Константин Павлович Щелконогов,M,Hermannator Ice Unser Ayilinger,1939-02-11 00:00:00
+749,Анастасия Вадимовна Кашечкина,F,Gänstaller Drop,1999-12-07 00:00:00
+750,Ирина Сергеевна Сохинова,F,Brothers Göller,1939-10-04 00:00:00
+751,Константин Антонович Мазнев,M,Franziskaner Paulaner Goslarer,1983-05-10 00:00:00
+752,Никита Романович Бакерин,F,Paulaner Zoiglbauer,1952-12-12 00:00:00
+753,Анна Викторовна Ватькова,F,Buttenheimer Schlenkerla Rauchbier Bier,1941-01-03 00:00:00
+754,Карина Егоровна Рунихина,M,Buttenheimer Schlenkerla Rauchbier Dunkel,1945-04-29 00:00:00
+755,Евгений Алексиевич Безыкорнов,F,Erdinger Ayilinger,1985-10-19 00:00:00
+756,Виктор Иванович Красенов,F,Mitterteich Maibock,1994-11-08 00:00:00
+757,Катерина Борисовна Алданькова,F,Ayinger Krombacher,1988-06-20 00:00:00
+758,Раиса Вадимовна Болдуева,F,Alt-Bayerisch Steam,1965-11-07 00:00:00
+759,Людмила Яковлевна Скоповская,M,Mitterteich Augustinerbräu,1928-09-19 00:00:00
+760,Катерина Игоревна Гнуздева,M,Ayinger Ur-Weisse,1962-06-05 00:00:00
+761,Альберт Романович Коровашкин,F,Paulaner Pschorr,1966-07-15 00:00:00
+762,Светлана Богдановна Дунюшина,F,Weihenstephaner Diebels,1978-03-12 00:00:00
+763,Максим Яковлевич Немовсков,M,Alt-Bayerisch Salvator,1968-05-12 00:00:00
+764,Станислав Павлович Коммуников,M,Spaten Jahrhundert Kellerbier,1934-01-09 00:00:00
+765,Валентина Игоревна Козюлева,M,Ayinger Dampfbier,1994-07-11 00:00:00
+766,Александра Сергеевна Стрекова,M,Hacker Scurry,1979-09-04 00:00:00
+767,Андрей Борисович Малоземов,F,Mönchshof Brewing Steam,1978-03-20 00:00:00
+768,Лиза Романовна Галунина,F,Paulaner Bitburger,1982-04-10 00:00:00
+769,Раиса Никитична Быстрякова,F,1516 Bitburger,1974-02-15 00:00:00
+770,Алёна Петровна Зарайская,M,Buttenheimer Brewing Mühlen,1980-10-04 00:00:00
+771,Кристина Максимовна Стрыкова,F,Mönchshof Köllner,1931-09-10 00:00:00
+772,Мария Викторовна Храпкова,M,Hermannator Ice Göller,1931-01-09 00:00:00
+773,Евгений Георгиевич Пошивалов,F,Franziskaner Goslarer,1930-12-09 00:00:00
+774,Кирилл Борисович Агейчев,M,Weihenstephaner München,1940-05-05 00:00:00
+775,Тамара Эдуардовна Дукшина,F,Hacker-Pschorr Brothers Göller,1994-09-02 00:00:00
+776,Вадим Игоревич Солончуков,M,Pschorr Oktoberfest Gaffel,1997-07-23 00:00:00
+777,Артём Борисович Свинчуков,F,House Spezial,1978-01-02 00:00:00
+778,Алёна Романовна Спасскова,M,Ayinger Pschorr,1972-01-22 00:00:00
+779,Карина Вадимовна Пеминова,F,Mitterteich Lager,1971-06-18 00:00:00
+780,Степан Борисович Фонтасов,F,House Brauerei Paulaner,1966-12-24 00:00:00
+781,Иван Аркадиевич Кремзуков,M,1516 Altenauer,1936-07-02 00:00:00
+782,Борис Юрьевич Теребнев,F,Schlenkerla Rauchbier Diebels,1945-01-09 00:00:00
+783,Наталия Андреевна Гапкина,F,Weihenstephaner Oettingen,1967-01-21 00:00:00
+784,Федор Алексеевич Илюхин,F,Kloster Huberts Aventinus,1929-04-23 00:00:00
+785,Жанна Андреевна Таратонова,F,Aventinus Gaffel,1983-12-06 00:00:00
+786,Илья Валериевич Якимычев,M,Pfarrbräu,1976-02-17 00:00:00
+787,Тамара Леонидовна Сгроблева,F,Pschorr Oktoberfest Urbock,1953-09-02 00:00:00
+788,Ирина Сергеевна Микулицкая,M,Pfarrbräu,1975-04-05 00:00:00
+789,Елена Андреевна Мелодьева,M,Buttenheimer Zoigl,1938-08-30 00:00:00
+790,Геннадий Юриевич Чембаров,M,Pschorr Oktoberfest Aventinus,1968-04-17 00:00:00
+791,Владимир Василиевич Ахметьянов,F,Dampfbierbrauerei Bräu,1975-01-22 00:00:00
+792,Наталья Егоровна Чеснина,M,Spaten 1516 Erdinger,1944-01-30 00:00:00
+793,Евгений Петрович Малярский,F,Huberts Franziskaner,1946-03-06 00:00:00
+794,Максим Борисович Парзин,M,Ayinger Pschorr Oktoberfest Urbock,1945-07-19 00:00:00
+795,Станислав Денисович Филипский,M,Mönchshof Dunkel,1990-01-19 00:00:00
+796,Алина Ивановна Зыктина,F,Ayinger Aventinus Bock,1960-07-13 00:00:00
+797,Жанна Никитична Свирисова,M,Alt-Bayerisch Hofbräu Göller,1980-07-12 00:00:00
+798,Валентин Михаилович Колобылин,F,Alt-Bayerisch Aventinus Mönchshof,1987-03-19 00:00:00
+799,Борис Евгеньевич Новоторов,M,Spaten Becks,1966-10-20 00:00:00
+800,Александр Михаилович Никанычев,M,Korbinian,1969-06-28 00:00:00
+801,Евгения Вадимовна Колбацкова,M,Buttenheimer Zoiglbauer,1983-05-31 00:00:00
+802,Клавдия Ивановна Кадинова,F,Brauerei Lager,1925-08-06 00:00:00
+803,Лариса Никитична Валдина,F,Schlenkerla Rauchbier Oettingen,1983-10-24 00:00:00
+804,Олег Николаевич Ярочкин,M,Alt-Bayerisch Mitterteich Warsteiner,1981-12-10 00:00:00
+805,Игорь Олегович Голостенов,F,Brothers Radeberger,1964-02-10 00:00:00
+806,Карина Михайловна Генделева,M,Spaten Diebels,1967-02-20 00:00:00
+807,Клавдия Эдуардовна Дебабова,M,Ayinger Köstritzer,1947-05-15 00:00:00
+808,Вероника Федоровна Сусекова,F,Mönchshof Steam,1984-05-01 00:00:00
+809,Ксения Романовна Дашлаева,M,Hofbräu München,1949-05-30 00:00:00
+810,Евгений Иванович Туниченков,M,Hacker Bräu,1971-01-16 00:00:00
+811,Василий Кириллович Бортиков,F,Brothers Flensburger,1969-05-31 00:00:00
+812,Мария Игоревна Радихина,F,Andechser Hofbräu Ritterguts,1969-09-24 00:00:00
+813,Владислав Максимович Калгин,F,Spaten Frankenheim,1979-12-16 00:00:00
+814,Владимир Романович Буевцев,M,Hofbräu Erdinger,1930-11-30 00:00:00
+815,Артур Павлович Абалымов,M,Schneider Krombacher,1924-01-19 00:00:00
+816,Дмитрий Фёдорович Федоренцев,F,Kloster Unser Dampfbier,1964-12-12 00:00:00
+817,Денис Юриевич Когинов,F,Schlenkerla Rauchbier Optimator,1995-05-28 00:00:00
+818,Юрий Антонович Ломинов,F,Buttenheimer Aventinus Schumacher,1937-08-10 00:00:00
+819,Яков Юрьевич Кривохин,F,Hacker 1516 Ritterguts,1925-03-30 00:00:00
+820,Наталия Николаевна Срелкова,M,Spaten 1516 Maisel,1933-01-16 00:00:00
+821,Ольга Сергеевна Хуртина,F,Hofbräu Erdinger,1996-02-28 00:00:00
+822,Ярослав Михаилович Зарифулин,M,Schneider Goslarer,1984-10-11 00:00:00
+823,Кристина Никитична Вахтурова,F,Schumacher,1982-07-20 00:00:00
+824,Альберт Максимович Модеев,F,Hermannator Ice Hacker Spezial,1955-05-06 00:00:00
+825,Валентин Василиевич Чуклинков,M,Erdinger Mönchshof,1986-08-10 00:00:00
+826,Клара Егоровна Долгодрова,M,Mitterteich Ur-Weisse,1936-12-11 00:00:00
+827,Федор Николаевич Желонин,M,Ayinger Brothers Roggen,2001-11-07 00:00:00
+828,Олег Антонович Свильпов,M,Roggen,1996-01-02 00:00:00
+829,Анатолий Борисович Кузвесов,M,Schlenkerla Rauchbier Optimator,1961-03-14 00:00:00
+830,Антон Евгеньевич Виресов,F,Jahrhundert Roggen,1955-01-30 00:00:00
+831,Зинаида Михайловна Байдукина,F,House Huberts Erdinger,1992-02-07 00:00:00
+832,Дарья Богдановна Ульзутуева,F,Dampfbierbrauerei Pschorr,1940-11-02 00:00:00
+833,Георгий Кириллович Абанин,F,Spaten 1516 Maisel,1926-02-15 00:00:00
+834,Елизавета Алексеевна Бажарева,F,Hacker 1516 Flensburger,1954-01-15 00:00:00
+835,Павел Викторович Потлов,F,Hefe-Weisse Dampfbier,1927-03-14 00:00:00
+836,Федор Алексеевич Подкутов,F,Hacker Schumacher,1947-02-14 00:00:00
+837,Елена Викторовна Струнцова,F,Hacker-Pschorr Maibock,1927-09-14 00:00:00
+838,Мария Богдановна Кукленкова,F,Jahrhundert Gaffel,1941-04-30 00:00:00
+839,Пётр Олегович Гроцкий,M,Jahrhundert Dortmunder,1946-12-28 00:00:00
+840,Степан Алексиевич Ильвуткин,M,Hermannator Ice Zoigl,1976-09-23 00:00:00
+841,Александра Сергеевна Корочанова,F,Brothers Mühlen,1930-08-29 00:00:00
+842,Георгий Петрович Ивков,M,Alt-Bayerisch Brothers Dampfbier,1974-10-05 00:00:00
+843,Дмитрий Алексиевич Шилдин,F,Buttenheimer Paulaner Augustinerbräu,1926-08-03 00:00:00
+844,Катерина Игоревна Розживина,F,Weihenstephaner Brewing Flensburger,1959-11-06 00:00:00
+845,Валентин Викторович Кириаков,F,Zoigl Hofbräu Zoigl,1990-01-31 00:00:00
+846,Алина Николаевна Котылева,M,Franziskaner 1516 Mönchshof,1930-07-28 00:00:00
+847,Андрей Сергеевич Гаушкин,F,Mitterteich Drop,1931-08-20 00:00:00
+848,Раиса Яковлевна Братушкина,F,Aventinus Dortmunder,1973-01-26 00:00:00
+849,Никита Аркадиевич Шеркунов,M,House Jahrhundert Bock,1943-01-21 00:00:00
+850,Маргарита Егоровна Соличева,M,Kloster Ottos,1972-12-21 00:00:00
+851,Альберт Павлович Жаковский,F,Brothers Schumacher,1956-10-18 00:00:00
+852,София Федоровна Иготова,M,Huberts Reissdorf,1932-01-13 00:00:00
+853,Александра Кирилловна Латонина,F,Mitterteich Ur-Weisse,1923-02-23 00:00:00
+854,Яна Богдановна Морева,M,Weihenstephaner Ayinger Krombacher,1974-03-21 00:00:00
+855,Людмила Егоровна Самыкова,M,Weihenstephaner 1516 Altenauer,1963-11-05 00:00:00
+856,Елена Алексеевна Снигерева,M,Korbinian,1999-11-12 00:00:00
+857,Наталия Аркадьевна Коватьева,F,1516 Goslarer,1946-03-26 00:00:00
+858,Ева Дмитриевна Храмушина,M,Buttenheimer Zoigl,1995-03-08 00:00:00
+859,Анатолий Викторович Дежин,M,Kloster Dortmunder,1966-09-23 00:00:00
+860,Кирилл Тимофеевич Челобеев,M,Spaten München,2001-11-29 00:00:00
+861,Кира Сергеевна Бодюкова,F,Weihenstephaner Lager,1976-10-06 00:00:00
+862,Софья Николаевна Шелопина,M,House Huberts Erdinger,1947-09-06 00:00:00
+863,Инна Алексеевна Лотягина,M,Kloster Korbinian,1927-02-13 00:00:00
+864,Пётр Антонович Солтарев,M,1516 Optimator,1963-12-24 00:00:00
+865,Вера Алексеевна Корпулина,F,Hacker Korbinian,1959-08-23 00:00:00
+866,Кирилл Романович Бураханов,M,Hacker Gänstaller Becks,2003-09-10 00:00:00
+867,Константин Данилович Искров,M,Weihenstephaner 1516 Altenauer,1929-12-09 00:00:00
+868,Вячеслав Денисович Лишанский,M,Dampfbierbrauerei Ur-Weisse,1991-04-02 00:00:00
+869,Полина Борисовна Магичева,F,Hacker Jahrhundert Schumacher,1961-02-18 00:00:00
+870,Степан Сергеевич Болганов,M,Zoigl Pschorr Oktoberfest Radeberger,1971-03-29 00:00:00
+871,Ева Максимовна Труничева,M,Weihenstephaner Mühlen,2001-08-27 00:00:00
+872,София Евгеньевна Гешева,F,Bock,1939-07-13 00:00:00
+873,Артём Тимофеевич Находнов,M,Hefe-Weisse Lager,1983-04-30 00:00:00
+874,Иван Алексеевич Плиндов,M,Optimator,1992-08-05 00:00:00
+875,Лиза Викторовна Караджова,M,Pschorr,1998-04-24 00:00:00
+876,Софья Богдановна Недосекова,F,Hacker Schumacher,1973-01-22 00:00:00
+877,Евгения Олеговна Сиврикова,F,Unser Lager,1929-03-17 00:00:00
+878,Аркадий Антонович Переводов,F,Erdinger Zoigl,1945-01-01 00:00:00
+879,Валентина Аркадьевна Плоскирева,M,Hermannator Ice Hefe-Weisse Urbock,1925-02-05 00:00:00
+880,Георгий Романович Агаков,F,Pschorr Oktoberfest Scurry,1941-07-17 00:00:00
+881,Вадим Андреевич Мизеров,F,Hacker-Pschorr Doppelbock Oktoberfest,1955-06-03 00:00:00
+882,Герасим Максимович Филипьев,M,Aventinus Dark,1953-03-24 00:00:00
+883,Андрей Олегович Шамин,M,Hacker Spezial,1931-09-02 00:00:00
+884,Наталья Ивановна Пусакова,M,Alt-Bayerisch Hefe-Weisse Ottos,1999-10-03 00:00:00
+885,Вера Богдановна Котловская,M,Ayinger Unser Oettingen,1937-09-14 00:00:00
+886,Кристина Ивановна Мотенкова,F,Unser Bock,1957-12-26 00:00:00
+887,Андрей Павлович Канылин,F,Ayinger Altenauer,1970-12-18 00:00:00
+888,Вера Андреевна Кубкина,M,Hofbräu Mönchshof,1972-09-23 00:00:00
+889,Федор Сергеевич Чаянов,F,Brauerei Drop,1982-12-10 00:00:00
+890,Борис Борисович Колушкин,M,1516 Ayilinger,1959-11-23 00:00:00
+891,Ева Аркадьевна Наумкова,M,Buttenheimer Köllner,1942-11-27 00:00:00
+892,Александра Дмитриевна Атларова,F,Jahrhundert Goslarer,1939-11-10 00:00:00
+893,Григорий Николаевич Кечуткин,M,Zoigl Hofbräu Zoigl,1922-11-15 00:00:00
+894,Тарас Яковлевич Полецков,F,Aventinus Dunkel,1999-10-08 00:00:00
+895,Виктор Денисович Юровицкий,F,Franziskaner Paulaner Märzen,1926-01-13 00:00:00
+896,Константин Денисович Никитушин,M,Mönchshof Brauerei Krombacher,1941-06-07 00:00:00
+897,Ирина Богдановна Дутлова,F,Hacker Pschorr Oktoberfest Optimator,2002-10-19 00:00:00
+898,Алексей Андреевич Жемылев,F,Huberts Dortmunder,1978-05-08 00:00:00
+899,Юрий Яковлевич Клеманов,F,Weihenstephaner Jahrhundert München,2002-04-06 00:00:00
+900,Алиса Алексеевна Таболова,F,Weihenstephaner Aventinus Gaffel,1962-02-23 00:00:00
+901,Виолетта Викторовна Лестова,F,Schneider Brewing Lager,1952-05-15 00:00:00
+902,Антон Николаевич Бурколов,M,House Jahrhundert Korbinian,1970-08-09 00:00:00
+903,Антон Вадимович Жоламанов,F,Bock,1965-07-26 00:00:00
+904,Людмила Никитична Патанина,M,Hacker-Pschorr Hefe-Weisse Maibock,1963-02-20 00:00:00
+905,Зинаида Леонидовна Гришенцева,F,Doppelbock Salvator,1965-09-30 00:00:00
+906,Лиза Аркадьевна Асяева,M,Schneider Scurry,1946-11-29 00:00:00
+907,Юлия Евгеньевна Брухнова,F,Köstritzer,2000-07-22 00:00:00
+908,Владимир Аркадиевич Кичкин,F,Franziskaner Zoiglbauer,1961-02-05 00:00:00
+909,Алена Леонидовна Белединова,M,Doppelbock Bräu,1943-06-25 00:00:00
+910,Леонид Леонидович Эльцин,F,Andechser Dampfbierbrauerei Schumacher,1950-01-27 00:00:00
+911,Ирина Сергеевна Стряпчева,F,Pschorr,1961-09-13 00:00:00
+912,Юлия Викторовна Кузнекова,F,Franziskaner Gänstaller Maibock,1943-09-29 00:00:00
+913,Алена Аркадьевна Галявиева,M,Alt-Bayerisch Hefe-Weisse Ottos,1931-11-28 00:00:00
+914,Руслан Аркадиевич Репченков,M,Hofbräu Ottos,1941-08-10 00:00:00
+915,Владислав Николаевич Пыпкин,M,1516 Bitburger,1965-03-01 00:00:00
+916,Анастасия Евгеньевна Зазнобина,M,Hermannator Ice Unser Ayilinger,1932-03-30 00:00:00
+917,Светлана Евгеньевна Коламева,M,Hacker Zoiglbauer,1950-05-12 00:00:00
+918,Валерий Леонидович Скоротецев,M,Hofbräu Märzen,1986-02-04 00:00:00
+919,Маргарита Аркадьевна Магихина,M,Zoigl Bitburger,1922-10-16 00:00:00
+920,Ярослав Юрьевич Мардахаев,F,Unser Reissdorf,1930-01-22 00:00:00
+921,Ярослав Аркадиевич Стоксин,M,Franziskaner Gänstaller Erdinger,1995-03-07 00:00:00
+922,Степан Данилович Косарыгин,M,Hacker-Pschorr Pikantus,1945-08-27 00:00:00
+923,Алла Евгеньевна Сипухина,F,Zoigl Bitburger,1956-08-15 00:00:00
+924,Алексей Алексеевич Загораев,M,Brauerei Spaten,1975-03-04 00:00:00
+925,Любовь Никитична Чумокова,F,Alt-Bayerisch Unser Bitburger,1984-09-29 00:00:00
+926,Софья Николаевна Касилина,F,Andechser Maibock,1934-09-22 00:00:00
+927,Анатолий Романович Пищин,F,Hacker Schumacher,1922-05-02 00:00:00
+928,Елизавета Михайловна Багажкова,M,Hacker Diebels,1966-09-11 00:00:00
+929,Валерий Антонович Халуев,F,Hacker-Pschorr Maibock,1949-07-24 00:00:00
+930,Наталья Петровна Ваулова,F,Weihenstephaner Aventinus Aventinus,2001-01-05 00:00:00
+931,Эдуард Тимофеевич Родышев,M,Mönchshof Paulaner Paulaner,1994-10-17 00:00:00
+932,Полина Максимовна Нагдаева,F,Oettingen,1945-10-22 00:00:00
+933,Роман Яковлевич Понятнов,M,Buttenheimer Schlenkerla Rauchbier Bier,1924-03-17 00:00:00
+934,Мария Кирилловна Бубина,F,1516 Becks,1963-04-22 00:00:00
+935,Лариса Романовна Калюкшева,M,Alt-Bayerisch Dampfbierbrauerei Flensburger,1928-08-04 00:00:00
+936,Илья Максимович Пропотцев,F,Andechser Doppelbock Goslarer,1959-03-21 00:00:00
+937,Евгения Дмитриевна Рычкина,M,Andechser Jahrhundert Dampfbier,2000-10-06 00:00:00
+938,Любовь Никитична Котенкова,M,Spaten 1516 Erdinger,1987-09-10 00:00:00
+939,Алина Богдановна Борсова,F,Hermannator Ice Unser Ayilinger,2002-08-09 00:00:00
+940,Денис Леонидович Мохляков,F,Buttenheimer Pfarrbräu,1957-07-02 00:00:00
+941,Яков Вадимович Лазьков,F,Zoigl Spaten,1998-08-14 00:00:00
+942,Николай Николаевич Жидилев,M,Pschorr Oktoberfest Köstritzer,1964-12-18 00:00:00
+943,Тамара Богдановна Сернева,M,Hacker-Pschorr Brewing Roggen,1938-09-21 00:00:00
+944,Михаил Георгиевич Ильярский,M,Hacker Brewing Erdinger,1995-04-17 00:00:00
+945,Александр Борисович Данцин,M,House Pschorr Oktoberfest Bock,1927-12-25 00:00:00
+946,Константин Василиевич Барашнов,M,Andechser Diebels,1970-08-13 00:00:00
+947,Максим Борисович Маревичев,F,Buttenheimer Unser Augustinerbräu,1970-01-13 00:00:00
+948,Евгений Леонидович Абадаев,F,Hofbräu Märzen,1924-10-15 00:00:00
+949,Анатолий Леонидович Карязин,M,Franziskaner Aventinus Dunkel,2000-03-06 00:00:00
+950,Владимир Адамович Судобин,F,Spaten Kellerbier,1985-12-11 00:00:00
+951,Иван Борисович Демочкин,F,Hacker Paulaner,1948-02-08 00:00:00
+952,Василий Юрьевич Лавочкин,M,Spaten Schlenkerla Rauchbier Oktoberfest,1989-10-30 00:00:00
+953,София Богдановна Пыричева,F,Hacker-Pschorr Bier,1959-06-16 00:00:00
+954,Мария Эдуардовна Кислина,F,Aventinus Dark,1942-09-03 00:00:00
+955,Альберт Викторович Краденов,M,Weihenstephaner Dark,1936-12-23 00:00:00
+956,Дмитрий Иванович Захваткин,M,Franziskaner Becks,1987-10-03 00:00:00
+957,Альберт Иванович Тмирев,F,Krombacher,1944-11-18 00:00:00
+958,Артём Алексеевич Денев,F,Andechser Hofbräu Göller,1990-06-18 00:00:00
+959,Виктория Ивановна Унтерова,M,Hofbräu Paulaner,1996-02-16 00:00:00
+960,Карина Алексеевна Бегутова,F,Franziskaner Brauerei Dark,1950-06-05 00:00:00
+961,Антон Игоревич Полагушин,M,Weihenstephaner Aventinus,1955-06-20 00:00:00
+962,Ирина Егоровна Племенева,M,Brauerei Pschorr,1963-09-28 00:00:00
+963,Оксана Никитична Ворончева,F,Franziskaner Aventinus,1992-11-06 00:00:00
+964,Игорь Олегович Радостнов,M,Franziskaner Paulaner Goslarer,1995-05-25 00:00:00
+965,Алиса Романовна Кондикова,M,Mönchshof 1516 Roggen,1984-02-04 00:00:00
+966,Ярослав Петрович Тращтнский,M,Alt-Bayerisch Aventinus,1997-04-25 00:00:00
+967,Мария Аркадьевна Акалелых,M,Andechser Köllner,1959-08-07 00:00:00
+968,Владислав Денисович Ульев,M,Kloster Dampfbierbrauerei Bier,1930-09-28 00:00:00
+969,Пётр Николаевич Лотанский,F,Mitterteich Mühlen,2003-08-29 00:00:00
+970,Алина Федоровна Сухомясова,F,Doppelbock Maibock,1989-09-27 00:00:00
+971,Олег Петрович Бульятов,F,Ayinger Unser Oettingen,1977-01-19 00:00:00
+972,Артём Михаилович Таркинский,M,Ayilinger,1932-11-04 00:00:00
+973,Вера Никитична Балмусова,M,Schneider Oettingen,1997-07-30 00:00:00
+974,Станислав Романович Хитев,F,Brothers Bräu,1987-11-15 00:00:00
+975,Юлия Валерьевна Фаррахова,M,Andechser Köllner,1993-06-18 00:00:00
+976,Жанна Михайловна Дановская,M,Brauerei Märzen,1943-04-22 00:00:00
+977,Валерия Романовна Баценкова,F,House Pschorr Oktoberfest Bock,1991-07-08 00:00:00
+978,Роман Игоревич Гунылин,M,Franziskaner Augustinerbräu,1977-05-10 00:00:00
+979,Борис Алексиевич Байдашин,F,Hacker 1516 Bräu,1976-01-29 00:00:00
+980,Лариса Вадимовна Томбовцева,F,Alt-Bayerisch Huberts Spaten,1942-06-19 00:00:00
+981,Руслан Петрович Маряничев,M,Paulaner Kellerbier,1960-03-23 00:00:00
+982,Людмила Викторовна Аверьясова,M,Ayinger Dunkel,1979-10-29 00:00:00
+983,Степан Николаевич Мухометов,M,Alt-Bayerisch Doppelbock Drop,1934-04-20 00:00:00
+984,Алексей Игоревич Калуцков,M,Weihenstephaner Ayinger Krombacher,1993-09-09 00:00:00
+985,Клавдия Никитична Хлынцева,F,Hofbräu Maibock,1964-11-11 00:00:00
+986,Зинаида Эдуардовна Побызакова,M,Pschorr Oktoberfest Rauchbier,1961-06-21 00:00:00
+987,Роман Алексеевич Замлынский,F,Hermannator Ice Brewing Dark,1946-11-03 00:00:00
+988,Федор Алексеевич Бурдыгин,F,Alt-Bayerisch Salvator,1960-05-19 00:00:00
+989,Руслан Игоревич Коковин,F,Andechser Huberts Diebels,1925-12-24 00:00:00
+990,Тамара Сергеевна Шенгалева,F,Erdinger Ur-Weisse,1925-01-23 00:00:00
+991,Зинаида Никитична Лукошкова,M,Hacker-Pschorr Optimator,1967-07-03 00:00:00
+992,Альберт Евгеньевич Кукарекин,F,Spaten Radeberger,1981-08-01 00:00:00
+993,Елизавета Алексеевна Любичева,M,Kloster Schumacher,1923-09-17 00:00:00
+994,Николай Викторович Дундаков,M,Mönchshof Aventinus Krombacher,1945-04-14 00:00:00
+995,Ирина Романовна Пискатова,M,Doppelbock Ayilinger,1954-09-18 00:00:00
+996,Инна Николаевна Маерникова,M,House Diebels,1925-06-26 00:00:00
+997,Евгений Юрьевич Мушков,M,Hacker Krombacher,1925-01-23 00:00:00
+998,Артур Фёдорович Тутукин,F,Schneider Pschorr,1955-07-24 00:00:00
+999,Андрей Тимофеевич Шупин,M,Jahrhundert Korbinian,1957-08-12 00:00:00

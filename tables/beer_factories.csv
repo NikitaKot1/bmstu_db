@@ -1,0 +1,2255 @@
+factory,beer
+0,Mönchshof Flensburger
+1,Weihenstephaner Doppelbock Köstritzer
+1,Hacker-Pschorr Hofbräu Augustinerbräu
+1,Dampfbierbrauerei Märzen
+2,Franziskaner Pschorr Oktoberfest Mühlen
+2,Kloster Reissdorf
+2,Dampfbierbrauerei Köllner
+3,Weihenstephaner Doppelbock Köstritzer
+3,Hacker-Pschorr Hofbräu Augustinerbräu
+3,Dampfbierbrauerei Märzen
+3,Hermannator Ice Drop
+4,Hacker Bräu
+4,Gänstaller Krombacher
+5,Buttenheimer Goslarer
+5,Franziskaner Urbock
+5,House Hofbräu Warsteiner
+5,Hermannator Ice Dampfbierbrauerei Rauchbier
+6,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+6,Hacker Dunkel
+6,Weihenstephaner Bitburger
+6,
+7,Weihenstephaner Oettingen
+8,Weihenstephaner Pfarrbräu
+8,Brewing Ottos
+8,
+9,Mönchshof Brewing Scurry
+9,Schneider Augustinerbräu
+10,Andechser Huberts Optimator
+10,
+11,Hacker-Pschorr Altenauer
+11,Mitterteich Korbinian
+12,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+12,
+13,Weihenstephaner Pfarrbräu
+13,Brewing Ottos
+14,Dortmunder
+14,Paulaner Warsteiner
+14,Brothers Schumacher
+14,
+15,Jahrhundert Dunkel
+15,Hermannator Ice Hefe-Weisse Urbock
+16,Kloster Unser Dampfbier
+16,Buttenheimer Ritterguts
+16,
+17,Paulaner
+17,
+18,Becks
+18,Warsteiner
+18,Huberts Franziskaner
+18,1516 Optimator
+19,Pschorr Oktoberfest Dortmunder
+20,Weihenstephaner Radeberger
+20,Hefe-Weisse Ur-Weisse
+20,Hacker 1516 Ritterguts
+21,Ayinger Bitburger
+21,Zoigl Brauerei Bitburger
+22,Brewing Roggen
+23,Huberts Pikantus
+23,
+24,Buttenheimer Dark
+25,Alt-Bayerisch Dampfbierbrauerei Flensburger
+25,Kloster Früh
+26,Kloster Huberts Aventinus
+26,Roggen
+27,Paulaner Bitburger
+27,Hefe-Weisse Dortmunder
+27,
+28,Schneider Brewing Zoiglbauer
+29,1516 Bitburger
+29,Weihenstephaner Doppelbock Köstritzer
+29,Erdinger Salvator
+30,Schlenkerla Rauchbier Märzen
+30,Ayinger Reissdorf
+30,
+31,Mitterteich Oettingen
+31,Andechser Paulaner Spezial
+32,Unser Erdinger
+33,Paulaner Rauchbier
+33,Spaten Ayinger Bräu
+33,Brothers Gaffel
+34,Buttenheimer Hacker Becks
+34,Mönchshof Spezial
+34,Ayinger Doppelbock Flensburger
+35,Gänstaller Märzen
+35,Hacker-Pschorr Mitterteich Köstritzer
+36,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+36,
+37,Hermannator Ice Brothers Kellerbier
+37,Buttenheimer Gänstaller Mönchshof
+37,Hacker Dampfbierbrauerei Dortmunder
+37,
+38,Pfarrbräu
+38,
+39,Pschorr Oktoberfest Gaffel
+39,
+40,1516 Drop
+40,Hermannator Ice Pschorr Oktoberfest Drop
+40,
+41,Buttenheimer Goslarer
+41,Franziskaner Urbock
+41,House Hofbräu Warsteiner
+42,Ayinger Bitburger
+42,Zoigl Brauerei Bitburger
+43,Weihenstephaner Lager
+44,Roggen
+44,
+45,Unser Radeberger
+45,
+46,Hofbräu Maibock
+46,1516 Früh
+47,Hofbräu Bier
+47,
+48,Brewing Roggen
+48,Pschorr Oktoberfest Aventinus
+48,
+49,Weihenstephaner Korbinian
+49,Erdinger Becks
+49,Zoigl
+50,Hacker München
+50,
+51,Brauerei Krombacher
+51,Mitterteich Ur-Weisse
+52,Pschorr Oktoberfest Gaffel
+53,Schlenkerla Rauchbier Krombacher
+54,Alt-Bayerisch Dampfbierbrauerei Flensburger
+54,Kloster Früh
+55,Paulaner Bitburger
+55,Hefe-Weisse Dortmunder
+56,Mönchshof
+56,Andechser Flensburger
+57,Mitterteich Scurry
+57,Weihenstephaner Dark
+57,Huberts Pfarrbräu
+57,
+58,Unser Scurry
+59,Brewing Dunkel
+60,1516 Goslarer
+61,Unser Zoiglbauer
+62,Alt-Bayerisch Becks
+63,Schneider Goslarer
+63,Korbinian
+64,Schlenkerla Rauchbier Märzen
+64,Ayinger Reissdorf
+64,
+65,Roggen
+65,
+66,Buttenheimer Hacker Becks
+67,Hacker Bräu
+67,Gänstaller Krombacher
+68,Roggen
+68,
+69,Kloster Hacker Ritterguts
+70,Hacker-Pschorr Unser Krombacher
+71,Dortmunder
+71,Paulaner Warsteiner
+72,Hacker-Pschorr Hofbräu Augustinerbräu
+73,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+73,
+74,Hermannator Ice Aventinus Altenauer
+75,Doppelbock Ayilinger
+76,Schlenkerla Rauchbier Warsteiner
+77,Mönchshof Huberts Gaffel
+77,Hefe-Weisse Urbock
+78,Schlenkerla Rauchbier Warsteiner
+79,Franziskaner Urbock
+80,House Hefe-Weisse Früh
+80,Mitterteich Reissdorf
+80,Zoigl 1516 Warsteiner
+80,Mitterteich Oettingen
+81,Mönchshof Huberts Gaffel
+81,Hefe-Weisse Urbock
+81,Unser Mönchshof
+81,
+82,Alt-Bayerisch Doppelbock Drop
+83,Weihenstephaner Radeberger
+83,Hefe-Weisse Ur-Weisse
+83,Hacker 1516 Ritterguts
+83,Buttenheimer Flensburger
+83,
+84,Mönchshof Huberts Gaffel
+84,Hefe-Weisse Urbock
+84,Unser Mönchshof
+84,
+85,Huberts Pikantus
+86,Spaten Goslarer
+86,
+87,Franziskaner Franziskaner
+87,House Hacker Diebels
+88,Mönchshof Brewing Scurry
+89,Hermannator Ice Goslarer
+89,Huberts Franziskaner
+89,Paulaner Maibock
+90,Buttenheimer Pfarrbräu
+90,Radeberger
+90,Aventinus Gaffel
+90,
+91,1516 Drop
+91,Hermannator Ice Pschorr Oktoberfest Drop
+92,Hacker Bitburger
+92,Unser Bock
+92,Aventinus Urbock
+92,Hacker Urbock
+92,
+93,Ayinger Bitburger
+93,Zoigl Brauerei Bitburger
+93,
+94,Spaten Jahrhundert Kellerbier
+94,Alt-Bayerisch Schlenkerla Rauchbier Ritterguts
+95,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+95,Hacker Dunkel
+95,Weihenstephaner Bitburger
+95,
+96,Alt-Bayerisch Becks
+97,Hefe-Weisse Dampfbier
+98,1516 Spezial
+98,House Goslarer
+99,Andechser Oettingen
+100,Weihenstephaner Korbinian
+100,Erdinger Becks
+100,Zoigl
+101,Dampfbierbrauerei Märzen
+101,Ritterguts
+102,Buttenheimer Brothers Kellerbier
+102,Mönchshof Aventinus Mönchshof
+102,Jahrhundert Roggen
+103,Franziskaner Bräu
+103,Hacker-Pschorr Bier
+103,Ayinger Altenauer
+104,Becks
+104,Warsteiner
+104,Huberts Franziskaner
+105,Alt-Bayerisch Unser Urbock
+106,1516 Oktoberfest
+107,Alt-Bayerisch Schumacher
+107,Jahrhundert Ritterguts
+108,Alt-Bayerisch Hofbräu Göller
+109,Schneider Aventinus
+109,Alt-Bayerisch Hefe-Weisse Märzen
+110,Hacker-Pschorr Bier
+110,Hacker-Pschorr Bitburger
+111,Pschorr Oktoberfest Urbock
+112,1516 Drop
+112,Ayinger Bock
+112,Franziskaner Aventinus
+112,Spaten Brothers Bitburger
+112,
+113,Becks
+113,Warsteiner
+113,Huberts Franziskaner
+113,1516 Optimator
+114,Buttenheimer Schlenkerla Rauchbier Bier
+114,1516 Ur-Weisse
+115,Zoigl Paulaner Mühlen
+115,Aventinus Oettingen
+115,House Hefe-Weisse Pikantus
+115,
+116,Schneider Aventinus
+116,Alt-Bayerisch Hefe-Weisse Märzen
+116,Buttenheimer Aventinus Schumacher
+116,Unser Erdinger
+116,
+117,Brauerei Spaten
+117,Jahrhundert Gaffel
+117,Hermannator Ice Brothers Diebels
+118,House Jahrhundert Korbinian
+118,Brothers Dunkel
+119,Zoigl Paulaner Mühlen
+119,Aventinus Oettingen
+119,House Hefe-Weisse Pikantus
+119,
+120,Alt-Bayerisch Becks
+120,Franziskaner Steam
+121,Spaten 1516 Maisel
+122,Spaten Jahrhundert Kellerbier
+122,Alt-Bayerisch Schlenkerla Rauchbier Ritterguts
+123,Schneider Aventinus
+123,Alt-Bayerisch Hefe-Weisse Märzen
+123,Buttenheimer Aventinus Schumacher
+124,Weihenstephaner Hefe-Weisse Märzen
+124,
+125,Pschorr Oktoberfest Gaffel
+126,Schneider Erdinger Mühlen
+127,1516 Bitburger
+127,Weihenstephaner Doppelbock Köstritzer
+128,Kloster Unser Dampfbier
+128,Buttenheimer Ritterguts
+129,Unser Mönchshof
+129,Andechser Hofbräu Erdinger
+129,Buttenheimer Ur-Weisse
+130,Alt-Bayerisch Dampfbierbrauerei Flensburger
+130,Kloster Früh
+130,Schlenkerla Rauchbier Optimator
+131,Roggen
+131,
+132,Aventinus Aventinus
+133,Hermannator Ice Goslarer
+133,Alt-Bayerisch Brewing Pikantus
+133,Hacker Erdinger Dunkel
+133,Hacker-Pschorr Ayinger Lager
+134,Schneider Jahrhundert Goslarer
+135,Franziskaner 1516 Mönchshof
+136,Hacker-Pschorr Brewing Roggen
+136,Andechser Dunkel
+136,Mönchshof
+136,Alt-Bayerisch Dampfbierbrauerei Urbock
+136,
+137,Hacker-Pschorr Bier
+137,Hacker-Pschorr Bitburger
+138,Kloster Hacker Ritterguts
+138,
+139,Pschorr Oktoberfest Scurry
+140,Becks
+140,Warsteiner
+140,Huberts Franziskaner
+140,1516 Optimator
+140,
+141,Weihenstephaner Hefe-Weisse Märzen
+142,Jahrhundert Ur-Weisse
+142,
+143,Weihenstephaner Radeberger
+143,Hefe-Weisse Ur-Weisse
+143,Hacker 1516 Ritterguts
+144,Mönchshof Flensburger
+145,Dortmunder
+145,Paulaner Warsteiner
+146,Brewing Roggen
+146,Pschorr Oktoberfest Aventinus
+146,
+147,1516 Goslarer
+147,
+148,Schneider Aventinus
+148,Alt-Bayerisch Hefe-Weisse Märzen
+149,Hacker Hacker Pschorr
+149,Alt-Bayerisch Salvator
+149,Andechser Mönchshof
+149,Schlenkerla Rauchbier Diebels
+150,Zoigl Paulaner Mühlen
+150,Aventinus Oettingen
+151,Hacker-Pschorr Brewing Roggen
+151,Andechser Dunkel
+151,Mönchshof
+152,Hermannator Ice Drop
+153,Pschorr Oktoberfest Gaffel
+153,
+154,Gänstaller Märzen
+155,Pschorr Oktoberfest Urbock
+155,Erdinger Ur-Weisse
+155,Hacker Pschorr Oktoberfest Gaffel
+156,House Pschorr Oktoberfest Diebels
+157,Franziskaner 1516 Kellerbier
+157,
+158,Brewing Dunkel
+158,Alt-Bayerisch Brewing Erdinger
+159,Pfarrbräu
+160,Alt-Bayerisch Hofbräu Göller
+160,Scurry
+161,Brauerei Mönchshof
+161,Alt-Bayerisch 1516 Flensburger
+161,Weihenstephaner Jahrhundert Roggen
+161,
+162,Schneider Brewing Lager
+162,Jahrhundert Gaffel
+162,Salvator
+162,
+163,Flensburger
+163,Spaten Brothers Dortmunder
+164,Jahrhundert Ur-Weisse
+164,
+165,Hofbräu Dunkel
+165,
+166,Weihenstephaner Mitterteich Pschorr
+166,Brothers Dunkel
+167,Spaten Goslarer
+167,
+168,Alt-Bayerisch Unser Urbock
+168,Hofbräu Altenauer
+168,Doppelbock Ayilinger
+168,
+169,Weihenstephaner Ritterguts
+169,Andechser Doppelbock Goslarer
+169,
+170,Hermannator Ice Aventinus Altenauer
+171,Hacker-Pschorr Unser Krombacher
+171,Weihenstephaner Hacker Zoigl
+171,1516 Korbinian
+172,Brothers Bräu
+173,Franziskaner Pschorr Oktoberfest Mühlen
+173,Unser Zoiglbauer
+173,
+174,House Jahrhundert Korbinian
+175,1516 Drop
+175,Ayinger Bock
+176,Alt-Bayerisch Schlenkerla Rauchbier Ritterguts
+176,Schneider Bier
+176,Ayinger Zoiglbauer
+176,
+177,Maibock
+177,Weihenstephaner Pfarrbräu
+177,Hacker Aventinus Dunkel
+177,
+178,Franziskaner 1516 Kellerbier
+178,
+179,Schneider Goslarer
+179,Korbinian
+179,
+180,Brewing Dunkel
+180,
+181,Spaten Paulaner Spezial
+181,Hofbräu Salvator
+181,
+182,Schneider Köstritzer
+182,Dampfbierbrauerei Diebels
+182,Hofbräu Bier
+182,
+183,Brewing Dunkel
+183,
+184,Becks
+184,Weihenstephaner Radeberger
+184,Andechser Hofbräu Göller
+184,Spaten Dampfbierbrauerei Diebels
+184,
+185,Andechser Erdinger Optimator
+185,
+186,Zoigl Hofbräu Scurry
+186,Zoigl Jahrhundert Dunkel
+186,Kloster Hacker Ritterguts
+187,Hacker-Pschorr Altenauer
+187,Mönchshof Huberts Warsteiner
+187,Alt-Bayerisch Huberts Paulaner
+188,Schneider Brewing Lager
+188,Jahrhundert Gaffel
+188,Salvator
+189,Unser Altenauer
+189,
+190,Weihenstephaner Dark
+190,Alt-Bayerisch Becks
+190,
+191,Buttenheimer Brothers Kellerbier
+192,Franziskaner Bräu
+193,Alt-Bayerisch Schlenkerla Rauchbier Ritterguts
+193,Schneider Bier
+194,Mönchshof
+195,Dampfbierbrauerei Märzen
+195,Ritterguts
+195,Paulaner Paulaner
+196,Schneider Dampfbierbrauerei Dortmunder
+196,Andechser Flensburger
+197,Mönchshof Brewing Scurry
+197,Schneider Augustinerbräu
+198,Schneider Brewing Lager
+198,Jahrhundert Gaffel
+198,Salvator
+198,
+199,Weihenstephaner Doppelbock Köstritzer
+199,
+200,House Doppelbock Urbock
+201,Buttenheimer Bräu
+202,Kloster Hefe-Weisse Roggen
+202,Schneider Brewing Reissdorf
+202,Aventinus Oettingen
+203,Brewing Paulaner
+204,Zoigl Hofbräu Scurry
+204,Zoigl Jahrhundert Dunkel
+204,Kloster Hacker Ritterguts
+204,
+205,Unser Scurry
+206,Hofbräu Dunkel
+207,Schneider Brewing Lager
+207,Jahrhundert Gaffel
+207,Salvator
+207,
+208,Huberts Weizen-Eisbock
+208,Alt-Bayerisch Warsteiner
+208,Spaten Diebels
+209,Mönchshof
+210,Unser Zoiglbauer
+211,Unser Becks
+211,Unser Radeberger
+211,Hacker Köllner
+211,Mitterteich Pschorr
+212,Mönchshof Brewing Scurry
+212,Schneider Augustinerbräu
+213,Alt-Bayerisch Doppelbock Drop
+213,Alt-Bayerisch Roggen
+214,Unser Becks
+215,Brewing Dunkel
+216,Weihenstephaner Mühlen
+217,Aventinus Gaffel
+217,
+218,Jahrhundert Scurry
+219,Weihenstephaner Mitterteich Pschorr
+219,Franziskaner 1516 Mönchshof
+219,Ayinger Bräu
+219,Weihenstephaner Maibock
+220,Franziskaner Bräu
+220,Hacker-Pschorr Bier
+220,Ayinger Altenauer
+220,
+221,Brewing Dunkel
+221,
+222,Maibock
+223,Erdinger Ritterguts
+223,Buttenheimer Zoiglbauer
+224,Kellerbier
+224,Kloster Schumacher
+224,House Hefe-Weisse Früh
+225,Weihenstephaner Oettingen
+225,Erdinger Lager
+226,Hacker Bitburger
+226,Unser Bock
+227,Brewing Dunkel
+227,
+228,Paulaner
+228,
+229,1516 Goslarer
+229,
+230,1516 Bitburger
+230,Weihenstephaner Doppelbock Köstritzer
+230,Erdinger Salvator
+230,Schneider Aventinus
+230,
+231,Mönchshof Brewing Scurry
+232,1516 Oktoberfest
+233,Franziskaner Mönchshof
+233,1516 Oktoberfest
+234,Franziskaner Urbock
+234,
+235,Schlenkerla Rauchbier Ur-Weisse
+235,Franziskaner Schlenkerla Rauchbier Korbinian
+235,Schneider Rauchbier
+235,Buttenheimer Flensburger
+236,Brothers Bräu
+236,Zoigl Drop
+236,Alt-Bayerisch Mitterteich Dunkel
+236,Ayinger Bitburger
+236,
+237,Doppelbock Aventinus
+237,Zoigl Schlenkerla Rauchbier Göller
+237,Zoigl Dampfbier
+237,Brauerei Aventinus
+237,
+238,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+238,Hacker Dunkel
+239,Paulaner Bitburger
+239,Hefe-Weisse Dortmunder
+239,
+240,Zoigl Huberts Radeberger
+241,Alt-Bayerisch Dampfbierbrauerei Flensburger
+241,Kloster Früh
+241,Schlenkerla Rauchbier Optimator
+241,
+242,Pfarrbräu
+242,
+243,Hacker-Pschorr Altenauer
+244,Spaten Reissdorf
+244,Bitburger
+245,Jahrhundert Ritterguts
+245,
+246,Mönchshof Flensburger
+247,Hacker-Pschorr Hofbräu Augustinerbräu
+248,Jahrhundert Dunkel
+248,Hermannator Ice Hefe-Weisse Urbock
+249,Aventinus Gaffel
+250,Hacker-Pschorr Hofbräu Augustinerbräu
+250,
+251,Weihenstephaner Pfarrbräu
+251,Brewing Ottos
+251,
+252,Buttenheimer Brothers Kellerbier
+252,Mönchshof Aventinus Mönchshof
+252,Jahrhundert Roggen
+252,Paulaner Salvator
+253,Alt-Bayerisch Salvator
+253,Alt-Bayerisch Pschorr Oktoberfest Zoigl
+253,Alt-Bayerisch Dampfbierbrauerei Diebels
+253,Kloster 1516 Ottos
+253,
+254,Hacker Pikantus
+254,Ayinger Dampfbier
+254,
+255,Brewing Dunkel
+256,Ayinger Bitburger
+257,Kloster Unser Dampfbier
+257,1516 Pschorr
+257,Hefe-Weisse Scurry
+258,Märzen
+259,Paulaner Rauchbier
+259,Spaten Ayinger Bräu
+259,Brothers Gaffel
+259,Andechser Dunkel
+259,
+260,Alt-Bayerisch 1516 Ur-Weisse
+260,
+261,Alt-Bayerisch Schlenkerla Rauchbier Ritterguts
+262,Brewing Paulaner
+262,House Gaffel
+262,Kloster Unser Mönchshof
+262,Andechser Brauerei Ur-Weisse
+263,Unser Radeberger
+264,Schneider Brewing Lager
+265,Hacker-Pschorr Salvator
+265,Weihenstephaner Paulaner
+265,Zoigl Paulaner Reissdorf
+265,Franziskaner 1516 Mönchshof
+265,
+266,Alt-Bayerisch 1516 Ur-Weisse
+266,
+267,House Hefe-Weisse Früh
+268,Buttenheimer Dark
+268,
+269,Mitterteich Oettingen
+269,Andechser Paulaner Spezial
+270,Kloster Hefe-Weisse Roggen
+270,Schneider Scurry
+270,
+271,Spaten 1516 Erdinger
+271,Alt-Bayerisch Dampfbierbrauerei Urbock
+271,Paulaner
+272,Alt-Bayerisch Unser Urbock
+272,Hofbräu Altenauer
+273,Paulaner
+274,Pschorr Oktoberfest Scurry
+274,Schlenkerla Rauchbier Märzen
+275,Aventinus Gaffel
+276,Schlenkerla Rauchbier Erdinger
+276,Ayinger Pschorr
+276,Aventinus Ottos
+276,Hofbräu Optimator
+276,
+277,Pfarrbräu
+277,
+278,Franziskaner Urbock
+279,Spaten Paulaner Spezial
+279,Hofbräu Salvator
+279,
+280,Brewing Roggen
+280,Pschorr Oktoberfest Aventinus
+281,Alt-Bayerisch Doppelbock Drop
+282,Kloster Hefe-Weisse Roggen
+283,Schneider Goslarer
+284,Franziskaner Oktoberfest
+284,
+285,Kloster Unser Dampfbier
+286,1516 Bitburger
+286,Weihenstephaner Doppelbock Köstritzer
+286,Erdinger Salvator
+286,Schneider Aventinus
+286,
+287,Mühlen
+287,
+288,Unser Altenauer
+288,
+289,Andechser Huberts Optimator
+289,Mitterteich Ottos
+290,Unser Radeberger
+291,Hacker Pikantus
+292,Schneider Goslarer
+293,Pschorr Oktoberfest Aventinus
+293,Ayinger Unser Oettingen
+294,Weihenstephaner Doppelbock Köstritzer
+294,Hacker-Pschorr Hofbräu Augustinerbräu
+294,Dampfbierbrauerei Märzen
+294,Hermannator Ice Drop
+294,
+295,Becks
+296,Hermannator Ice Steam
+297,Mönchshof Brewing Scurry
+297,Ayinger Ur-Weisse
+298,House Pikantus
+298,Schneider Dampfbierbrauerei Dortmunder
+298,Erdinger Salvator
+299,Weihenstephaner Dark
+299,Alt-Bayerisch Becks
+299,
+300,Roggen
+300,
+301,Franziskaner Franziskaner
+301,House Hacker Diebels
+301,Schneider Ayinger Ottos
+302,Gänstaller Märzen
+303,Weihenstephaner Mitterteich Pschorr
+303,Franziskaner 1516 Mönchshof
+303,Ayinger Bräu
+303,Weihenstephaner Maibock
+303,
+304,Alt-Bayerisch Doppelbock Drop
+304,Alt-Bayerisch Roggen
+304,Brothers Radeberger
+304,Spaten Goslarer
+304,
+305,Jahrhundert Ritterguts
+306,Weihenstephaner Pfarrbräu
+306,Brewing Ottos
+307,Andechser Huberts Optimator
+307,
+308,Brewing Dunkel
+309,Schneider Aventinus
+309,Alt-Bayerisch Hefe-Weisse Märzen
+309,Buttenheimer Aventinus Schumacher
+310,Brewing Roggen
+310,Pschorr Oktoberfest Aventinus
+311,Alt-Bayerisch Schlenkerla Rauchbier Ritterguts
+311,Schneider Bier
+311,Ayinger Zoiglbauer
+311,
+312,Pschorr Oktoberfest Scurry
+312,Schlenkerla Rauchbier Märzen
+312,
+313,House Pschorr Oktoberfest Diebels
+313,
+314,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+314,
+315,Alt-Bayerisch Becks
+315,Franziskaner Steam
+315,
+316,Schlenkerla Rauchbier Märzen
+316,Ayinger Reissdorf
+316,
+317,Weihenstephaner Pfarrbräu
+317,Brewing Ottos
+318,Jahrhundert Ur-Weisse
+319,Buttenheimer Goslarer
+319,Franziskaner Urbock
+319,House Hofbräu Warsteiner
+319,Hermannator Ice Dampfbierbrauerei Rauchbier
+319,
+320,Franziskaner Oktoberfest
+321,Kloster Huberts Aventinus
+322,Maibock
+322,Weihenstephaner Pfarrbräu
+323,Jahrhundert Dunkel
+324,Hermannator Ice Aventinus Altenauer
+325,Alt-Bayerisch Salvator
+325,Alt-Bayerisch Pschorr Oktoberfest Zoigl
+325,Alt-Bayerisch Dampfbierbrauerei Diebels
+325,Kloster 1516 Ottos
+325,
+326,Zoigl Doppelbock Mühlen
+327,Brewing Goslarer
+327,Franziskaner Paulaner Pfarrbräu
+328,Zoigl Paulaner Mühlen
+329,Schneider Erdinger Mühlen
+329,Andechser Salvator
+330,Spaten 1516 Erdinger
+330,Alt-Bayerisch Dampfbierbrauerei Urbock
+330,Paulaner
+330,Hacker Dunkel
+331,Hacker Pikantus
+331,Ayinger Dampfbier
+331,
+332,Mönchshof Kellerbier
+332,
+333,Weihenstephaner Oettingen
+334,Weihenstephaner Bräu
+334,Franziskaner Steam
+335,Hacker-Pschorr Altenauer
+335,Mönchshof Huberts Warsteiner
+335,Alt-Bayerisch Huberts Paulaner
+336,Schneider Erdinger Mühlen
+337,Ayinger Bitburger
+337,Zoigl Brauerei Bitburger
+337,
+338,Buttenheimer Unser Augustinerbräu
+338,Weihenstephaner Jahrhundert Zoigl
+339,Pschorr Oktoberfest Aventinus
+339,Ayinger Unser Oettingen
+339,Unser Oktoberfest
+339,Erdinger Ur-Weisse
+339,
+340,Franziskaner Urbock
+340,
+341,Zoigl Hofbräu Scurry
+341,Zoigl Jahrhundert Dunkel
+341,Kloster Hacker Ritterguts
+341,
+342,Schlenkerla Rauchbier Krombacher
+342,Franziskaner Scurry
+343,Spaten Jahrhundert Kellerbier
+343,Alt-Bayerisch Schlenkerla Rauchbier Ritterguts
+343,
+344,Jahrhundert Scurry
+344,Franziskaner Bräu
+345,Hofbräu Roggen
+346,Mitterteich Scurry
+346,Weihenstephaner Dark
+346,Huberts Pfarrbräu
+347,Alt-Bayerisch Pschorr Oktoberfest Kellerbier
+347,
+348,Paulaner
+349,Weihenstephaner Mitterteich Pschorr
+349,Brothers Dunkel
+349,House Bräu
+350,Franziskaner 1516 Kellerbier
+351,1516 Drop
+351,Hermannator Ice Pschorr Oktoberfest Drop
+352,Unser Becks
+352,Unser Radeberger
+352,Hacker Köllner
+353,Buttenheimer Hacker Becks
+354,Mönchshof Brewing Scurry
+354,Schneider Augustinerbräu
+355,Zoigl Dampfbier
+355,Buttenheimer Köllner
+355,Hermannator Ice Dampfbier
+355,
+356,Weihenstephaner Radeberger
+356,Hefe-Weisse Ur-Weisse
+356,Hacker 1516 Ritterguts
+356,Buttenheimer Flensburger
+356,
+357,House Pschorr Oktoberfest Diebels
+358,Aventinus Aventinus
+358,Brewing Paulaner
+358,Spaten Goslarer
+358,
+359,House Pschorr Oktoberfest Diebels
+359,
+360,Hacker Bräu
+360,Gänstaller Krombacher
+360,Paulaner Salvator
+360,
+361,Köstritzer
+362,Franziskaner Urbock
+362,
+363,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+363,Hacker Dunkel
+363,Weihenstephaner Bitburger
+363,
+364,Weihenstephaner Bräu
+365,Brewing Dunkel
+366,Paulaner Rauchbier
+366,Spaten Ayinger Bräu
+366,Brothers Gaffel
+367,Erdinger Ritterguts
+368,Hacker Pikantus
+369,Spaten Schlenkerla Rauchbier Erdinger
+369,Hacker Ayinger Ottos
+370,Hermannator Ice Brothers Kellerbier
+370,Buttenheimer Gänstaller Mönchshof
+370,Hacker Dampfbierbrauerei Dortmunder
+371,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+371,Hacker Dunkel
+371,Weihenstephaner Bitburger
+372,Hofbräu Dunkel
+373,Spaten 1516 Maisel
+374,Pschorr Oktoberfest Dortmunder
+374,Hermannator Ice Ayinger Becks
+375,Hacker-Pschorr Unser Krombacher
+376,Hacker München
+376,
+377,Alt-Bayerisch Doppelbock Drop
+377,Alt-Bayerisch Roggen
+377,Brothers Radeberger
+377,Spaten Goslarer
+377,
+378,Hermannator Ice Goslarer
+378,Alt-Bayerisch Brewing Pikantus
+379,Unser Reissdorf
+379,Ayinger Zoiglbauer
+379,Jahrhundert Korbinian
+380,Spaten Paulaner Spezial
+380,Hofbräu Salvator
+381,Dortmunder
+381,Paulaner Warsteiner
+382,Hermannator Ice Goslarer
+382,Huberts Franziskaner
+382,Paulaner Maibock
+382,Mönchshof Steam
+382,
+383,Alt-Bayerisch 1516 Ur-Weisse
+383,
+384,Weihenstephaner Korbinian
+384,Erdinger Becks
+384,Zoigl
+385,Unser Zoiglbauer
+386,Aventinus Gaffel
+386,
+387,Pfarrbräu
+388,Weihenstephaner Hefe-Weisse Märzen
+388,
+389,Hacker Krombacher
+389,Spaten Pschorr Oktoberfest Drop
+389,
+390,Hacker Maisel
+390,Weihenstephaner Dark
+391,Zoigl Huberts Radeberger
+391,
+392,Hofbräu Dunkel
+393,Mitterteich Scurry
+393,Weihenstephaner Dark
+393,Huberts Pfarrbräu
+393,
+394,Zoigl Dampfbier
+395,Schlenkerla Rauchbier Märzen
+396,Weihenstephaner Mitterteich Pschorr
+396,Franziskaner 1516 Mönchshof
+397,Hacker Hacker Pschorr
+397,Alt-Bayerisch Salvator
+397,Andechser Mönchshof
+397,Schlenkerla Rauchbier Diebels
+398,Schneider Dampfbierbrauerei Dortmunder
+398,Andechser Flensburger
+399,Brauerei Krombacher
+400,Franziskaner Hefe-Weisse Optimator
+401,Unser Becks
+401,Unser Radeberger
+401,Hacker Köllner
+402,Buttenheimer Goslarer
+402,Franziskaner Urbock
+403,Franziskaner Pschorr Oktoberfest Mühlen
+403,Unser Zoiglbauer
+404,Jahrhundert Ur-Weisse
+405,Hacker Pikantus
+405,Ayinger Dampfbier
+406,Schlenkerla Rauchbier Krombacher
+406,Franziskaner Scurry
+406,
+407,Kloster Hefe-Weisse Roggen
+408,Pfarrbräu
+409,Spaten Jahrhundert Kellerbier
+410,Spaten Krombacher
+410,
+411,Hofbräu Roggen
+412,Hofbräu Dunkel
+412,
+413,Hacker-Pschorr Bier
+413,Hacker-Pschorr Bitburger
+414,Brewing Goslarer
+414,Franziskaner Paulaner Pfarrbräu
+414,Franziskaner Zoigl
+414,
+415,Hacker-Pschorr Gaffel
+415,
+416,Becks
+416,Warsteiner
+416,Huberts Franziskaner
+416,1516 Optimator
+416,
+417,Aventinus Aventinus
+418,Jahrhundert Scurry
+418,Franziskaner Bräu
+418,1516 Frankenheim
+419,Dortmunder
+419,Paulaner Warsteiner
+419,Brothers Schumacher
+420,House Doppelbock Urbock
+421,Franziskaner Hefe-Weisse Optimator
+421,Franziskaner Reissdorf
+421,
+422,Köstritzer
+422,Steam
+422,Zoigl Drop
+422,Schneider Rauchbier
+422,
+423,Mönchshof
+423,Andechser Flensburger
+424,Alt-Bayerisch Unser Urbock
+425,Franziskaner Pschorr Oktoberfest Mühlen
+425,Kloster Reissdorf
+426,Kloster Hefe-Weisse Roggen
+426,Schneider Scurry
+427,Pschorr Oktoberfest Urbock
+427,Erdinger Ur-Weisse
+427,Hacker Pschorr Oktoberfest Gaffel
+427,
+428,Weihenstephaner Mühlen
+428,Unser Zoigl
+428,Huberts Spezial
+428,
+429,Unser Radeberger
+429,
+430,House Pikantus
+430,Schneider Dampfbierbrauerei Dortmunder
+430,Erdinger Salvator
+431,Hacker Bräu
+431,Gänstaller Krombacher
+432,Andechser Huberts Optimator
+433,Pschorr Oktoberfest Urbock
+433,Erdinger Ur-Weisse
+433,Hacker Pschorr Oktoberfest Gaffel
+434,Mitterteich Oettingen
+434,Andechser Paulaner Spezial
+434,
+435,Zoigl Dampfbier
+435,Buttenheimer Köllner
+436,Unser Scurry
+436,Franziskaner Oktoberfest
+436,Andechser Huberts Radeberger
+437,Brewing Dunkel
+438,Schneider Köstritzer
+438,Dampfbierbrauerei Diebels
+438,Hofbräu Bier
+439,Spaten 1516 Erdinger
+440,Alt-Bayerisch Brauerei Drop
+441,Franziskaner 1516 Kellerbier
+442,Schneider Aventinus
+442,Alt-Bayerisch Hefe-Weisse Märzen
+442,Buttenheimer Aventinus Schumacher
+442,Unser Erdinger
+442,
+443,Weihenstephaner Goslarer
+443,Erdinger Lager
+444,1516 Bitburger
+444,Weihenstephaner Doppelbock Köstritzer
+444,Erdinger Salvator
+445,Franziskaner Hefe-Weisse Optimator
+445,Franziskaner Reissdorf
+445,
+446,Pschorr Oktoberfest Bitburger
+447,Hermannator Ice Brothers Kellerbier
+447,Hermannator Ice Aventinus Altenauer
+447,Weihenstephaner Radeberger
+447,
+448,1516 Bitburger
+448,Weihenstephaner Doppelbock Köstritzer
+448,Erdinger Salvator
+448,Schneider Aventinus
+449,1516 Drop
+450,Brauerei Mönchshof
+450,Alt-Bayerisch 1516 Flensburger
+450,Weihenstephaner Jahrhundert Roggen
+451,Brewing Paulaner
+451,House Gaffel
+451,Kloster Unser Mönchshof
+452,Schneider Erdinger Mühlen
+452,Andechser Salvator
+452,Zoigl Aventinus Maisel
+453,Schneider Jahrhundert Goslarer
+453,Zoigl Korbinian
+453,Schumacher
+453,Ayilinger
+454,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+454,Hacker Dunkel
+455,Franziskaner 1516 Mönchshof
+455,
+456,Huberts Pikantus
+457,Huberts Pikantus
+458,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+459,Hermannator Ice Aventinus Altenauer
+459,
+460,Brewing Roggen
+461,Weihenstephaner Mühlen
+461,Unser Zoigl
+462,Mönchshof Dunkel
+462,Schlenkerla Rauchbier Optimator
+462,Hacker Ur-Weisse
+462,
+463,Köstritzer
+463,Steam
+463,Zoigl Drop
+463,Schneider Rauchbier
+463,
+464,Dortmunder
+464,Paulaner Warsteiner
+464,Brothers Schumacher
+465,Brauerei Krombacher
+465,Mitterteich Ur-Weisse
+465,Hacker-Pschorr Unser Krombacher
+465,
+466,Spaten Schlenkerla Rauchbier Erdinger
+466,Hacker Ayinger Ottos
+466,
+467,Hofbräu Roggen
+468,Brewing Dunkel
+468,Alt-Bayerisch Brewing Erdinger
+468,
+469,1516 Spezial
+469,House Goslarer
+469,
+470,Gänstaller Oktoberfest
+470,
+471,Hacker Reissdorf
+472,Weihenstephaner Bräu
+472,Franziskaner Steam
+473,Weihenstephaner Oettingen
+473,Erdinger Lager
+473,
+474,Pschorr Oktoberfest Aventinus
+474,Ayinger Unser Oettingen
+474,Unser Oktoberfest
+475,Ayinger Optimator
+475,Franziskaner Brothers Mühlen
+475,Hefe-Weisse Dortmunder
+476,House Hefe-Weisse Früh
+477,Mitterteich Scurry
+477,Weihenstephaner Dark
+478,Weihenstephaner Mühlen
+478,Unser Zoigl
+478,Huberts Spezial
+479,Weihenstephaner Mitterteich Pschorr
+479,Brothers Dunkel
+479,House Bräu
+480,Hofbräu Dunkel
+480,
+481,Schneider Köstritzer
+481,Dampfbierbrauerei Diebels
+481,Hofbräu Bier
+481,
+482,Schlenkerla Rauchbier Warsteiner
+483,Kloster Unser Dampfbier
+484,Pschorr Oktoberfest Bitburger
+484,Bock
+484,Spaten Brothers Bitburger
+484,Spaten Gänstaller Diebels
+484,
+485,Mühlen
+485,
+486,Mitterteich Oettingen
+486,Andechser Paulaner Spezial
+486,
+487,Alt-Bayerisch Becks
+487,Franziskaner Steam
+487,
+488,Buttenheimer Pfarrbräu
+488,Radeberger
+488,Aventinus Gaffel
+489,Alt-Bayerisch Schumacher
+490,Ayinger Bitburger
+491,Gänstaller Märzen
+491,Hacker-Pschorr Mitterteich Köstritzer
+491,
+492,Hacker-Pschorr Altenauer
+493,Kloster Hacker Ritterguts
+494,House Jahrhundert Korbinian
+494,Brothers Dunkel
+494,Spaten Roggen
+495,Kloster Unser Dampfbier
+495,Buttenheimer Ritterguts
+496,Hacker-Pschorr Salvator
+496,Weihenstephaner Paulaner
+497,Weihenstephaner Oktoberfest
+497,Göller
+498,1516 Spezial
+498,House Goslarer
+498,
+499,Hermannator Ice Drop
+499,Hacker Pikantus
+499,Doppelbock Mühlen
+500,Franziskaner Franziskaner
+501,Schneider Aventinus
+502,Mitterteich Radeberger
+502,Spaten Huberts Becks
+503,Paulaner Bitburger
+503,Hefe-Weisse Dortmunder
+503,
+504,Hofbräu Roggen
+505,Hermannator Ice Drop
+505,Hacker Pikantus
+506,Weihenstephaner Dark
+507,Hermannator Ice Aventinus Altenauer
+508,Huberts Pikantus
+509,Spaten 1516 Maisel
+509,
+510,Mitterteich Scurry
+510,Weihenstephaner Dark
+510,Huberts Pfarrbräu
+510,
+511,Hermannator Ice Brothers Kellerbier
+511,Buttenheimer Gänstaller Mönchshof
+511,Hacker Dampfbierbrauerei Dortmunder
+512,Aventinus Aventinus
+513,Gänstaller Oktoberfest
+514,Schneider Erdinger Mühlen
+515,Buttenheimer Bräu
+515,Weihenstephaner Brewing Dortmunder
+515,
+516,Doppelbock Aventinus
+516,Zoigl Schlenkerla Rauchbier Göller
+516,Zoigl Dampfbier
+516,Brauerei Aventinus
+516,
+517,Ayinger Bitburger
+517,Zoigl Brauerei Bitburger
+518,Hacker Maisel
+519,Aventinus Aventinus
+519,Brewing Paulaner
+519,Spaten Goslarer
+519,
+520,Alt-Bayerisch Schlenkerla Rauchbier Ritterguts
+521,Franziskaner Urbock
+521,
+522,Hacker-Pschorr Altenauer
+522,Mönchshof Huberts Warsteiner
+523,Paulaner Bitburger
+524,Buttenheimer Bräu
+524,Weihenstephaner Brewing Dortmunder
+525,Alt-Bayerisch Dampfbierbrauerei Flensburger
+525,Kloster Früh
+525,Schlenkerla Rauchbier Optimator
+525,
+526,Franziskaner Oktoberfest
+526,
+527,Franziskaner Mönchshof
+527,1516 Oktoberfest
+527,Hacker Dampfbierbrauerei Warsteiner
+527,Weihenstephaner Schlenkerla Rauchbier Zoigl
+528,Brauerei Spaten
+528,Jahrhundert Gaffel
+529,1516 Spezial
+529,House Goslarer
+529,
+530,Spaten Schlenkerla Rauchbier Erdinger
+531,Kloster Hacker Ritterguts
+531,
+532,1516 Spezial
+532,House Goslarer
+532,
+533,1516 Oktoberfest
+534,Mühlen
+535,Hefe-Weisse Dampfbier
+535,Hacker Scurry
+535,Mönchshof
+536,Buttenheimer Schlenkerla Rauchbier Bier
+536,1516 Ur-Weisse
+537,Huberts Pikantus
+537,
+538,Schneider Goslarer
+538,Korbinian
+538,
+539,Kloster Hefe-Weisse Roggen
+540,Zoigl Huberts Radeberger
+541,Buttenheimer Salvator
+542,Kloster Unser Dampfbier
+542,1516 Pschorr
+543,Unser Scurry
+543,Franziskaner Oktoberfest
+544,Spaten Paulaner Spezial
+545,Gänstaller Oktoberfest
+545,
+546,Hofbräu Maibock
+547,Zoigl Paulaner Mühlen
+547,Aventinus Oettingen
+547,House Hefe-Weisse Pikantus
+548,Schneider Dampfbierbrauerei Dortmunder
+548,Andechser Flensburger
+548,Franziskaner Brothers Goslarer
+549,Andechser Huberts Optimator
+550,Alt-Bayerisch 1516 Ur-Weisse
+551,Becks
+551,Warsteiner
+552,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+552,Hacker Dunkel
+552,Weihenstephaner Bitburger
+553,Weihenstephaner Mühlen
+553,Unser Zoigl
+553,Huberts Spezial
+553,
+554,Alt-Bayerisch Pschorr Oktoberfest Kellerbier
+554,
+555,Mönchshof Huberts Gaffel
+556,Schneider Goslarer
+556,Korbinian
+557,Hermannator Ice Goslarer
+557,Alt-Bayerisch Brewing Pikantus
+557,Hacker Erdinger Dunkel
+558,Hacker Krombacher
+558,Spaten Pschorr Oktoberfest Drop
+559,Gänstaller Oktoberfest
+559,
+560,Mönchshof Huberts Gaffel
+560,Hefe-Weisse Urbock
+560,Unser Mönchshof
+560,
+561,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+562,Jahrhundert Dunkel
+563,Dampfbierbrauerei Märzen
+563,Ritterguts
+563,Paulaner Paulaner
+563,Mitterteich Optimator
+564,Hacker-Pschorr Altenauer
+564,Mönchshof Huberts Warsteiner
+565,Brauerei Spaten
+565,Jahrhundert Gaffel
+566,Weihenstephaner Doppelbock Köstritzer
+566,
+567,Unser Scurry
+567,Franziskaner Oktoberfest
+567,Andechser Huberts Radeberger
+568,Paulaner Rauchbier
+568,Spaten Ayinger Bräu
+569,Andechser Huberts Optimator
+570,Buttenheimer Goslarer
+570,Franziskaner Urbock
+570,House Hofbräu Warsteiner
+570,Hermannator Ice Dampfbierbrauerei Rauchbier
+571,Mönchshof Huberts Gaffel
+571,Hefe-Weisse Urbock
+571,Unser Mönchshof
+571,
+572,Paulaner
+572,
+573,Zoigl Paulaner Mühlen
+573,Aventinus Oettingen
+574,Spaten Schlenkerla Rauchbier Erdinger
+575,Kloster Huberts Aventinus
+575,Roggen
+576,Weihenstephaner Dark
+576,Alt-Bayerisch Becks
+577,Hacker-Pschorr Unser Krombacher
+577,Weihenstephaner Hacker Zoigl
+577,1516 Korbinian
+578,Schneider Brewing Lager
+578,Jahrhundert Gaffel
+578,Salvator
+578,
+579,Mönchshof Brewing Scurry
+580,Franziskaner Urbock
+580,
+581,Brewing Roggen
+581,Pschorr Oktoberfest Aventinus
+582,Spaten Goslarer
+582,
+583,Hacker-Pschorr Brewing Roggen
+583,Andechser Dunkel
+583,Mönchshof
+583,Alt-Bayerisch Dampfbierbrauerei Urbock
+584,Hacker-Pschorr Altenauer
+584,Mönchshof Huberts Warsteiner
+584,Alt-Bayerisch Huberts Paulaner
+584,
+585,Mönchshof Kellerbier
+585,
+586,Alt-Bayerisch Hofbräu Göller
+586,Scurry
+587,Hacker München
+588,Hacker Reissdorf
+589,Schneider Jahrhundert Goslarer
+589,Zoigl Korbinian
+589,Schumacher
+589,Ayilinger
+590,Buttenheimer Schlenkerla Rauchbier Bier
+590,1516 Ur-Weisse
+590,Aventinus Korbinian
+590,
+591,Hefe-Weisse Dampfbier
+591,Hacker Scurry
+591,Mönchshof
+592,Brewing Goslarer
+593,Franziskaner Oktoberfest
+594,Pschorr Oktoberfest Gaffel
+595,Weihenstephaner Bräu
+596,Hacker Bitburger
+596,Unser Bock
+596,Aventinus Urbock
+596,Hacker Urbock
+597,Erdinger Ritterguts
+597,Buttenheimer Zoiglbauer
+597,Brauerei Lager
+598,Doppelbock Aventinus
+598,Zoigl Schlenkerla Rauchbier Göller
+598,Zoigl Dampfbier
+599,Spaten Goslarer
+599,
+600,Mühlen
+601,Hacker Bitburger
+601,Unser Bock
+601,Aventinus Urbock
+601,Hacker Urbock
+601,
+602,Kloster Hacker Ritterguts
+602,
+603,Weihenstephaner Korbinian
+604,Mühlen
+605,Hacker Hacker Pschorr
+605,Alt-Bayerisch Salvator
+606,Franziskaner Zoiglbauer
+606,Gänstaller Köstritzer
+607,Buttenheimer Goslarer
+607,Franziskaner Urbock
+607,House Hofbräu Warsteiner
+607,Hermannator Ice Dampfbierbrauerei Rauchbier
+607,
+608,Roggen
+608,
+609,House Pschorr Oktoberfest Diebels
+610,Alt-Bayerisch Dampfbierbrauerei Flensburger
+610,Kloster Früh
+611,Brewing Dunkel
+611,Alt-Bayerisch Brewing Erdinger
+611,
+612,Pfarrbräu
+612,
+613,Hofbräu Dunkel
+614,Mitterteich Scurry
+615,Unser Mönchshof
+616,Kloster Hacker Ritterguts
+617,1516 Oktoberfest
+617,
+618,Hacker Maisel
+618,Weihenstephaner Dark
+619,Mitterteich Oettingen
+619,Andechser Paulaner Spezial
+619,
+620,House Hefe-Weisse Früh
+620,Mitterteich Reissdorf
+620,Zoigl 1516 Warsteiner
+620,Mitterteich Oettingen
+620,
+621,Jahrhundert Scurry
+621,Franziskaner Bräu
+621,1516 Frankenheim
+621,Schneider Ur-Weisse
+622,Buttenheimer Unser Augustinerbräu
+622,Weihenstephaner Jahrhundert Zoigl
+622,
+623,Mönchshof Brewing Scurry
+623,Schneider Augustinerbräu
+623,
+624,1516 Goslarer
+624,
+625,Pfarrbräu
+626,Hacker Hacker Pschorr
+626,Alt-Bayerisch Salvator
+626,Andechser Mönchshof
+626,Schlenkerla Rauchbier Diebels
+627,Buttenheimer Goslarer
+627,Franziskaner Urbock
+627,House Hofbräu Warsteiner
+627,Hermannator Ice Dampfbierbrauerei Rauchbier
+627,
+628,Schlenkerla Rauchbier Warsteiner
+628,Mitterteich Reissdorf
+628,
+629,Hefe-Weisse Dampfbier
+629,Hacker Scurry
+629,Mönchshof
+629,Schneider Köllner
+629,
+630,Weihenstephaner Oktoberfest
+630,Göller
+630,
+631,Franziskaner Oktoberfest
+632,Franziskaner Urbock
+633,Gänstaller Oktoberfest
+634,Spaten Schlenkerla Rauchbier Erdinger
+635,Kloster Hefe-Weisse Roggen
+636,Pschorr Oktoberfest Bitburger
+636,Bock
+637,Hermannator Ice Goslarer
+637,Huberts Franziskaner
+637,Paulaner Maibock
+637,Mönchshof Steam
+638,Mitterteich Scurry
+638,Weihenstephaner Dark
+639,Weihenstephaner Bräu
+639,Franziskaner Steam
+640,Brauerei Spaten
+640,Jahrhundert Gaffel
+640,Hermannator Ice Brothers Diebels
+640,
+641,Hacker-Pschorr Altenauer
+641,Mitterteich Korbinian
+641,Unser Ottos
+641,Hermannator Ice Bräu
+642,Mitterteich Oettingen
+643,Ayinger Bitburger
+643,Zoigl Brauerei Bitburger
+644,Becks
+644,Weihenstephaner Radeberger
+644,Andechser Hofbräu Göller
+645,Unser Scurry
+645,Franziskaner Oktoberfest
+646,Hacker Pikantus
+646,Ayinger Dampfbier
+647,Dortmunder
+647,Paulaner Warsteiner
+647,Brothers Schumacher
+648,Hacker Gaffel
+648,Erdinger Franziskaner
+648,Buttenheimer Erdinger Altenauer
+648,Spaten Diebels
+648,
+649,Spaten 1516 Erdinger
+649,Alt-Bayerisch Dampfbierbrauerei Urbock
+649,Paulaner
+650,Franziskaner Franziskaner
+650,House Hacker Diebels
+651,Franziskaner Oktoberfest
+652,Unser Erdinger
+653,Schneider Erdinger Mühlen
+653,Andechser Salvator
+653,Zoigl Aventinus Maisel
+653,Doppelbock Schumacher
+654,1516 Oktoberfest
+654,
+655,Brauerei Spaten
+656,Pschorr Oktoberfest Aventinus
+656,Ayinger Unser Oettingen
+657,1516 Oktoberfest
+658,Unser Altenauer
+658,
+659,Weihenstephaner Korbinian
+659,Erdinger Becks
+659,Zoigl
+659,
+660,Kloster Huberts Aventinus
+661,Erdinger Ritterguts
+661,Buttenheimer Zoiglbauer
+661,Brauerei Lager
+661,
+662,Hacker Krombacher
+662,Spaten Pschorr Oktoberfest Drop
+663,House Hacker Diebels
+663,Jahrhundert Roggen
+664,Mönchshof Huberts Gaffel
+665,House Hacker Diebels
+666,Kloster Hacker Ritterguts
+666,
+667,Hermannator Ice Drop
+667,Hacker Pikantus
+667,Doppelbock Mühlen
+668,1516 Bitburger
+669,Schneider Erdinger Mühlen
+669,Alt-Bayerisch Goslarer
+670,Buttenheimer Unser Augustinerbräu
+671,Franziskaner Bräu
+671,Hacker-Pschorr Bier
+671,Ayinger Altenauer
+672,Gänstaller Oktoberfest
+672,
+673,Franziskaner Franziskaner
+673,House Hacker Diebels
+674,Unser Erdinger
+674,
+675,Becks
+675,Warsteiner
+676,Kloster Unser Dampfbier
+676,Buttenheimer Ritterguts
+676,
+677,Hacker-Pschorr Bier
+678,Weihenstephaner Oktoberfest
+678,Göller
+678,
+679,Hacker Bräu
+679,Gänstaller Krombacher
+679,Paulaner Salvator
+679,
+680,Brewing Dunkel
+681,Dampfbierbrauerei Märzen
+681,Ritterguts
+681,Paulaner Paulaner
+681,Mitterteich Optimator
+681,
+682,Alt-Bayerisch Pschorr Oktoberfest Göller
+683,Unser Mönchshof
+683,Andechser Hofbräu Erdinger
+683,Buttenheimer Ur-Weisse
+684,Weihenstephaner Radeberger
+684,Hefe-Weisse Ur-Weisse
+684,Hacker 1516 Ritterguts
+684,Buttenheimer Flensburger
+684,
+685,Hacker Bitburger
+685,Unser Bock
+685,Aventinus Urbock
+685,Hacker Urbock
+685,
+686,Franziskaner Oktoberfest
+686,
+687,Brewing Paulaner
+687,House Gaffel
+688,Franziskaner Oktoberfest
+688,
+689,Franziskaner 1516 Kellerbier
+690,Alt-Bayerisch Brauerei Drop
+690,Franziskaner Brewing Dampfbier
+691,Franziskaner Pschorr Oktoberfest Mühlen
+691,Kloster Reissdorf
+692,Weihenstephaner Goslarer
+692,Erdinger Lager
+692,
+693,Pschorr Oktoberfest Aventinus
+693,Ayinger Unser Oettingen
+694,Weihenstephaner Korbinian
+695,Hofbräu Dunkel
+695,
+696,Alt-Bayerisch Schlenkerla Rauchbier Ritterguts
+697,Schneider Dampfbierbrauerei Dortmunder
+697,Andechser Flensburger
+698,Schneider Gänstaller Roggen
+698,Schneider Dark
+698,Hofbräu Roggen
+699,House Hefe-Weisse Früh
+699,Mitterteich Reissdorf
+699,Zoigl 1516 Warsteiner
+699,Mitterteich Oettingen
+700,Schneider Goslarer
+700,Korbinian
+700,
+701,Köstritzer
+701,Steam
+701,Zoigl Drop
+701,Schneider Rauchbier
+701,
+702,Mitterteich Radeberger
+703,Hacker-Pschorr Hofbräu Augustinerbräu
+703,
+704,Jahrhundert Scurry
+704,Franziskaner Bräu
+704,1516 Frankenheim
+705,Ayinger Optimator
+705,Franziskaner Brothers Mühlen
+705,Hefe-Weisse Dortmunder
+705,Alt-Bayerisch Jahrhundert Mühlen
+706,Hermannator Ice Brothers Kellerbier
+707,Unser Zoiglbauer
+708,Zoigl Hofbräu Scurry
+708,Zoigl Jahrhundert Dunkel
+708,Kloster Hacker Ritterguts
+708,
+709,Weihenstephaner Dark
+709,Alt-Bayerisch Becks
+710,Weihenstephaner Ritterguts
+710,Andechser Doppelbock Goslarer
+710,
+711,Maibock
+712,Schneider Erdinger Mühlen
+712,Andechser Salvator
+712,Zoigl Aventinus Maisel
+712,Doppelbock Schumacher
+712,
+713,Buttenheimer Salvator
+713,Unser Korbinian
+713,Hacker Bräu
+713,
+714,Weihenstephaner Doppelbock Köstritzer
+714,
+715,Mönchshof Brewing Scurry
+715,Ayinger Ur-Weisse
+715,Frankenheim
+716,Andechser Oettingen
+716,
+717,Flensburger
+718,Buttenheimer Bräu
+718,Weihenstephaner Brewing Dortmunder
+718,
+719,Unser Zoiglbauer
+719,
+720,Weihenstephaner Lager
+720,Aventinus Dampfbier
+720,Schneider Dark
+721,Erdinger Ritterguts
+721,Buttenheimer Zoiglbauer
+721,Brauerei Lager
+722,Unser Radeberger
+723,Huberts Pikantus
+723,
+724,Unser Altenauer
+725,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+725,
+726,Schneider Aventinus
+726,Alt-Bayerisch Hefe-Weisse Märzen
+726,Buttenheimer Aventinus Schumacher
+727,House Hefe-Weisse Früh
+727,Mitterteich Reissdorf
+728,Aventinus Aventinus
+728,Brewing Paulaner
+728,Spaten Goslarer
+729,Mönchshof Kellerbier
+729,
+730,Alt-Bayerisch 1516 Ur-Weisse
+731,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+732,Buttenheimer Pfarrbräu
+732,Radeberger
+733,Weihenstephaner Hefe-Weisse Märzen
+734,Pschorr Oktoberfest Urbock
+735,Franziskaner Franziskaner
+735,House Hacker Diebels
+736,Mönchshof Huberts Gaffel
+736,Hefe-Weisse Urbock
+737,Hermannator Ice Goslarer
+737,Alt-Bayerisch Brewing Pikantus
+737,Hacker Erdinger Dunkel
+738,Hacker-Pschorr Brewing Roggen
+738,Andechser Dunkel
+738,Mönchshof
+739,Pschorr Oktoberfest Aventinus
+739,Ayinger Unser Oettingen
+739,Unser Oktoberfest
+739,Erdinger Ur-Weisse
+740,Hacker-Pschorr Salvator
+740,Weihenstephaner Paulaner
+740,Zoigl Paulaner Reissdorf
+740,Franziskaner 1516 Mönchshof
+741,Weihenstephaner Pfarrbräu
+741,Brewing Ottos
+741,
+742,Unser Scurry
+742,Franziskaner Oktoberfest
+743,Hacker München
+743,
+744,Spaten Paulaner Spezial
+744,Hofbräu Salvator
+744,
+745,House Pschorr Oktoberfest Diebels
+746,1516 Bitburger
+747,Märzen
+748,Alt-Bayerisch Pschorr Oktoberfest Ayilinger
+748,Hacker Dunkel
+749,Hermannator Ice Goslarer
+749,Alt-Bayerisch Brewing Pikantus
+749,Hacker Erdinger Dunkel
+750,Alt-Bayerisch Dampfbierbrauerei Flensburger
+750,Kloster Früh
+750,Schlenkerla Rauchbier Optimator
+751,Alt-Bayerisch Schumacher
+751,Jahrhundert Ritterguts
+751,
+752,Unser Radeberger
+753,Hacker Maisel
+753,Weihenstephaner Dark
+754,Hermannator Ice Goslarer
+755,House Doppelbock Urbock
+755,Zoigl 1516 Warsteiner
+755,Alt-Bayerisch Optimator
+756,Andechser Huberts Optimator
+756,Mitterteich Ottos
+757,Hermannator Ice Goslarer
+758,Mönchshof Brewing Scurry
+758,Ayinger Ur-Weisse
+759,Aventinus Aventinus
+760,Mitterteich Oettingen
+760,Andechser Paulaner Spezial
+761,Alt-Bayerisch Pschorr Oktoberfest Kellerbier
+761,
+762,Hacker Gaffel
+762,Erdinger Franziskaner
+762,Buttenheimer Erdinger Altenauer
+762,Spaten Diebels
+763,Hermannator Ice Aventinus Altenauer
+763,
+764,Dampfbierbrauerei Märzen
+764,Ritterguts
+764,Paulaner Paulaner
+765,Franziskaner Pschorr Oktoberfest Mühlen
+765,Unser Zoiglbauer
+766,Pschorr Oktoberfest Bitburger
+766,Bock
+766,Spaten Brothers Bitburger
+767,Hacker Bitburger
+767,Unser Bock
+767,Aventinus Urbock
+768,Kellerbier
+769,Roggen
+769,
+770,Hofbräu Maibock
+771,Buttenheimer Dark
+772,Hacker Pikantus
+773,Jahrhundert Ur-Weisse
+774,Franziskaner Oktoberfest
+774,
+775,1516 Drop
+775,Ayinger Bock
+776,Alt-Bayerisch Schlenkerla Rauchbier Ritterguts
+776,Schneider Bier
+776,Ayinger Zoiglbauer
+777,Jahrhundert Ur-Weisse
+777,
+778,Aventinus Gaffel
+779,Weihenstephaner Oettingen
+779,Erdinger Lager
+779,
+780,Weihenstephaner Mitterteich Pschorr
+780,Franziskaner 1516 Mönchshof
+780,Ayinger Bräu
+781,Hacker Bräu
+781,Gänstaller Krombacher
+781,Paulaner Salvator
+782,Jahrhundert Dunkel
+782,Hermannator Ice Hefe-Weisse Urbock
+782,Steam
+782,Schlenkerla Rauchbier Spaten
+783,Buttenheimer Pfarrbräu
+783,Radeberger
+783,Aventinus Gaffel
+783,
+784,Andechser Erdinger Optimator
+785,Alt-Bayerisch Salvator
+785,Alt-Bayerisch Pschorr Oktoberfest Zoigl
+785,Alt-Bayerisch Dampfbierbrauerei Diebels
+786,Mühlen
+787,Hermannator Ice Goslarer
+788,Doppelbock Ayilinger
+788,Gänstaller Goslarer
+788,Hacker Oktoberfest
+788,
+789,Franziskaner Hefe-Weisse Optimator
+789,Franziskaner Reissdorf
+789,
+790,Buttenheimer Dark
+790,
+791,Weihenstephaner Doppelbock Köstritzer
+791,Hacker-Pschorr Hofbräu Augustinerbräu
+791,Dampfbierbrauerei Märzen
+792,Alt-Bayerisch Brauerei Drop
+792,Franziskaner Brewing Dampfbier
+792,Schneider Aventinus
+792,
+793,House Pikantus
+793,Schneider Dampfbierbrauerei Dortmunder
+793,Erdinger Salvator
+794,1516 Goslarer
+795,Hermannator Ice Brothers Kellerbier
+795,Hermannator Ice Aventinus Altenauer
+795,Weihenstephaner Radeberger
+795,
+796,Hofbräu Maibock
+797,Franziskaner Urbock
+797,
+798,Franziskaner Oktoberfest
+798,
+799,Pschorr Oktoberfest Scurry
+799,Schlenkerla Rauchbier Märzen
+799,
+800,House Pschorr Oktoberfest Diebels
+800,
+801,Zoigl Doppelbock Mühlen
+801,Andechser Hofbräu Erdinger
+802,Brauerei Mönchshof
+802,Alt-Bayerisch 1516 Flensburger
+802,Weihenstephaner Jahrhundert Roggen
+802,
+803,Weihenstephaner Doppelbock Köstritzer
+803,
+804,Weihenstephaner Doppelbock Köstritzer
+804,
+805,Weihenstephaner Hefe-Weisse Märzen
+806,Brewing Goslarer
+806,Franziskaner Paulaner Pfarrbräu
+807,Zoigl Doppelbock Mühlen
+807,Andechser Hofbräu Erdinger
+808,Weihenstephaner Mühlen
+808,Unser Zoigl
+808,Huberts Spezial
+809,Kloster Unser Dampfbier
+810,Kloster Huberts Aventinus
+810,Roggen
+811,Mönchshof Brewing Scurry
+811,Schneider Augustinerbräu
+811,
+812,Mönchshof Kellerbier
+813,Hofbräu Roggen
+814,Weihenstephaner Mitterteich Pschorr
+815,House Pschorr Oktoberfest Diebels
+815,
+816,Hacker Bitburger
+816,Unser Bock
+816,Aventinus Urbock
+817,Mitterteich Radeberger
+818,Hacker-Pschorr Brewing Roggen
+818,Andechser Dunkel
+819,Buttenheimer Schlenkerla Rauchbier Bier
+819,1516 Ur-Weisse
+819,Aventinus Korbinian
+820,Weihenstephaner Bräu
+820,Franziskaner Steam
+820,
+821,Doppelbock Aventinus
+822,Franziskaner Franziskaner
+822,House Hacker Diebels
+822,Schneider Ayinger Ottos
+822,
+823,Buttenheimer Pfarrbräu
+824,Hacker-Pschorr Altenauer
+824,Mönchshof Huberts Warsteiner
+825,House Doppelbock Urbock
+825,Zoigl 1516 Warsteiner
+825,Alt-Bayerisch Optimator
+825,
+826,Alt-Bayerisch Schlenkerla Rauchbier Ritterguts
+827,Franziskaner Franziskaner
+827,House Hacker Diebels
+827,Schneider Ayinger Ottos
+827,
+828,Jahrhundert Ur-Weisse
+828,
+829,Alt-Bayerisch Schumacher
+829,Jahrhundert Ritterguts
+830,1516 Drop
+830,Hermannator Ice Pschorr Oktoberfest Drop
+830,
+831,Märzen
+831,Weihenstephaner Brauerei Optimator
+831,
+832,Unser Reissdorf
+832,Ayinger Zoiglbauer
+832,Jahrhundert Korbinian
+832,Erdinger
+833,Jahrhundert Ritterguts
+834,Schneider Brewing Lager
+834,Jahrhundert Gaffel
+835,Schneider Erdinger Mühlen
+835,Andechser Salvator
+835,Zoigl Aventinus Maisel
+836,Spaten Reissdorf
+836,Bitburger
+836,
+837,Spaten 1516 Maisel
+838,Brothers Bräu
+838,Zoigl Drop
+838,Alt-Bayerisch Mitterteich Dunkel
+839,1516 Spezial
+839,House Goslarer
+839,
+840,1516 Spezial
+840,House Goslarer
+841,Franziskaner Pschorr Oktoberfest Mühlen
+842,Hofbräu Bier
+842,
+843,Hacker-Pschorr Unser Krombacher
+843,Weihenstephaner Hacker Zoigl
+843,1516 Korbinian
+843,
+844,Ayinger Bitburger
+845,Roggen
+845,
+846,Schneider Jahrhundert Goslarer
+847,Mönchshof Brewing Scurry
+847,Ayinger Ur-Weisse
+848,1516 Drop
+848,Hermannator Ice Pschorr Oktoberfest Drop
+849,Pschorr Oktoberfest Scurry
+849,Schlenkerla Rauchbier Märzen
+849,
+850,Schneider Brewing Lager
+850,Jahrhundert Gaffel
+851,Hacker-Pschorr Salvator
+851,Weihenstephaner Paulaner
+851,Zoigl Paulaner Reissdorf
+851,Franziskaner 1516 Mönchshof
+851,
+852,Weihenstephaner Pfarrbräu
+852,Brewing Ottos
+853,Weihenstephaner Radeberger
+853,Hefe-Weisse Ur-Weisse
+854,Schneider Köstritzer
+855,Mönchshof Huberts Gaffel
+855,Hefe-Weisse Urbock
+855,Unser Mönchshof
+855,
+856,Hacker Bräu
+856,Gänstaller Krombacher
+857,Zoigl Doppelbock Mühlen
+857,Andechser Hofbräu Erdinger
+858,Franziskaner Mönchshof
+858,1516 Oktoberfest
+858,Hacker Dampfbierbrauerei Warsteiner
+858,Weihenstephaner Schlenkerla Rauchbier Zoigl
+858,
+859,Gänstaller Märzen
+859,
+860,Dortmunder
+861,House Jahrhundert Korbinian
+862,Unser Mönchshof
+862,Andechser Hofbräu Erdinger
+862,Buttenheimer Ur-Weisse
+863,Hofbräu Bier
+864,Ayinger Optimator
+864,Franziskaner Brothers Mühlen
+864,Hefe-Weisse Dortmunder
+865,Hacker Krombacher
+865,Spaten Pschorr Oktoberfest Drop
+866,Franziskaner Pschorr Oktoberfest Mühlen
+867,Hacker München
+868,Weihenstephaner Radeberger
+868,Hefe-Weisse Ur-Weisse
+868,Hacker 1516 Ritterguts
+869,Spaten Reissdorf
+869,Bitburger
+870,Zoigl Dampfbier
+870,Buttenheimer Köllner
+870,Hermannator Ice Dampfbier
+870,
+871,Spaten 1516 Maisel
+872,Hermannator Ice Drop
+872,Hacker Pikantus
+872,Doppelbock Mühlen
+873,Buttenheimer Salvator
+873,Unser Korbinian
+874,Spaten Reissdorf
+874,Bitburger
+875,Buttenheimer Unser Augustinerbräu
+875,Weihenstephaner Jahrhundert Zoigl
+876,Spaten Krombacher
+876,Spaten Flensburger
+877,Weihenstephaner Hefe-Weisse Märzen
+877,
+878,Schlenkerla Rauchbier Ur-Weisse
+878,Franziskaner Schlenkerla Rauchbier Korbinian
+878,Schneider Rauchbier
+878,Buttenheimer Flensburger
+879,Hacker-Pschorr Altenauer
+879,Mönchshof Huberts Warsteiner
+879,Alt-Bayerisch Huberts Paulaner
+880,Weihenstephaner Hefe-Weisse Märzen
+880,
+881,Kellerbier
+881,Kloster Schumacher
+881,House Hefe-Weisse Früh
+881,
+882,Alt-Bayerisch Pschorr Oktoberfest Göller
+883,Brewing Paulaner
+883,House Gaffel
+883,Kloster Unser Mönchshof
+884,Brewing Dunkel
+885,1516 Drop
+886,Hacker-Pschorr Altenauer
+886,Mönchshof Huberts Warsteiner
+886,Alt-Bayerisch Huberts Paulaner
+886,
+887,House Doppelbock Urbock
+887,Zoigl 1516 Warsteiner
+888,Hermannator Ice Aventinus Altenauer
+889,Mitterteich Radeberger
+890,Hofbräu Maibock
+890,1516 Früh
+890,
+891,Franziskaner Oktoberfest
+891,
+892,Weihenstephaner Lager
+892,Aventinus Dampfbier
+892,Schneider Dark
+892,
+893,Zoigl Hofbräu Scurry
+893,Zoigl Jahrhundert Dunkel
+893,Kloster Hacker Ritterguts
+893,
+894,Weihenstephaner Radeberger
+894,Hefe-Weisse Ur-Weisse
+895,Hacker Gaffel
+895,Erdinger Franziskaner
+895,Buttenheimer Erdinger Altenauer
+896,Doppelbock Schumacher
+896,Dunkel
+897,Alt-Bayerisch Pschorr Oktoberfest Kellerbier
+897,
+898,Schneider Köstritzer
+898,Dampfbierbrauerei Diebels
+899,Hofbräu Roggen
+900,Paulaner Rauchbier
+900,Spaten Ayinger Bräu
+900,Brothers Gaffel
+900,Andechser Dunkel
+900,
+901,Weihenstephaner Mitterteich Pschorr
+901,Franziskaner 1516 Mönchshof
+901,Ayinger Bräu
+902,Brothers Bräu
+903,Hacker Maisel
+903,Weihenstephaner Dark
+903,Alt-Bayerisch Reissdorf
+903,
+904,Kloster Unser Dampfbier
+904,1516 Pschorr
+904,Hefe-Weisse Scurry
+905,Zoigl Jahrhundert Dunkel
+906,Alt-Bayerisch Dampfbierbrauerei Flensburger
+907,Franziskaner Pschorr Oktoberfest Mühlen
+907,Kloster Reissdorf
+907,Dampfbierbrauerei Köllner
+907,
+908,Unser Altenauer
+908,
+909,Hacker-Pschorr Bier
+909,Hacker-Pschorr Bitburger
+909,
+910,Spaten Krombacher
+911,Hermannator Ice Goslarer
+911,Huberts Franziskaner
+911,Paulaner Maibock
+911,Mönchshof Steam
+911,
+912,Pschorr Oktoberfest Urbock
+912,
+913,Pschorr Oktoberfest Gaffel
+913,
+914,Schneider Gänstaller Roggen
+914,Schneider Dark
+915,Zoigl Jahrhundert Dunkel
+915,
+916,Unser Scurry
+916,Franziskaner Oktoberfest
+916,Andechser Huberts Radeberger
+916,
+917,Mönchshof
+918,Alt-Bayerisch Schumacher
+919,Märzen
+919,Weihenstephaner Brauerei Optimator
+919,
+920,1516 Drop
+920,Ayinger Bock
+920,Franziskaner Aventinus
+921,Kloster Hefe-Weisse Roggen
+922,Weihenstephaner Radeberger
+922,Hefe-Weisse Ur-Weisse
+923,Schneider Goslarer
+923,Korbinian
+924,Franziskaner Mönchshof
+924,1516 Oktoberfest
+924,Hacker Dampfbierbrauerei Warsteiner
+925,Märzen
+925,Weihenstephaner Brauerei Optimator
+925,
+926,Weihenstephaner Dark
+926,Alt-Bayerisch Becks
+926,
+927,Schneider Brewing Lager
+927,Jahrhundert Gaffel
+927,Salvator
+928,Spaten 1516 Maisel
+929,Gänstaller Märzen
+929,
+930,Spaten Paulaner Spezial
+930,Hofbräu Salvator
+931,Mitterteich Scurry
+932,Pschorr Oktoberfest Urbock
+933,Gänstaller Märzen
+933,Hacker-Pschorr Mitterteich Köstritzer
+934,Andechser Oettingen
+934,
+935,Mönchshof Flensburger
+936,Unser Zoiglbauer
+937,Brewing Goslarer
+937,Franziskaner Paulaner Pfarrbräu
+938,Schlenkerla Rauchbier Ur-Weisse
+938,Franziskaner Schlenkerla Rauchbier Korbinian
+938,Schneider Rauchbier
+938,Buttenheimer Flensburger
+939,House Pikantus
+939,Schneider Dampfbierbrauerei Dortmunder
+939,Erdinger Salvator
+939,
+940,Gänstaller Oktoberfest
+940,
+941,Ayinger Bitburger
+941,Zoigl Brauerei Bitburger
+942,Brothers Bräu
+942,Zoigl Drop
+942,Alt-Bayerisch Mitterteich Dunkel
+943,Ayinger Optimator
+943,Franziskaner Brothers Mühlen
+943,Hefe-Weisse Dortmunder
+944,House Hacker Diebels
+944,Jahrhundert Roggen
+944,Kloster Aventinus Pikantus
+944,
+945,Franziskaner 1516 Mönchshof
+946,Brewing Roggen
+947,Franziskaner Zoiglbauer
+947,Gänstaller Köstritzer
+948,Doppelbock Aventinus
+948,Zoigl Schlenkerla Rauchbier Göller
+948,Zoigl Dampfbier
+948,Brauerei Aventinus
+948,
+949,Mönchshof Dunkel
+949,Schlenkerla Rauchbier Optimator
+949,Hacker Ur-Weisse
+950,Zoigl Paulaner Mühlen
+950,Aventinus Oettingen
+951,Pschorr Oktoberfest Urbock
+952,Weihenstephaner Pfarrbräu
+953,Weihenstephaner Mitterteich Pschorr
+953,Brothers Dunkel
+953,House Bräu
+953,Jahrhundert Roggen
+953,
+954,Kloster Unser Dampfbier
+955,Brauerei Spaten
+955,Jahrhundert Gaffel
+955,Hermannator Ice Brothers Diebels
+955,
+956,Franziskaner Zoiglbauer
+956,Gänstaller Köstritzer
+957,Schlenkerla Rauchbier Krombacher
+957,Franziskaner Scurry
+957,
+958,Andechser Huberts Optimator
+959,Mitterteich Oettingen
+959,Andechser Paulaner Spezial
+960,Pschorr Oktoberfest Urbock
+960,
+961,Weihenstephaner Oettingen
+961,Erdinger Lager
+962,Hacker Gaffel
+962,Erdinger Franziskaner
+963,Hacker Bitburger
+963,Unser Bock
+964,Jahrhundert Scurry
+965,Andechser Erdinger Optimator
+965,
+966,Schneider Aventinus
+967,Hacker-Pschorr Bier
+968,Weihenstephaner Mitterteich Pschorr
+968,Franziskaner 1516 Mönchshof
+968,Ayinger Bräu
+968,Weihenstephaner Maibock
+969,Buttenheimer Unser Augustinerbräu
+970,Hofbräu Maibock
+971,Brauerei Krombacher
+971,Hacker Scurry
+971,Spaten Diebels
+972,Buttenheimer Goslarer
+972,Franziskaner Urbock
+973,Hacker Krombacher
+974,Zoigl Hofbräu Scurry
+974,Zoigl Jahrhundert Dunkel
+974,Kloster Hacker Ritterguts
+975,Schneider Aventinus
+975,Alt-Bayerisch Hefe-Weisse Märzen
+976,Schlenkerla Rauchbier Krombacher
+977,Alt-Bayerisch Hofbräu Göller
+977,Scurry
+977,
+978,Brewing Dunkel
+979,Schlenkerla Rauchbier Märzen
+979,Ayinger Reissdorf
+979,
+980,Spaten Krombacher
+981,Hacker Hacker Pschorr
+981,Alt-Bayerisch Salvator
+981,Andechser Mönchshof
+982,Schlenkerla Rauchbier Krombacher
+983,Brothers Bräu
+984,Unser Radeberger
+985,Erdinger Ritterguts
+986,1516 Bitburger
+987,1516 Oktoberfest
+988,Pschorr Oktoberfest Scurry
+988,Schlenkerla Rauchbier Märzen
+988,
+989,Hacker Reissdorf
+990,Mönchshof Flensburger
+990,
+991,Andechser Oettingen
+992,Weihenstephaner Bräu
+992,Franziskaner Steam
+992,
+993,Buttenheimer Brothers Kellerbier
+993,Mönchshof Aventinus Mönchshof
+994,Unser Radeberger
+994,
+995,Buttenheimer Goslarer
+995,Franziskaner Urbock
+995,House Hofbräu Warsteiner
+995,Hermannator Ice Dampfbierbrauerei Rauchbier
+996,Hacker Pikantus
+996,Ayinger Dampfbier
+997,Alt-Bayerisch Doppelbock Drop
+998,Märzen
+998,Weihenstephaner Brauerei Optimator
+999,Alt-Bayerisch Schlenkerla Rauchbier Ritterguts
+999,Schneider Bier
+999,Ayinger Zoiglbauer

@@ -1,201 +1,201 @@
-id,marks,annual_turnover,net_profit,year_of_foundatrion
-0,"Kloster Doppelbock Kellerbier,Ayinger Paulaner Kellerbier,Andechser Mitterteich Scurry,House Brauerei Schumacher,",42.88,119.20640000000002,1662
-1,"Doppelbock Salvator,Hefe-Weisse Dunkel,",73.65,58.1835,1400
-2,"Weihenstephaner Becks,Scurry,Gänstaller Gaffel,Weihenstephaner Rauchbier,",18.63,53.46809999999999,1419
-3,"Andechser Augustinerbräu,Hofbräu Ayilinger,Hefe-Weisse Korbinian,Hacker Maisel,",15.5,38.44,1782
-4,"Hacker-Pschorr Hacker Bitburger,Korbinian,Buttenheimer Paulaner Pikantus,Franziskaner Gänstaller Bitburger,",66.92,102.3876,1639
-5,"Weihenstephaner Brauerei Maibock,Hofbräu Bräu,Steam,",76.8,122.88,1930
-6,"Schneider Zoigl,Jahrhundert Köllner,",38.52,10.0152,1931
-7,"Mönchshof Brothers Aventinus,Brewing Weizen-Eisbock,Huberts Steam,Mönchshof Dampfbier,",47.65,55.7505,1500
-8,"House Drop,Hefe-Weisse Optimator,Dampfbierbrauerei Aventinus,Kloster Brauerei Rauchbier,",48.0,93.12,2008
-9,"Hofbräu Dunkel,",21.88,26.0372,1444
-10,"Korbinian,Hacker Jahrhundert Ayilinger,Spezial,Schneider 1516 Dunkel,",32.99,93.3617,1718
-11,"Brewing Rauchbier,Buttenheimer Brauerei Bräu,Huberts Warsteiner,Jahrhundert Ottos,",47.25,131.355,1679
-12,"Andechser Hacker Mönchshof,",28.26,34.7598,1895
-13,"Hacker Hacker Bräu,Franziskaner Gänstaller Bitburger,",37.35,76.194,1902
-14,"Andechser Ur-Weisse,",1.59,4.2453,1873
-15,"Hacker Hacker Ottos,Schlenkerla Rauchbier Pschorr,",81.44,88.7696,1957
-16,"Hacker-Pschorr Zoiglbauer,",90.94,178.24239999999998,1648
-17,"Ayinger Brauerei Becks,Zoigl Ur-Weisse,Hermannator Ice Brewing Aventinus,",45.22,86.37020000000001,1480
-18,"Alt-Bayerisch Bock,",41.33,59.10189999999999,1816
-19,"Weihenstephaner Schumacher,Paulaner Diebels,",92.59,80.5533,1722
-20,"Erdinger Korbinian,",32.63,93.3218,1798
-21,"Hermannator Ice Aventinus Ritterguts,Erdinger Drop,",3.6,2.772,1486
-22,"Paulaner Diebels,Franziskaner Frankenheim,Schneider Mitterteich Ottos,",88.73,140.1934,1654
-23,"Gänstaller Spezial,Weihenstephaner Huberts Bock,Schneider Pschorr Oktoberfest Pfarrbräu,",53.54,93.695,1439
-24,"Schlenkerla Rauchbier Pschorr,",94.95,27.535500000000003,1804
-25,"Hermannator Ice Brauerei Altenauer,Märzen,Pschorr Oktoberfest Altenauer,",70.78,52.3772,1613
-26,"Kloster Unser Bitburger,",90.87,51.7959,1949
-27,"Ayinger Ritterguts,Ayinger Erdinger,Weihenstephaner Drop,Ayinger Zoigl,",31.92,17.556,1892
-28,"Mitterteich Köllner,Hermannator Ice Erdinger Köstritzer,",60.9,116.319,1698
-29,"Franziskaner 1516 Spaten,Zoigl Spaten,Gänstaller Erdinger,Ayinger Dortmunder,",13.11,19.4028,1453
-30,"Pschorr Oktoberfest Ottos,",97.79,163.3093,1722
-31,"Hacker Zoiglbauer,Franziskaner Jahrhundert Augustinerbräu,",24.2,47.916,1834
-32,"Weihenstephaner Erdinger Franziskaner,",47.28,55.7904,1976
-33,"Hacker Paulaner,Hermannator Ice Jahrhundert Reissdorf,",28.47,12.811499999999999,1904
-34,"Alt-Bayerisch Pfarrbräu,Spaten Doppelbock Gaffel,",72.58,156.047,1613
-35,"Hacker-Pschorr Pschorr Oktoberfest Früh,Doppelbock Diebels,Brewing Paulaner,",96.43,259.3967,1822
-36,"Buttenheimer Brothers Warsteiner,",59.11,81.5718,1637
-37,"Weihenstephaner 1516 Spaten,Aventinus Früh,",97.08,157.2696,1797
-38,"Ayinger 1516 Köstritzer,",1.59,3.7047000000000003,1894
-39,"Hacker-Pschorr Pschorr Oktoberfest Salvator,Brauerei Krombacher,",23.45,37.989000000000004,1496
-40,"Weihenstephaner Jahrhundert Steam,Brothers Dark,",60.16,154.6112,1942
-41,"Zoiglbauer,",10.49,22.133899999999997,1943
-42,"Hacker Pschorr Oktoberfest Zoiglbauer,Aventinus Urbock,Erdinger Schumacher,Kloster Bräu,",62.76,117.3612,1865
-43,"Mönchshof Köstritzer,Brauerei Krombacher,Doppelbock Schumacher,Ayinger Urbock,",7.21,4.6144,1760
-44,"Weihenstephaner Zoigl,Weihenstephaner Brauerei Göller,Huberts Ritterguts,Zoigl Hofbräu Paulaner,",9.44,1.9823999999999997,1645
-45,"Unser Diebels,Weihenstephaner Aventinus Maibock,Hacker-Pschorr Hefe-Weisse Dortmunder,Alt-Bayerisch Hefe-Weisse Franziskaner,",94.92,147.126,1435
-46,"Weihenstephaner Brothers Drop,",1.93,1.351,1835
-47,"Schneider Hofbräu Maisel,",1.06,2.7666000000000004,1700
-48,"Alt-Bayerisch Hacker Maibock,",71.05,88.8125,1451
-49,"Ayinger Schumacher,Hacker-Pschorr Maisel,",48.43,48.43,1836
-50,"House Bitburger,House Drop,",46.83,136.7436,1705
-51,"Franziskaner Ottos,Schlenkerla Rauchbier Schumacher,Andechser Ayilinger,",75.15,122.4945,1457
-52,"Alt-Bayerisch Früh,Brothers Göller,Buttenheimer Pschorr Oktoberfest Rauchbier,",67.04,59.665600000000005,1530
-53,"Unser Pfarrbräu,Ayinger Erdinger,Franziskaner Unser Rauchbier,",3.92,10.1528,1424
-54,"Brothers Göller,Alt-Bayerisch Schlenkerla Rauchbier Salvator,Weihenstephaner Ayinger Weizen-Eisbock,Franziskaner Unser Bräu,",68.34,119.595,1729
-55,"Hacker Maisel,Weihenstephaner Erdinger Reissdorf,Buttenheimer Hacker Pschorr,Brothers Rauchbier,",84.34,163.61960000000002,1821
-56,"Gänstaller Spezial,Pschorr,Buttenheimer Brewing Frankenheim,",98.59,210.98260000000002,1796
-57,"Mönchshof Maibock,House Altenauer,",34.4,29.24,1579
-58,"Weihenstephaner Erdinger Flensburger,Mönchshof Oktoberfest,Bier,Weihenstephaner Pschorr Oktoberfest Ottos,",26.79,46.3467,1874
-59,"Spaten Ur-Weisse,",70.65,110.21400000000001,1613
-60,"Spaten Maibock,Ayilinger,Unser Ur-Weisse,Brothers Rauchbier,",25.94,21.270799999999998,1805
-61,"Hermannator Ice Aventinus Ritterguts,Andechser Mitterteich Altenauer,",45.11,19.848399999999998,1941
-62,"Schneider Aventinus Oktoberfest,Hacker Unser Spaten,",98.17,79.5177,1543
-63,"1516 Radeberger,Weihenstephaner Paulaner Köstritzer,",10.83,23.934299999999997,1422
-64,"Zoigl Hofbräu Maisel,",53.05,143.7655,1531
-65,"Alt-Bayerisch Schlenkerla Rauchbier Salvator,Hacker-Pschorr Hacker Altenauer,Schlenkerla Rauchbier Bier,",35.22,82.0626,1717
-66,"Spaten Zoigl,Franziskaner Hefe-Weisse Dunkel,Ayinger Erdinger Dark,Mitterteich Schumacher,",37.47,83.1834,1527
-67,"Ayinger Jahrhundert Urbock,Andechser Franziskaner,",86.34,66.4818,1964
-68,"Weihenstephaner Pschorr Oktoberfest Rauchbier,Brauerei Pfarrbräu,Alt-Bayerisch Hacker Pfarrbräu,Brothers Göller,",64.94,175.338,1617
-69,"Ayinger Mitterteich Frankenheim,",71.33,180.46489999999997,1759
-70,"Spaten Brewing Korbinian,Zoigl Altenauer,Weihenstephaner Aventinus Maibock,Alt-Bayerisch Jahrhundert Spezial,",61.25,35.525,1672
-71,"Alt-Bayerisch Bock,Schneider Doppelbock Spezial,",37.07,32.6216,1842
-72,"Franziskaner Frankenheim,Weihenstephaner Gänstaller Scurry,",88.17,111.0942,1830
-73,"Spaten,",4.78,4.6366000000000005,1452
-74,"Andechser Ottos,Hacker-Pschorr Gänstaller Oktoberfest,Unser Pfarrbräu,Hacker-Pschorr Hacker Altenauer,",25.37,16.236800000000002,1892
-75,"House Dortmunder,Spaten Ritterguts,",50.02,78.03120000000001,1818
-76,"Schneider Doppelbock Spezial,Hacker-Pschorr Brewing Ritterguts,Dampfbierbrauerei Frankenheim,",2.78,8.1176,1834
-77,"Schlenkerla Rauchbier Scurry,",70.46,24.660999999999998,1954
-78,"Erdinger Mönchshof,Mönchshof Brothers Aventinus,",91.45,55.7845,1726
-79,"Hefe-Weisse Altenauer,Jahrhundert Oettingen,",99.26,36.726200000000006,1826
-80,"Alt-Bayerisch Gänstaller Dark,",18.11,53.424499999999995,1647
-81,"Hacker-Pschorr Erdinger Dortmunder,",25.55,15.0745,1522
-82,"Huberts Salvator,Buttenheimer Doppelbock Krombacher,Hacker Zoiglbauer,",96.62,166.1864,1512
-83,"Hacker Schumacher,Schneider Ayinger Franziskaner,Schneider Ritterguts,Hacker Dunkel,",84.97,96.8658,1518
-84,"Mönchshof Weizen-Eisbock,Weihenstephaner Brauerei Schumacher,Andechser Ayinger Spaten,Mönchshof Unser Ritterguts,",21.15,58.797,1661
-85,"Alt-Bayerisch Hacker Pfarrbräu,",29.19,61.590900000000005,1620
-86,"Hacker Hefe-Weisse Köllner,",24.77,8.4218,1573
-87,"Buttenheimer Ayinger Krombacher,",16.21,39.8766,1566
-88,"Hacker-Pschorr Ayilinger,Alt-Bayerisch Hacker Maibock,Gänstaller Köstritzer,Zoigl Urbock,",65.7,165.56400000000002,1575
-89,"Ayinger Pschorr Oktoberfest Flensburger,Hacker-Pschorr Hefe-Weisse Dortmunder,Ayinger Bitburger,Hofbräu Göller,",70.96,65.9928,1585
-90,"Schneider Maisel,Schumacher,Erdinger Dampfbier,Franziskaner Reissdorf,",46.0,56.12,1723
-91,"Mönchshof Brauerei Göller,Hermannator Ice Schumacher,",93.0,184.14,1547
-92,"Ayinger Hefe-Weisse Franziskaner,Schneider Ayinger Weizen-Eisbock,Kloster Ayinger Ritterguts,",35.55,105.58349999999999,1526
-93,"Hofbräu Scurry,Schlenkerla Rauchbier Bier,Aventinus Flensburger,Weihenstephaner Brauerei Urbock,",64.74,94.5204,1829
-94,"1516 Krombacher,Hacker-Pschorr Flensburger,Mönchshof Kellerbier,",4.71,4.4274000000000004,1893
-95,"Mönchshof Paulaner Schumacher,Mönchshof Aventinus,Weihenstephaner Ayinger Franziskaner,Ayinger Bitburger,",9.2,2.5759999999999996,1679
-96,"Brothers Köllner,Huberts Becks,",37.24,94.962,1857
-97,"1516 Ritterguts,Ayinger Brothers Mönchshof,Buttenheimer Dark,",60.53,127.7183,1821
-98,"Zoigl Warsteiner,Erdinger Bräu,",82.42,154.9496,1710
-99,"Brothers Ritterguts,",21.55,13.792,1591
-100,"Weihenstephaner Pikantus,Pschorr Oktoberfest Pikantus,",91.27,244.6036,1482
-101,"Schneider Reissdorf,Ayinger Scurry,Alt-Bayerisch Schumacher,",72.26,136.5714,1667
-102,"Hacker-Pschorr Gaffel,Alt-Bayerisch Hefe-Weisse Kellerbier,Weihenstephaner Gänstaller Pschorr,Hermannator Ice Gaffel,",2.66,6.490400000000001,1744
-103,"Mitterteich Köllner,Hacker-Pschorr Aventinus Steam,Alt-Bayerisch Mitterteich Steam,",63.09,26.4978,1793
-104,"Schneider Gaffel,Alt-Bayerisch Hefe-Weisse Kellerbier,",32.12,13.169199999999998,1703
-105,"Schneider Roggen,Brauerei Pschorr,Alt-Bayerisch Brauerei Ottos,Pschorr Oktoberfest Augustinerbräu,",19.21,26.1256,1770
-106,"Hacker Bräu,Brauerei Korbinian,Aventinus Urbock,Doppelbock Pfarrbräu,",62.02,134.5834,1664
-107,"Franziskaner Spaten,Brothers Dunkel,Gänstaller Ayilinger,",3.7,8.584000000000001,1719
-108,"Spaten,Aventinus Optimator,Dampfbierbrauerei Becks,",38.94,65.8086,1831
-109,"Weihenstephaner Gänstaller Pschorr,",98.47,217.6187,1922
-110,"Alt-Bayerisch Frankenheim,Hacker-Pschorr Pschorr Oktoberfest Salvator,Hofbräu Pschorr,",58.66,133.1582,1643
-111,"Ayinger Mitterteich Frankenheim,Hermannator Ice Märzen,",94.09,125.1397,1924
-112,"Alt-Bayerisch Maisel,",64.87,14.271400000000002,1531
-113,"Ayinger Dortmunder,Weihenstephaner Warsteiner,Franziskaner Korbinian,Weihenstephaner Brauerei Göller,",71.22,44.868599999999994,1952
-114,"Hefe-Weisse Kellerbier,Weihenstephaner Erdinger Flensburger,Huberts Steam,",79.23,214.7133,1504
-115,"Mönchshof Göller,Franziskaner Optimator,Weihenstephaner Huberts Bräu,",83.64,202.4088,1692
-116,"Alt-Bayerisch Pschorr Oktoberfest Pikantus,",55.75,27.3175,1668
-117,"Gänstaller Ottos,Hermannator Ice Brewing Ur-Weisse,Huberts Drop,Hacker Aventinus,",5.82,12.8622,1416
-118,"Hacker Maibock,Schneider Brothers Steam,Mitterteich Mühlen,",31.4,43.332,1682
-119,"Gänstaller Ottos,Brewing Maibock,",40.69,44.75899999999999,1687
-120,"Pschorr Oktoberfest Oktoberfest,",29.8,34.866,1400
-121,"Franziskaner Unser Rauchbier,Ayinger Zoiglbauer,Köstritzer,",27.86,69.9286,1545
-122,"Ayinger Mönchshof,Hermannator Ice Gaffel,Dampfbierbrauerei Lager,Brothers Ritterguts,",17.83,11.589499999999997,1617
-123,"House Goslarer,Weihenstephaner Schlenkerla Rauchbier Korbinian,",48.38,76.4404,1530
-124,"Hofbräu Bock,Ayinger Zoiglbauer,Buttenheimer Hofbräu Reissdorf,",24.87,35.5641,1761
-125,"Andechser Hofbräu Schumacher,",76.53,111.73380000000002,1817
-126,"Buttenheimer Maibock,Andechser Krombacher,München,",12.69,20.8116,1959
-127,"Zoigl Brothers Früh,",25.15,44.5155,1774
-128,"Brothers Dortmunder,",97.21,142.8987,1867
-129,"Ayinger Goslarer,Zoigl Becks,House Göller,",31.76,41.6056,1513
-130,"Brothers Dunkel,1516 Diebels,Schneider Dunkel,Zoigl Bitburger,",11.6,16.355999999999998,1811
-131,"Alt-Bayerisch Reissdorf,",96.97,33.939499999999995,1877
-132,"Andechser 1516 Köstritzer,Jahrhundert Altenauer,Kloster Doppelbock Kellerbier,House Brauerei Schumacher,",67.22,15.4606,1568
-133,"Hacker-Pschorr Pikantus,Korbinian,Brauerei Ayilinger,",73.1,219.3,1711
-134,"Aventinus Kellerbier,Weihenstephaner 1516 Spaten,Andechser Ur-Weisse,",39.97,108.31869999999999,1634
-135,"Gaffel,Spaten Ur-Weisse,Kloster Brauerei Pfarrbräu,Buttenheimer Brauerei Radeberger,",12.01,2.5221,1786
-136,"Weihenstephaner Hefe-Weisse Dark,Hacker Ayinger Warsteiner,Hacker Erdinger München,Ayinger Mitterteich Göller,",38.65,80.392,1957
-137,"Alt-Bayerisch Gänstaller Urbock,Hefe-Weisse Franziskaner,Franziskaner Frankenheim,",28.98,48.9762,1663
-138,"Franziskaner Erdinger Bräu,Ur-Weisse,",33.56,74.16760000000001,1860
-139,"Alt-Bayerisch Pschorr,",6.11,4.6436,1774
-140,"Jahrhundert Ayilinger,Göller,",54.21,71.55720000000001,1971
-141,"Mönchshof Kellerbier,Brewing Oettingen,",57.49,129.3525,1541
-142,"Zoigl Zoiglbauer,",66.19,164.1512,1670
-143,"Spaten Schlenkerla Rauchbier Aventinus,Mitterteich Mühlen,Gänstaller Oktoberfest,Hacker Pschorr Oktoberfest Maibock,",33.18,23.226,1754
-144,"Franziskaner Salvator,Schlenkerla Rauchbier Zoigl,Kloster Roggen,",53.06,129.997,1862
-145,"Alt-Bayerisch Brothers Zoiglbauer,Hacker Kellerbier,",87.25,246.9175,1585
-146,"Weihenstephaner Brothers Ritterguts,",67.03,43.5695,1493
-147,"Doppelbock Augustinerbräu,Hermannator Ice Brauerei Altenauer,Hacker-Pschorr München,",62.06,39.0978,1663
-148,"Brauerei Märzen,Schneider Brothers Steam,House Krombacher,Schlenkerla Rauchbier Bier,",54.9,116.38799999999999,1706
-149,"Erdinger Bräu,Hermannator Ice Dortmunder,",1.06,0.636,1995
-150,"Ayinger Pschorr Oktoberfest Flensburger,Huberts Salvator,Hacker Märzen,",47.08,46.6092,1941
-151,"Zoigl Dampfbierbrauerei Drop,Kloster Doppelbock Roggen,",90.23,174.1439,1921
-152,"Alt-Bayerisch Brothers Erdinger,Zoigl Reissdorf,",42.15,20.232,1875
-153,"Mönchshof,",16.18,21.5194,2011
-154,"Brothers Augustinerbräu,",79.59,182.2611,1460
-155,"Weihenstephaner Gaffel,House Schlenkerla Rauchbier Krombacher,Ayinger Brothers Mönchshof,Hermannator Ice Altenauer,",47.6,99.96,1977
-156,"Huberts Kellerbier,Weihenstephaner Becks,House Huberts Bier,",82.9,129.324,1604
-157,"House Bier,Andechser Ottos,",68.64,161.99040000000002,1953
-158,"Ur-Weisse,Brauerei Pschorr,Alt-Bayerisch Dunkel,Dampfbierbrauerei Dampfbier,",84.88,134.9592,1725
-159,"Brothers Dunkel,Mönchshof Frankenheim,",9.84,2.7552,1889
-160,"Zoigl Hefe-Weisse Dunkel,",34.48,89.99279999999999,1441
-161,"Gänstaller Mühlen,Spaten Bier,Doppelbock Diebels,Erdinger Ur-Weisse,",90.91,185.4564,1447
-162,"Buttenheimer Ottos,",22.08,47.0304,1898
-163,"Dampfbierbrauerei Urbock,Andechser Jahrhundert Roggen,House Unser Altenauer,",61.39,63.845600000000005,1608
-164,"Hacker-Pschorr Gaffel,Kloster Doppelbock Kellerbier,Mitterteich Bier,Weihenstephaner Scurry,",45.1,28.864,1678
-165,"Alt-Bayerisch Steam,Zoigl Flensburger,",84.85,134.9115,1528
-166,"Pschorr Oktoberfest Schumacher,Brauerei Pfarrbräu,Unser Erdinger,Huberts Becks,",57.08,25.1152,1585
-167,"Alt-Bayerisch Urbock,Erdinger Maibock,Hacker Zoiglbauer,Franziskaner Dampfbierbrauerei Ottos,",62.1,174.50100000000003,1499
-168,"Aventinus,Hermannator Ice Brothers Ottos,Alt-Bayerisch Brauerei Märzen,",23.41,20.6008,1408
-169,"Hermannator Ice Schumacher,Franziskaner Unser Bräu,",41.82,46.8384,1746
-170,"Alt-Bayerisch Paulaner Köstritzer,",42.55,55.315,1604
-171,"Kloster Doppelbock Kellerbier,Alt-Bayerisch Ur-Weisse,",60.43,46.531099999999995,1928
-172,"Doppelbock Flensburger,Mönchshof Mühlen,",39.81,37.421400000000006,1797
-173,"Hacker Brewing Pschorr,Zoigl Zoiglbauer,Steam,",54.14,75.796,1824
-174,"Alt-Bayerisch Paulaner Köstritzer,",67.14,167.17860000000002,1539
-175,"Mönchshof Pikantus,Mönchshof Jahrhundert Dampfbier,Brothers Göller,",18.46,11.6298,1820
-176,"Mönchshof Aventinus Ottos,Schneider Roggen,Weihenstephaner Spezial,",41.33,121.09689999999999,1560
-177,"Andechser Flensburger,",78.64,173.00799999999998,1605
-178,"Ur-Weisse,Brothers Scurry,Spaten Hefe-Weisse Frankenheim,Brothers Augustinerbräu,",17.36,30.553599999999996,1598
-179,"Franziskaner Unser Bräu,",24.16,37.448,1475
-180,"1516 München,Andechser Ayinger Spaten,",11.66,32.181599999999996,1879
-181,"Unser Erdinger,Alt-Bayerisch Bock,Alt-Bayerisch Ur-Weisse,Schneider Pschorr Oktoberfest Pfarrbräu,",92.37,43.413900000000005,1626
-182,"Weihenstephaner Paulaner Weizen-Eisbock,",40.31,99.56569999999999,1549
-183,"Schneider Reissdorf,Brewing Dampfbier,Köstritzer,Pschorr Oktoberfest Zoiglbauer,",9.81,16.677,1659
-184,"1516 Ottos,Spaten Dampfbierbrauerei Franziskaner,Alt-Bayerisch Brothers Köstritzer,",80.66,127.44279999999999,1915
-185,"Hacker-Pschorr Doppelbock Roggen,",94.4,127.44,1974
-186,"Buttenheimer Urbock,Gänstaller Gaffel,",12.58,8.6802,2007
-187,"Zoigl Ur-Weisse,",26.71,54.2213,1900
-188,"Maisel,Weihenstephaner Dampfbierbrauerei Dunkel,Erdinger Ritterguts,",83.04,136.18560000000002,1779
-189,"Alt-Bayerisch Urbock,Ayinger Bräu,",97.71,212.0307,1700
-190,"Erdinger Schumacher,",12.27,3.4356,1914
-191,"Zoigl Hofbräu Frankenheim,Märzen,Ayinger Bitburger,Aventinus Schumacher,",89.64,50.1984,1918
-192,"Alt-Bayerisch Erdinger Pikantus,Schneider Spezial,Weihenstephaner Jahrhundert Steam,",85.63,196.0927,1595
-193,"Pschorr,Hacker Warsteiner,Buttenheimer Bitburger,House Göller,",88.65,17.73,1877
-194,"House Huberts Bier,Spaten Pschorr Oktoberfest Oettingen,Hacker Erdinger,",84.43,41.37070000000001,1754
-195,"Pschorr Oktoberfest Steam,Kloster Brauerei Aventinus,Spaten Oettingen,Weihenstephaner Roggen,",83.57,50.141999999999996,1443
-196,"Brauerei Diebels,Alt-Bayerisch Mitterteich Steam,",34.29,42.176700000000004,1718
-197,"Hermannator Ice Aventinus,Brewing Dampfbier,Alt-Bayerisch Pfarrbräu,",82.85,149.9585,1957
-198,"Buttenheimer Ottos,Warsteiner,",67.68,153.63360000000003,1926
-199,"Göller,Alt-Bayerisch Dampfbierbrauerei Köllner,Alt-Bayerisch Roggen,",34.14,52.2342,1733
+id,annual_turnover,net_profit,year_of_foundatrion
+0,81.38,172.52559999999997,1422
+1,65.72,169.55759999999998,1575
+2,69.2,21.452,1977
+3,62.03,43.42100000000001,1921
+4,42.48,124.4664,1710
+5,42.23,47.297599999999996,1775
+6,16.48,13.8432,1972
+7,47.35,58.714000000000006,2008
+8,72.39,107.86110000000001,1987
+9,85.51,196.67300000000003,1897
+10,38.05,76.86099999999999,2005
+11,45.05,112.625,1678
+12,29.99,24.8917,1609
+13,13.09,10.2102,1609
+14,46.41,132.2685,1553
+15,7.59,7.134600000000001,1896
+16,69.4,51.356,1435
+17,39.98,27.986,1764
+18,82.2,185.77200000000002,1938
+19,13.12,36.9984,1619
+20,31.46,37.752,1567
+21,42.99,114.7833,1948
+22,76.56,197.5248,1432
+23,93.7,178.03,1552
+24,81.73,118.5085,1718
+25,56.04,30.822,1444
+26,74.92,49.4472,1745
+27,93.03,54.8877,1647
+28,82.14,239.8488,1556
+29,27.07,10.2866,1832
+30,98.14,180.5776,1581
+31,10.21,16.233900000000002,1464
+32,25.16,49.313599999999994,1947
+33,95.04,172.97280000000003,1400
+34,68.02,166.64899999999997,1978
+35,98.16,51.0432,1851
+36,63.37,147.0184,1922
+37,56.56,133.4816,1875
+38,56.98,102.564,1583
+39,18.09,27.496799999999997,1669
+40,43.83,34.625699999999995,1769
+41,43.77,87.9777,1653
+42,50.76,139.0824,1523
+43,41.59,24.954,1953
+44,97.93,226.21830000000003,1476
+45,25.97,61.2892,1830
+46,19.62,34.7274,2007
+47,13.7,24.522999999999996,1866
+48,88.97,196.62369999999999,1594
+49,90.97,76.4148,1756
+50,7.04,13.3056,1575
+51,19.74,37.703399999999995,1527
+52,69.33,144.2064,1982
+53,4.61,11.571100000000001,1881
+54,53.41,99.8767,1721
+55,55.63,52.2922,1508
+56,62.01,146.34359999999998,1503
+57,6.89,12.608699999999999,1787
+58,61.29,53.935199999999995,1625
+59,80.97,17.813399999999998,1455
+60,55.4,81.99199999999999,1748
+61,60.65,172.24599999999998,1851
+62,57.88,42.252399999999994,2007
+63,10.25,22.755,1794
+64,66.68,132.69320000000002,1558
+65,43.25,77.85,1935
+66,84.32,31.198399999999996,1883
+67,94.89,158.4663,1577
+68,72.37,112.1735,1643
+69,72.85,85.23449999999998,1986
+70,29.73,54.4059,1832
+71,71.62,17.905,1582
+72,27.21,8.7072,1894
+73,95.75,179.0525,1984
+74,22.27,36.5228,1587
+75,52.18,88.1842,1523
+76,11.71,13.466500000000002,1829
+77,20.64,29.102400000000003,1969
+78,18.68,4.2964,1993
+79,94.64,115.4608,1910
+80,4.08,6.1608,1613
+81,84.75,217.8075,1958
+82,11.76,4.5864,1953
+83,22.4,19.712,1675
+84,2.56,3.9424,1748
+85,63.53,188.6841,1532
+86,22.81,62.9556,1409
+87,23.23,62.0241,1465
+88,32.92,61.5604,1761
+89,81.64,66.1284,1742
+90,45.6,64.296,1786
+91,18.0,27.54,1931
+92,6.67,9.4714,1887
+93,82.2,225.22799999999998,1473
+94,23.67,65.5659,1740
+95,32.04,14.418,1812
+96,55.2,144.62400000000002,1445
+97,70.21,92.6772,1535
+98,51.3,31.292999999999996,1679
+99,46.39,89.5327,1797
+100,24.15,39.8475,1869
+101,45.31,94.6979,1533
+102,76.36,219.1532,1404
+103,4.87,4.9674000000000005,1432
+104,21.36,31.8264,1451
+105,25.4,18.034,1408
+106,31.69,11.408400000000002,1447
+107,61.81,55.629000000000005,1553
+108,25.28,54.352,1684
+109,53.1,114.165,1619
+110,49.39,35.066900000000004,1567
+111,45.7,108.766,1536
+112,98.9,198.78900000000002,1547
+113,58.09,68.54620000000001,1677
+114,63.93,59.454899999999995,1813
+115,69.63,142.0452,1441
+116,7.03,13.5679,1826
+117,31.3,18.154,1585
+118,41.13,65.3967,1629
+119,77.61,188.5923,1459
+120,40.5,20.25,1427
+121,56.52,116.4312,1986
+122,8.23,22.7971,1964
+123,48.78,36.585,1966
+124,81.54,93.771,1716
+125,96.19,209.6942,1691
+126,15.33,8.1249,1726
+127,32.91,22.3788,1829
+128,3.11,1.8970999999999998,1414
+129,19.31,26.840899999999998,1965
+130,35.14,91.36399999999999,1608
+131,16.77,37.0617,1810
+132,30.12,59.6376,1533
+133,3.6,3.312,1853
+134,92.14,125.31040000000002,1700
+135,25.27,19.2052,1564
+136,7.3,3.139,2001
+137,12.7,26.162,1912
+138,8.92,23.3704,1908
+139,82.07,202.71289999999996,1428
+140,12.23,34.121700000000004,1542
+141,38.88,51.32160000000001,1940
+142,33.73,64.087,1749
+143,40.56,11.3568,1597
+144,44.07,118.5483,1404
+145,47.53,25.6662,1672
+146,71.67,25.084500000000002,1687
+147,65.46,92.9532,1957
+148,55.56,132.2328,1825
+149,67.52,74.9472,1435
+150,83.86,28.5124,1900
+151,81.93,236.7777,1877
+152,64.48,21.2784,1493
+153,47.59,72.8127,1848
+154,76.56,180.6816,1866
+155,9.89,24.3294,1841
+156,72.72,22.543200000000002,1775
+157,24.11,40.0226,1511
+158,55.08,150.3684,1717
+159,63.65,17.822,1851
+160,62.34,165.82440000000003,1566
+161,72.61,137.2329,1595
+162,3.64,3.3124000000000002,1690
+163,16.0,7.68,1409
+164,79.11,39.555,1405
+165,54.85,136.5765,1642
+166,88.29,166.86810000000003,1860
+167,64.09,42.94030000000001,1828
+168,98.55,193.158,1552
+169,68.3,66.934,1737
+170,27.37,9.579500000000001,1915
+171,81.08,141.07920000000001,1890
+172,60.52,31.470399999999998,1741
+173,66.45,67.77900000000001,1710
+174,88.25,188.855,1892
+175,5.57,11.641300000000001,1858
+176,76.79,178.9207,2000
+177,8.08,21.977600000000002,1708
+178,3.43,3.2585,1882
+179,35.7,20.349,1595
+180,70.6,58.59799999999999,1923
+181,44.46,84.47399999999999,1705
+182,7.61,3.805,1778
+183,15.77,6.308,1429
+184,39.1,62.169000000000004,1597
+185,2.01,2.3516999999999997,1492
+186,42.34,69.4376,1773
+187,6.88,19.6768,1794
+188,39.88,17.5472,1759
+189,48.24,71.3952,1720
+190,54.46,156.30020000000002,1622
+191,16.62,8.1438,1464
+192,95.24,178.09879999999998,1577
+193,75.71,166.56199999999998,1582
+194,54.71,51.4274,1541
+195,40.97,76.6139,1593
+196,84.86,74.6768,1759
+197,53.25,112.89,1711
+198,40.73,53.35629999999999,1826
+199,52.85,134.239,1863

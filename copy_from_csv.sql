@@ -1,17 +1,29 @@
-COPY manufacturer_table(id, marks, turnover, profit, foundation) 
+COPY manufacturer_table(id, turnover, profit, foundation) 
 FROM '/var/lib/postgresql/data/pgdata/csv_tables/tables/manufacturers.csv'
 DELIMITER ','
 CSV HEADER;
 
 
-COPY factory_table(id, marks, volume, country, masterr) 
+COPY factory_table(id, volume, country, masterr) 
 FROM '/var/lib/postgresql/data/pgdata/csv_tables/tables/factories.csv'
 DELIMITER ','
 CSV HEADER;
 
 
-COPY beer_table(mark, alko, volume, manufacturer, factory, price) 
+COPY beer_table(mark, alko, volume, price) 
 FROM '/var/lib/postgresql/data/pgdata/csv_tables/tables/beer.csv'
+DELIMITER ','
+CSV HEADER;
+
+
+COPY beer_manuf_table(manufacturer, mark) 
+FROM '/var/lib/postgresql/data/pgdata/csv_tables/tables/beer_manufacturers.csv'
+DELIMITER ','
+CSV HEADER;
+
+
+COPY beer_factory_table(factory, mark) 
+FROM '/var/lib/postgresql/data/pgdata/csv_tables/tables/beer_factories.csv'
 DELIMITER ','
 CSV HEADER;
 

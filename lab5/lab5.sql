@@ -151,3 +151,39 @@ END
 $$;
 
 CALL split_json_file()
+
+
+-- Защита
+
+WITH NewBer(ManufId, BeerCount) AS (
+    SELECT manufacturer, COUNT(*) AS Total
+    FROM beer_table b JOIN beer_manuf_table bm ON b.mark = bm.mark
+    GROUP BY bm.manufacturer
+)
+SELECT * FROM NewBer;
+
+
+CREATE TABLE IF NOT EXISTS def_table (
+    manufid INT,
+    beercount INT
+);
+
+DROP TABLE def_table;
+
+-- chmod uog+w <json name>
+COPY
+(
+    SELECT row_to_json(opa) RESULT FROM 
+    (
+        SELECT manufacturer, COUNT(*) AS Total
+        FROM beer_table b JOIN beer_manuf_table bm ON b.mark = bm.mark
+        GROUP BY bm.manufacturer
+    ) AS opa
+)
+TO '/var/lib/postgresql/data/pgdata/json-tables/def.json';
+
+CREATE TABLE IF NOT EXISTS def_import(beer json);
+
+COPY def_import FROM '/var/lib/postgresql/data/pgdata/json-tables/def.json';
+
+SELECT * FROM def_import;

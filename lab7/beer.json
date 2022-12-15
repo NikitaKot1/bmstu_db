@@ -1,0 +1,6002 @@
+[
+    {
+        "mark": "Weihenstephaner Zoigl",
+        "alko": 5.7,
+        "volume": 0.48,
+        "price": 47
+    },
+    {
+        "mark": "House Dark",
+        "alko": 7.8,
+        "volume": 0.34,
+        "price": 213
+    },
+    {
+        "mark": "Spaten Frankenheim",
+        "alko": 7.5,
+        "volume": 0.47,
+        "price": 98
+    },
+    {
+        "mark": "M\u00f6nchshof",
+        "alko": 9.6,
+        "volume": 0.38,
+        "price": 215
+    },
+    {
+        "mark": "Ur-Weisse",
+        "alko": 7.4,
+        "volume": 0.34,
+        "price": 108
+    },
+    {
+        "mark": "Dunkel",
+        "alko": 0.7,
+        "volume": 0.37,
+        "price": 263
+    },
+    {
+        "mark": "Andechser Hacker M\u00e4rzen",
+        "alko": 9.0,
+        "volume": 0.43,
+        "price": 80
+    },
+    {
+        "mark": "Mitterteich Maibock",
+        "alko": 1.4,
+        "volume": 0.45,
+        "price": 108
+    },
+    {
+        "mark": "Urbock",
+        "alko": 4.7,
+        "volume": 0.43,
+        "price": 239
+    },
+    {
+        "mark": "Brothers Schumacher",
+        "alko": 3.7,
+        "volume": 0.42,
+        "price": 279
+    },
+    {
+        "mark": "M\u00fcnchen",
+        "alko": 2.1,
+        "volume": 0.47,
+        "price": 57
+    },
+    {
+        "mark": "Pschorr Oktoberfest Urbock",
+        "alko": 4.8,
+        "volume": 0.35,
+        "price": 233
+    },
+    {
+        "mark": "Kloster Ottos",
+        "alko": 0.4,
+        "volume": 0.44,
+        "price": 139
+    },
+    {
+        "mark": "Andechser Schlenkerla Rauchbier Urbock",
+        "alko": 3.9,
+        "volume": 0.43,
+        "price": 99
+    },
+    {
+        "mark": "Zoigl Aventinus Maisel",
+        "alko": 5.9,
+        "volume": 0.33,
+        "price": 148
+    },
+    {
+        "mark": "Erdinger",
+        "alko": 3.0,
+        "volume": 0.42,
+        "price": 258
+    },
+    {
+        "mark": "Buttenheimer Hacker Becks",
+        "alko": 8.4,
+        "volume": 0.4,
+        "price": 139
+    },
+    {
+        "mark": "Pschorr Oktoberfest Dortmunder",
+        "alko": 5.1,
+        "volume": 0.46,
+        "price": 173
+    },
+    {
+        "mark": "Hacker-Pschorr Fr\u00fch",
+        "alko": 9.6,
+        "volume": 0.42,
+        "price": 259
+    },
+    {
+        "mark": "Rauchbier",
+        "alko": 1.9,
+        "volume": 0.42,
+        "price": 228
+    },
+    {
+        "mark": "M\u00fchlen",
+        "alko": 5.4,
+        "volume": 0.34,
+        "price": 183
+    },
+    {
+        "mark": "Hacker Korbinian",
+        "alko": 0.1,
+        "volume": 0.42,
+        "price": 240
+    },
+    {
+        "mark": "Dampfbier",
+        "alko": 7.5,
+        "volume": 0.48,
+        "price": 182
+    },
+    {
+        "mark": "M\u00f6nchshof Brauerei Krombacher",
+        "alko": 6.0,
+        "volume": 0.4,
+        "price": 142
+    },
+    {
+        "mark": "Weihenstephaner Doppelbock M\u00fchlen",
+        "alko": 1.3,
+        "volume": 0.49,
+        "price": 154
+    },
+    {
+        "mark": "Hacker-Pschorr Spezial",
+        "alko": 4.2,
+        "volume": 0.35,
+        "price": 227
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Erdinger",
+        "alko": 9.2,
+        "volume": 0.43,
+        "price": 96
+    },
+    {
+        "mark": "Weihenstephaner Kellerbier",
+        "alko": 2.3,
+        "volume": 0.37,
+        "price": 277
+    },
+    {
+        "mark": "Pschorr Oktoberfest Altenauer",
+        "alko": 2.0,
+        "volume": 0.36,
+        "price": 120
+    },
+    {
+        "mark": "Franziskaner Hefe-Weisse Optimator",
+        "alko": 8.5,
+        "volume": 0.45,
+        "price": 179
+    },
+    {
+        "mark": "Kloster Scurry",
+        "alko": 9.4,
+        "volume": 0.41,
+        "price": 31
+    },
+    {
+        "mark": "Augustinerbr\u00e4u",
+        "alko": 6.5,
+        "volume": 0.5,
+        "price": 225
+    },
+    {
+        "mark": "Optimator",
+        "alko": 8.8,
+        "volume": 0.48,
+        "price": 167
+    },
+    {
+        "mark": "Zoigl Spaten",
+        "alko": 3.2,
+        "volume": 0.44,
+        "price": 220
+    },
+    {
+        "mark": "Schneider Krombacher",
+        "alko": 8.5,
+        "volume": 0.36,
+        "price": 29
+    },
+    {
+        "mark": "Hermannator Ice Br\u00e4u",
+        "alko": 0.7,
+        "volume": 0.38,
+        "price": 76
+    },
+    {
+        "mark": "Hefe-Weisse Scurry",
+        "alko": 6.2,
+        "volume": 0.42,
+        "price": 230
+    },
+    {
+        "mark": "Hacker Reissdorf",
+        "alko": 7.3,
+        "volume": 0.48,
+        "price": 259
+    },
+    {
+        "mark": "Ayinger Huberts Frankenheim",
+        "alko": 3.3,
+        "volume": 0.35,
+        "price": 243
+    },
+    {
+        "mark": "Unser Ottos",
+        "alko": 6.6,
+        "volume": 0.49,
+        "price": 105
+    },
+    {
+        "mark": "Alt-Bayerisch Pschorr Oktoberfest Ayilinger",
+        "alko": 1.3,
+        "volume": 0.33,
+        "price": 159
+    },
+    {
+        "mark": "Buttenheimer Flensburger",
+        "alko": 0.2,
+        "volume": 0.4,
+        "price": 112
+    },
+    {
+        "mark": "Hacker Erdinger Dunkel",
+        "alko": 0.4,
+        "volume": 0.39,
+        "price": 204
+    },
+    {
+        "mark": "Brothers Gaffel",
+        "alko": 8.5,
+        "volume": 0.5,
+        "price": 275
+    },
+    {
+        "mark": "G\u00e4nstaller Bier",
+        "alko": 5.7,
+        "volume": 0.4,
+        "price": 237
+    },
+    {
+        "mark": "Hacker Dortmunder",
+        "alko": 2.9,
+        "volume": 0.37,
+        "price": 281
+    },
+    {
+        "mark": "Diebels",
+        "alko": 3.4,
+        "volume": 0.4,
+        "price": 98
+    },
+    {
+        "mark": "Dark",
+        "alko": 6.7,
+        "volume": 0.49,
+        "price": 74
+    },
+    {
+        "mark": "Alt-Bayerisch Jahrhundert Aventinus",
+        "alko": 2.2,
+        "volume": 0.33,
+        "price": 112
+    },
+    {
+        "mark": "Ottos",
+        "alko": 5.3,
+        "volume": 0.41,
+        "price": 107
+    },
+    {
+        "mark": "Hacker Spezial",
+        "alko": 9.2,
+        "volume": 0.4,
+        "price": 41
+    },
+    {
+        "mark": "Franziskaner G\u00e4nstaller Maibock",
+        "alko": 5.6,
+        "volume": 0.43,
+        "price": 276
+    },
+    {
+        "mark": "Weizen-Eisbock",
+        "alko": 5.4,
+        "volume": 0.48,
+        "price": 125
+    },
+    {
+        "mark": "Pschorr Oktoberfest Warsteiner",
+        "alko": 8.3,
+        "volume": 0.34,
+        "price": 148
+    },
+    {
+        "mark": "Franziskaner Oktoberfest",
+        "alko": 7.8,
+        "volume": 0.49,
+        "price": 167
+    },
+    {
+        "mark": "Hofbr\u00e4u Maibock",
+        "alko": 5.1,
+        "volume": 0.4,
+        "price": 165
+    },
+    {
+        "mark": "Steam",
+        "alko": 2.8,
+        "volume": 0.46,
+        "price": 179
+    },
+    {
+        "mark": "1516 Radeberger",
+        "alko": 2.1,
+        "volume": 0.45,
+        "price": 266
+    },
+    {
+        "mark": "Franziskaner Hefe-Weisse Warsteiner",
+        "alko": 9.8,
+        "volume": 0.46,
+        "price": 258
+    },
+    {
+        "mark": "M\u00f6nchshof Spezial",
+        "alko": 1.3,
+        "volume": 0.43,
+        "price": 203
+    },
+    {
+        "mark": "Buttenheimer Hacker Br\u00e4u",
+        "alko": 6.7,
+        "volume": 0.37,
+        "price": 59
+    },
+    {
+        "mark": "Ayinger Unser Oettingen",
+        "alko": 9.0,
+        "volume": 0.36,
+        "price": 175
+    },
+    {
+        "mark": "Erdinger Bier",
+        "alko": 9.5,
+        "volume": 0.5,
+        "price": 231
+    },
+    {
+        "mark": "Pfarrbr\u00e4u",
+        "alko": 3.6,
+        "volume": 0.5,
+        "price": 226
+    },
+    {
+        "mark": "Spaten Diebels",
+        "alko": 2.4,
+        "volume": 0.41,
+        "price": 66
+    },
+    {
+        "mark": "Franziskaner Pschorr Oktoberfest Lager",
+        "alko": 3.8,
+        "volume": 0.5,
+        "price": 269
+    },
+    {
+        "mark": "Pschorr",
+        "alko": 6.7,
+        "volume": 0.35,
+        "price": 200
+    },
+    {
+        "mark": "Hofbr\u00e4u Paulaner",
+        "alko": 6.6,
+        "volume": 0.45,
+        "price": 94
+    },
+    {
+        "mark": "Hermannator Ice Pschorr Oktoberfest Drop",
+        "alko": 3.9,
+        "volume": 0.33,
+        "price": 197
+    },
+    {
+        "mark": "Spaten Becks",
+        "alko": 5.3,
+        "volume": 0.42,
+        "price": 82
+    },
+    {
+        "mark": "House Steam",
+        "alko": 3.7,
+        "volume": 0.46,
+        "price": 246
+    },
+    {
+        "mark": "Kloster Dampfbierbrauerei Dark",
+        "alko": 6.5,
+        "volume": 0.39,
+        "price": 151
+    },
+    {
+        "mark": "Aventinus Dampfbier",
+        "alko": 4.0,
+        "volume": 0.37,
+        "price": 181
+    },
+    {
+        "mark": "Hacker-Pschorr Hacker M\u00fchlen",
+        "alko": 0.2,
+        "volume": 0.49,
+        "price": 167
+    },
+    {
+        "mark": "Brothers Bier",
+        "alko": 8.7,
+        "volume": 0.38,
+        "price": 55
+    },
+    {
+        "mark": "Zoigl",
+        "alko": 7.5,
+        "volume": 0.37,
+        "price": 66
+    },
+    {
+        "mark": "Krombacher",
+        "alko": 8.1,
+        "volume": 0.48,
+        "price": 130
+    },
+    {
+        "mark": "Roggen",
+        "alko": 0.2,
+        "volume": 0.42,
+        "price": 160
+    },
+    {
+        "mark": "House Brauerei Paulaner",
+        "alko": 4.0,
+        "volume": 0.46,
+        "price": 100
+    },
+    {
+        "mark": "M\u00f6nchshof Brauerei Oettingen",
+        "alko": 8.0,
+        "volume": 0.43,
+        "price": 164
+    },
+    {
+        "mark": "Alt-Bayerisch Brauerei K\u00f6llner",
+        "alko": 2.2,
+        "volume": 0.37,
+        "price": 185
+    },
+    {
+        "mark": "Reissdorf",
+        "alko": 7.0,
+        "volume": 0.48,
+        "price": 272
+    },
+    {
+        "mark": "Mitterteich Korbinian",
+        "alko": 8.3,
+        "volume": 0.5,
+        "price": 163
+    },
+    {
+        "mark": "Alt-Bayerisch Roggen",
+        "alko": 4.3,
+        "volume": 0.34,
+        "price": 274
+    },
+    {
+        "mark": "M\u00f6nchshof Brothers Br\u00e4u",
+        "alko": 1.1,
+        "volume": 0.4,
+        "price": 155
+    },
+    {
+        "mark": "Franziskaner Brewing Maisel",
+        "alko": 7.2,
+        "volume": 0.41,
+        "price": 127
+    },
+    {
+        "mark": "Brothers Br\u00e4u",
+        "alko": 5.6,
+        "volume": 0.42,
+        "price": 233
+    },
+    {
+        "mark": "House Radeberger",
+        "alko": 9.7,
+        "volume": 0.33,
+        "price": 111
+    },
+    {
+        "mark": "Huberts Reissdorf",
+        "alko": 6.2,
+        "volume": 0.42,
+        "price": 200
+    },
+    {
+        "mark": "Dampfbierbrauerei K\u00f6llner",
+        "alko": 8.9,
+        "volume": 0.43,
+        "price": 257
+    },
+    {
+        "mark": "Franziskaner Brothers Urbock",
+        "alko": 3.8,
+        "volume": 0.42,
+        "price": 172
+    },
+    {
+        "mark": "Bitburger",
+        "alko": 2.8,
+        "volume": 0.48,
+        "price": 54
+    },
+    {
+        "mark": "Frankenheim",
+        "alko": 9.2,
+        "volume": 0.33,
+        "price": 42
+    },
+    {
+        "mark": "Ayinger Dark",
+        "alko": 3.6,
+        "volume": 0.38,
+        "price": 68
+    },
+    {
+        "mark": "Weihenstephaner Doppelbock K\u00f6llner",
+        "alko": 8.7,
+        "volume": 0.44,
+        "price": 93
+    },
+    {
+        "mark": "Franziskaner 1516 M\u00f6nchshof",
+        "alko": 8.4,
+        "volume": 0.47,
+        "price": 253
+    },
+    {
+        "mark": "Salvator",
+        "alko": 1.8,
+        "volume": 0.37,
+        "price": 243
+    },
+    {
+        "mark": "Buttenheimer Ottos",
+        "alko": 5.2,
+        "volume": 0.44,
+        "price": 49
+    },
+    {
+        "mark": "Ayinger Paulaner",
+        "alko": 6.2,
+        "volume": 0.5,
+        "price": 219
+    },
+    {
+        "mark": "Hacker-Pschorr Brothers Bock",
+        "alko": 8.2,
+        "volume": 0.37,
+        "price": 130
+    },
+    {
+        "mark": "Brothers G\u00f6ller",
+        "alko": 2.7,
+        "volume": 0.38,
+        "price": 196
+    },
+    {
+        "mark": "Br\u00e4u",
+        "alko": 0.7,
+        "volume": 0.34,
+        "price": 151
+    },
+    {
+        "mark": "1516 Ur-Weisse",
+        "alko": 0.9,
+        "volume": 0.42,
+        "price": 239
+    },
+    {
+        "mark": "Oettingen",
+        "alko": 6.5,
+        "volume": 0.44,
+        "price": 208
+    },
+    {
+        "mark": "Zoigl Optimator",
+        "alko": 1.8,
+        "volume": 0.46,
+        "price": 41
+    },
+    {
+        "mark": "Schneider Oettingen",
+        "alko": 1.4,
+        "volume": 0.49,
+        "price": 131
+    },
+    {
+        "mark": "House Br\u00e4u",
+        "alko": 3.4,
+        "volume": 0.48,
+        "price": 248
+    },
+    {
+        "mark": "Hermannator Ice Aventinus",
+        "alko": 1.3,
+        "volume": 0.37,
+        "price": 56
+    },
+    {
+        "mark": "Erdinger Franziskaner",
+        "alko": 5.1,
+        "volume": 0.39,
+        "price": 74
+    },
+    {
+        "mark": "1516 Br\u00e4u",
+        "alko": 6.4,
+        "volume": 0.42,
+        "price": 246
+    },
+    {
+        "mark": "Lager",
+        "alko": 8.0,
+        "volume": 0.45,
+        "price": 138
+    },
+    {
+        "mark": "Mitterteich Optimator",
+        "alko": 7.0,
+        "volume": 0.35,
+        "price": 93
+    },
+    {
+        "mark": "Buttenheimer Ayinger Oettingen",
+        "alko": 7.3,
+        "volume": 0.35,
+        "price": 34
+    },
+    {
+        "mark": "Alt-Bayerisch Mitterteich Br\u00e4u",
+        "alko": 5.2,
+        "volume": 0.46,
+        "price": 163
+    },
+    {
+        "mark": "Hacker Krombacher",
+        "alko": 9.0,
+        "volume": 0.41,
+        "price": 126
+    },
+    {
+        "mark": "Weihenstephaner Brothers Urbock",
+        "alko": 3.9,
+        "volume": 0.4,
+        "price": 103
+    },
+    {
+        "mark": "Franziskaner Zoiglbauer",
+        "alko": 9.1,
+        "volume": 0.39,
+        "price": 211
+    },
+    {
+        "mark": "Jahrhundert Gaffel",
+        "alko": 2.2,
+        "volume": 0.34,
+        "price": 268
+    },
+    {
+        "mark": "Hacker Dampfbier",
+        "alko": 1.1,
+        "volume": 0.36,
+        "price": 280
+    },
+    {
+        "mark": "Aventinus Dunkel",
+        "alko": 6.8,
+        "volume": 0.47,
+        "price": 55
+    },
+    {
+        "mark": "House Gaffel",
+        "alko": 7.1,
+        "volume": 0.4,
+        "price": 87
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Zoigl",
+        "alko": 1.5,
+        "volume": 0.43,
+        "price": 108
+    },
+    {
+        "mark": "Brothers Radeberger",
+        "alko": 5.7,
+        "volume": 0.47,
+        "price": 176
+    },
+    {
+        "mark": "Hacker-Pschorr Brewing Frankenheim",
+        "alko": 7.4,
+        "volume": 0.44,
+        "price": 281
+    },
+    {
+        "mark": "Buttenheimer Schlenkerla Rauchbier Bier",
+        "alko": 5.5,
+        "volume": 0.37,
+        "price": 265
+    },
+    {
+        "mark": "Alt-Bayerisch Ayinger Maibock",
+        "alko": 9.3,
+        "volume": 0.5,
+        "price": 47
+    },
+    {
+        "mark": "Weihenstephaner Aventinus",
+        "alko": 0.6,
+        "volume": 0.4,
+        "price": 165
+    },
+    {
+        "mark": "Kloster Unser Bitburger",
+        "alko": 1.4,
+        "volume": 0.42,
+        "price": 249
+    },
+    {
+        "mark": "Weihenstephaner Paulaner",
+        "alko": 5.7,
+        "volume": 0.44,
+        "price": 81
+    },
+    {
+        "mark": "House Doppelbock Dunkel",
+        "alko": 8.4,
+        "volume": 0.42,
+        "price": 251
+    },
+    {
+        "mark": "Ayilinger",
+        "alko": 7.7,
+        "volume": 0.5,
+        "price": 46
+    },
+    {
+        "mark": "Hacker Pikantus",
+        "alko": 1.6,
+        "volume": 0.42,
+        "price": 203
+    },
+    {
+        "mark": "Maibock",
+        "alko": 9.1,
+        "volume": 0.37,
+        "price": 267
+    },
+    {
+        "mark": "House Huberts Erdinger",
+        "alko": 2.2,
+        "volume": 0.35,
+        "price": 153
+    },
+    {
+        "mark": "Hacker-Pschorr Lager",
+        "alko": 4.1,
+        "volume": 0.47,
+        "price": 280
+    },
+    {
+        "mark": "Scurry",
+        "alko": 4.6,
+        "volume": 0.38,
+        "price": 185
+    },
+    {
+        "mark": "Brauerei Lager",
+        "alko": 6.1,
+        "volume": 0.35,
+        "price": 229
+    },
+    {
+        "mark": "House Pschorr Oktoberfest Bock",
+        "alko": 7.4,
+        "volume": 0.39,
+        "price": 137
+    },
+    {
+        "mark": "Schneider Brewing Lager",
+        "alko": 0.2,
+        "volume": 0.44,
+        "price": 280
+    },
+    {
+        "mark": "Alt-Bayerisch Gaffel",
+        "alko": 7.2,
+        "volume": 0.4,
+        "price": 237
+    },
+    {
+        "mark": "Warsteiner",
+        "alko": 1.5,
+        "volume": 0.46,
+        "price": 210
+    },
+    {
+        "mark": "Zoigl Bock",
+        "alko": 2.9,
+        "volume": 0.35,
+        "price": 119
+    },
+    {
+        "mark": "Franziskaner Scurry",
+        "alko": 2.3,
+        "volume": 0.34,
+        "price": 116
+    },
+    {
+        "mark": "Zoiglbauer",
+        "alko": 1.8,
+        "volume": 0.39,
+        "price": 121
+    },
+    {
+        "mark": "Mitterteich Ottos",
+        "alko": 8.4,
+        "volume": 0.44,
+        "price": 88
+    },
+    {
+        "mark": "Weihenstephaner Brauerei Schumacher",
+        "alko": 4.6,
+        "volume": 0.46,
+        "price": 171
+    },
+    {
+        "mark": "Brewing Paulaner",
+        "alko": 5.2,
+        "volume": 0.44,
+        "price": 55
+    },
+    {
+        "mark": "Paulaner",
+        "alko": 6.5,
+        "volume": 0.37,
+        "price": 112
+    },
+    {
+        "mark": "Weihenstephaner Brauerei Bier",
+        "alko": 8.5,
+        "volume": 0.43,
+        "price": 88
+    },
+    {
+        "mark": "Ayinger Br\u00e4u",
+        "alko": 4.3,
+        "volume": 0.38,
+        "price": 128
+    },
+    {
+        "mark": "Hefe-Weisse M\u00fchlen",
+        "alko": 6.1,
+        "volume": 0.36,
+        "price": 200
+    },
+    {
+        "mark": "Hacker Br\u00e4u",
+        "alko": 7.5,
+        "volume": 0.39,
+        "price": 56
+    },
+    {
+        "mark": "Andechser Oettingen",
+        "alko": 4.4,
+        "volume": 0.41,
+        "price": 162
+    },
+    {
+        "mark": "Weihenstephaner Brewing Flensburger",
+        "alko": 1.3,
+        "volume": 0.36,
+        "price": 218
+    },
+    {
+        "mark": "House Brewing Flensburger",
+        "alko": 6.1,
+        "volume": 0.46,
+        "price": 267
+    },
+    {
+        "mark": "Schneider Dampfbier",
+        "alko": 1.9,
+        "volume": 0.37,
+        "price": 135
+    },
+    {
+        "mark": "Hermannator Ice Brewing Weizen-Eisbock",
+        "alko": 0.9,
+        "volume": 0.5,
+        "price": 67
+    },
+    {
+        "mark": "Hofbr\u00e4u M\u00f6nchshof",
+        "alko": 2.8,
+        "volume": 0.38,
+        "price": 194
+    },
+    {
+        "mark": "Doppelbock Bier",
+        "alko": 3.0,
+        "volume": 0.44,
+        "price": 256
+    },
+    {
+        "mark": "Dampfbierbrauerei Pschorr",
+        "alko": 2.1,
+        "volume": 0.4,
+        "price": 204
+    },
+    {
+        "mark": "Hermannator Ice Brewing Dark",
+        "alko": 4.9,
+        "volume": 0.46,
+        "price": 50
+    },
+    {
+        "mark": "Hacker-Pschorr Hofbr\u00e4u Augustinerbr\u00e4u",
+        "alko": 2.5,
+        "volume": 0.38,
+        "price": 156
+    },
+    {
+        "mark": "Alt-Bayerisch Aventinus",
+        "alko": 8.9,
+        "volume": 0.35,
+        "price": 233
+    },
+    {
+        "mark": "Erdinger Ur-Weisse",
+        "alko": 8.3,
+        "volume": 0.33,
+        "price": 211
+    },
+    {
+        "mark": "Ayinger Altenauer",
+        "alko": 0.7,
+        "volume": 0.37,
+        "price": 183
+    },
+    {
+        "mark": "M\u00f6nchshof Brothers Scurry",
+        "alko": 5.8,
+        "volume": 0.46,
+        "price": 172
+    },
+    {
+        "mark": "Spaten 1516 Erdinger",
+        "alko": 6.8,
+        "volume": 0.33,
+        "price": 45
+    },
+    {
+        "mark": "Andechser Hofbr\u00e4u G\u00f6ller",
+        "alko": 1.8,
+        "volume": 0.42,
+        "price": 278
+    },
+    {
+        "mark": "Dampfbierbrauerei Bier",
+        "alko": 2.7,
+        "volume": 0.44,
+        "price": 175
+    },
+    {
+        "mark": "Brauerei M\u00e4rzen",
+        "alko": 9.5,
+        "volume": 0.37,
+        "price": 47
+    },
+    {
+        "mark": "Ayinger Brewing Dark",
+        "alko": 4.1,
+        "volume": 0.42,
+        "price": 188
+    },
+    {
+        "mark": "Alt-Bayerisch G\u00e4nstaller K\u00f6stritzer",
+        "alko": 9.7,
+        "volume": 0.48,
+        "price": 148
+    },
+    {
+        "mark": "Weihenstephaner Lager",
+        "alko": 4.6,
+        "volume": 0.47,
+        "price": 132
+    },
+    {
+        "mark": "Spezial",
+        "alko": 8.9,
+        "volume": 0.47,
+        "price": 176
+    },
+    {
+        "mark": "Zoigl Huberts K\u00f6llner",
+        "alko": 7.5,
+        "volume": 0.34,
+        "price": 109
+    },
+    {
+        "mark": "Spaten Schlenkerla Rauchbier Oktoberfest",
+        "alko": 9.6,
+        "volume": 0.35,
+        "price": 179
+    },
+    {
+        "mark": "Andechser Diebels",
+        "alko": 5.5,
+        "volume": 0.43,
+        "price": 184
+    },
+    {
+        "mark": "Weihenstephaner Radeberger",
+        "alko": 4.8,
+        "volume": 0.46,
+        "price": 187
+    },
+    {
+        "mark": "Hermannator Ice Dunkel",
+        "alko": 9.3,
+        "volume": 0.49,
+        "price": 206
+    },
+    {
+        "mark": "Pschorr Oktoberfest Radeberger",
+        "alko": 4.7,
+        "volume": 0.39,
+        "price": 69
+    },
+    {
+        "mark": "Alt-Bayerisch Hefe-Weisse M\u00e4rzen",
+        "alko": 6.7,
+        "volume": 0.42,
+        "price": 266
+    },
+    {
+        "mark": "Weihenstephaner Brauerei Optimator",
+        "alko": 7.8,
+        "volume": 0.35,
+        "price": 265
+    },
+    {
+        "mark": "Alt-Bayerisch Paulaner Steam",
+        "alko": 2.6,
+        "volume": 0.47,
+        "price": 259
+    },
+    {
+        "mark": "Schneider Ottos",
+        "alko": 0.2,
+        "volume": 0.43,
+        "price": 82
+    },
+    {
+        "mark": "Hofbr\u00e4u M\u00fcnchen",
+        "alko": 3.6,
+        "volume": 0.35,
+        "price": 268
+    },
+    {
+        "mark": "Weihenstephaner Brewing Dortmunder",
+        "alko": 4.0,
+        "volume": 0.5,
+        "price": 118
+    },
+    {
+        "mark": "Hacker Dampfbierbrauerei Warsteiner",
+        "alko": 9.5,
+        "volume": 0.36,
+        "price": 143
+    },
+    {
+        "mark": "Kloster Hefe-Weisse Roggen",
+        "alko": 4.4,
+        "volume": 0.5,
+        "price": 67
+    },
+    {
+        "mark": "House Becks",
+        "alko": 0.3,
+        "volume": 0.38,
+        "price": 276
+    },
+    {
+        "mark": "Andechser Hacker Lager",
+        "alko": 3.8,
+        "volume": 0.34,
+        "price": 197
+    },
+    {
+        "mark": "Hacker Oktoberfest",
+        "alko": 0.3,
+        "volume": 0.34,
+        "price": 69
+    },
+    {
+        "mark": "Aventinus Optimator",
+        "alko": 0.2,
+        "volume": 0.34,
+        "price": 212
+    },
+    {
+        "mark": "Andechser Ottos",
+        "alko": 6.8,
+        "volume": 0.47,
+        "price": 86
+    },
+    {
+        "mark": "Weihenstephaner Spezial",
+        "alko": 9.4,
+        "volume": 0.4,
+        "price": 216
+    },
+    {
+        "mark": "G\u00e4nstaller Oktoberfest",
+        "alko": 7.6,
+        "volume": 0.42,
+        "price": 29
+    },
+    {
+        "mark": "M\u00f6nchshof Ayinger Br\u00e4u",
+        "alko": 5.3,
+        "volume": 0.38,
+        "price": 168
+    },
+    {
+        "mark": "Weihenstephaner Weizen-Eisbock",
+        "alko": 1.6,
+        "volume": 0.43,
+        "price": 168
+    },
+    {
+        "mark": "Hermannator Ice Unser Ayilinger",
+        "alko": 1.3,
+        "volume": 0.33,
+        "price": 181
+    },
+    {
+        "mark": "Hermannator Ice Hacker Spezial",
+        "alko": 5.8,
+        "volume": 0.34,
+        "price": 228
+    },
+    {
+        "mark": "Dortmunder",
+        "alko": 6.1,
+        "volume": 0.46,
+        "price": 257
+    },
+    {
+        "mark": "Spaten",
+        "alko": 5.1,
+        "volume": 0.33,
+        "price": 190
+    },
+    {
+        "mark": "Paulaner Salvator",
+        "alko": 0.4,
+        "volume": 0.39,
+        "price": 157
+    },
+    {
+        "mark": "Franziskaner Augustinerbr\u00e4u",
+        "alko": 3.0,
+        "volume": 0.4,
+        "price": 234
+    },
+    {
+        "mark": "Kloster 1516 Ottos",
+        "alko": 2.7,
+        "volume": 0.45,
+        "price": 93
+    },
+    {
+        "mark": "Schneider Brewing Reissdorf",
+        "alko": 5.9,
+        "volume": 0.33,
+        "price": 165
+    },
+    {
+        "mark": "Hacker Hefe-Weisse Dark",
+        "alko": 4.9,
+        "volume": 0.37,
+        "price": 148
+    },
+    {
+        "mark": "M\u00f6nchshof Huberts Steam",
+        "alko": 6.1,
+        "volume": 0.33,
+        "price": 29
+    },
+    {
+        "mark": "Weihenstephaner Paulaner Pfarrbr\u00e4u",
+        "alko": 9.6,
+        "volume": 0.5,
+        "price": 95
+    },
+    {
+        "mark": "Drop",
+        "alko": 3.3,
+        "volume": 0.49,
+        "price": 111
+    },
+    {
+        "mark": "Gaffel",
+        "alko": 4.8,
+        "volume": 0.36,
+        "price": 49
+    },
+    {
+        "mark": "Brewing Rauchbier",
+        "alko": 6.4,
+        "volume": 0.46,
+        "price": 151
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Oettingen",
+        "alko": 3.9,
+        "volume": 0.38,
+        "price": 42
+    },
+    {
+        "mark": "Ayinger Bock",
+        "alko": 1.1,
+        "volume": 0.44,
+        "price": 125
+    },
+    {
+        "mark": "Spaten Hefe-Weisse Augustinerbr\u00e4u",
+        "alko": 3.0,
+        "volume": 0.47,
+        "price": 109
+    },
+    {
+        "mark": "Andechser Becks",
+        "alko": 6.1,
+        "volume": 0.43,
+        "price": 128
+    },
+    {
+        "mark": "Mitterteich Lager",
+        "alko": 6.6,
+        "volume": 0.45,
+        "price": 228
+    },
+    {
+        "mark": "Mitterteich Radeberger",
+        "alko": 7.8,
+        "volume": 0.44,
+        "price": 138
+    },
+    {
+        "mark": "Aventinus Fr\u00fch",
+        "alko": 2.4,
+        "volume": 0.46,
+        "price": 234
+    },
+    {
+        "mark": "Pikantus",
+        "alko": 7.8,
+        "volume": 0.47,
+        "price": 178
+    },
+    {
+        "mark": "1516 Dampfbier",
+        "alko": 6.3,
+        "volume": 0.41,
+        "price": 160
+    },
+    {
+        "mark": "Alt-Bayerisch Ur-Weisse",
+        "alko": 3.3,
+        "volume": 0.34,
+        "price": 229
+    },
+    {
+        "mark": "Buttenheimer Korbinian",
+        "alko": 7.6,
+        "volume": 0.39,
+        "price": 258
+    },
+    {
+        "mark": "Unser Zoiglbauer",
+        "alko": 6.0,
+        "volume": 0.47,
+        "price": 138
+    },
+    {
+        "mark": "Andechser Mitterteich Korbinian",
+        "alko": 1.3,
+        "volume": 0.49,
+        "price": 61
+    },
+    {
+        "mark": "Buttenheimer Ritterguts",
+        "alko": 3.2,
+        "volume": 0.46,
+        "price": 259
+    },
+    {
+        "mark": "Hacker Dampfbierbrauerei Dortmunder",
+        "alko": 7.0,
+        "volume": 0.39,
+        "price": 218
+    },
+    {
+        "mark": "Korbinian",
+        "alko": 2.7,
+        "volume": 0.42,
+        "price": 141
+    },
+    {
+        "mark": "Alt-Bayerisch Pfarrbr\u00e4u",
+        "alko": 5.0,
+        "volume": 0.34,
+        "price": 59
+    },
+    {
+        "mark": "Kloster Unser M\u00f6nchshof",
+        "alko": 9.0,
+        "volume": 0.38,
+        "price": 167
+    },
+    {
+        "mark": "1516 Spezial",
+        "alko": 5.9,
+        "volume": 0.33,
+        "price": 176
+    },
+    {
+        "mark": "Unser Steam",
+        "alko": 8.6,
+        "volume": 0.39,
+        "price": 195
+    },
+    {
+        "mark": "Hofbr\u00e4u Ayilinger",
+        "alko": 3.9,
+        "volume": 0.42,
+        "price": 41
+    },
+    {
+        "mark": "Dampfbierbrauerei Franziskaner",
+        "alko": 7.0,
+        "volume": 0.42,
+        "price": 67
+    },
+    {
+        "mark": "Altenauer",
+        "alko": 4.8,
+        "volume": 0.37,
+        "price": 245
+    },
+    {
+        "mark": "Zoigl Pschorr Oktoberfest K\u00f6llner",
+        "alko": 0.8,
+        "volume": 0.34,
+        "price": 145
+    },
+    {
+        "mark": "Hacker-Pschorr Dampfbier",
+        "alko": 4.9,
+        "volume": 0.49,
+        "price": 171
+    },
+    {
+        "mark": "Franziskaner Maibock",
+        "alko": 10.0,
+        "volume": 0.36,
+        "price": 237
+    },
+    {
+        "mark": "Franziskaner Brewing Dampfbier",
+        "alko": 7.9,
+        "volume": 0.46,
+        "price": 61
+    },
+    {
+        "mark": "Andechser Flensburger",
+        "alko": 9.4,
+        "volume": 0.48,
+        "price": 152
+    },
+    {
+        "mark": "Erdinger Ritterguts",
+        "alko": 9.5,
+        "volume": 0.43,
+        "price": 30
+    },
+    {
+        "mark": "Andechser Bitburger",
+        "alko": 0.2,
+        "volume": 0.47,
+        "price": 106
+    },
+    {
+        "mark": "Unser Bock",
+        "alko": 7.3,
+        "volume": 0.35,
+        "price": 246
+    },
+    {
+        "mark": "Unser Radeberger",
+        "alko": 7.1,
+        "volume": 0.42,
+        "price": 270
+    },
+    {
+        "mark": "Aventinus",
+        "alko": 5.0,
+        "volume": 0.49,
+        "price": 71
+    },
+    {
+        "mark": "Hacker 1516 Paulaner",
+        "alko": 1.0,
+        "volume": 0.44,
+        "price": 277
+    },
+    {
+        "mark": "Alt-Bayerisch Hefe-Weisse Krombacher",
+        "alko": 6.3,
+        "volume": 0.41,
+        "price": 185
+    },
+    {
+        "mark": "G\u00e4nstaller Ottos",
+        "alko": 6.4,
+        "volume": 0.34,
+        "price": 108
+    },
+    {
+        "mark": "Hefe-Weisse Frankenheim",
+        "alko": 3.0,
+        "volume": 0.43,
+        "price": 192
+    },
+    {
+        "mark": "M\u00f6nchshof Aventinus Fr\u00fch",
+        "alko": 1.9,
+        "volume": 0.45,
+        "price": 262
+    },
+    {
+        "mark": "Hacker 1516 Ritterguts",
+        "alko": 0.8,
+        "volume": 0.46,
+        "price": 90
+    },
+    {
+        "mark": "Zoigl Pschorr Oktoberfest Radeberger",
+        "alko": 7.0,
+        "volume": 0.36,
+        "price": 104
+    },
+    {
+        "mark": "Brauerei Aventinus",
+        "alko": 1.3,
+        "volume": 0.37,
+        "price": 146
+    },
+    {
+        "mark": "Buttenheimer Brothers Kellerbier",
+        "alko": 5.1,
+        "volume": 0.45,
+        "price": 135
+    },
+    {
+        "mark": "Ayinger Dampfbierbrauerei M\u00e4rzen",
+        "alko": 4.2,
+        "volume": 0.39,
+        "price": 94
+    },
+    {
+        "mark": "Andechser Maibock",
+        "alko": 8.9,
+        "volume": 0.35,
+        "price": 114
+    },
+    {
+        "mark": "Aventinus Korbinian",
+        "alko": 5.4,
+        "volume": 0.45,
+        "price": 235
+    },
+    {
+        "mark": "Zoigl Dortmunder",
+        "alko": 8.2,
+        "volume": 0.36,
+        "price": 180
+    },
+    {
+        "mark": "Fr\u00fch",
+        "alko": 1.2,
+        "volume": 0.4,
+        "price": 245
+    },
+    {
+        "mark": "Hacker-Pschorr Kellerbier",
+        "alko": 3.0,
+        "volume": 0.4,
+        "price": 192
+    },
+    {
+        "mark": "House Hacker Diebels",
+        "alko": 1.1,
+        "volume": 0.43,
+        "price": 159
+    },
+    {
+        "mark": "Alt-Bayerisch Frankenheim",
+        "alko": 9.8,
+        "volume": 0.33,
+        "price": 43
+    },
+    {
+        "mark": "Dampfbierbrauerei Diebels",
+        "alko": 8.7,
+        "volume": 0.34,
+        "price": 231
+    },
+    {
+        "mark": "Franziskaner Paulaner Goslarer",
+        "alko": 7.6,
+        "volume": 0.37,
+        "price": 220
+    },
+    {
+        "mark": "Hacker Jahrhundert Schumacher",
+        "alko": 2.9,
+        "volume": 0.49,
+        "price": 66
+    },
+    {
+        "mark": "Spaten G\u00e4nstaller Korbinian",
+        "alko": 7.2,
+        "volume": 0.43,
+        "price": 111
+    },
+    {
+        "mark": "Spaten Jahrhundert Kellerbier",
+        "alko": 2.8,
+        "volume": 0.4,
+        "price": 145
+    },
+    {
+        "mark": "Jahrhundert Lager",
+        "alko": 6.3,
+        "volume": 0.4,
+        "price": 67
+    },
+    {
+        "mark": "Aventinus Flensburger",
+        "alko": 4.8,
+        "volume": 0.5,
+        "price": 144
+    },
+    {
+        "mark": "Weihenstephaner Jahrhundert Zoigl",
+        "alko": 2.9,
+        "volume": 0.41,
+        "price": 218
+    },
+    {
+        "mark": "Zoigl 1516 Warsteiner",
+        "alko": 1.7,
+        "volume": 0.33,
+        "price": 111
+    },
+    {
+        "mark": "Brauerei Maisel",
+        "alko": 1.4,
+        "volume": 0.43,
+        "price": 116
+    },
+    {
+        "mark": "House Pikantus",
+        "alko": 3.0,
+        "volume": 0.46,
+        "price": 86
+    },
+    {
+        "mark": "Weihenstephaner Ayilinger",
+        "alko": 0.7,
+        "volume": 0.43,
+        "price": 154
+    },
+    {
+        "mark": "Hefe-Weisse Dampfbier",
+        "alko": 9.9,
+        "volume": 0.38,
+        "price": 284
+    },
+    {
+        "mark": "Brauerei Maibock",
+        "alko": 7.0,
+        "volume": 0.43,
+        "price": 237
+    },
+    {
+        "mark": "Alt-Bayerisch Brewing Ottos",
+        "alko": 0.7,
+        "volume": 0.39,
+        "price": 119
+    },
+    {
+        "mark": "Weihenstephaner Mitterteich Pschorr",
+        "alko": 0.6,
+        "volume": 0.36,
+        "price": 103
+    },
+    {
+        "mark": "Spaten K\u00f6llner",
+        "alko": 2.4,
+        "volume": 0.34,
+        "price": 279
+    },
+    {
+        "mark": "Spaten Brothers Bitburger",
+        "alko": 8.4,
+        "volume": 0.38,
+        "price": 258
+    },
+    {
+        "mark": "Ayinger Ayilinger",
+        "alko": 3.4,
+        "volume": 0.49,
+        "price": 118
+    },
+    {
+        "mark": "Franziskaner Goslarer",
+        "alko": 7.2,
+        "volume": 0.35,
+        "price": 74
+    },
+    {
+        "mark": "Weihenstephaner M\u00fchlen",
+        "alko": 5.9,
+        "volume": 0.46,
+        "price": 37
+    },
+    {
+        "mark": "Ritterguts",
+        "alko": 3.7,
+        "volume": 0.34,
+        "price": 259
+    },
+    {
+        "mark": "Kloster Mitterteich Zoigl",
+        "alko": 5.9,
+        "volume": 0.47,
+        "price": 133
+    },
+    {
+        "mark": "Hofbr\u00e4u Zoigl",
+        "alko": 4.5,
+        "volume": 0.43,
+        "price": 130
+    },
+    {
+        "mark": "Kloster Schumacher",
+        "alko": 1.5,
+        "volume": 0.44,
+        "price": 210
+    },
+    {
+        "mark": "Weihenstephaner Aventinus Gaffel",
+        "alko": 4.4,
+        "volume": 0.46,
+        "price": 187
+    },
+    {
+        "mark": "Buttenheimer K\u00f6stritzer",
+        "alko": 5.7,
+        "volume": 0.35,
+        "price": 101
+    },
+    {
+        "mark": "Hacker-Pschorr Doppelbock Oktoberfest",
+        "alko": 9.5,
+        "volume": 0.41,
+        "price": 133
+    },
+    {
+        "mark": "Schneider Rauchbier",
+        "alko": 0.4,
+        "volume": 0.48,
+        "price": 41
+    },
+    {
+        "mark": "Flensburger",
+        "alko": 8.5,
+        "volume": 0.35,
+        "price": 257
+    },
+    {
+        "mark": "House Hefe-Weisse Pikantus",
+        "alko": 2.0,
+        "volume": 0.43,
+        "price": 33
+    },
+    {
+        "mark": "Doppelbock Oktoberfest",
+        "alko": 3.8,
+        "volume": 0.43,
+        "price": 149
+    },
+    {
+        "mark": "Buttenheimer 1516 Franziskaner",
+        "alko": 3.6,
+        "volume": 0.42,
+        "price": 186
+    },
+    {
+        "mark": "Hacker Erdinger Weizen-Eisbock",
+        "alko": 3.7,
+        "volume": 0.47,
+        "price": 96
+    },
+    {
+        "mark": "Weihenstephaner Urbock",
+        "alko": 4.1,
+        "volume": 0.43,
+        "price": 219
+    },
+    {
+        "mark": "Buttenheimer Salvator",
+        "alko": 6.8,
+        "volume": 0.43,
+        "price": 146
+    },
+    {
+        "mark": "House K\u00f6stritzer",
+        "alko": 3.8,
+        "volume": 0.42,
+        "price": 115
+    },
+    {
+        "mark": "Zoigl Kellerbier",
+        "alko": 5.3,
+        "volume": 0.43,
+        "price": 128
+    },
+    {
+        "mark": "Franziskaner Brauerei Ottos",
+        "alko": 0.6,
+        "volume": 0.33,
+        "price": 280
+    },
+    {
+        "mark": "Weihenstephaner Ottos",
+        "alko": 5.3,
+        "volume": 0.44,
+        "price": 229
+    },
+    {
+        "mark": "G\u00f6ller",
+        "alko": 0.4,
+        "volume": 0.35,
+        "price": 178
+    },
+    {
+        "mark": "Mitterteich Scurry",
+        "alko": 3.6,
+        "volume": 0.37,
+        "price": 130
+    },
+    {
+        "mark": "Mitterteich Ur-Weisse",
+        "alko": 6.9,
+        "volume": 0.42,
+        "price": 182
+    },
+    {
+        "mark": "House Doppelbock Urbock",
+        "alko": 5.9,
+        "volume": 0.47,
+        "price": 261
+    },
+    {
+        "mark": "Alt-Bayerisch Mitterteich Dunkel",
+        "alko": 9.0,
+        "volume": 0.39,
+        "price": 67
+    },
+    {
+        "mark": "Hermannator Ice Steam",
+        "alko": 1.7,
+        "volume": 0.4,
+        "price": 117
+    },
+    {
+        "mark": "House Jahrhundert Bock",
+        "alko": 1.6,
+        "volume": 0.4,
+        "price": 237
+    },
+    {
+        "mark": "Radeberger",
+        "alko": 0.6,
+        "volume": 0.42,
+        "price": 107
+    },
+    {
+        "mark": "Doppelbock Schumacher",
+        "alko": 0.3,
+        "volume": 0.44,
+        "price": 84
+    },
+    {
+        "mark": "Erdinger Lager",
+        "alko": 8.0,
+        "volume": 0.33,
+        "price": 261
+    },
+    {
+        "mark": "1516 Pschorr",
+        "alko": 1.0,
+        "volume": 0.46,
+        "price": 272
+    },
+    {
+        "mark": "House Spezial",
+        "alko": 9.8,
+        "volume": 0.4,
+        "price": 248
+    },
+    {
+        "mark": "Franziskaner Aventinus",
+        "alko": 2.4,
+        "volume": 0.41,
+        "price": 104
+    },
+    {
+        "mark": "Mitterteich Pschorr",
+        "alko": 1.8,
+        "volume": 0.34,
+        "price": 226
+    },
+    {
+        "mark": "Ayinger Zoiglbauer",
+        "alko": 6.5,
+        "volume": 0.35,
+        "price": 194
+    },
+    {
+        "mark": "Hacker-Pschorr Bier",
+        "alko": 3.4,
+        "volume": 0.33,
+        "price": 36
+    },
+    {
+        "mark": "Weihenstephaner Warsteiner",
+        "alko": 8.8,
+        "volume": 0.36,
+        "price": 162
+    },
+    {
+        "mark": "Brauerei Dampfbier",
+        "alko": 4.8,
+        "volume": 0.45,
+        "price": 68
+    },
+    {
+        "mark": "Huberts Pikantus",
+        "alko": 6.0,
+        "volume": 0.47,
+        "price": 155
+    },
+    {
+        "mark": "Weihenstephaner Pfarrbr\u00e4u",
+        "alko": 9.7,
+        "volume": 0.38,
+        "price": 107
+    },
+    {
+        "mark": "Schneider Maibock",
+        "alko": 4.8,
+        "volume": 0.37,
+        "price": 78
+    },
+    {
+        "mark": "Schneider Scurry",
+        "alko": 7.4,
+        "volume": 0.42,
+        "price": 213
+    },
+    {
+        "mark": "Hacker Drop",
+        "alko": 4.2,
+        "volume": 0.49,
+        "price": 253
+    },
+    {
+        "mark": "G\u00e4nstaller K\u00f6llner",
+        "alko": 2.9,
+        "volume": 0.4,
+        "price": 180
+    },
+    {
+        "mark": "Huberts M\u00fcnchen",
+        "alko": 5.0,
+        "volume": 0.42,
+        "price": 256
+    },
+    {
+        "mark": "Spaten G\u00e4nstaller Diebels",
+        "alko": 3.0,
+        "volume": 0.34,
+        "price": 130
+    },
+    {
+        "mark": "Andechser Erdinger Maisel",
+        "alko": 4.3,
+        "volume": 0.33,
+        "price": 229
+    },
+    {
+        "mark": "Jahrhundert Scurry",
+        "alko": 8.2,
+        "volume": 0.44,
+        "price": 36
+    },
+    {
+        "mark": "Alt-Bayerisch Unser Urbock",
+        "alko": 1.9,
+        "volume": 0.41,
+        "price": 210
+    },
+    {
+        "mark": "M\u00f6nchshof Ritterguts",
+        "alko": 9.0,
+        "volume": 0.41,
+        "price": 282
+    },
+    {
+        "mark": "Ayinger Dunkel",
+        "alko": 4.1,
+        "volume": 0.42,
+        "price": 256
+    },
+    {
+        "mark": "M\u00f6nchshof K\u00f6llner",
+        "alko": 0.5,
+        "volume": 0.41,
+        "price": 187
+    },
+    {
+        "mark": "Schneider M\u00fchlen",
+        "alko": 6.9,
+        "volume": 0.36,
+        "price": 100
+    },
+    {
+        "mark": "Brauerei Krombacher",
+        "alko": 9.4,
+        "volume": 0.38,
+        "price": 143
+    },
+    {
+        "mark": "Aventinus Urbock",
+        "alko": 6.6,
+        "volume": 0.43,
+        "price": 190
+    },
+    {
+        "mark": "1516 Goslarer",
+        "alko": 7.3,
+        "volume": 0.34,
+        "price": 247
+    },
+    {
+        "mark": "Hermannator Ice Drop",
+        "alko": 6.2,
+        "volume": 0.37,
+        "price": 267
+    },
+    {
+        "mark": "Weihenstephaner Dunkel",
+        "alko": 1.3,
+        "volume": 0.41,
+        "price": 75
+    },
+    {
+        "mark": "Unser Becks",
+        "alko": 2.5,
+        "volume": 0.37,
+        "price": 120
+    },
+    {
+        "mark": "Zoigl Erdinger Kellerbier",
+        "alko": 4.4,
+        "volume": 0.36,
+        "price": 204
+    },
+    {
+        "mark": "Alt-Bayerisch Bitburger",
+        "alko": 1.0,
+        "volume": 0.34,
+        "price": 31
+    },
+    {
+        "mark": "Paulaner Warsteiner",
+        "alko": 3.5,
+        "volume": 0.38,
+        "price": 108
+    },
+    {
+        "mark": "Weihenstephaner Bock",
+        "alko": 9.8,
+        "volume": 0.34,
+        "price": 271
+    },
+    {
+        "mark": "Schneider Pschorr",
+        "alko": 7.2,
+        "volume": 0.41,
+        "price": 116
+    },
+    {
+        "mark": "Hermannator Ice Urbock",
+        "alko": 0.7,
+        "volume": 0.33,
+        "price": 192
+    },
+    {
+        "mark": "Ayinger Dortmunder",
+        "alko": 5.3,
+        "volume": 0.33,
+        "price": 121
+    },
+    {
+        "mark": "Hacker-Pschorr Huberts Fr\u00fch",
+        "alko": 6.7,
+        "volume": 0.34,
+        "price": 102
+    },
+    {
+        "mark": "M\u00f6nchshof Kellerbier",
+        "alko": 5.7,
+        "volume": 0.48,
+        "price": 118
+    },
+    {
+        "mark": "Alt-Bayerisch Jahrhundert Diebels",
+        "alko": 1.4,
+        "volume": 0.45,
+        "price": 86
+    },
+    {
+        "mark": "Doppelbock Lager",
+        "alko": 5.7,
+        "volume": 0.42,
+        "price": 33
+    },
+    {
+        "mark": "Hermannator Ice Aventinus M\u00fchlen",
+        "alko": 2.4,
+        "volume": 0.5,
+        "price": 71
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Steam",
+        "alko": 2.6,
+        "volume": 0.37,
+        "price": 106
+    },
+    {
+        "mark": "Alt-Bayerisch Hofbr\u00e4u Weizen-Eisbock",
+        "alko": 6.0,
+        "volume": 0.47,
+        "price": 197
+    },
+    {
+        "mark": "Alt-Bayerisch Aventinus M\u00f6nchshof",
+        "alko": 4.2,
+        "volume": 0.33,
+        "price": 62
+    },
+    {
+        "mark": "K\u00f6llner",
+        "alko": 1.1,
+        "volume": 0.49,
+        "price": 252
+    },
+    {
+        "mark": "Schneider Augustinerbr\u00e4u",
+        "alko": 6.0,
+        "volume": 0.42,
+        "price": 98
+    },
+    {
+        "mark": "Kloster Altenauer",
+        "alko": 5.9,
+        "volume": 0.47,
+        "price": 206
+    },
+    {
+        "mark": "Hacker Ur-Weisse",
+        "alko": 3.6,
+        "volume": 0.45,
+        "price": 82
+    },
+    {
+        "mark": "Brauerei Drop",
+        "alko": 2.5,
+        "volume": 0.35,
+        "price": 213
+    },
+    {
+        "mark": "Franziskaner",
+        "alko": 1.9,
+        "volume": 0.4,
+        "price": 116
+    },
+    {
+        "mark": "Hacker Brewing Erdinger",
+        "alko": 6.1,
+        "volume": 0.33,
+        "price": 64
+    },
+    {
+        "mark": "Brauerei Ayilinger",
+        "alko": 0.9,
+        "volume": 0.41,
+        "price": 52
+    },
+    {
+        "mark": "Paulaner Kellerbier",
+        "alko": 3.4,
+        "volume": 0.44,
+        "price": 226
+    },
+    {
+        "mark": "Hacker-Pschorr Altenauer",
+        "alko": 2.5,
+        "volume": 0.5,
+        "price": 29
+    },
+    {
+        "mark": "Jahrhundert Rauchbier",
+        "alko": 2.9,
+        "volume": 0.48,
+        "price": 147
+    },
+    {
+        "mark": "1516 M\u00f6nchshof",
+        "alko": 6.2,
+        "volume": 0.37,
+        "price": 139
+    },
+    {
+        "mark": "Dampfbierbrauerei Ur-Weisse",
+        "alko": 8.0,
+        "volume": 0.47,
+        "price": 203
+    },
+    {
+        "mark": "Jahrhundert Roggen",
+        "alko": 3.7,
+        "volume": 0.48,
+        "price": 89
+    },
+    {
+        "mark": "Alt-Bayerisch Unser M\u00e4rzen",
+        "alko": 5.6,
+        "volume": 0.37,
+        "price": 214
+    },
+    {
+        "mark": "Hacker-Pschorr Hefe-Weisse Maibock",
+        "alko": 8.8,
+        "volume": 0.41,
+        "price": 122
+    },
+    {
+        "mark": "Weihenstephaner Schlenkerla Rauchbier Zoigl",
+        "alko": 7.6,
+        "volume": 0.33,
+        "price": 175
+    },
+    {
+        "mark": "Spaten Ayinger Br\u00e4u",
+        "alko": 9.9,
+        "volume": 0.44,
+        "price": 215
+    },
+    {
+        "mark": "Brothers Goslarer",
+        "alko": 7.4,
+        "volume": 0.33,
+        "price": 110
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Franziskaner",
+        "alko": 2.5,
+        "volume": 0.47,
+        "price": 149
+    },
+    {
+        "mark": "Zoigl Paulaner M\u00fchlen",
+        "alko": 2.2,
+        "volume": 0.4,
+        "price": 171
+    },
+    {
+        "mark": "House M\u00f6nchshof",
+        "alko": 1.2,
+        "volume": 0.43,
+        "price": 164
+    },
+    {
+        "mark": "Doppelbock Diebels",
+        "alko": 1.6,
+        "volume": 0.44,
+        "price": 106
+    },
+    {
+        "mark": "K\u00f6stritzer",
+        "alko": 10.0,
+        "volume": 0.41,
+        "price": 96
+    },
+    {
+        "mark": "Hacker Frankenheim",
+        "alko": 2.4,
+        "volume": 0.46,
+        "price": 234
+    },
+    {
+        "mark": "Brauerei Pschorr",
+        "alko": 6.9,
+        "volume": 0.4,
+        "price": 208
+    },
+    {
+        "mark": "Hacker-Pschorr Optimator",
+        "alko": 8.7,
+        "volume": 0.36,
+        "price": 123
+    },
+    {
+        "mark": "Erdinger M\u00f6nchshof",
+        "alko": 2.2,
+        "volume": 0.36,
+        "price": 44
+    },
+    {
+        "mark": "Mitterteich Krombacher",
+        "alko": 0.1,
+        "volume": 0.49,
+        "price": 53
+    },
+    {
+        "mark": "Schneider K\u00f6llner",
+        "alko": 4.5,
+        "volume": 0.38,
+        "price": 142
+    },
+    {
+        "mark": "Aventinus Ottos",
+        "alko": 8.3,
+        "volume": 0.48,
+        "price": 243
+    },
+    {
+        "mark": "Paulaner M\u00fchlen",
+        "alko": 8.4,
+        "volume": 0.35,
+        "price": 125
+    },
+    {
+        "mark": "Schneider Bier",
+        "alko": 3.5,
+        "volume": 0.45,
+        "price": 263
+    },
+    {
+        "mark": "Bock",
+        "alko": 4.2,
+        "volume": 0.34,
+        "price": 144
+    },
+    {
+        "mark": "Schneider Goslarer",
+        "alko": 9.9,
+        "volume": 0.46,
+        "price": 183
+    },
+    {
+        "mark": "Zoigl Weizen-Eisbock",
+        "alko": 7.4,
+        "volume": 0.41,
+        "price": 197
+    },
+    {
+        "mark": "Brauerei Gaffel",
+        "alko": 0.7,
+        "volume": 0.45,
+        "price": 282
+    },
+    {
+        "mark": "Becks",
+        "alko": 5.4,
+        "volume": 0.35,
+        "price": 269
+    },
+    {
+        "mark": "Hacker Bitburger",
+        "alko": 5.9,
+        "volume": 0.37,
+        "price": 122
+    },
+    {
+        "mark": "Ayinger Aventinus Bock",
+        "alko": 0.5,
+        "volume": 0.34,
+        "price": 282
+    },
+    {
+        "mark": "Spaten Schlenkerla Rauchbier Salvator",
+        "alko": 3.9,
+        "volume": 0.48,
+        "price": 103
+    },
+    {
+        "mark": "Alt-Bayerisch Pschorr Oktoberfest G\u00f6ller",
+        "alko": 9.5,
+        "volume": 0.37,
+        "price": 56
+    },
+    {
+        "mark": "Franziskaner Urbock",
+        "alko": 6.9,
+        "volume": 0.44,
+        "price": 218
+    },
+    {
+        "mark": "Huberts Weizen-Eisbock",
+        "alko": 5.7,
+        "volume": 0.42,
+        "price": 84
+    },
+    {
+        "mark": "Jahrhundert Maibock",
+        "alko": 4.2,
+        "volume": 0.38,
+        "price": 281
+    },
+    {
+        "mark": "Alt-Bayerisch Ayinger G\u00f6ller",
+        "alko": 4.5,
+        "volume": 0.33,
+        "price": 89
+    },
+    {
+        "mark": "Spaten Jahrhundert Goslarer",
+        "alko": 6.2,
+        "volume": 0.35,
+        "price": 98
+    },
+    {
+        "mark": "Huberts Ayilinger",
+        "alko": 1.3,
+        "volume": 0.38,
+        "price": 117
+    },
+    {
+        "mark": "Franziskaner Hofbr\u00e4u Urbock",
+        "alko": 5.5,
+        "volume": 0.42,
+        "price": 237
+    },
+    {
+        "mark": "Brauerei M\u00f6nchshof",
+        "alko": 5.6,
+        "volume": 0.5,
+        "price": 230
+    },
+    {
+        "mark": "Buttenheimer Zoiglbauer",
+        "alko": 8.3,
+        "volume": 0.48,
+        "price": 190
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Ur-Weisse",
+        "alko": 6.6,
+        "volume": 0.37,
+        "price": 230
+    },
+    {
+        "mark": "Dampfbierbrauerei Dunkel",
+        "alko": 7.7,
+        "volume": 0.47,
+        "price": 276
+    },
+    {
+        "mark": "Spaten Kellerbier",
+        "alko": 2.7,
+        "volume": 0.39,
+        "price": 157
+    },
+    {
+        "mark": "Schneider Jahrhundert K\u00f6llner",
+        "alko": 5.7,
+        "volume": 0.5,
+        "price": 104
+    },
+    {
+        "mark": "Buttenheimer Brothers M\u00fchlen",
+        "alko": 2.9,
+        "volume": 0.35,
+        "price": 214
+    },
+    {
+        "mark": "Alt-Bayerisch Mitterteich Radeberger",
+        "alko": 8.3,
+        "volume": 0.4,
+        "price": 176
+    },
+    {
+        "mark": "Mitterteich Zoigl",
+        "alko": 7.2,
+        "volume": 0.39,
+        "price": 231
+    },
+    {
+        "mark": "Jahrhundert Dortmunder",
+        "alko": 3.0,
+        "volume": 0.34,
+        "price": 271
+    },
+    {
+        "mark": "Spaten Brothers Dortmunder",
+        "alko": 7.3,
+        "volume": 0.46,
+        "price": 151
+    },
+    {
+        "mark": "1516 Drop",
+        "alko": 3.4,
+        "volume": 0.34,
+        "price": 213
+    },
+    {
+        "mark": "Schneider Ayinger Ottos",
+        "alko": 1.0,
+        "volume": 0.41,
+        "price": 157
+    },
+    {
+        "mark": "Alt-Bayerisch Schlenkerla Rauchbier Ritterguts",
+        "alko": 4.0,
+        "volume": 0.42,
+        "price": 154
+    },
+    {
+        "mark": "Schneider Jahrhundert Goslarer",
+        "alko": 5.3,
+        "volume": 0.44,
+        "price": 235
+    },
+    {
+        "mark": "Bier",
+        "alko": 3.8,
+        "volume": 0.36,
+        "price": 232
+    },
+    {
+        "mark": "M\u00e4rzen",
+        "alko": 1.3,
+        "volume": 0.48,
+        "price": 223
+    },
+    {
+        "mark": "Kloster Dortmunder",
+        "alko": 8.3,
+        "volume": 0.49,
+        "price": 228
+    },
+    {
+        "mark": "Buttenheimer Hofbr\u00e4u G\u00f6ller",
+        "alko": 1.7,
+        "volume": 0.37,
+        "price": 204
+    },
+    {
+        "mark": "Hacker-Pschorr Bitburger",
+        "alko": 8.8,
+        "volume": 0.46,
+        "price": 280
+    },
+    {
+        "mark": "Alt-Bayerisch G\u00e4nstaller M\u00fcnchen",
+        "alko": 9.3,
+        "volume": 0.4,
+        "price": 200
+    },
+    {
+        "mark": "Andechser Huberts Diebels",
+        "alko": 7.1,
+        "volume": 0.35,
+        "price": 237
+    },
+    {
+        "mark": "M\u00f6nchshof Steam",
+        "alko": 5.7,
+        "volume": 0.36,
+        "price": 203
+    },
+    {
+        "mark": "Pschorr Oktoberfest Frankenheim",
+        "alko": 5.5,
+        "volume": 0.35,
+        "price": 160
+    },
+    {
+        "mark": "Zoigl Dampfbier",
+        "alko": 8.6,
+        "volume": 0.44,
+        "price": 116
+    },
+    {
+        "mark": "M\u00f6nchshof Hacker Drop",
+        "alko": 1.5,
+        "volume": 0.5,
+        "price": 275
+    },
+    {
+        "mark": "Buttenheimer Unser Augustinerbr\u00e4u",
+        "alko": 3.4,
+        "volume": 0.39,
+        "price": 195
+    },
+    {
+        "mark": "Hacker-Pschorr Ritterguts",
+        "alko": 3.6,
+        "volume": 0.46,
+        "price": 38
+    },
+    {
+        "mark": "Franziskaner 1516 Kellerbier",
+        "alko": 3.0,
+        "volume": 0.47,
+        "price": 157
+    },
+    {
+        "mark": "Unser Gaffel",
+        "alko": 4.1,
+        "volume": 0.4,
+        "price": 284
+    },
+    {
+        "mark": "Huberts Roggen",
+        "alko": 1.9,
+        "volume": 0.35,
+        "price": 31
+    },
+    {
+        "mark": "Ayinger Erdinger",
+        "alko": 3.9,
+        "volume": 0.4,
+        "price": 175
+    },
+    {
+        "mark": "Erdinger Rauchbier",
+        "alko": 9.6,
+        "volume": 0.5,
+        "price": 270
+    },
+    {
+        "mark": "Weihenstephaner Hofbr\u00e4u K\u00f6stritzer",
+        "alko": 6.6,
+        "volume": 0.42,
+        "price": 270
+    },
+    {
+        "mark": "Brauerei Dark",
+        "alko": 7.2,
+        "volume": 0.44,
+        "price": 212
+    },
+    {
+        "mark": "Aventinus Aventinus",
+        "alko": 6.9,
+        "volume": 0.49,
+        "price": 233
+    },
+    {
+        "mark": "Weihenstephaner Brauerei Maibock",
+        "alko": 5.3,
+        "volume": 0.48,
+        "price": 177
+    },
+    {
+        "mark": "Jahrhundert Altenauer",
+        "alko": 9.7,
+        "volume": 0.36,
+        "price": 276
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Spaten",
+        "alko": 0.5,
+        "volume": 0.4,
+        "price": 92
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Krombacher",
+        "alko": 0.8,
+        "volume": 0.41,
+        "price": 89
+    },
+    {
+        "mark": "Huberts Fr\u00fch",
+        "alko": 4.4,
+        "volume": 0.5,
+        "price": 105
+    },
+    {
+        "mark": "Hacker Zoigl",
+        "alko": 8.5,
+        "volume": 0.47,
+        "price": 148
+    },
+    {
+        "mark": "Oktoberfest",
+        "alko": 2.6,
+        "volume": 0.5,
+        "price": 278
+    },
+    {
+        "mark": "Ayinger Ottos",
+        "alko": 8.1,
+        "volume": 0.49,
+        "price": 69
+    },
+    {
+        "mark": "Kellerbier",
+        "alko": 5.1,
+        "volume": 0.42,
+        "price": 268
+    },
+    {
+        "mark": "Schneider Ayinger Maisel",
+        "alko": 0.3,
+        "volume": 0.46,
+        "price": 67
+    },
+    {
+        "mark": "Hacker K\u00f6llner",
+        "alko": 10.0,
+        "volume": 0.5,
+        "price": 114
+    },
+    {
+        "mark": "Pschorr Oktoberfest Ur-Weisse",
+        "alko": 8.9,
+        "volume": 0.44,
+        "price": 34
+    },
+    {
+        "mark": "Buttenheimer Paulaner",
+        "alko": 4.4,
+        "volume": 0.44,
+        "price": 154
+    },
+    {
+        "mark": "Hefe-Weisse Urbock",
+        "alko": 6.5,
+        "volume": 0.45,
+        "price": 185
+    },
+    {
+        "mark": "Hacker-Pschorr Brewing Roggen",
+        "alko": 4.1,
+        "volume": 0.46,
+        "price": 89
+    },
+    {
+        "mark": "Pschorr Oktoberfest Aventinus",
+        "alko": 8.4,
+        "volume": 0.45,
+        "price": 106
+    },
+    {
+        "mark": "Ayinger M\u00f6nchshof",
+        "alko": 0.7,
+        "volume": 0.36,
+        "price": 151
+    },
+    {
+        "mark": "Brothers M\u00fchlen",
+        "alko": 4.3,
+        "volume": 0.45,
+        "price": 129
+    },
+    {
+        "mark": "Hofbr\u00e4u M\u00e4rzen",
+        "alko": 2.2,
+        "volume": 0.47,
+        "price": 91
+    },
+    {
+        "mark": "Zoigl Doppelbock M\u00fchlen",
+        "alko": 7.7,
+        "volume": 0.43,
+        "price": 133
+    },
+    {
+        "mark": "Jahrhundert Korbinian",
+        "alko": 2.0,
+        "volume": 0.45,
+        "price": 87
+    },
+    {
+        "mark": "Andechser Hofbr\u00e4u Ritterguts",
+        "alko": 8.2,
+        "volume": 0.47,
+        "price": 110
+    },
+    {
+        "mark": "M\u00f6nchshof Huberts Gaffel",
+        "alko": 5.5,
+        "volume": 0.4,
+        "price": 166
+    },
+    {
+        "mark": "Hermannator Ice Ayinger Becks",
+        "alko": 4.0,
+        "volume": 0.35,
+        "price": 245
+    },
+    {
+        "mark": "Weihenstephaner Br\u00e4u",
+        "alko": 4.9,
+        "volume": 0.48,
+        "price": 86
+    },
+    {
+        "mark": "Weihenstephaner Diebels",
+        "alko": 6.0,
+        "volume": 0.43,
+        "price": 157
+    },
+    {
+        "mark": "G\u00e4nstaller Pfarrbr\u00e4u",
+        "alko": 3.8,
+        "volume": 0.34,
+        "price": 271
+    },
+    {
+        "mark": "Erdinger Ayilinger",
+        "alko": 3.0,
+        "volume": 0.39,
+        "price": 248
+    },
+    {
+        "mark": "G\u00e4nstaller Drop",
+        "alko": 6.1,
+        "volume": 0.33,
+        "price": 127
+    },
+    {
+        "mark": "Zoigl Bitburger",
+        "alko": 7.8,
+        "volume": 0.37,
+        "price": 67
+    },
+    {
+        "mark": "Dampfbierbrauerei Aventinus",
+        "alko": 10.0,
+        "volume": 0.47,
+        "price": 188
+    },
+    {
+        "mark": "Weihenstephaner Goslarer",
+        "alko": 4.4,
+        "volume": 0.37,
+        "price": 264
+    },
+    {
+        "mark": "M\u00f6nchshof Huberts Warsteiner",
+        "alko": 5.8,
+        "volume": 0.33,
+        "price": 236
+    },
+    {
+        "mark": "Hermannator Ice Hefe-Weisse Urbock",
+        "alko": 7.6,
+        "volume": 0.39,
+        "price": 283
+    },
+    {
+        "mark": "Spaten Schlenkerla Rauchbier Erdinger",
+        "alko": 7.0,
+        "volume": 0.49,
+        "price": 248
+    },
+    {
+        "mark": "Kloster Aventinus Pikantus",
+        "alko": 0.9,
+        "volume": 0.39,
+        "price": 243
+    },
+    {
+        "mark": "Hacker-Pschorr Unser Krombacher",
+        "alko": 6.4,
+        "volume": 0.37,
+        "price": 44
+    },
+    {
+        "mark": "Ayinger Optimator",
+        "alko": 5.7,
+        "volume": 0.45,
+        "price": 90
+    },
+    {
+        "mark": "Unser Altenauer",
+        "alko": 6.7,
+        "volume": 0.46,
+        "price": 282
+    },
+    {
+        "mark": "Jahrhundert Pfarrbr\u00e4u",
+        "alko": 6.9,
+        "volume": 0.49,
+        "price": 154
+    },
+    {
+        "mark": "Brewing Ottos",
+        "alko": 6.7,
+        "volume": 0.41,
+        "price": 220
+    },
+    {
+        "mark": "Alt-Bayerisch Aventinus Pikantus",
+        "alko": 8.6,
+        "volume": 0.41,
+        "price": 183
+    },
+    {
+        "mark": "M\u00f6nchshof 1516 Erdinger",
+        "alko": 6.6,
+        "volume": 0.45,
+        "price": 268
+    },
+    {
+        "mark": "Schneider Dampfbierbrauerei Dortmunder",
+        "alko": 6.0,
+        "volume": 0.46,
+        "price": 97
+    },
+    {
+        "mark": "Kloster Dampfbierbrauerei K\u00f6stritzer",
+        "alko": 3.1,
+        "volume": 0.41,
+        "price": 71
+    },
+    {
+        "mark": "Hermannator Ice Dampfbierbrauerei Warsteiner",
+        "alko": 2.7,
+        "volume": 0.47,
+        "price": 159
+    },
+    {
+        "mark": "Hofbr\u00e4u Augustinerbr\u00e4u",
+        "alko": 1.1,
+        "volume": 0.46,
+        "price": 285
+    },
+    {
+        "mark": "Buttenheimer Dark",
+        "alko": 8.7,
+        "volume": 0.48,
+        "price": 251
+    },
+    {
+        "mark": "Hefe-Weisse Drop",
+        "alko": 4.8,
+        "volume": 0.48,
+        "price": 36
+    },
+    {
+        "mark": "Hacker-Pschorr Pschorr Oktoberfest Altenauer",
+        "alko": 3.6,
+        "volume": 0.33,
+        "price": 57
+    },
+    {
+        "mark": "Alt-Bayerisch Mitterteich Krombacher",
+        "alko": 2.8,
+        "volume": 0.45,
+        "price": 145
+    },
+    {
+        "mark": "Schumacher",
+        "alko": 9.9,
+        "volume": 0.5,
+        "price": 161
+    },
+    {
+        "mark": "Aventinus Bock",
+        "alko": 6.7,
+        "volume": 0.43,
+        "price": 214
+    },
+    {
+        "mark": "Franziskaner Paulaner Pfarrbr\u00e4u",
+        "alko": 1.4,
+        "volume": 0.46,
+        "price": 186
+    },
+    {
+        "mark": "Hacker-Pschorr Pikantus",
+        "alko": 2.8,
+        "volume": 0.39,
+        "price": 172
+    },
+    {
+        "mark": "Kloster Fr\u00fch",
+        "alko": 8.8,
+        "volume": 0.36,
+        "price": 274
+    },
+    {
+        "mark": "Andechser Frankenheim",
+        "alko": 6.3,
+        "volume": 0.42,
+        "price": 199
+    },
+    {
+        "mark": "Zoigl Paulaner Reissdorf",
+        "alko": 3.0,
+        "volume": 0.46,
+        "price": 124
+    },
+    {
+        "mark": "Brothers Bock",
+        "alko": 9.1,
+        "volume": 0.44,
+        "price": 73
+    },
+    {
+        "mark": "Andechser Spezial",
+        "alko": 7.3,
+        "volume": 0.47,
+        "price": 133
+    },
+    {
+        "mark": "1516 Bitburger",
+        "alko": 6.6,
+        "volume": 0.4,
+        "price": 58
+    },
+    {
+        "mark": "House M\u00fchlen",
+        "alko": 0.4,
+        "volume": 0.46,
+        "price": 33
+    },
+    {
+        "mark": "Doppelbock Ottos",
+        "alko": 7.9,
+        "volume": 0.45,
+        "price": 43
+    },
+    {
+        "mark": "Hacker Dunkel",
+        "alko": 4.7,
+        "volume": 0.41,
+        "price": 50
+    },
+    {
+        "mark": "Brauerei Spaten",
+        "alko": 1.1,
+        "volume": 0.33,
+        "price": 274
+    },
+    {
+        "mark": "M\u00f6nchshof 1516 Roggen",
+        "alko": 2.4,
+        "volume": 0.5,
+        "price": 282
+    },
+    {
+        "mark": "Spaten Roggen",
+        "alko": 1.8,
+        "volume": 0.47,
+        "price": 78
+    },
+    {
+        "mark": "House Pschorr",
+        "alko": 0.2,
+        "volume": 0.36,
+        "price": 196
+    },
+    {
+        "mark": "Spaten Pschorr Oktoberfest Ur-Weisse",
+        "alko": 0.2,
+        "volume": 0.45,
+        "price": 256
+    },
+    {
+        "mark": "Aventinus Dortmunder",
+        "alko": 8.9,
+        "volume": 0.47,
+        "price": 72
+    },
+    {
+        "mark": "Dampfbierbrauerei M\u00e4rzen",
+        "alko": 4.8,
+        "volume": 0.41,
+        "price": 237
+    },
+    {
+        "mark": "Spaten 1516 Maisel",
+        "alko": 8.5,
+        "volume": 0.49,
+        "price": 71
+    },
+    {
+        "mark": "Alt-Bayerisch Goslarer",
+        "alko": 2.1,
+        "volume": 0.33,
+        "price": 55
+    },
+    {
+        "mark": "Hacker-Pschorr Mitterteich K\u00f6stritzer",
+        "alko": 1.7,
+        "volume": 0.49,
+        "price": 105
+    },
+    {
+        "mark": "Unser Lager",
+        "alko": 5.6,
+        "volume": 0.42,
+        "price": 73
+    },
+    {
+        "mark": "Brothers Dunkel",
+        "alko": 8.0,
+        "volume": 0.49,
+        "price": 256
+    },
+    {
+        "mark": "1516 Becks",
+        "alko": 2.1,
+        "volume": 0.49,
+        "price": 280
+    },
+    {
+        "mark": "Spaten Brauerei Scurry",
+        "alko": 1.3,
+        "volume": 0.5,
+        "price": 256
+    },
+    {
+        "mark": "Franziskaner Franziskaner",
+        "alko": 0.4,
+        "volume": 0.36,
+        "price": 121
+    },
+    {
+        "mark": "Paulaner Maibock",
+        "alko": 2.3,
+        "volume": 0.45,
+        "price": 264
+    },
+    {
+        "mark": "Franziskaner Schlenkerla Rauchbier Korbinian",
+        "alko": 10.0,
+        "volume": 0.45,
+        "price": 255
+    },
+    {
+        "mark": "Hacker Scurry",
+        "alko": 0.6,
+        "volume": 0.49,
+        "price": 216
+    },
+    {
+        "mark": "Alt-Bayerisch Doppelbock Drop",
+        "alko": 5.0,
+        "volume": 0.47,
+        "price": 93
+    },
+    {
+        "mark": "Brewing Goslarer",
+        "alko": 3.5,
+        "volume": 0.46,
+        "price": 180
+    },
+    {
+        "mark": "Erdinger Goslarer",
+        "alko": 0.3,
+        "volume": 0.33,
+        "price": 125
+    },
+    {
+        "mark": "Pschorr Oktoberfest Gaffel",
+        "alko": 2.4,
+        "volume": 0.47,
+        "price": 145
+    },
+    {
+        "mark": "Paulaner Erdinger",
+        "alko": 9.0,
+        "volume": 0.44,
+        "price": 229
+    },
+    {
+        "mark": "Franziskaner Dunkel",
+        "alko": 2.9,
+        "volume": 0.43,
+        "price": 145
+    },
+    {
+        "mark": "House Maibock",
+        "alko": 2.8,
+        "volume": 0.4,
+        "price": 254
+    },
+    {
+        "mark": "Spaten Hofbr\u00e4u Ottos",
+        "alko": 4.2,
+        "volume": 0.45,
+        "price": 160
+    },
+    {
+        "mark": "Weihenstephaner Maibock",
+        "alko": 0.4,
+        "volume": 0.34,
+        "price": 208
+    },
+    {
+        "mark": "Alt-Bayerisch Jahrhundert M\u00fchlen",
+        "alko": 8.5,
+        "volume": 0.33,
+        "price": 122
+    },
+    {
+        "mark": "Erdinger G\u00f6ller",
+        "alko": 1.5,
+        "volume": 0.46,
+        "price": 249
+    },
+    {
+        "mark": "Pschorr Oktoberfest K\u00f6stritzer",
+        "alko": 6.6,
+        "volume": 0.5,
+        "price": 275
+    },
+    {
+        "mark": "Franziskaner Radeberger",
+        "alko": 2.9,
+        "volume": 0.4,
+        "price": 98
+    },
+    {
+        "mark": "M\u00f6nchshof Aventinus Krombacher",
+        "alko": 2.8,
+        "volume": 0.5,
+        "price": 238
+    },
+    {
+        "mark": "Schneider G\u00e4nstaller Roggen",
+        "alko": 3.8,
+        "volume": 0.43,
+        "price": 33
+    },
+    {
+        "mark": "Weihenstephaner Ritterguts",
+        "alko": 3.6,
+        "volume": 0.48,
+        "price": 139
+    },
+    {
+        "mark": "Pschorr Oktoberfest Bitburger",
+        "alko": 0.1,
+        "volume": 0.36,
+        "price": 42
+    },
+    {
+        "mark": "Hofbr\u00e4u Dunkel",
+        "alko": 2.7,
+        "volume": 0.46,
+        "price": 42
+    },
+    {
+        "mark": "Kloster Reissdorf",
+        "alko": 3.9,
+        "volume": 0.46,
+        "price": 229
+    },
+    {
+        "mark": "Andechser Huberts Radeberger",
+        "alko": 2.4,
+        "volume": 0.44,
+        "price": 274
+    },
+    {
+        "mark": "Kloster Erdinger Fr\u00fch",
+        "alko": 7.1,
+        "volume": 0.41,
+        "price": 87
+    },
+    {
+        "mark": "Weihenstephaner Optimator",
+        "alko": 1.1,
+        "volume": 0.42,
+        "price": 233
+    },
+    {
+        "mark": "M\u00f6nchshof Aventinus Zoigl",
+        "alko": 5.3,
+        "volume": 0.41,
+        "price": 168
+    },
+    {
+        "mark": "Alt-Bayerisch Huberts Augustinerbr\u00e4u",
+        "alko": 1.0,
+        "volume": 0.45,
+        "price": 172
+    },
+    {
+        "mark": "G\u00e4nstaller Dark",
+        "alko": 2.9,
+        "volume": 0.46,
+        "price": 142
+    },
+    {
+        "mark": "Hacker Aventinus K\u00f6stritzer",
+        "alko": 7.8,
+        "volume": 0.36,
+        "price": 100
+    },
+    {
+        "mark": "Huberts Erdinger",
+        "alko": 9.4,
+        "volume": 0.4,
+        "price": 77
+    },
+    {
+        "mark": "Weihenstephaner Oktoberfest",
+        "alko": 3.8,
+        "volume": 0.47,
+        "price": 107
+    },
+    {
+        "mark": "Hofbr\u00e4u Optimator",
+        "alko": 9.5,
+        "volume": 0.39,
+        "price": 201
+    },
+    {
+        "mark": "Spaten Erdinger Fr\u00fch",
+        "alko": 0.7,
+        "volume": 0.45,
+        "price": 283
+    },
+    {
+        "mark": "Schneider Erdinger Maisel",
+        "alko": 1.2,
+        "volume": 0.39,
+        "price": 250
+    },
+    {
+        "mark": "Schlenkerla Rauchbier M\u00e4rzen",
+        "alko": 0.6,
+        "volume": 0.35,
+        "price": 266
+    },
+    {
+        "mark": "Jahrhundert Dark",
+        "alko": 7.5,
+        "volume": 0.36,
+        "price": 159
+    },
+    {
+        "mark": "Jahrhundert Ritterguts",
+        "alko": 8.8,
+        "volume": 0.43,
+        "price": 257
+    },
+    {
+        "mark": "M\u00f6nchshof Pschorr Oktoberfest Paulaner",
+        "alko": 7.6,
+        "volume": 0.5,
+        "price": 146
+    },
+    {
+        "mark": "Ayinger Pschorr",
+        "alko": 2.1,
+        "volume": 0.34,
+        "price": 155
+    },
+    {
+        "mark": "Kloster Huberts Aventinus",
+        "alko": 2.3,
+        "volume": 0.36,
+        "price": 57
+    },
+    {
+        "mark": "Brauerei K\u00f6llner",
+        "alko": 1.3,
+        "volume": 0.41,
+        "price": 96
+    },
+    {
+        "mark": "Weihenstephaner Salvator",
+        "alko": 0.5,
+        "volume": 0.44,
+        "price": 77
+    },
+    {
+        "mark": "Andechser Salvator",
+        "alko": 7.9,
+        "volume": 0.44,
+        "price": 220
+    },
+    {
+        "mark": "Schneider Hacker M\u00f6nchshof",
+        "alko": 0.6,
+        "volume": 0.33,
+        "price": 277
+    },
+    {
+        "mark": "Franziskaner M\u00f6nchshof",
+        "alko": 4.9,
+        "volume": 0.45,
+        "price": 215
+    },
+    {
+        "mark": "Weihenstephaner M\u00fcnchen",
+        "alko": 1.1,
+        "volume": 0.47,
+        "price": 121
+    },
+    {
+        "mark": "Hofbr\u00e4u Salvator",
+        "alko": 7.3,
+        "volume": 0.39,
+        "price": 124
+    },
+    {
+        "mark": "Jahrhundert Oktoberfest",
+        "alko": 5.9,
+        "volume": 0.47,
+        "price": 219
+    },
+    {
+        "mark": "Buttenheimer Zoigl",
+        "alko": 4.0,
+        "volume": 0.36,
+        "price": 109
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Dunkel",
+        "alko": 1.2,
+        "volume": 0.47,
+        "price": 93
+    },
+    {
+        "mark": "M\u00f6nchshof Doppelbock Optimator",
+        "alko": 1.1,
+        "volume": 0.45,
+        "price": 256
+    },
+    {
+        "mark": "Dampfbierbrauerei Schumacher",
+        "alko": 4.6,
+        "volume": 0.35,
+        "price": 37
+    },
+    {
+        "mark": "Buttenheimer Doppelbock Maibock",
+        "alko": 1.7,
+        "volume": 0.4,
+        "price": 96
+    },
+    {
+        "mark": "Andechser Jahrhundert Dampfbier",
+        "alko": 2.4,
+        "volume": 0.43,
+        "price": 283
+    },
+    {
+        "mark": "Schneider Urbock",
+        "alko": 9.8,
+        "volume": 0.5,
+        "price": 79
+    },
+    {
+        "mark": "Hacker Zoiglbauer",
+        "alko": 9.1,
+        "volume": 0.42,
+        "price": 207
+    },
+    {
+        "mark": "Brothers Flensburger",
+        "alko": 5.3,
+        "volume": 0.33,
+        "price": 135
+    },
+    {
+        "mark": "Hacker Ayinger Ottos",
+        "alko": 3.0,
+        "volume": 0.5,
+        "price": 262
+    },
+    {
+        "mark": "Hacker-Pschorr Pschorr",
+        "alko": 5.9,
+        "volume": 0.45,
+        "price": 77
+    },
+    {
+        "mark": "Alt-Bayerisch Becks",
+        "alko": 2.1,
+        "volume": 0.34,
+        "price": 92
+    },
+    {
+        "mark": "Hacker-Pschorr Salvator",
+        "alko": 1.5,
+        "volume": 0.5,
+        "price": 185
+    },
+    {
+        "mark": "Spaten Hacker Oktoberfest",
+        "alko": 9.6,
+        "volume": 0.44,
+        "price": 49
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Roggen",
+        "alko": 6.0,
+        "volume": 0.37,
+        "price": 155
+    },
+    {
+        "mark": "Hacker-Pschorr Goslarer",
+        "alko": 4.1,
+        "volume": 0.47,
+        "price": 45
+    },
+    {
+        "mark": "Dampfbierbrauerei Gaffel",
+        "alko": 4.3,
+        "volume": 0.33,
+        "price": 107
+    },
+    {
+        "mark": "Kloster Hacker Oktoberfest",
+        "alko": 10.0,
+        "volume": 0.47,
+        "price": 243
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Optimator",
+        "alko": 4.5,
+        "volume": 0.4,
+        "price": 152
+    },
+    {
+        "mark": "Hofbr\u00e4u Ottos",
+        "alko": 8.7,
+        "volume": 0.48,
+        "price": 128
+    },
+    {
+        "mark": "M\u00f6nchshof Dunkel",
+        "alko": 7.2,
+        "volume": 0.45,
+        "price": 119
+    },
+    {
+        "mark": "Ayinger Ur-Weisse",
+        "alko": 6.5,
+        "volume": 0.47,
+        "price": 240
+    },
+    {
+        "mark": "Weihenstephaner Aventinus Aventinus",
+        "alko": 9.5,
+        "volume": 0.35,
+        "price": 180
+    },
+    {
+        "mark": "Weihenstephaner Augustinerbr\u00e4u",
+        "alko": 8.8,
+        "volume": 0.38,
+        "price": 61
+    },
+    {
+        "mark": "Andechser Hofbr\u00e4u Erdinger",
+        "alko": 8.2,
+        "volume": 0.36,
+        "price": 55
+    },
+    {
+        "mark": "House Ayinger Paulaner",
+        "alko": 0.9,
+        "volume": 0.4,
+        "price": 250
+    },
+    {
+        "mark": "Hacker Schumacher",
+        "alko": 0.7,
+        "volume": 0.39,
+        "price": 228
+    },
+    {
+        "mark": "Schneider K\u00f6stritzer",
+        "alko": 9.0,
+        "volume": 0.42,
+        "price": 104
+    },
+    {
+        "mark": "Doppelbock M\u00fchlen",
+        "alko": 0.7,
+        "volume": 0.36,
+        "price": 38
+    },
+    {
+        "mark": "Franziskaner Brothers Goslarer",
+        "alko": 3.8,
+        "volume": 0.43,
+        "price": 98
+    },
+    {
+        "mark": "Alt-Bayerisch M\u00fchlen",
+        "alko": 9.7,
+        "volume": 0.5,
+        "price": 177
+    },
+    {
+        "mark": "Hacker Paulaner",
+        "alko": 9.6,
+        "volume": 0.38,
+        "price": 185
+    },
+    {
+        "mark": "Franziskaner Brewing Oettingen",
+        "alko": 10.0,
+        "volume": 0.34,
+        "price": 148
+    },
+    {
+        "mark": "Andechser K\u00f6llner",
+        "alko": 10.0,
+        "volume": 0.4,
+        "price": 276
+    },
+    {
+        "mark": "Schneider Dunkel",
+        "alko": 8.2,
+        "volume": 0.39,
+        "price": 201
+    },
+    {
+        "mark": "Hacker-Pschorr Reissdorf",
+        "alko": 3.9,
+        "volume": 0.5,
+        "price": 99
+    },
+    {
+        "mark": "Zoigl Dampfbierbrauerei Scurry",
+        "alko": 2.6,
+        "volume": 0.38,
+        "price": 183
+    },
+    {
+        "mark": "Schneider Optimator",
+        "alko": 8.8,
+        "volume": 0.43,
+        "price": 219
+    },
+    {
+        "mark": "Hacker Aventinus Krombacher",
+        "alko": 1.9,
+        "volume": 0.5,
+        "price": 204
+    },
+    {
+        "mark": "Franziskaner Br\u00e4u",
+        "alko": 5.8,
+        "volume": 0.4,
+        "price": 196
+    },
+    {
+        "mark": "Hacker-Pschorr Gaffel",
+        "alko": 3.2,
+        "volume": 0.5,
+        "price": 172
+    },
+    {
+        "mark": "Alt-Bayerisch Brewing Pikantus",
+        "alko": 8.0,
+        "volume": 0.5,
+        "price": 150
+    },
+    {
+        "mark": "Dampfbierbrauerei Drop",
+        "alko": 3.7,
+        "volume": 0.4,
+        "price": 239
+    },
+    {
+        "mark": "M\u00f6nchshof Korbinian",
+        "alko": 5.9,
+        "volume": 0.39,
+        "price": 101
+    },
+    {
+        "mark": "Franziskaner Brauerei Paulaner",
+        "alko": 4.6,
+        "volume": 0.47,
+        "price": 46
+    },
+    {
+        "mark": "M\u00f6nchshof Brewing Steam",
+        "alko": 6.6,
+        "volume": 0.5,
+        "price": 69
+    },
+    {
+        "mark": "G\u00e4nstaller Maibock",
+        "alko": 7.5,
+        "volume": 0.45,
+        "price": 235
+    },
+    {
+        "mark": "Hefe-Weisse Radeberger",
+        "alko": 5.3,
+        "volume": 0.5,
+        "price": 163
+    },
+    {
+        "mark": "Buttenheimer Dunkel",
+        "alko": 4.8,
+        "volume": 0.45,
+        "price": 54
+    },
+    {
+        "mark": "Spaten Huberts Becks",
+        "alko": 0.9,
+        "volume": 0.37,
+        "price": 54
+    },
+    {
+        "mark": "Hacker Gaffel",
+        "alko": 9.0,
+        "volume": 0.37,
+        "price": 63
+    },
+    {
+        "mark": "Ayinger Bitburger",
+        "alko": 5.3,
+        "volume": 0.4,
+        "price": 203
+    },
+    {
+        "mark": "Andechser Jahrhundert Maisel",
+        "alko": 9.3,
+        "volume": 0.34,
+        "price": 101
+    },
+    {
+        "mark": "1516 Fr\u00fch",
+        "alko": 3.3,
+        "volume": 0.33,
+        "price": 245
+    },
+    {
+        "mark": "Erdinger Salvator",
+        "alko": 8.5,
+        "volume": 0.35,
+        "price": 254
+    },
+    {
+        "mark": "Kloster Brewing Paulaner",
+        "alko": 9.2,
+        "volume": 0.35,
+        "price": 272
+    },
+    {
+        "mark": "Buttenheimer Paulaner Dunkel",
+        "alko": 9.3,
+        "volume": 0.36,
+        "price": 113
+    },
+    {
+        "mark": "Huberts Franziskaner",
+        "alko": 8.6,
+        "volume": 0.48,
+        "price": 243
+    },
+    {
+        "mark": "Aventinus Ritterguts",
+        "alko": 6.2,
+        "volume": 0.38,
+        "price": 84
+    },
+    {
+        "mark": "Doppelbock Salvator",
+        "alko": 5.5,
+        "volume": 0.44,
+        "price": 86
+    },
+    {
+        "mark": "Buttenheimer Erdinger Altenauer",
+        "alko": 4.9,
+        "volume": 0.37,
+        "price": 150
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Korbinian",
+        "alko": 8.8,
+        "volume": 0.35,
+        "price": 115
+    },
+    {
+        "mark": "Spaten Radeberger",
+        "alko": 8.0,
+        "volume": 0.36,
+        "price": 188
+    },
+    {
+        "mark": "Alt-Bayerisch Dunkel",
+        "alko": 7.3,
+        "volume": 0.48,
+        "price": 255
+    },
+    {
+        "mark": "Unser Zoigl",
+        "alko": 5.3,
+        "volume": 0.38,
+        "price": 100
+    },
+    {
+        "mark": "House 1516 Dortmunder",
+        "alko": 3.4,
+        "volume": 0.5,
+        "price": 53
+    },
+    {
+        "mark": "Hacker Urbock",
+        "alko": 1.2,
+        "volume": 0.48,
+        "price": 279
+    },
+    {
+        "mark": "House Hefe-Weisse Diebels",
+        "alko": 0.9,
+        "volume": 0.5,
+        "price": 107
+    },
+    {
+        "mark": "Alt-Bayerisch Schumacher",
+        "alko": 0.4,
+        "volume": 0.5,
+        "price": 164
+    },
+    {
+        "mark": "Alt-Bayerisch Dampfbierbrauerei Urbock",
+        "alko": 9.7,
+        "volume": 0.34,
+        "price": 280
+    },
+    {
+        "mark": "Buttenheimer Brewing M\u00fchlen",
+        "alko": 2.3,
+        "volume": 0.5,
+        "price": 173
+    },
+    {
+        "mark": "Doppelbock Maibock",
+        "alko": 1.7,
+        "volume": 0.37,
+        "price": 48
+    },
+    {
+        "mark": "Hermannator Ice Unser Bock",
+        "alko": 9.7,
+        "volume": 0.38,
+        "price": 109
+    },
+    {
+        "mark": "Spaten G\u00f6ller",
+        "alko": 10.0,
+        "volume": 0.33,
+        "price": 137
+    },
+    {
+        "mark": "House Jahrhundert Korbinian",
+        "alko": 1.0,
+        "volume": 0.46,
+        "price": 275
+    },
+    {
+        "mark": "Weihenstephaner Dampfbier",
+        "alko": 7.3,
+        "volume": 0.44,
+        "price": 78
+    },
+    {
+        "mark": "Spaten M\u00f6nchshof",
+        "alko": 8.0,
+        "volume": 0.5,
+        "price": 243
+    },
+    {
+        "mark": "Hacker Aventinus Dunkel",
+        "alko": 7.8,
+        "volume": 0.49,
+        "price": 100
+    },
+    {
+        "mark": "Hacker-Pschorr Paulaner Bier",
+        "alko": 8.8,
+        "volume": 0.39,
+        "price": 211
+    },
+    {
+        "mark": "Franziskaner Brauerei Dark",
+        "alko": 9.0,
+        "volume": 0.5,
+        "price": 58
+    },
+    {
+        "mark": "Alt-Bayerisch 1516 Ur-Weisse",
+        "alko": 3.4,
+        "volume": 0.44,
+        "price": 93
+    },
+    {
+        "mark": "Erdinger Gaffel",
+        "alko": 2.1,
+        "volume": 0.37,
+        "price": 142
+    },
+    {
+        "mark": "Dampfbierbrauerei Urbock",
+        "alko": 6.4,
+        "volume": 0.37,
+        "price": 73
+    },
+    {
+        "mark": "Hermannator Ice Dampfbier",
+        "alko": 3.8,
+        "volume": 0.48,
+        "price": 140
+    },
+    {
+        "mark": "Kloster Becks",
+        "alko": 1.6,
+        "volume": 0.5,
+        "price": 32
+    },
+    {
+        "mark": "Doppelbock Ayilinger",
+        "alko": 4.7,
+        "volume": 0.48,
+        "price": 88
+    },
+    {
+        "mark": "Franziskaner Dampfbierbrauerei Br\u00e4u",
+        "alko": 9.6,
+        "volume": 0.39,
+        "price": 74
+    },
+    {
+        "mark": "G\u00e4nstaller Zoiglbauer",
+        "alko": 7.8,
+        "volume": 0.37,
+        "price": 45
+    },
+    {
+        "mark": "Unser Erdinger",
+        "alko": 1.2,
+        "volume": 0.45,
+        "price": 176
+    },
+    {
+        "mark": "Buttenheimer Schlenkerla Rauchbier Dunkel",
+        "alko": 9.1,
+        "volume": 0.41,
+        "price": 164
+    },
+    {
+        "mark": "Zoigl Doppelbock G\u00f6ller",
+        "alko": 10.0,
+        "volume": 0.41,
+        "price": 65
+    },
+    {
+        "mark": "Hacker 1516 Br\u00e4u",
+        "alko": 6.9,
+        "volume": 0.45,
+        "price": 117
+    },
+    {
+        "mark": "Unser Dortmunder",
+        "alko": 1.3,
+        "volume": 0.39,
+        "price": 251
+    },
+    {
+        "mark": "Ayinger Reissdorf",
+        "alko": 8.5,
+        "volume": 0.46,
+        "price": 222
+    },
+    {
+        "mark": "Schneider Dark",
+        "alko": 9.7,
+        "volume": 0.41,
+        "price": 223
+    },
+    {
+        "mark": "Doppelbock Br\u00e4u",
+        "alko": 0.3,
+        "volume": 0.34,
+        "price": 225
+    },
+    {
+        "mark": "Spaten Reissdorf",
+        "alko": 0.8,
+        "volume": 0.5,
+        "price": 146
+    },
+    {
+        "mark": "Weihenstephaner Jahrhundert Roggen",
+        "alko": 6.3,
+        "volume": 0.38,
+        "price": 64
+    },
+    {
+        "mark": "Andechser Dunkel",
+        "alko": 4.4,
+        "volume": 0.39,
+        "price": 87
+    },
+    {
+        "mark": "G\u00e4nstaller Krombacher",
+        "alko": 4.4,
+        "volume": 0.39,
+        "price": 55
+    },
+    {
+        "mark": "M\u00f6nchshof Hofbr\u00e4u Maibock",
+        "alko": 3.9,
+        "volume": 0.49,
+        "price": 169
+    },
+    {
+        "mark": "Hefe-Weisse Ritterguts",
+        "alko": 0.9,
+        "volume": 0.33,
+        "price": 266
+    },
+    {
+        "mark": "Schneider Steam",
+        "alko": 5.6,
+        "volume": 0.34,
+        "price": 191
+    },
+    {
+        "mark": "Weihenstephaner Korbinian",
+        "alko": 8.6,
+        "volume": 0.35,
+        "price": 222
+    },
+    {
+        "mark": "Franziskaner Doppelbock Zoiglbauer",
+        "alko": 9.4,
+        "volume": 0.5,
+        "price": 166
+    },
+    {
+        "mark": "Paulaner Drop",
+        "alko": 2.0,
+        "volume": 0.42,
+        "price": 243
+    },
+    {
+        "mark": "Goslarer",
+        "alko": 6.8,
+        "volume": 0.41,
+        "price": 64
+    },
+    {
+        "mark": "Hofbr\u00e4u Goslarer",
+        "alko": 9.4,
+        "volume": 0.36,
+        "price": 108
+    },
+    {
+        "mark": "Andechser Schlenkerla Rauchbier Dampfbier",
+        "alko": 4.1,
+        "volume": 0.49,
+        "price": 240
+    },
+    {
+        "mark": "Spaten Krombacher",
+        "alko": 9.2,
+        "volume": 0.47,
+        "price": 237
+    },
+    {
+        "mark": "1516 Ayilinger",
+        "alko": 3.4,
+        "volume": 0.41,
+        "price": 75
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Warsteiner",
+        "alko": 1.5,
+        "volume": 0.47,
+        "price": 142
+    },
+    {
+        "mark": "Unser Reissdorf",
+        "alko": 1.1,
+        "volume": 0.47,
+        "price": 130
+    },
+    {
+        "mark": "Spaten Scurry",
+        "alko": 9.1,
+        "volume": 0.4,
+        "price": 186
+    },
+    {
+        "mark": "Ayinger Krombacher",
+        "alko": 1.5,
+        "volume": 0.42,
+        "price": 230
+    },
+    {
+        "mark": "Alt-Bayerisch Unser Bitburger",
+        "alko": 4.1,
+        "volume": 0.44,
+        "price": 223
+    },
+    {
+        "mark": "1516 Aventinus",
+        "alko": 9.6,
+        "volume": 0.44,
+        "price": 162
+    },
+    {
+        "mark": "House Optimator",
+        "alko": 7.4,
+        "volume": 0.48,
+        "price": 165
+    },
+    {
+        "mark": "House Hefe-Weisse Fr\u00fch",
+        "alko": 6.0,
+        "volume": 0.36,
+        "price": 251
+    },
+    {
+        "mark": "Franziskaner Zoigl",
+        "alko": 8.8,
+        "volume": 0.4,
+        "price": 283
+    },
+    {
+        "mark": "Hofbr\u00e4u Bier",
+        "alko": 7.1,
+        "volume": 0.43,
+        "price": 108
+    },
+    {
+        "mark": "Hermannator Ice Brothers Kellerbier",
+        "alko": 2.9,
+        "volume": 0.37,
+        "price": 225
+    },
+    {
+        "mark": "Hacker Hacker Pschorr",
+        "alko": 4.2,
+        "volume": 0.5,
+        "price": 104
+    },
+    {
+        "mark": "Franziskaner Brothers Pfarrbr\u00e4u",
+        "alko": 4.9,
+        "volume": 0.4,
+        "price": 225
+    },
+    {
+        "mark": "Hermannator Ice Huberts Weizen-Eisbock",
+        "alko": 5.9,
+        "volume": 0.42,
+        "price": 234
+    },
+    {
+        "mark": "Alt-Bayerisch Maisel",
+        "alko": 8.1,
+        "volume": 0.42,
+        "price": 173
+    },
+    {
+        "mark": "Aventinus Br\u00e4u",
+        "alko": 6.5,
+        "volume": 0.43,
+        "price": 99
+    },
+    {
+        "mark": "Spaten Pschorr Oktoberfest Drop",
+        "alko": 0.6,
+        "volume": 0.39,
+        "price": 66
+    },
+    {
+        "mark": "Zoigl Dunkel",
+        "alko": 2.9,
+        "volume": 0.45,
+        "price": 253
+    },
+    {
+        "mark": "Zoigl Maibock",
+        "alko": 0.3,
+        "volume": 0.38,
+        "price": 264
+    },
+    {
+        "mark": "G\u00e4nstaller M\u00e4rzen",
+        "alko": 8.0,
+        "volume": 0.38,
+        "price": 80
+    },
+    {
+        "mark": "Weihenstephaner Huberts M\u00fcnchen",
+        "alko": 7.1,
+        "volume": 0.43,
+        "price": 110
+    },
+    {
+        "mark": "Kloster Unser Dampfbier",
+        "alko": 5.5,
+        "volume": 0.45,
+        "price": 257
+    },
+    {
+        "mark": "Weihenstephaner Aventinus Franziskaner",
+        "alko": 3.8,
+        "volume": 0.41,
+        "price": 61
+    },
+    {
+        "mark": "Aventinus Schumacher",
+        "alko": 6.8,
+        "volume": 0.43,
+        "price": 132
+    },
+    {
+        "mark": "Aventinus Krombacher",
+        "alko": 6.3,
+        "volume": 0.38,
+        "price": 202
+    },
+    {
+        "mark": "Hefe-Weisse Reissdorf",
+        "alko": 0.3,
+        "volume": 0.5,
+        "price": 51
+    },
+    {
+        "mark": "Unser Spezial",
+        "alko": 5.9,
+        "volume": 0.35,
+        "price": 180
+    },
+    {
+        "mark": "Alt-Bayerisch Hofbr\u00e4u Reissdorf",
+        "alko": 3.0,
+        "volume": 0.41,
+        "price": 161
+    },
+    {
+        "mark": "Zoigl Doppelbock Becks",
+        "alko": 5.1,
+        "volume": 0.39,
+        "price": 52
+    },
+    {
+        "mark": "Ayinger Paulaner Oktoberfest",
+        "alko": 4.1,
+        "volume": 0.5,
+        "price": 205
+    },
+    {
+        "mark": "Alt-Bayerisch Scurry",
+        "alko": 4.8,
+        "volume": 0.36,
+        "price": 40
+    },
+    {
+        "mark": "Brauerei Bitburger",
+        "alko": 1.1,
+        "volume": 0.41,
+        "price": 123
+    },
+    {
+        "mark": "Paulaner Paulaner",
+        "alko": 6.1,
+        "volume": 0.49,
+        "price": 136
+    },
+    {
+        "mark": "Alt-Bayerisch Pschorr",
+        "alko": 2.3,
+        "volume": 0.43,
+        "price": 241
+    },
+    {
+        "mark": "Aventinus Oettingen",
+        "alko": 1.9,
+        "volume": 0.48,
+        "price": 172
+    },
+    {
+        "mark": "Huberts Dunkel",
+        "alko": 0.4,
+        "volume": 0.5,
+        "price": 38
+    },
+    {
+        "mark": "Hacker M\u00fcnchen",
+        "alko": 6.0,
+        "volume": 0.36,
+        "price": 49
+    },
+    {
+        "mark": "Weihenstephaner K\u00f6stritzer",
+        "alko": 4.6,
+        "volume": 0.42,
+        "price": 167
+    },
+    {
+        "mark": "Zoigl Huberts Radeberger",
+        "alko": 4.9,
+        "volume": 0.33,
+        "price": 127
+    },
+    {
+        "mark": "House Goslarer",
+        "alko": 2.2,
+        "volume": 0.38,
+        "price": 123
+    },
+    {
+        "mark": "Hacker Maisel",
+        "alko": 4.9,
+        "volume": 0.49,
+        "price": 186
+    },
+    {
+        "mark": "1516 Frankenheim",
+        "alko": 5.6,
+        "volume": 0.42,
+        "price": 39
+    },
+    {
+        "mark": "Spaten Paulaner Spezial",
+        "alko": 3.4,
+        "volume": 0.33,
+        "price": 44
+    },
+    {
+        "mark": "Jahrhundert Ur-Weisse",
+        "alko": 0.2,
+        "volume": 0.41,
+        "price": 169
+    },
+    {
+        "mark": "Unser Dark",
+        "alko": 3.6,
+        "volume": 0.34,
+        "price": 76
+    },
+    {
+        "mark": "Pschorr Oktoberfest Steam",
+        "alko": 6.9,
+        "volume": 0.37,
+        "price": 53
+    },
+    {
+        "mark": "M\u00f6nchshof Paulaner Paulaner",
+        "alko": 4.4,
+        "volume": 0.34,
+        "price": 148
+    },
+    {
+        "mark": "M\u00f6nchshof Brauerei Spaten",
+        "alko": 9.3,
+        "volume": 0.39,
+        "price": 186
+    },
+    {
+        "mark": "Unser Oktoberfest",
+        "alko": 7.9,
+        "volume": 0.37,
+        "price": 280
+    },
+    {
+        "mark": "Hacker-Pschorr Brewing Ottos",
+        "alko": 9.7,
+        "volume": 0.36,
+        "price": 118
+    },
+    {
+        "mark": "Kloster Dampfbierbrauerei Bier",
+        "alko": 2.6,
+        "volume": 0.43,
+        "price": 232
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Lager",
+        "alko": 1.3,
+        "volume": 0.38,
+        "price": 101
+    },
+    {
+        "mark": "Spaten Flensburger",
+        "alko": 9.4,
+        "volume": 0.38,
+        "price": 168
+    },
+    {
+        "mark": "Ayinger M\u00fcnchen",
+        "alko": 2.9,
+        "volume": 0.47,
+        "price": 187
+    },
+    {
+        "mark": "Spaten Goslarer",
+        "alko": 8.5,
+        "volume": 0.49,
+        "price": 211
+    },
+    {
+        "mark": "Aventinus Pikantus",
+        "alko": 2.1,
+        "volume": 0.49,
+        "price": 91
+    },
+    {
+        "mark": "Paulaner Spaten",
+        "alko": 9.0,
+        "volume": 0.4,
+        "price": 150
+    },
+    {
+        "mark": "Alt-Bayerisch Ayinger Ottos",
+        "alko": 9.9,
+        "volume": 0.49,
+        "price": 40
+    },
+    {
+        "mark": "Alt-Bayerisch Brewing Erdinger",
+        "alko": 0.4,
+        "volume": 0.47,
+        "price": 93
+    },
+    {
+        "mark": "Schneider M\u00fcnchen",
+        "alko": 2.0,
+        "volume": 0.46,
+        "price": 111
+    },
+    {
+        "mark": "Schneider Diebels",
+        "alko": 5.6,
+        "volume": 0.5,
+        "price": 108
+    },
+    {
+        "mark": "M\u00f6nchshof M\u00fcnchen",
+        "alko": 6.5,
+        "volume": 0.45,
+        "price": 176
+    },
+    {
+        "mark": "Alt-Bayerisch Brauerei Drop",
+        "alko": 7.9,
+        "volume": 0.36,
+        "price": 122
+    },
+    {
+        "mark": "Weihenstephaner Oettingen",
+        "alko": 3.0,
+        "volume": 0.46,
+        "price": 192
+    },
+    {
+        "mark": "Mitterteich Oettingen",
+        "alko": 10.0,
+        "volume": 0.41,
+        "price": 230
+    },
+    {
+        "mark": "Unser Scurry",
+        "alko": 1.6,
+        "volume": 0.45,
+        "price": 283
+    },
+    {
+        "mark": "M\u00f6nchshof Hefe-Weisse Ottos",
+        "alko": 4.8,
+        "volume": 0.38,
+        "price": 30
+    },
+    {
+        "mark": "Franziskaner Becks",
+        "alko": 6.2,
+        "volume": 0.42,
+        "price": 208
+    },
+    {
+        "mark": "Hacker-Pschorr Ayinger Lager",
+        "alko": 9.1,
+        "volume": 0.43,
+        "price": 269
+    },
+    {
+        "mark": "Weihenstephaner Dampfbierbrauerei Rauchbier",
+        "alko": 1.2,
+        "volume": 0.47,
+        "price": 218
+    },
+    {
+        "mark": "Alt-Bayerisch Steam",
+        "alko": 7.1,
+        "volume": 0.48,
+        "price": 161
+    },
+    {
+        "mark": "Unser Salvator",
+        "alko": 6.9,
+        "volume": 0.5,
+        "price": 120
+    },
+    {
+        "mark": "Hermannator Ice Flensburger",
+        "alko": 6.9,
+        "volume": 0.47,
+        "price": 99
+    },
+    {
+        "mark": "Alt-Bayerisch Dampfbierbrauerei Flensburger",
+        "alko": 2.7,
+        "volume": 0.34,
+        "price": 98
+    },
+    {
+        "mark": "Brauerei Schumacher",
+        "alko": 1.7,
+        "volume": 0.41,
+        "price": 79
+    },
+    {
+        "mark": "Huberts Pschorr",
+        "alko": 6.0,
+        "volume": 0.49,
+        "price": 96
+    },
+    {
+        "mark": "Brothers Dark",
+        "alko": 3.4,
+        "volume": 0.44,
+        "price": 133
+    },
+    {
+        "mark": "Alt-Bayerisch Pschorr Oktoberfest Zoigl",
+        "alko": 2.8,
+        "volume": 0.5,
+        "price": 29
+    },
+    {
+        "mark": "Hacker-Pschorr Ayilinger",
+        "alko": 10.0,
+        "volume": 0.35,
+        "price": 122
+    },
+    {
+        "mark": "Hefe-Weisse Dortmunder",
+        "alko": 6.8,
+        "volume": 0.45,
+        "price": 196
+    },
+    {
+        "mark": "Kloster Korbinian",
+        "alko": 0.9,
+        "volume": 0.45,
+        "price": 67
+    },
+    {
+        "mark": "Zoigl Scurry",
+        "alko": 4.4,
+        "volume": 0.4,
+        "price": 270
+    },
+    {
+        "mark": "Ayinger K\u00f6stritzer",
+        "alko": 5.6,
+        "volume": 0.5,
+        "price": 222
+    },
+    {
+        "mark": "Buttenheimer Gaffel",
+        "alko": 8.5,
+        "volume": 0.47,
+        "price": 243
+    },
+    {
+        "mark": "Hefe-Weisse Zoigl",
+        "alko": 6.1,
+        "volume": 0.48,
+        "price": 233
+    },
+    {
+        "mark": "Hermannator Ice Hefe-Weisse Zoigl",
+        "alko": 1.6,
+        "volume": 0.44,
+        "price": 259
+    },
+    {
+        "mark": "G\u00e4nstaller K\u00f6stritzer",
+        "alko": 8.9,
+        "volume": 0.33,
+        "price": 188
+    },
+    {
+        "mark": "Franziskaner Hacker Becks",
+        "alko": 2.8,
+        "volume": 0.41,
+        "price": 201
+    },
+    {
+        "mark": "Hacker Brewing M\u00fchlen",
+        "alko": 9.3,
+        "volume": 0.37,
+        "price": 152
+    },
+    {
+        "mark": "Hacker Ayinger Spezial",
+        "alko": 2.9,
+        "volume": 0.42,
+        "price": 230
+    },
+    {
+        "mark": "Unser Warsteiner",
+        "alko": 5.8,
+        "volume": 0.35,
+        "price": 243
+    },
+    {
+        "mark": "Weihenstephaner Ayinger Krombacher",
+        "alko": 1.4,
+        "volume": 0.41,
+        "price": 78
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Dortmunder",
+        "alko": 4.7,
+        "volume": 0.37,
+        "price": 218
+    },
+    {
+        "mark": "1516 Altenauer",
+        "alko": 0.5,
+        "volume": 0.35,
+        "price": 252
+    },
+    {
+        "mark": "Hacker Doppelbock Pikantus",
+        "alko": 1.8,
+        "volume": 0.46,
+        "price": 134
+    },
+    {
+        "mark": "Alt-Bayerisch Mitterteich Warsteiner",
+        "alko": 3.5,
+        "volume": 0.41,
+        "price": 240
+    },
+    {
+        "mark": "Ayinger Urbock",
+        "alko": 0.2,
+        "volume": 0.42,
+        "price": 41
+    },
+    {
+        "mark": "Alt-Bayerisch Salvator",
+        "alko": 1.3,
+        "volume": 0.5,
+        "price": 50
+    },
+    {
+        "mark": "Andechser Zoiglbauer",
+        "alko": 6.0,
+        "volume": 0.48,
+        "price": 207
+    },
+    {
+        "mark": "Paulaner K\u00f6stritzer",
+        "alko": 1.1,
+        "volume": 0.45,
+        "price": 48
+    },
+    {
+        "mark": "Hacker-Pschorr Ayinger Kellerbier",
+        "alko": 5.2,
+        "volume": 0.47,
+        "price": 158
+    },
+    {
+        "mark": "Zoigl Hofbr\u00e4u Frankenheim",
+        "alko": 2.3,
+        "volume": 0.37,
+        "price": 77
+    },
+    {
+        "mark": "Alt-Bayerisch 1516 Optimator",
+        "alko": 2.6,
+        "volume": 0.49,
+        "price": 230
+    },
+    {
+        "mark": "Paulaner Bitburger",
+        "alko": 6.0,
+        "volume": 0.48,
+        "price": 205
+    },
+    {
+        "mark": "Weihenstephaner Bitburger",
+        "alko": 2.6,
+        "volume": 0.5,
+        "price": 73
+    },
+    {
+        "mark": "Alt-Bayerisch Warsteiner",
+        "alko": 1.7,
+        "volume": 0.5,
+        "price": 196
+    },
+    {
+        "mark": "Franziskaner Maisel",
+        "alko": 4.1,
+        "volume": 0.47,
+        "price": 62
+    },
+    {
+        "mark": "Alt-Bayerisch Optimator",
+        "alko": 5.3,
+        "volume": 0.34,
+        "price": 208
+    },
+    {
+        "mark": "1516 Urbock",
+        "alko": 2.1,
+        "volume": 0.38,
+        "price": 105
+    },
+    {
+        "mark": "1516 Korbinian",
+        "alko": 1.6,
+        "volume": 0.36,
+        "price": 169
+    },
+    {
+        "mark": "Hacker Maibock",
+        "alko": 7.6,
+        "volume": 0.46,
+        "price": 185
+    },
+    {
+        "mark": "Hacker-Pschorr Huberts Altenauer",
+        "alko": 5.8,
+        "volume": 0.47,
+        "price": 124
+    },
+    {
+        "mark": "Weihenstephaner Pikantus",
+        "alko": 6.4,
+        "volume": 0.48,
+        "price": 259
+    },
+    {
+        "mark": "Buttenheimer Ayilinger",
+        "alko": 1.9,
+        "volume": 0.41,
+        "price": 147
+    },
+    {
+        "mark": "Schneider Erdinger M\u00fchlen",
+        "alko": 2.5,
+        "volume": 0.45,
+        "price": 111
+    },
+    {
+        "mark": "Hacker-Pschorr Paulaner Drop",
+        "alko": 0.6,
+        "volume": 0.46,
+        "price": 228
+    },
+    {
+        "mark": "Brauerei Oktoberfest",
+        "alko": 8.1,
+        "volume": 0.41,
+        "price": 124
+    },
+    {
+        "mark": "Mitterteich Augustinerbr\u00e4u",
+        "alko": 0.9,
+        "volume": 0.48,
+        "price": 34
+    },
+    {
+        "mark": "Hermannator Ice Dampfbierbrauerei Rauchbier",
+        "alko": 1.5,
+        "volume": 0.41,
+        "price": 210
+    },
+    {
+        "mark": "Schneider Ur-Weisse",
+        "alko": 9.7,
+        "volume": 0.38,
+        "price": 69
+    },
+    {
+        "mark": "1516 Optimator",
+        "alko": 7.0,
+        "volume": 0.35,
+        "price": 86
+    },
+    {
+        "mark": "Buttenheimer Pfarrbr\u00e4u",
+        "alko": 7.7,
+        "volume": 0.49,
+        "price": 254
+    },
+    {
+        "mark": "Ayinger Drop",
+        "alko": 8.8,
+        "volume": 0.42,
+        "price": 81
+    },
+    {
+        "mark": "Buttenheimer G\u00e4nstaller M\u00f6nchshof",
+        "alko": 7.4,
+        "volume": 0.49,
+        "price": 178
+    },
+    {
+        "mark": "Weihenstephaner Doppelbock K\u00f6stritzer",
+        "alko": 1.1,
+        "volume": 0.34,
+        "price": 105
+    },
+    {
+        "mark": "Pschorr Oktoberfest M\u00e4rzen",
+        "alko": 3.3,
+        "volume": 0.4,
+        "price": 108
+    },
+    {
+        "mark": "M\u00f6nchshof Aventinus Dampfbier",
+        "alko": 7.0,
+        "volume": 0.39,
+        "price": 83
+    },
+    {
+        "mark": "Mitterteich Drop",
+        "alko": 8.6,
+        "volume": 0.45,
+        "price": 258
+    },
+    {
+        "mark": "Schneider 1516 Br\u00e4u",
+        "alko": 5.8,
+        "volume": 0.38,
+        "price": 172
+    },
+    {
+        "mark": "Zoigl Brauerei Bitburger",
+        "alko": 2.9,
+        "volume": 0.37,
+        "price": 280
+    },
+    {
+        "mark": "M\u00f6nchshof Brewing Scurry",
+        "alko": 1.5,
+        "volume": 0.5,
+        "price": 74
+    },
+    {
+        "mark": "Franziskaner Pschorr Oktoberfest M\u00fchlen",
+        "alko": 4.7,
+        "volume": 0.46,
+        "price": 155
+    },
+    {
+        "mark": "Alt-Bayerisch Reissdorf",
+        "alko": 1.7,
+        "volume": 0.4,
+        "price": 225
+    },
+    {
+        "mark": "Alt-Bayerisch Maibock",
+        "alko": 5.3,
+        "volume": 0.47,
+        "price": 199
+    },
+    {
+        "mark": "Alt-Bayerisch 1516 Oettingen",
+        "alko": 5.4,
+        "volume": 0.47,
+        "price": 219
+    },
+    {
+        "mark": "Paulaner Pschorr",
+        "alko": 4.0,
+        "volume": 0.35,
+        "price": 258
+    },
+    {
+        "mark": "Erdinger Kellerbier",
+        "alko": 1.2,
+        "volume": 0.47,
+        "price": 52
+    },
+    {
+        "mark": "Kloster Dark",
+        "alko": 8.6,
+        "volume": 0.48,
+        "price": 246
+    },
+    {
+        "mark": "Erdinger Becks",
+        "alko": 7.8,
+        "volume": 0.49,
+        "price": 168
+    },
+    {
+        "mark": "Franziskaner Steam",
+        "alko": 4.6,
+        "volume": 0.4,
+        "price": 142
+    },
+    {
+        "mark": "Andechser Huberts Schumacher",
+        "alko": 5.0,
+        "volume": 0.5,
+        "price": 43
+    },
+    {
+        "mark": "Ayinger Goslarer",
+        "alko": 5.7,
+        "volume": 0.5,
+        "price": 273
+    },
+    {
+        "mark": "Andechser Pfarrbr\u00e4u",
+        "alko": 0.7,
+        "volume": 0.33,
+        "price": 39
+    },
+    {
+        "mark": "Andechser Erdinger Optimator",
+        "alko": 8.3,
+        "volume": 0.35,
+        "price": 99
+    },
+    {
+        "mark": "Hacker Augustinerbr\u00e4u",
+        "alko": 5.8,
+        "volume": 0.33,
+        "price": 36
+    },
+    {
+        "mark": "Buttenheimer Goslarer",
+        "alko": 8.2,
+        "volume": 0.46,
+        "price": 136
+    },
+    {
+        "mark": "Franziskaner Huberts Scurry",
+        "alko": 2.6,
+        "volume": 0.34,
+        "price": 123
+    },
+    {
+        "mark": "Ayinger Brauerei Ottos",
+        "alko": 1.5,
+        "volume": 0.5,
+        "price": 164
+    },
+    {
+        "mark": "Aventinus Reissdorf",
+        "alko": 6.6,
+        "volume": 0.45,
+        "price": 90
+    },
+    {
+        "mark": "Alt-Bayerisch Drop",
+        "alko": 7.1,
+        "volume": 0.36,
+        "price": 51
+    },
+    {
+        "mark": "Weihenstephaner Hefe-Weisse M\u00e4rzen",
+        "alko": 5.5,
+        "volume": 0.34,
+        "price": 45
+    },
+    {
+        "mark": "Hermannator Ice Unser Br\u00e4u",
+        "alko": 6.0,
+        "volume": 0.37,
+        "price": 165
+    },
+    {
+        "mark": "Zoigl Drop",
+        "alko": 5.7,
+        "volume": 0.49,
+        "price": 172
+    },
+    {
+        "mark": "M\u00f6nchshof Doppelbock Kellerbier",
+        "alko": 5.6,
+        "volume": 0.42,
+        "price": 187
+    },
+    {
+        "mark": "Hacker G\u00e4nstaller Becks",
+        "alko": 1.8,
+        "volume": 0.46,
+        "price": 114
+    },
+    {
+        "mark": "Pschorr Oktoberfest Rauchbier",
+        "alko": 7.7,
+        "volume": 0.39,
+        "price": 90
+    },
+    {
+        "mark": "Weihenstephaner Ayinger Ritterguts",
+        "alko": 4.4,
+        "volume": 0.33,
+        "price": 63
+    },
+    {
+        "mark": "Alt-Bayerisch Zoigl",
+        "alko": 8.8,
+        "volume": 0.34,
+        "price": 212
+    },
+    {
+        "mark": "Hacker Hofbr\u00e4u Spaten",
+        "alko": 0.5,
+        "volume": 0.5,
+        "price": 275
+    },
+    {
+        "mark": "Hacker-Pschorr Brothers G\u00f6ller",
+        "alko": 7.8,
+        "volume": 0.35,
+        "price": 52
+    },
+    {
+        "mark": "Hofbr\u00e4u Oktoberfest",
+        "alko": 4.0,
+        "volume": 0.47,
+        "price": 215
+    },
+    {
+        "mark": "Hermannator Ice Jahrhundert Dortmunder",
+        "alko": 6.1,
+        "volume": 0.43,
+        "price": 221
+    },
+    {
+        "mark": "Aventinus Gaffel",
+        "alko": 2.1,
+        "volume": 0.36,
+        "price": 179
+    },
+    {
+        "mark": "Franziskaner Krombacher",
+        "alko": 6.0,
+        "volume": 0.41,
+        "price": 177
+    },
+    {
+        "mark": "Spaten Dampfbierbrauerei Diebels",
+        "alko": 2.9,
+        "volume": 0.33,
+        "price": 133
+    },
+    {
+        "mark": "Franziskaner Brothers M\u00fchlen",
+        "alko": 4.4,
+        "volume": 0.45,
+        "price": 114
+    },
+    {
+        "mark": "Brauerei Rauchbier",
+        "alko": 1.5,
+        "volume": 0.36,
+        "price": 88
+    },
+    {
+        "mark": "Doppelbock Aventinus",
+        "alko": 0.4,
+        "volume": 0.33,
+        "price": 244
+    },
+    {
+        "mark": "Paulaner Rauchbier",
+        "alko": 8.0,
+        "volume": 0.34,
+        "price": 167
+    },
+    {
+        "mark": "Andechser Doppelbock Goslarer",
+        "alko": 8.0,
+        "volume": 0.33,
+        "price": 185
+    },
+    {
+        "mark": "Hefe-Weisse Lager",
+        "alko": 4.4,
+        "volume": 0.33,
+        "price": 243
+    },
+    {
+        "mark": "Zoigl Brothers M\u00fchlen",
+        "alko": 1.9,
+        "volume": 0.43,
+        "price": 118
+    },
+    {
+        "mark": "Alt-Bayerisch Hofbr\u00e4u G\u00f6ller",
+        "alko": 0.8,
+        "volume": 0.38,
+        "price": 263
+    },
+    {
+        "mark": "M\u00f6nchshof Flensburger",
+        "alko": 2.4,
+        "volume": 0.35,
+        "price": 154
+    },
+    {
+        "mark": "Spaten M\u00fcnchen",
+        "alko": 9.8,
+        "volume": 0.4,
+        "price": 111
+    },
+    {
+        "mark": "Brauerei Reissdorf",
+        "alko": 0.8,
+        "volume": 0.38,
+        "price": 262
+    },
+    {
+        "mark": "Ayinger Schlenkerla Rauchbier Goslarer",
+        "alko": 6.8,
+        "volume": 0.43,
+        "price": 235
+    },
+    {
+        "mark": "Jahrhundert Goslarer",
+        "alko": 3.5,
+        "volume": 0.33,
+        "price": 124
+    },
+    {
+        "mark": "Zoigl Augustinerbr\u00e4u",
+        "alko": 2.0,
+        "volume": 0.49,
+        "price": 211
+    },
+    {
+        "mark": "Schneider Brewing Zoiglbauer",
+        "alko": 1.3,
+        "volume": 0.46,
+        "price": 273
+    },
+    {
+        "mark": "Hefe-Weisse Flensburger",
+        "alko": 10.0,
+        "volume": 0.37,
+        "price": 196
+    },
+    {
+        "mark": "Alt-Bayerisch 1516 Flensburger",
+        "alko": 6.9,
+        "volume": 0.39,
+        "price": 140
+    },
+    {
+        "mark": "Hacker Pschorr Oktoberfest Gaffel",
+        "alko": 3.8,
+        "volume": 0.5,
+        "price": 185
+    },
+    {
+        "mark": "Brewing M\u00fchlen",
+        "alko": 1.2,
+        "volume": 0.33,
+        "price": 158
+    },
+    {
+        "mark": "Hacker M\u00fchlen",
+        "alko": 3.3,
+        "volume": 0.37,
+        "price": 72
+    },
+    {
+        "mark": "Hefe-Weisse Oettingen",
+        "alko": 8.5,
+        "volume": 0.33,
+        "price": 37
+    },
+    {
+        "mark": "M\u00f6nchshof Erdinger",
+        "alko": 8.9,
+        "volume": 0.33,
+        "price": 257
+    },
+    {
+        "mark": "Spaten Ayilinger",
+        "alko": 1.0,
+        "volume": 0.37,
+        "price": 265
+    },
+    {
+        "mark": "Brewing Roggen",
+        "alko": 1.8,
+        "volume": 0.45,
+        "price": 64
+    },
+    {
+        "mark": "Hermannator Ice Brothers Diebels",
+        "alko": 2.3,
+        "volume": 0.38,
+        "price": 131
+    },
+    {
+        "mark": "G\u00e4nstaller M\u00fcnchen",
+        "alko": 3.8,
+        "volume": 0.45,
+        "price": 114
+    },
+    {
+        "mark": "Zoigl Hofbr\u00e4u Scurry",
+        "alko": 7.0,
+        "volume": 0.48,
+        "price": 118
+    },
+    {
+        "mark": "House Pschorr Oktoberfest Diebels",
+        "alko": 4.5,
+        "volume": 0.44,
+        "price": 204
+    },
+    {
+        "mark": "House Lager",
+        "alko": 6.9,
+        "volume": 0.43,
+        "price": 281
+    },
+    {
+        "mark": "Schneider Schlenkerla Rauchbier Steam",
+        "alko": 1.9,
+        "volume": 0.41,
+        "price": 80
+    },
+    {
+        "mark": "Hermannator Ice Krombacher",
+        "alko": 8.8,
+        "volume": 0.42,
+        "price": 203
+    },
+    {
+        "mark": "Franziskaner Huberts Spaten",
+        "alko": 7.1,
+        "volume": 0.41,
+        "price": 106
+    },
+    {
+        "mark": "Alt-Bayerisch Pschorr Oktoberfest Kellerbier",
+        "alko": 6.9,
+        "volume": 0.48,
+        "price": 84
+    },
+    {
+        "mark": "Alt-Bayerisch Dampfbierbrauerei Korbinian",
+        "alko": 1.1,
+        "volume": 0.46,
+        "price": 124
+    },
+    {
+        "mark": "Andechser Goslarer",
+        "alko": 1.0,
+        "volume": 0.43,
+        "price": 55
+    },
+    {
+        "mark": "Zoigl Korbinian",
+        "alko": 2.4,
+        "volume": 0.36,
+        "price": 264
+    },
+    {
+        "mark": "Buttenheimer Ur-Weisse",
+        "alko": 0.7,
+        "volume": 0.34,
+        "price": 159
+    },
+    {
+        "mark": "Hacker Hacker M\u00fchlen",
+        "alko": 6.4,
+        "volume": 0.36,
+        "price": 120
+    },
+    {
+        "mark": "Hacker Pschorr",
+        "alko": 2.2,
+        "volume": 0.47,
+        "price": 220
+    },
+    {
+        "mark": "Buttenheimer Urbock",
+        "alko": 2.9,
+        "volume": 0.44,
+        "price": 256
+    },
+    {
+        "mark": "Hacker 1516 Flensburger",
+        "alko": 9.6,
+        "volume": 0.43,
+        "price": 133
+    },
+    {
+        "mark": "Paulaner Zoiglbauer",
+        "alko": 9.6,
+        "volume": 0.41,
+        "price": 187
+    },
+    {
+        "mark": "Andechser Erdinger Ur-Weisse",
+        "alko": 9.6,
+        "volume": 0.46,
+        "price": 105
+    },
+    {
+        "mark": "Dampfbierbrauerei Br\u00e4u",
+        "alko": 0.9,
+        "volume": 0.49,
+        "price": 219
+    },
+    {
+        "mark": "Jahrhundert M\u00fchlen",
+        "alko": 6.7,
+        "volume": 0.47,
+        "price": 169
+    },
+    {
+        "mark": "Alt-Bayerisch Dampfbierbrauerei Ayilinger",
+        "alko": 4.7,
+        "volume": 0.33,
+        "price": 104
+    },
+    {
+        "mark": "Alt-Bayerisch Brothers Dampfbier",
+        "alko": 0.9,
+        "volume": 0.34,
+        "price": 157
+    },
+    {
+        "mark": "Andechser Optimator",
+        "alko": 3.7,
+        "volume": 0.44,
+        "price": 123
+    },
+    {
+        "mark": "Hacker Pschorr Oktoberfest Optimator",
+        "alko": 1.9,
+        "volume": 0.47,
+        "price": 177
+    },
+    {
+        "mark": "Weihenstephaner G\u00e4nstaller K\u00f6llner",
+        "alko": 1.2,
+        "volume": 0.45,
+        "price": 97
+    },
+    {
+        "mark": "Buttenheimer Aventinus Schumacher",
+        "alko": 8.2,
+        "volume": 0.47,
+        "price": 137
+    },
+    {
+        "mark": "Erdinger Bock",
+        "alko": 9.4,
+        "volume": 0.43,
+        "price": 200
+    },
+    {
+        "mark": "Schneider Aventinus",
+        "alko": 8.4,
+        "volume": 0.33,
+        "price": 215
+    },
+    {
+        "mark": "G\u00e4nstaller Rauchbier",
+        "alko": 3.6,
+        "volume": 0.4,
+        "price": 253
+    },
+    {
+        "mark": "House Weizen-Eisbock",
+        "alko": 5.5,
+        "volume": 0.4,
+        "price": 78
+    },
+    {
+        "mark": "Alt-Bayerisch Dampfbierbrauerei Diebels",
+        "alko": 10.0,
+        "volume": 0.38,
+        "price": 148
+    },
+    {
+        "mark": "Hofbr\u00e4u Erdinger",
+        "alko": 7.0,
+        "volume": 0.47,
+        "price": 62
+    },
+    {
+        "mark": "Weihenstephaner Altenauer",
+        "alko": 4.4,
+        "volume": 0.49,
+        "price": 117
+    },
+    {
+        "mark": "Andechser Schlenkerla Rauchbier Optimator",
+        "alko": 7.5,
+        "volume": 0.45,
+        "price": 73
+    },
+    {
+        "mark": "Andechser Dampfbierbrauerei Schumacher",
+        "alko": 8.1,
+        "volume": 0.38,
+        "price": 57
+    },
+    {
+        "mark": "Brewing Becks",
+        "alko": 9.5,
+        "volume": 0.45,
+        "price": 255
+    },
+    {
+        "mark": "Andechser Hefe-Weisse Pschorr",
+        "alko": 6.1,
+        "volume": 0.44,
+        "price": 145
+    },
+    {
+        "mark": "Andechser Huberts Optimator",
+        "alko": 4.9,
+        "volume": 0.34,
+        "price": 252
+    },
+    {
+        "mark": "Hefe-Weisse Ur-Weisse",
+        "alko": 9.8,
+        "volume": 0.35,
+        "price": 169
+    },
+    {
+        "mark": "Franziskaner Roggen",
+        "alko": 5.5,
+        "volume": 0.34,
+        "price": 213
+    },
+    {
+        "mark": "1516 Oktoberfest",
+        "alko": 0.7,
+        "volume": 0.33,
+        "price": 272
+    },
+    {
+        "mark": "Buttenheimer Paulaner Augustinerbr\u00e4u",
+        "alko": 6.5,
+        "volume": 0.38,
+        "price": 247
+    },
+    {
+        "mark": "Unser Korbinian",
+        "alko": 4.7,
+        "volume": 0.38,
+        "price": 39
+    },
+    {
+        "mark": "Spaten G\u00e4nstaller Oettingen",
+        "alko": 8.6,
+        "volume": 0.39,
+        "price": 38
+    },
+    {
+        "mark": "Hacker Altenauer",
+        "alko": 5.0,
+        "volume": 0.4,
+        "price": 93
+    },
+    {
+        "mark": "Hacker-Pschorr Augustinerbr\u00e4u",
+        "alko": 2.0,
+        "volume": 0.43,
+        "price": 253
+    },
+    {
+        "mark": "Franziskaner Ayinger Aventinus",
+        "alko": 1.1,
+        "volume": 0.36,
+        "price": 220
+    },
+    {
+        "mark": "Andechser M\u00f6nchshof",
+        "alko": 4.8,
+        "volume": 0.47,
+        "price": 122
+    },
+    {
+        "mark": "Brewing Bier",
+        "alko": 7.2,
+        "volume": 0.47,
+        "price": 67
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Diebels",
+        "alko": 0.1,
+        "volume": 0.34,
+        "price": 105
+    },
+    {
+        "mark": "Hacker Diebels",
+        "alko": 6.6,
+        "volume": 0.48,
+        "price": 40
+    },
+    {
+        "mark": "Zoigl Maisel",
+        "alko": 2.0,
+        "volume": 0.37,
+        "price": 218
+    },
+    {
+        "mark": "Ayinger Hofbr\u00e4u Br\u00e4u",
+        "alko": 5.1,
+        "volume": 0.4,
+        "price": 90
+    },
+    {
+        "mark": "Alt-Bayerisch Hefe-Weisse Ottos",
+        "alko": 6.1,
+        "volume": 0.49,
+        "price": 158
+    },
+    {
+        "mark": "Weihenstephaner 1516 Altenauer",
+        "alko": 9.9,
+        "volume": 0.33,
+        "price": 260
+    },
+    {
+        "mark": "Alt-Bayerisch Huberts Spaten",
+        "alko": 3.0,
+        "volume": 0.44,
+        "price": 174
+    },
+    {
+        "mark": "Alt-Bayerisch Paulaner Roggen",
+        "alko": 9.8,
+        "volume": 0.35,
+        "price": 256
+    },
+    {
+        "mark": "Andechser Brewing Pschorr",
+        "alko": 4.9,
+        "volume": 0.44,
+        "price": 44
+    },
+    {
+        "mark": "House Diebels",
+        "alko": 1.7,
+        "volume": 0.38,
+        "price": 165
+    },
+    {
+        "mark": "Andechser Paulaner Spezial",
+        "alko": 9.9,
+        "volume": 0.5,
+        "price": 281
+    },
+    {
+        "mark": "Hefe-Weisse Spezial",
+        "alko": 8.5,
+        "volume": 0.33,
+        "price": 249
+    },
+    {
+        "mark": "Hacker-Pschorr G\u00f6ller",
+        "alko": 7.5,
+        "volume": 0.46,
+        "price": 59
+    },
+    {
+        "mark": "Weihenstephaner Mitterteich Ottos",
+        "alko": 0.2,
+        "volume": 0.35,
+        "price": 116
+    },
+    {
+        "mark": "Franziskaner 1516 Gaffel",
+        "alko": 4.3,
+        "volume": 0.44,
+        "price": 162
+    },
+    {
+        "mark": "Schneider Ayinger Maibock",
+        "alko": 4.1,
+        "volume": 0.4,
+        "price": 167
+    },
+    {
+        "mark": "Huberts Pfarrbr\u00e4u",
+        "alko": 3.7,
+        "volume": 0.33,
+        "price": 219
+    },
+    {
+        "mark": "Hacker-Pschorr Maibock",
+        "alko": 8.3,
+        "volume": 0.47,
+        "price": 158
+    },
+    {
+        "mark": "Mitterteich Reissdorf",
+        "alko": 0.8,
+        "volume": 0.39,
+        "price": 159
+    },
+    {
+        "mark": "House 1516 Flensburger",
+        "alko": 8.5,
+        "volume": 0.46,
+        "price": 276
+    },
+    {
+        "mark": "Mitterteich M\u00fchlen",
+        "alko": 3.7,
+        "volume": 0.43,
+        "price": 221
+    },
+    {
+        "mark": "Brauerei Dunkel",
+        "alko": 1.0,
+        "volume": 0.41,
+        "price": 85
+    },
+    {
+        "mark": "Kloster Hacker Ritterguts",
+        "alko": 7.8,
+        "volume": 0.38,
+        "price": 116
+    },
+    {
+        "mark": "Hofbr\u00e4u Roggen",
+        "alko": 7.2,
+        "volume": 0.35,
+        "price": 228
+    },
+    {
+        "mark": "Weihenstephaner Hofbr\u00e4u Warsteiner",
+        "alko": 3.3,
+        "volume": 0.42,
+        "price": 135
+    },
+    {
+        "mark": "G\u00e4nstaller Goslarer",
+        "alko": 8.5,
+        "volume": 0.46,
+        "price": 74
+    },
+    {
+        "mark": "House Hofbr\u00e4u Warsteiner",
+        "alko": 3.0,
+        "volume": 0.34,
+        "price": 272
+    },
+    {
+        "mark": "Schlenkerla Rauchbier Br\u00e4u",
+        "alko": 5.2,
+        "volume": 0.44,
+        "price": 258
+    },
+    {
+        "mark": "Brewing Kellerbier",
+        "alko": 0.3,
+        "volume": 0.44,
+        "price": 91
+    },
+    {
+        "mark": "Alt-Bayerisch Hofbr\u00e4u Lager",
+        "alko": 1.6,
+        "volume": 0.4,
+        "price": 243
+    },
+    {
+        "mark": "M\u00f6nchshof Bier",
+        "alko": 3.3,
+        "volume": 0.43,
+        "price": 158
+    },
+    {
+        "mark": "Andechser Dampfbierbrauerei Kellerbier",
+        "alko": 5.4,
+        "volume": 0.39,
+        "price": 29
+    },
+    {
+        "mark": "Hermannator Ice G\u00f6ller",
+        "alko": 3.7,
+        "volume": 0.45,
+        "price": 273
+    },
+    {
+        "mark": "Weihenstephaner Hacker Zoigl",
+        "alko": 1.1,
+        "volume": 0.38,
+        "price": 159
+    },
+    {
+        "mark": "Paulaner M\u00f6nchshof",
+        "alko": 4.6,
+        "volume": 0.46,
+        "price": 37
+    },
+    {
+        "mark": "Alt-Bayerisch Hofbr\u00e4u Salvator",
+        "alko": 5.9,
+        "volume": 0.35,
+        "price": 75
+    },
+    {
+        "mark": "Franziskaner G\u00e4nstaller Erdinger",
+        "alko": 9.8,
+        "volume": 0.38,
+        "price": 173
+    },
+    {
+        "mark": "Brewing Dunkel",
+        "alko": 1.2,
+        "volume": 0.5,
+        "price": 263
+    },
+    {
+        "mark": "Jahrhundert Dunkel",
+        "alko": 0.1,
+        "volume": 0.42,
+        "price": 164
+    },
+    {
+        "mark": "Aventinus Dark",
+        "alko": 3.9,
+        "volume": 0.37,
+        "price": 59
+    },
+    {
+        "mark": "Pschorr Oktoberfest Scurry",
+        "alko": 1.3,
+        "volume": 0.41,
+        "price": 55
+    },
+    {
+        "mark": "Weihenstephaner Ayinger Bier",
+        "alko": 7.6,
+        "volume": 0.46,
+        "price": 188
+    },
+    {
+        "mark": "Ayinger Pschorr Oktoberfest Urbock",
+        "alko": 0.5,
+        "volume": 0.47,
+        "price": 222
+    },
+    {
+        "mark": "Hacker-Pschorr Hacker Drop",
+        "alko": 6.2,
+        "volume": 0.47,
+        "price": 267
+    },
+    {
+        "mark": "Huberts Spezial",
+        "alko": 9.4,
+        "volume": 0.39,
+        "price": 102
+    },
+    {
+        "mark": "Weihenstephaner Mitterteich Dampfbier",
+        "alko": 6.8,
+        "volume": 0.46,
+        "price": 205
+    },
+    {
+        "mark": "Buttenheimer K\u00f6llner",
+        "alko": 3.3,
+        "volume": 0.45,
+        "price": 248
+    },
+    {
+        "mark": "Brothers Franziskaner",
+        "alko": 1.1,
+        "volume": 0.41,
+        "price": 161
+    },
+    {
+        "mark": "M\u00f6nchshof Aventinus M\u00f6nchshof",
+        "alko": 8.0,
+        "volume": 0.37,
+        "price": 197
+    },
+    {
+        "mark": "Andechser Brauerei Frankenheim",
+        "alko": 9.9,
+        "volume": 0.49,
+        "price": 74
+    },
+    {
+        "mark": "Hacker Aventinus Warsteiner",
+        "alko": 6.0,
+        "volume": 0.5,
+        "price": 241
+    },
+    {
+        "mark": "M\u00f6nchshof Zoigl",
+        "alko": 4.0,
+        "volume": 0.49,
+        "price": 219
+    },
+    {
+        "mark": "Pschorr Oktoberfest Schumacher",
+        "alko": 6.4,
+        "volume": 0.33,
+        "price": 65
+    },
+    {
+        "mark": "1516 Augustinerbr\u00e4u",
+        "alko": 5.6,
+        "volume": 0.42,
+        "price": 56
+    },
+    {
+        "mark": "Unser M\u00f6nchshof",
+        "alko": 3.7,
+        "volume": 0.39,
+        "price": 199
+    },
+    {
+        "mark": "Brothers Pikantus",
+        "alko": 8.5,
+        "volume": 0.5,
+        "price": 157
+    },
+    {
+        "mark": "Weihenstephaner Dark",
+        "alko": 8.3,
+        "volume": 0.47,
+        "price": 176
+    },
+    {
+        "mark": "Hermannator Ice Zoigl",
+        "alko": 2.7,
+        "volume": 0.48,
+        "price": 178
+    },
+    {
+        "mark": "Franziskaner Reissdorf",
+        "alko": 2.2,
+        "volume": 0.38,
+        "price": 173
+    },
+    {
+        "mark": "Andechser Brauerei Ur-Weisse",
+        "alko": 9.1,
+        "volume": 0.44,
+        "price": 171
+    },
+    {
+        "mark": "Buttenheimer Br\u00e4u",
+        "alko": 8.4,
+        "volume": 0.35,
+        "price": 130
+    },
+    {
+        "mark": "Hacker Lager",
+        "alko": 5.7,
+        "volume": 0.47,
+        "price": 260
+    },
+    {
+        "mark": "Ayinger Brothers Roggen",
+        "alko": 4.1,
+        "volume": 0.34,
+        "price": 98
+    },
+    {
+        "mark": "House Aventinus Kellerbier",
+        "alko": 1.6,
+        "volume": 0.4,
+        "price": 57
+    },
+    {
+        "mark": "Brauerei Goslarer",
+        "alko": 6.0,
+        "volume": 0.35,
+        "price": 54
+    },
+    {
+        "mark": "Erdinger Zoigl",
+        "alko": 8.9,
+        "volume": 0.37,
+        "price": 93
+    },
+    {
+        "mark": "Spaten Schlenkerla Rauchbier K\u00f6stritzer",
+        "alko": 0.1,
+        "volume": 0.5,
+        "price": 75
+    },
+    {
+        "mark": "Huberts Dortmunder",
+        "alko": 9.0,
+        "volume": 0.33,
+        "price": 166
+    },
+    {
+        "mark": "Weihenstephaner Jahrhundert M\u00fcnchen",
+        "alko": 6.1,
+        "volume": 0.45,
+        "price": 120
+    },
+    {
+        "mark": "Franziskaner Paulaner M\u00e4rzen",
+        "alko": 3.5,
+        "volume": 0.44,
+        "price": 274
+    },
+    {
+        "mark": "Ayinger Doppelbock Flensburger",
+        "alko": 8.9,
+        "volume": 0.46,
+        "price": 164
+    },
+    {
+        "mark": "Hermannator Ice Goslarer",
+        "alko": 1.4,
+        "volume": 0.49,
+        "price": 172
+    },
+    {
+        "mark": "Hacker-Pschorr 1516 Flensburger",
+        "alko": 2.8,
+        "volume": 0.42,
+        "price": 211
+    },
+    {
+        "mark": "Hermannator Ice Aventinus Altenauer",
+        "alko": 2.9,
+        "volume": 0.4,
+        "price": 127
+    },
+    {
+        "mark": "Zoigl Jahrhundert Dunkel",
+        "alko": 1.9,
+        "volume": 0.46,
+        "price": 266
+    },
+    {
+        "mark": "Hofbr\u00e4u Altenauer",
+        "alko": 4.8,
+        "volume": 0.42,
+        "price": 178
+    },
+    {
+        "mark": "Alt-Bayerisch Huberts Paulaner",
+        "alko": 1.6,
+        "volume": 0.44,
+        "price": 177
+    },
+    {
+        "mark": "Zoigl Schlenkerla Rauchbier G\u00f6ller",
+        "alko": 2.0,
+        "volume": 0.4,
+        "price": 69
+    },
+    {
+        "mark": "Zoigl Hofbr\u00e4u Zoigl",
+        "alko": 3.1,
+        "volume": 0.47,
+        "price": 65
+    },
+    {
+        "mark": "Ayinger Dampfbier",
+        "alko": 8.7,
+        "volume": 0.47,
+        "price": 65
+    },
+    {
+        "mark": "Hacker Dampfbierbrauerei Br\u00e4u",
+        "alko": 3.0,
+        "volume": 0.42,
+        "price": 65
+    },
+    {
+        "mark": "Franziskaner Aventinus Dunkel",
+        "alko": 2.1,
+        "volume": 0.45,
+        "price": 65
+    },
+    {
+        "mark": "Hermannator Ice Oktoberfest",
+        "alko": 6.8,
+        "volume": 0.45,
+        "price": 65
+    }
+]

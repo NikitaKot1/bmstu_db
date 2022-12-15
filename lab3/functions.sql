@@ -54,20 +54,20 @@ CREATE OR REPLACE FUNCTION FactoriesLosersALot()
         RETURN QUERY SELECT fac.id, man.id, 0
         FROM factory_table fac
         JOIN manufacturer_table man ON masterr = man.id
-        WHERE fac.marks NOT LIKE '%Pfarrbräu%' 
-                AND man.marks LIKE '%Pfarrbräu%';
+        JOIN beer_manuf_table bm ON man.id = bm.manufacturer
+        WHERE bm.mark NOT LIKE '%Pfarrbräu%';
 
         RETURN QUERY SELECT fac.id, man.id, 1
         FROM factory_table fac
         JOIN manufacturer_table man ON masterr = man.id
-        WHERE fac.marks NOT LIKE '%Drop%' 
-                AND man.marks LIKE '%Drop%';
-        
+        JOIN beer_manuf_table bm ON man.id = bm.manufacturer
+        WHERE bm.mark NOT LIKE '%Drop%';
+
         RETURN QUERY SELECT fac.id, man.id, 2
         FROM factory_table fac
         JOIN manufacturer_table man ON masterr = man.id
-        WHERE fac.marks NOT LIKE '%Brother%' 
-                AND man.marks LIKE '%Brother%';
+        JOIN beer_manuf_table bm ON man.id = bm.manufacturer
+        WHERE bm.mark NOT LIKE '%Brother%';
     END;
 $$ LANGUAGE plpgsql;
 
